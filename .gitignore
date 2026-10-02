@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+playlists/.cache/
+playlists/check_cache.json
+playlists/model.json
+playlists/custom_sources.json
