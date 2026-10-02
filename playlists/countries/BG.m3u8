@@ -1,0 +1,8 @@
+#EXTM3U
+#COUNTRY: BG
+#TOTAL: 2
+
+#EXTINF:-1,Euronews Bulgaria Ⓨ
+https://www.youtube.com/channel/UCU1i6qBMjY9El6q5L2OK8hA/live
+#EXTINF:-1,TV1
+https://tv1.cloudcdn.bg/temp/livestream.m3u8

@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Family;Kids
+#TOTAL: 1
+
+#EXTINF:-1,RiC (1080p)
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8

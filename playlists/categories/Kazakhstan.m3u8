@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Kazakhstan
+#TOTAL: 1
+
+#EXTINF:-1,Qazaqstan
+https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8

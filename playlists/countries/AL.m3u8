@@ -1,0 +1,22 @@
+#EXTM3U
+#COUNTRY: AL
+#TOTAL: 9
+
+#EXTINF:-1,Kanali 7 Ⓢ
+https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+#EXTINF:-1,A2 CNN Albania
+https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1,ABC News Albania Ⓣ
+https://www.twitch.tv/abcnewsal
+#EXTINF:-1,Alpo TV
+https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+#EXTINF:-1,Euronews Albania Ⓨ
+https://www.youtube.com/@EuronewsAlbania/live
+#EXTINF:-1,Panorama TV Ⓢ
+http://198.244.188.94/panorama/livestream/playlist.m3u8
+#EXTINF:-1,Top News Ⓣ
+https://www.twitch.tv/topnewsal
+#EXTINF:-1,TV 7 Albania
+https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
+#EXTINF:-1,TV Apollon Ⓢ
+https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1

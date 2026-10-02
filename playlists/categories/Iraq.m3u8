@@ -1,0 +1,18 @@
+#EXTM3U
+#GROUP: Iraq
+#TOTAL: 7
+
+#EXTINF:-1,Al-Hurra Iraq
+https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/playlist.m3u8
+#EXTINF:-1,Al-Hurra
+https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/playlist.m3u8
+#EXTINF:-1,Al-Iraqiya
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1,Al-Rafidain
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1,Al-Rasheed
+https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Dijlah Tarab
+https://ghaasiflu.online/tarab/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Turkmeneli TV
+https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/playlist.m3u8

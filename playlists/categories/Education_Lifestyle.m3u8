@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Education;Lifestyle
+#TOTAL: 2
+
+#EXTINF:-1,Doctor (1080p)
+http://31.148.48.15/Doktor/index.m3u8
+#EXTINF:-1,Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8

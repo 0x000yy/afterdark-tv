@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Culture;Documentary;Entertainment;General;Movies;Music
+#TOTAL: 1
+
+#EXTINF:-1,AlternaTV (720p) [Not 24/7]
+https://tv.alterna.ar/stream/hls/live.m3u8

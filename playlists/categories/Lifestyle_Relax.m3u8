@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Lifestyle;Relax
+#TOTAL: 1
+
+#EXTINF:-1,10 Bold (1080p)
+https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8

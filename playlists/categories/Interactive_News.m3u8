@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Interactive;News
+#TOTAL: 1
+
+#EXTINF:-1,Suara Surabaya Visual Radio (720p)
+https://ssfm.siar.us/ssfm/live/playlist.m3u8

@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: General;Legislative
+#TOTAL: 1
+
+#EXTINF:-1,ATXN2 (1080p)
+https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8

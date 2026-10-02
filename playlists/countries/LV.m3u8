@@ -1,0 +1,6 @@
+#EXTM3U
+#COUNTRY: LV
+#TOTAL: 1
+
+#EXTINF:-1,ReTV
+https://retv2132.bstrm.net/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8

@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Animation;Movies
+#TOTAL: 1
+
+#EXTINF:-1,FAN (1080p)
+http://31.148.48.15/Fan/index.m3u8

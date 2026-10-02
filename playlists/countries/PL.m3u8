@@ -1,0 +1,20 @@
+#EXTM3U
+#COUNTRY: PL
+#TOTAL: 8
+
+#EXTINF:-1,TVP1
+https://lowa8026-cmyk.github.io/PL/TVP1.php.m3u8
+#EXTINF:-1,TVP2
+https://lowa8026-cmyk.github.io/PL/TVP2.php.m3u8
+#EXTINF:-1,TVP Polonia
+https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8
+#EXTINF:-1,TVP Info
+https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8
+#EXTINF:-1,Belsat
+https://iptv.prosto.tv/ch171/index.m3u8
+#EXTINF:-1,TVP World
+https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8
+#EXTINF:-1,TVP Kultura 2
+https://www.tvkaista.net/stream-forwarder/get.php?x=TVPKultura2
+#EXTINF:-1,TV Republika
+https://redir.cache.orange.pl/jupiter/o1-cl7/ssl/live/tvrepublika/live.m3u8

@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Public
+#TOTAL: 1
+
+#EXTINF:-1,ETB1 On (1080p)
+https://cdn1.etbon.eus/etb1on/index.m3u8

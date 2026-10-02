@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Movies;Religious
+#TOTAL: 1
+
+#EXTINF:-1,ABN Bible Movies Channel (720p)
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8

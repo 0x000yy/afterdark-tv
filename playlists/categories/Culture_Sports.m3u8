@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Culture;Sports
+#TOTAL: 1
+
+#EXTINF:-1,LRT Plius (1080p)
+http://stream.mcquack.net/353/index.m3u8

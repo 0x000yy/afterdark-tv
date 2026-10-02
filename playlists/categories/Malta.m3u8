@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Malta
+#TOTAL: 2
+
+#EXTINF:-1,Smash TV
+https://stream.smashmalta.com/live/webplayer/livestream/1.m3u8
+#EXTINF:-1,TVM Ⓢ Ⓨ
+https://www.youtube.com/channel/UChlf9r1rzhJ_SVM_WCKFL1g/live

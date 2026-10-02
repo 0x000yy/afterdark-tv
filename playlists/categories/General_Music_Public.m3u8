@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: General;Music;Public
+#TOTAL: 1
+
+#EXTINF:-1,FomixTV (1080p)
+https://stream.fomixmedia.nl/FomixTV/video.m3u8

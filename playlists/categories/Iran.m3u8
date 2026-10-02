@@ -1,0 +1,16 @@
+#EXTM3U
+#GROUP: Iran
+#TOTAL: 6
+
+#EXTINF:-1,iFilm
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
+#EXTINF:-1,iFilm 2 Ⓢ
+https://live.presstv.co.uk/hls/ifilm2.m3u8
+#EXTINF:-1,iFilm Arabic Ⓢ
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+#EXTINF:-1,iFilm English Ⓢ
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+#EXTINF:-1,Press TV
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1,IranPress Ⓢ
+https://live1.presstv.ir/live/iranpress/index.m3u8

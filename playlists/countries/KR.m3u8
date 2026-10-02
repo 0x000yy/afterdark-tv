@@ -1,0 +1,24 @@
+#EXTM3U
+#COUNTRY: KR
+#TOTAL: 10
+
+#EXTINF:-1,KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1,MBC TV Ⓨ
+https://www.youtube.com/c/mbctvlive/live
+#EXTINF:-1,SBS TV
+https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
+#EXTINF:-1,KNN TV
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+#EXTINF:-1,TJB TV
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1,JTV TV
+https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
+#EXTINF:-1,OBS TV
+https://allanf181.github.io/adaptive-streams/streams/kr/OBSGyeonginTV.m3u8
+#EXTINF:-1,KBS World Ⓨ
+https://www.youtube.com/@kbsworldtv/live
+#EXTINF:-1,KBS Korea Ⓨ
+https://www.youtube.com/c/kbsworldtv/live
+#EXTINF:-1,All the K-Pop Ⓨ
+https://www.youtube.com/c/ALLTHEKPOP/live

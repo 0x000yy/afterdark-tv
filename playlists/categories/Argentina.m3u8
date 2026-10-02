@@ -1,0 +1,42 @@
+#EXTM3U
+#GROUP: Argentina
+#TOTAL: 19
+
+#EXTINF:-1,TN Todo Noticias Ⓨ
+https://www.youtube.com/c/todonoticias/live
+#EXTINF:-1,Encuentro Ⓨ Ⓖ
+https://www.youtube.com/user/encuentro/live
+#EXTINF:-1,Pakapaka Ⓨ Ⓖ
+https://www.youtube.com/user/CanalPakapaka/live
+#EXTINF:-1,Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1,Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1,Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
+#EXTINF:-1,Televisión Pública Ⓨ
+https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:-1,DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1,Crónica TV Ⓨ
+https://www.youtube.com/c/cronicatv/live
+#EXTINF:-1,Argentina 12 Ⓨ
+https://www.youtube.com/c/IPNoticiasEnVivo/live
+#EXTINF:-1,El Destape Ⓨ
+https://www.youtube.com/c/eldestapetv/live
+#EXTINF:-1,C5N Ⓨ
+https://www.youtube.com/c/c5n/live
+#EXTINF:-1,LN+ Ⓨ
+https://www.youtube.com/c/LaNacionMas/live
+#EXTINF:-1,+Perfil
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+#EXTINF:-1,Barricada TV
+https://www.youtube.com/channel/UC6YundoLrEuBJaPp_oEPWaA/live
+#EXTINF:-1,Urbana Tevé
+https://www.youtube.com/channel/UCTnbbQUGmWEKeCq9wWoyN0g/live
+#EXTINF:-1,Comarca TV
+https://www.youtube.com/c/ComarcaTV/live
+#EXTINF:-1,El Nueve
+http://45.226.28.9:8085/Live/18e292ea93b66c65c76707f07c489d61/local-canal9.playlist.m3u8
+#EXTINF:-1,A24 Ⓨ
+https://www.youtube.com/c/A24com/live

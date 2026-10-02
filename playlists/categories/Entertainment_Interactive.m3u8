@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Entertainment;Interactive
+#TOTAL: 1
+
+#EXTINF:-1,RMC Life (1080p)
+http://145.239.5.177/333/index.m3u8

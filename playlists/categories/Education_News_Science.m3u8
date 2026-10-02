@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Education;News;Science
+#TOTAL: 1
+
+#EXTINF:-1,MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8

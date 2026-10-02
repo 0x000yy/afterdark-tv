@@ -1,0 +1,6 @@
+#EXTM3U
+#COUNTRY: CN
+#TOTAL: 1
+
+#EXTINF:-1,CCTV-9 纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8

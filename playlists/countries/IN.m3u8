@@ -1,0 +1,54 @@
+#EXTM3U
+#COUNTRY: IN
+#TOTAL: 25
+
+#EXTINF:-1,DD National Ⓨ
+https://www.youtube.com/doordarshan/live
+#EXTINF:-1,DD News Ⓨ
+https://www.youtube.com/c/ddnews/live
+#EXTINF:-1,DD India Ⓨ
+https://www.youtube.com/DDIndia/live
+#EXTINF:-1,DD Bharati Ⓨ
+https://www.youtube.com/@ddbharati/live
+#EXTINF:-1,DD Kisan Ⓨ
+https://www.youtube.com/@DDKisan/live
+#EXTINF:-1,DD Urdu Ⓨ
+https://www.youtube.com/@DDUrdu/live
+#EXTINF:-1,India Today Ⓨ
+https://www.youtube.com/watch?v=sYZtOFzM78M
+#EXTINF:-1,Aaj Tak Ⓨ
+https://www.youtube.com/watch?v=Nq2wYlWFucg
+#EXTINF:-1,India TV Ⓨ
+https://www.youtube.com/watch?v=e1FIApIafWE
+#EXTINF:-1,TV9 Bharatvarsh Ⓨ
+https://www.youtube.com/watch?v=nSpwwcHVp80
+#EXTINF:-1,Republic Bharat Ⓨ
+https://www.youtube.com/@RepublicBharat/live
+#EXTINF:-1,Asianet News Ⓨ
+https://www.youtube.com/@asianetnews/live
+#EXTINF:-1,Asianet Suvarna News Ⓨ
+https://www.youtube.com/@AsianetSuvarnaNews/live
+#EXTINF:-1,Asianet News Telugu Ⓨ
+https://www.youtube.com/@AsianetNewsTelugu/live
+#EXTINF:-1,News18 India Ⓨ
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+#EXTINF:-1,CNN-News18
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1,News18 UP Uttarakhand Ⓨ
+https://www.youtube.com/@News18UPUttarakhand/live
+#EXTINF:-1,News18 Kannada
+https://nw18live.cdn.jio.com/bpk-tv/News18_Kannada_NW18_MOB/output01/index.m3u8
+#EXTINF:-1,News18 Telugu Ⓨ
+https://www.youtube.com/@News18Telugu/live
+#EXTINF:-1,News18 Marathi Ⓨ
+https://www.youtube.com/@News18Marathi/live
+#EXTINF:-1,WION Ⓨ
+https://www.youtube.com/@WION/live
+#EXTINF:-1,Mirror Now Ⓨ
+https://www.youtube.com/@mirrornow/live
+#EXTINF:-1,ZEE News Ⓨ
+https://www.youtube.com/@ZEENews/live
+#EXTINF:-1,News24 Ⓨ
+https://www.youtube.com/@News24thinkfirst/live
+#EXTINF:-1,Good News Today Ⓨ
+https://www.youtube.com/@GoodNewsTodayOfficial/live

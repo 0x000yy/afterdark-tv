@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: General;Series
+#TOTAL: 1
+
+#EXTINF:-1,Super TV (Italy) (720p)
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8

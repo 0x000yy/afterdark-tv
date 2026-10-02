@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Education;Entertainment
+#TOTAL: 2
+
+#EXTINF:-1,Charana TV (360p)
+https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+#EXTINF:-1,Edutainment TV (1080p)
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd

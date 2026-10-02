@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: General;Travel
+#TOTAL: 1
+
+#EXTINF:-1,Guangxi Variety & Travel Channel
+http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0

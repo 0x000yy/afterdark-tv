@@ -1,0 +1,42 @@
+#EXTM3U
+#GROUP: Australia
+#TOTAL: 19
+
+#EXTINF:-1,10 HD
+https://i.mjh.nz/.r/10-nsw.m3u8
+#EXTINF:-1,SBS Ⓖ
+https://i.mjh.nz/.r/sbs-sbst.m3u8
+#EXTINF:-1,Seven
+https://i.mjh.nz/.r/seven-syd.m3u8
+#EXTINF:-1,Nine
+https://i.mjh.nz/.r/channel-9-nsw.m3u8
+#EXTINF:-1,10 Peach
+https://i.mjh.nz/.r/10peach-nsw.m3u8
+#EXTINF:-1,10 Shake
+https://i.mjh.nz/.r/10shake-nsw.m3u8
+#EXTINF:-1,M4TV
+https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
+#EXTINF:-1,SBS Viceland Ⓖ
+https://i.mjh.nz/.r/sbs-2syd.m3u8
+#EXTINF:-1,SBS World Movies Ⓖ
+https://i.mjh.nz/.r/sbs-4syd.m3u8
+#EXTINF:-1,SBS Food Ⓖ
+https://i.mjh.nz/.r/sbs-3syd.m3u8
+#EXTINF:-1,NITV Ⓖ
+https://i.mjh.nz/.r/sbs-5nsw.m3u8
+#EXTINF:-1,7two
+https://i.mjh.nz/.r/7two-syd.m3u8
+#EXTINF:-1,7mate
+https://i.mjh.nz/.r/7mate-syd.m3u8
+#EXTINF:-1,7flix
+https://i.mjh.nz/.r/7flix-syd.m3u8
+#EXTINF:-1,Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1,9Gem Ⓖ
+https://i.mjh.nz/.r/gem-nsw.m3u8
+#EXTINF:-1,9Go! Ⓖ
+https://i.mjh.nz/.r/go-nsw.m3u8
+#EXTINF:-1,9Life Ⓖ
+https://i.mjh.nz/.r/life-nsw.m3u8
+#EXTINF:-1,9Rush Ⓖ
+https://i.mjh.nz/.r/rush-nsw.m3u8

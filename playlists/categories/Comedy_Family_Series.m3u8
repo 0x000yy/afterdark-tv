@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Comedy;Family;Series
+#TOTAL: 2
+
+#EXTINF:-1,Velvet. Series Hits (1080p)
+https://cdn.rostelekom-tv.xyz/live/DeWr3Sgw1Aj2lJd0.m3u8
+#EXTINF:-1,Velvet. World Series (1080p)
+https://cdn.rostelekom-tv.xyz/live/2RR44py-yGlIWQIp.m3u8

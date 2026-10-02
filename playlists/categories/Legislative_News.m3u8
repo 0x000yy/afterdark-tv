@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Legislative;News
+#TOTAL: 1
+
+#EXTINF:-1,KTV (South Korea) (1080p)
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8

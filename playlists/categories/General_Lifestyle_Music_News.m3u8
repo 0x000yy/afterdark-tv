@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: General;Lifestyle;Music;News
+#TOTAL: 1
+
+#EXTINF:-1,CEACOM TV (1080p) [Not 24/7]
+https://eu1.servers10.com:8081/ceacom/index.m3u8

@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: News;Sports
+#TOTAL: 1
+
+#EXTINF:-1,Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8

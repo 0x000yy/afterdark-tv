@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Culture;Kids
+#TOTAL: 1
+
+#EXTINF:-1,ETV 2 (720p)
+https://sb.err.ee/live/etv2.m3u8

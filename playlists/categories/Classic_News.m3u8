@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Classic;News
+#TOTAL: 1
+
+#EXTINF:-1,ZillarBarta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8

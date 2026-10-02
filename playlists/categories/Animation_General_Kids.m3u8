@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Animation;General;Kids
+#TOTAL: 1
+
+#EXTINF:-1,BBC Four/CBeebies (720p)
+http://193.46.58.239:8080/CbeebiesHD/index.m3u8

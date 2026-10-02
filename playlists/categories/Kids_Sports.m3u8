@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Kids;Sports
+#TOTAL: 1
+
+#EXTINF:-1,ADO TV (720p)
+https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8

@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Auto;Series
+#TOTAL: 1
+
+#EXTINF:-1,Choppertown (720p)
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8

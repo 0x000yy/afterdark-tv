@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Animation;Culture;Entertainment
+#TOTAL: 1
+
+#EXTINF:-1,GikTVMX (720p)
+https://pistream.ddns.net/hls/stream.m3u8

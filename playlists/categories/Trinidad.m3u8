@@ -1,0 +1,16 @@
+#EXTM3U
+#GROUP: Trinidad
+#TOTAL: 6
+
+#EXTINF:-1,CNC3
+https://sktv-forwarders.7m.pl/get.php?x=CNC3
+#EXTINF:-1,gayelle
+https://sktv-forwarders.7m.pl/get.php?x=gayelle
+#EXTINF:-1,Synergy TV
+https://sktv-forwarders.7m.pl/get.php?x=Synergy_TV
+#EXTINF:-1,TTT
+https://sktv-forwarders.7m.pl/get.php?x=TTT
+#EXTINF:-1,IBN
+https://sktv-forwarders.7m.pl/get.php?x=IBN
+#EXTINF:-1,Trinity TV
+https://sktv-forwarders.7m.pl/get.php?x=Trinity_TV

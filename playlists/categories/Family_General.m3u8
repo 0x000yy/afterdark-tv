@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Family;General
+#TOTAL: 1
+
+#EXTINF:-1,Telenovisa43 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8

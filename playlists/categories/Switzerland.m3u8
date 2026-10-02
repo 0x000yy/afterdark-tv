@@ -1,0 +1,16 @@
+#EXTM3U
+#GROUP: Switzerland
+#TOTAL: 6
+
+#EXTINF:-1,SRF 1
+http://51.91.73.99:25461/sweden/PM66f7Y43H/25849
+#EXTINF:-1,RTS Un
+http://hotiptv.site:8080/zkby2013/1d469e6d9e42/67585
+#EXTINF:-1,TVM 3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1,RSI La 1
+http://190.2.155.162/RSI1/index.m3u8
+#EXTINF:-1,RSI La 2
+http://190.2.155.162/RSI2/index.m3u8
+#EXTINF:-1,Teleticino
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8

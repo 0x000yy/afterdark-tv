@@ -1,0 +1,28 @@
+#EXTM3U
+#GROUP: Croatia
+#TOTAL: 12
+
+#EXTINF:-1,RTL
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+#EXTINF:-1,RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+#EXTINF:-1,Sportska televizija Ⓖ
+https://stream.agatin.hr:3087/live/sptvlive.m3u8
+#EXTINF:-1,RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+#EXTINF:-1,Plava Vinkovačka
+https://player-api.new.livestream.com/accounts/26611954/events/7977299/broadcasts/237205435.secure.m3u8
+#EXTINF:-1,Osječka televizija (OSTV) Ⓢ
+https://player-api.new.livestream.com/accounts/27681961/events/8347875/broadcasts/237202062.secure.m3u8
+#EXTINF:-1,Z1 Ⓨ
+https://www.youtube.com/@z1televizija/live
+#EXTINF:-1,Kanal Ri
+https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
+#EXTINF:-1,TV Dalmacija Ⓨ
+https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live
+#EXTINF:-1,Televizija Zapad
+http://webtv.zapad.tv:8080/memfs/1ad23803-84c3-41c7-aa91-fce4c7eac52e.m3u8
+#EXTINF:-1,Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1,N1 Hrvatska Ⓨ
+https://www.youtube.com/@N1_Hrvatska/live

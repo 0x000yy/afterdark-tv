@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Classic;Comedy;Public;Series
+#TOTAL: 1
+
+#EXTINF:-1,3Cat Plats bruts (1080p)
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8

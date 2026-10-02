@@ -1,0 +1,14 @@
+#EXTM3U
+#COUNTRY: EE
+#TOTAL: 5
+
+#EXTINF:-1,ETV Ⓖ
+http://sb.err.ee/live/etv.m3u8
+#EXTINF:-1,ETV2 Ⓖ
+http://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1,ETV+ Ⓖ
+http://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1,Taevas TV7
+https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:-1,Life TV Estonia
+https://lifetv.bitflip.ee/live/stream2.m3u8

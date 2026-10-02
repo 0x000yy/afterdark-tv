@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Entertainment;Travel
+#TOTAL: 1
+
+#EXTINF:-1,Chile Channel (720p)
+https://v2.tustreaming.cl/chilechannel/index.m3u8

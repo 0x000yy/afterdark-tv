@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Cooking;Shop
+#TOTAL: 1
+
+#EXTINF:-1,In the Kitchen (720p)
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8

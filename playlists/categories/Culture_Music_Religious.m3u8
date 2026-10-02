@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Culture;Music;Religious
+#TOTAL: 1
+
+#EXTINF:-1,Ishtar TV SD (1080p)
+https://stream.ishtartv.com/live/iShtarHD/playlist.m3u8

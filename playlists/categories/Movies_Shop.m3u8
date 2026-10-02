@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Movies;Shop
+#TOTAL: 1
+
+#EXTINF:-1,Magnificent Movies Network
+https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8

@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Entertainment;News;Shop
+#TOTAL: 1
+
+#EXTINF:-1,Extra ProNews (576p)
+http://62.1.176.18:8888/extra/index.m3u8

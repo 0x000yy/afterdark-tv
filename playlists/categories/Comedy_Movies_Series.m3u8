@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Comedy;Movies;Series
+#TOTAL: 1
+
+#EXTINF:-1,Universal Comedy (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/universalcomedy/playlist.m3u8

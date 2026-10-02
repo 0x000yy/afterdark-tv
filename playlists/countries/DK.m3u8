@@ -1,0 +1,22 @@
+#EXTM3U
+#COUNTRY: DK
+#TOTAL: 9
+
+#EXTINF:-1,DR1 Ⓖ
+https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
+#EXTINF:-1,DR2 Ⓖ
+https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
+#EXTINF:-1,DR Ramasjang Ⓖ
+https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
+#EXTINF:-1,TV Syd+
+https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8
+#EXTINF:-1,TV 2/Fyn
+https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd
+#EXTINF:-1,TV 2/Øst
+http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8
+#EXTINF:-1,TV 2/Nord
+http://grevsen.dk/live/catchuptv/catchuptv/14.m3u8
+#EXTINF:-1,TV/Midt-Vest
+http://grevsen.dk/live/catchuptv/catchuptv/13.m3u8
+#EXTINF:-1,TV 2/Østjylland
+http://grevsen.dk/live/catchuptv/catchuptv/17.m3u8

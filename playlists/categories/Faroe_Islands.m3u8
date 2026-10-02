@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Faroe Islands
+#TOTAL: 1
+
+#EXTINF:-1,Tingvarp
+https://play.kringvarp.fo/redirect/tingvarp/_definst_/smil:tingvarp.smil?type=m3u8

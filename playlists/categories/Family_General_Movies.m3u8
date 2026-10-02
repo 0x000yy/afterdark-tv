@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Family;General;Movies
+#TOTAL: 1
+
+#EXTINF:-1,MCI Television (1080p)
+https://video.ejeserver.com/live/mcitelevision.m3u8

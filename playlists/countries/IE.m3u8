@@ -1,0 +1,36 @@
+#EXTM3U
+#COUNTRY: IE
+#TOTAL: 16
+
+#EXTINF:-1,Today FM
+https://live-bauerie.sharp-stream.com/TDAAC
+#EXTINF:-1,98FM
+https://live-bauerie.sharp-stream.com/98
+#EXTINF:-1,FM104
+https://onic.dublin.live.stream.broadcasting.news/stream-fm104
+#EXTINF:-1,Radio Nova
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
+#EXTINF:-1,Spin 103.8
+https://live-bauerie.sharp-stream.com/SP
+#EXTINF:-1,Newstalk
+https://live-bauerie.sharp-stream.com/NT
+#EXTINF:-1,Dublin's Q102
+https://onic.dublin.live.stream.broadcasting.news/stream-q102
+#EXTINF:-1,Classic Hits
+https://live-bauerie.sharp-stream.com/CLASSIC
+#EXTINF:-1,Sunshine 106.8
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUNSHINE_106_8.mp3
+#EXTINF:-1,RTÉ One
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8
+#EXTINF:-1,RTÉ2
+https://live.rte.ie/live/a/channel2/channel2.isml/channel2.m3u8
+#EXTINF:-1,Virgin Media 1
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
+#EXTINF:-1,Virgin Media 2
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
+#EXTINF:-1,Virgin Media 3
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#EXTINF:-1,Virgin Media 4
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
+#EXTINF:-1,RTE News
+https://live.rte.ie/live/a/channel3/channel3.isml/channel3.m3u8

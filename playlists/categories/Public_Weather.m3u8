@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Public;Weather
+#TOTAL: 1
+
+#EXTINF:-1,3Cat Cameres del temps (1080p)
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8

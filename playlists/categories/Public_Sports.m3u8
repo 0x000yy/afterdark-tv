@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Public;Sports
+#TOTAL: 2
+
+#EXTINF:-1,Esport3 (1080p) [Geo-blocked]
+https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1,Esport3 Originals (1080p) [Not 24/7]
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Romania
+#TOTAL: 2
+
+#EXTINF:-1,România TV Ⓖ
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+#EXTINF:-1,Euronews România Ⓨ
+https://www.youtube.com/euronewsro/live

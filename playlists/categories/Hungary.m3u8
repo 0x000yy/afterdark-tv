@@ -1,0 +1,24 @@
+#EXTM3U
+#GROUP: Hungary
+#TOTAL: 10
+
+#EXTINF:-1,M1 Hiradó Ⓨ
+https://www.youtube.com/@M1-Hirado/live
+#EXTINF:-1,ErdélyTV Ⓨ
+https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
+#EXTINF:-1,EWTN TV
+https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
+#EXTINF:-1,Radio 1 Ⓨ
+https://www.youtube.com/@radio1hungary/live
+#EXTINF:-1,DikhTv Ⓨ
+https://www.youtube.com/c/DikhTvGipsyTv/live
+#EXTINF:-1,Euronews Hungarian Ⓨ
+https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
+#EXTINF:-1,FehérvárTV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
+#EXTINF:-1,Kapos TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
+#EXTINF:-1,Hegyvidék TV (Buda TV)
+http://budatv.streaming.aiproduction.hu/playlist.m3u
+#EXTINF:-1,Putnok Városi TV
+http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8

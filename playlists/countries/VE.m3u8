@@ -1,0 +1,8 @@
+#EXTM3U
+#COUNTRY: VE
+#TOTAL: 2
+
+#EXTINF:-1,Venevisión
+http://177.234.249.178:8888/VENEVISION/index.m3u8
+#EXTINF:-1,Telesur
+https://raw.githubusercontent.com/BellezaEmporium/IPTV_Exception/master/channels/ve/telesur.m3u8

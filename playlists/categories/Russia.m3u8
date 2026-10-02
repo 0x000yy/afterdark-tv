@@ -1,0 +1,86 @@
+#EXTM3U
+#GROUP: Russia
+#TOTAL: 41
+
+#EXTINF:-1,Матч ТВ Ⓢ
+https://streaming.televizor-24-tochka.ru/live/6.m3u8
+#EXTINF:-1,НТВ Ⓢ
+http://ott-cdn.ucom.am/s17/index.m3u8
+#EXTINF:-1,Пятый канал Ⓢ
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1,Россия-24 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1,Россия-24 (720p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8
+#EXTINF:-1,Карусель Ⓢ
+https://streaming102.interskytech.com/live/232.m3u8
+#EXTINF:-1,ОТР Ⓢ
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
+#EXTINF:-1,ТВ Центр Ⓢ
+http://ott-cdn.ucom.am/s54/index.m3u8
+#EXTINF:-1,Рен ТВ Ⓢ
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
+#EXTINF:-1,Спас Ⓢ
+https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1,СТС Ⓢ
+http://ott-cdn.ucom.am/s52/04.m3u8
+#EXTINF:-1,Домашний Ⓢ
+http://ott-cdn.ucom.am/s88/index.m3u8
+#EXTINF:-1,ТВ-3 Ⓢ
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
+#EXTINF:-1,Пятница! Ⓢ
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
+#EXTINF:-1,ТНТ Ⓢ
+http://ott-cdn.ucom.am/s19/index.m3u8
+#EXTINF:-1,Муз-ТВ Ⓢ
+https://streaming102.interskytech.com/live/618.m3u8
+#EXTINF:-1,RT Д Русский Ⓖ
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,CGTN Pусский
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1,Euronews по-русски Ⓨ
+https://www.youtube.com/euronewsru/live
+#EXTINF:-1,РТР-Планета Ⓢ
+https://player.smotrim.ru/iframe/stream/live_id/63251
+#EXTINF:-1,Че
+https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+#EXTINF:-1,Арктика 24 Ⓥ
+https://vk.com/video-213370539_456239018
+#EXTINF:-1,Архыз 24
+https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
+#EXTINF:-1,Белгород 24
+http://belnovosti.cdn.easyhoster.ru:8080/stream.m3u8
+#EXTINF:-1,Запад 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/russia1-hd/index.m3u8
+#EXTINF:-1,Катунь 24 Ⓞ
+https://ok.ru/video/1166706155179
+#EXTINF:-1,Кубань 24 Ⓞ
+https://ok.ru/video/4157442498242
+#EXTINF:-1,Луганск 24
+https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
+#EXTINF:-1,Москва 24
+https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
+#EXTINF:-1,Саратов 24
+https://saratov24.tv/online/playlist.php
+#EXTINF:-1,Сибирь 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
+#EXTINF:-1,Тольятти 24
+https://tvtogliatti24.ru/hls/live1080/index.m3u8
+#EXTINF:-1,Якутия 24
+https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
+#EXTINF:-1,Вести ФМ
+https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
+#EXTINF:-1,Небеса ТВ7 Ⓢ
+https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
+#EXTINF:-1,Север
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1,Смотрим: Мелодрамы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/playlist.m3u8
+#EXTINF:-1,Смотрим: Тайны
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/playlist.m3u8
+#EXTINF:-1,Соловьёв Live
+https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37
+#EXTINF:-1,Ю Ⓢ
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1,Матч! Планета Ⓢ
+http://212.0.211.102:9999/play/a00b/index.m3u8

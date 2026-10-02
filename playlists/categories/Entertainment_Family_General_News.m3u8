@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Entertainment;Family;General;News
+#TOTAL: 1
+
+#EXTINF:-1,TV Paraense (720p)
+https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u

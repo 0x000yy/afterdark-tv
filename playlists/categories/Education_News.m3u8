@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Education;News
+#TOTAL: 1
+
+#EXTINF:-1,Dabanga TV (1080p)
+https://hls.dabangasudan.org/hls/stream.m3u8

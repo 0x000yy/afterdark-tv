@@ -1,0 +1,6 @@
+#EXTM3U
+#COUNTRY: LU
+#TOTAL: 1
+
+#EXTINF:-1,Chamber TV
+https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8

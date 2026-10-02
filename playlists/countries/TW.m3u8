@@ -1,0 +1,24 @@
+#EXTM3U
+#COUNTRY: TW
+#TOTAL: 10
+
+#EXTINF:-1,CTV (中視) Ⓨ
+https://www.youtube.com/c/twctvnews/live
+#EXTINF:-1,CTV News Channel (中視新聞台) Ⓨ
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+#EXTINF:-1,PTS (公視主頻) Ⓨ
+https://www.youtube.com/channel/UCXgIO9jJVsX5_2ideiSkfvA/live
+#EXTINF:-1,PTS Taigi (公視台語台) Ⓨ Ⓖ
+https://www.youtube.com/watch?v=6KlRR_DGhmI
+#EXTINF:-1,TaiwanPlus Ⓨ
+https://www.youtube.com/watch?v=dZp87qnWelE
+#EXTINF:-1,FTV News (民視新聞台) Ⓨ
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+#EXTINF:-1,TTV Main Channel (臺灣電視台) Ⓨ Ⓖ
+https://www.youtube.com/watch?v=uDqQo8a7Xmk
+#EXTINF:-1,TTV News (台視新聞台) Ⓨ
+https://www.youtube.com/@TTV_NEWS/live
+#EXTINF:-1,Congress Channel 1 Ⓨ
+https://www.youtube.com/watch?v=x6XVbD7Ln78
+#EXTINF:-1,Congress Channel 2 Ⓨ
+https://www.youtube.com/watch?v=Lj8OWF6nzcg

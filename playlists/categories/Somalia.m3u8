@@ -1,0 +1,34 @@
+#EXTM3U
+#GROUP: Somalia
+#TOTAL: 15
+
+#EXTINF:-1,Banaadir TV Ⓨ
+https://www.youtube.com/channel/UC_IzgGt0bVMXBR_Eu6AcqRw/live
+#EXTINF:-1,Bulsho TV Ⓨ
+https://www.youtube.com/@Bulshotv/live
+#EXTINF:-1,Galmudug TV Ⓨ
+https://www.youtube.com/channel/UCaEZkCJVKUoQNK42y-bC2Uw/live
+#EXTINF:-1,Hirshabelle TV
+https://cd198.anystream.uk:9092/iqapp/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1,Horn Cable TV Ⓨ
+https://www.youtube.com/@HornCableTV1/live
+#EXTINF:-1,Jubbaland TV Ⓨ
+https://www.youtube.com/@JLTVOfficial1/live
+#EXTINF:-1,KGS TV Ⓨ
+https://www.youtube.com/channel/UCiaAZAG_vm6cx3znkIqYErQ/live
+#EXTINF:-1,MM Somali TV Ⓨ
+https://www.youtube.com/@mmsomalitv/live
+#EXTINF:-1,Rejo TV Ⓨ
+https://www.youtube.com/channel/UCf_ntY4qKz0jFV2dRTWselQ/live
+#EXTINF:-1,Sahan TV Ⓨ
+https://www.youtube.com/channel/UCGn3y_geehf1ZgAlwtbNt2w/live
+#EXTINF:-1,Shabelle TV Ⓨ
+https://www.youtube.com/channel/UCXSorfoPFZbMraJP4XCtDQw/live
+#EXTINF:-1,SNTV Daljir Ⓢ
+https://cd198.anystream.uk:9092/iqapp/s2tve/playlist.m3u8
+#EXTINF:-1,Somali Cable TV Ⓢ
+https://ap02.iqplay.tv:8082/iqb8002/somc131/playlist.m3u8
+#EXTINF:-1,Somali National TV Ⓢ
+https://cd198.anystream.uk:9092/iqapp/s4ne/playlist.m3u8
+#EXTINF:-1,Somaliland National TV Ⓨ
+https://www.youtube.com/c/SLNTVLIVESTREAM/live
