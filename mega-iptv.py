@@ -374,6 +374,39 @@ ALIASES = {
     "natgeo_ar": "ناشيونال جيوغرافيك natgeographic ناشيونال جيوغرافيك",
 }
 
+# قنوات وعلامات كبرى تُفهرس تلقائيًا من المصادر المتاحة فقط.
+# وجود الاسم هنا لا يعني أن القناة مجانية أو متاحة قانونيًا؛ الأداة تصدر
+# فقط الروابط التي وجدتها في المصادر التي يملك المستخدم حق استخدامها.
+FEATURED_QUERIES = {
+    "bein-sports": "bein",
+    "ssc": "ssc",
+    "sky-sports": "skysport",
+    "dazn": "dazn",
+    "espn": "espn",
+    "eurosport": "eurosport",
+    "super-sport": "supersport",
+    "fox-sports": "foxsport",
+    "nba-tv": "nba",
+    "nfl-network": "nfl",
+    "ufc": "ufc",
+    "wwe": "wwe",
+    "al-jazeera": "jazeera",
+    "al-arabiya": "arabiya",
+    "bbc": "bbc",
+    "cnn": "cnn",
+    "mbc": "mbc",
+    "rotana": "rotana",
+    "osn": "osn",
+    "shahid": "shahid",
+    "cartoon-network": "cartoon",
+    "disney": "disney",
+    "nickelodeon": "nick",
+    "spacetoon": "spacetoon",
+    "nat-geo": "natgeo",
+    "discovery": "discovery",
+    "news": "news",
+}
+
 
 # ============================================================
 # [5] التطبيع
@@ -1274,7 +1307,32 @@ def export_all_playlists(engine):
 
     print(f"{C.G}✓{C.END} languages/ ({len(by_lang)} لغة)")
 
-    # 5) قوائم مشهورة
+    # 5) القنوات الكبرى: كل علامة في ملف مستقل + قائمة موحدة
+    featured_folder = OUTPUT_DIR / "featured"
+    featured_folder.mkdir(exist_ok=True)
+    featured_all = []
+    featured_seen = set()
+    featured_counts = {}
+    for slug, query in FEATURED_QUERIES.items():
+        matches = engine.search(query, min_score=0.16, limit=500, use_ml=False)
+        unique = []
+        unique_urls = set()
+        for ch in matches:
+            if ch["url"] not in unique_urls:
+                unique_urls.add(ch["url"])
+                unique.append(ch)
+            if ch["url"] not in featured_seen:
+                featured_seen.add(ch["url"])
+                featured_all.append(ch)
+        if unique:
+            save_m3u(unique, f"featured/{slug}.m3u8")
+        featured_counts[slug] = len(unique)
+
+    if featured_all:
+        save_m3u(featured_all, "featured.m3u8")
+    print(f"{C.G}✓{C.END} featured/ ({sum(1 for n in featured_counts.values() if n)}/{len(FEATURED_QUERIES)} علامات، {len(featured_all)} قناة فريدة)")
+
+    # 6) قوائم مشهورة
     popular = {
         "arabic.m3u8": ["ara", "arabic", "عربي"],
         "sports.m3u8": ["sport", "رياضة", "sports"],
@@ -1298,7 +1356,7 @@ def export_all_playlists(engine):
             save_m3u(matched, fname)
             print(f"{C.G}✓{C.END} {fname} ({len(matched)})")
 
-    # 6) README مع الإحصاءات
+    # 7) README مع الإحصاءات
     stats_file = OUTPUT_DIR / "STATS.md"
     try:
         with open(stats_file, "w", encoding="utf-8") as f:
@@ -1310,6 +1368,11 @@ def export_all_playlists(engine):
             f.write(f"| عدد الدول | {len(by_country)} |\n")
             f.write(f"| عدد اللغات | {len(by_lang)} |\n")
             f.write(f"| عدد المصادر | {len(SOURCES)} |\n")
+            f.write(f"| القنوات الكبرى المكتشفة | {len(featured_all)} |\n")
+            f.write("\n## القنوات الكبرى\n\n")
+            for slug, count in featured_counts.items():
+                if count:
+                    f.write(f"- `{slug}`: {count}\n")
         print(f"{C.G}✓{C.END} STATS.md")
     except Exception:
         pass
