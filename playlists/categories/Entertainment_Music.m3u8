@@ -2,13 +2,13 @@
 #GROUP: Entertainment;Music
 #TOTAL: 5
 
-#EXTINF:-1,Zo'r TV (576p)
-https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
-#EXTINF:-1,BEATTV (1080p)
-https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1,Gex TV (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/gextvaccess/playlist.m3u8
+#EXTINF:-1,BEATTV (1080p)
+https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1,GO TV (720p)
 https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
 #EXTINF:-1,Radio Carnaval TV (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1,Zo'r TV (576p)
+https://stream8.cinerama.uz/1016/tracks-v1a1/mono.m3u8
