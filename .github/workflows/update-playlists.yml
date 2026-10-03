@@ -2,6 +2,12 @@ name: Update IPTV playlists
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - "sources.txt"
+      - "mega-iptv.py"
+      - "requirements.txt"
+      - ".github/workflows/update-playlists.yml"
   schedule:
     - cron: "17 */12 * * *"
 

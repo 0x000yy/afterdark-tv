@@ -137,6 +137,7 @@ CACHE_FILE = CACHE_DIR / "channels.json"
 CHECK_CACHE_FILE = CACHE_DIR / "check_cache.json"
 MODEL_FILE = OUTPUT_DIR / "model.json"
 CUSTOM_FILE = OUTPUT_DIR / "custom_sources.json"
+SOURCES_FILE = Path(__file__).with_name("sources.txt")
 
 CACHE_DURATION = 60 * 60 * 12          # 12 ساعة
 CHECK_CACHE_DURATION = 60 * 60 * 6     # 6 ساعات
@@ -293,6 +294,28 @@ def build_sources():
 
 SOURCES = build_sources()
 print(f"{C.G}✅ {len(SOURCES)} مصدر جاهز{C.END}")
+
+
+def load_file_sources():
+    """قراءة روابط IPTV الإضافية من sources.txt بصيغة URL أو اسم | URL."""
+    custom = {}
+    if not SOURCES_FILE.exists():
+        return custom
+    try:
+        for raw in SOURCES_FILE.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#"):
+                continue
+            if "|" in line:
+                name, url = (part.strip() for part in line.split("|", 1))
+            else:
+                url = line
+                name = f"Custom {len(custom) + 1}"
+            if url.startswith(("http://", "https://", "file://")):
+                custom[name or f"Custom {len(custom) + 1}"] = url
+    except Exception as exc:
+        print(f"{C.Y}⚠️ تعذر قراءة sources.txt: {exc}{C.END}")
+    return custom
 
 
 # ============================================================
@@ -1415,8 +1438,13 @@ def github_update_mode():
     print(f"{C.CY}🚀 GitHub Actions Mode{C.END}")
     print(f"📅 {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S')} UTC\n")
 
-    # force refresh (بدون كاش)
-    data = fetch_all(force=True, quiet=True)
+    # force refresh (بدون كاش) مع المصادر التي وضعها المستخدم في sources.txt
+    all_src = dict(SOURCES)
+    file_sources = load_file_sources()
+    if file_sources:
+        print(f"💎 {len(file_sources)} مصدر مخصص من sources.txt")
+        all_src.update(file_sources)
+    data = fetch_all(force=True, all_sources=all_src, quiet=True)
     total = sum(len(v) for v in data.values())
     print(f"✅ {total} قناة من {len(data)} مصدر")
 
@@ -1461,10 +1489,10 @@ def main():
     load_check_cache()
 
     # --- المصادر المخصصة ---
-    custom = {}
+    custom = load_file_sources()
     if CUSTOM_FILE.exists():
         try:
-            custom = json.loads(CUSTOM_FILE.read_text(encoding="utf-8"))
+            custom.update(json.loads(CUSTOM_FILE.read_text(encoding="utf-8")))
         except Exception:
             pass
 
