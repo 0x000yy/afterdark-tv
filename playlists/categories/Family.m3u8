@@ -1,7 +1,11 @@
 #EXTM3U
 #GROUP: Family
-#TOTAL: 30
+#TOTAL: 34
 
+#EXTINF:-1,AVA Family
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1,Sichuan TV Women and Children Channel (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
 #EXTINF:-1,6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1,Canal IPe (720p)
@@ -12,6 +16,8 @@ https://stream.oursnetworktv.com/latin/Tv39Talanga/playlist.m3u8
 https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,TV Familia (720p)
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
+#EXTINF:-1,Diema Family
+http://213.91.179.28:8000/play/a047
 #EXTINF:-1,Sevimli TV (1080p)
 https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,STS (576p)
@@ -24,12 +30,6 @@ https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 #EXTINF:-1,MBC 5 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-#EXTINF:-1,AVA Family
-https://familyhls.avatv.live/hls/stream.m3u8
-#EXTINF:-1,The Pet Collective Italy
-https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective Brazil (720p)
-https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1,AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1,Dove Channel (1080p)
@@ -60,5 +60,13 @@ https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,TVS Family Channel (360p)
 https://rpn.bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8
-#EXTINF:-1,Sichuan TV Women and Children Channel (720p) [Not 24/7]
-http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+#EXTINF:-1,The Pet Collective Brazil (720p)
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+#EXTINF:-1,The Pet Collective Italy
+https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1,EmanTv (1080p)
+https://avr.host247.net/live/emantv/playlist.m3u8
+#EXTINF:-1,Mixkurdy (1080p)
+https://avr.host247.net/live/Mix-kurdy/playlist.m3u8

@@ -1,0 +1,35 @@
+#EXTM3U
+#PLAYLIST: featured/rotana.m3u8
+#DATE: 2026-10-03 09:21:36 UTC
+#TOTAL: 15
+
+#EXTINF:-1 tvg-id="RotanaClip.sa" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-country="SA" group-title="Saudi Arabia",Rotana Ciip
+https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-country="SA" group-title="Saudi Arabia",Rotana Drama
+https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" tvg-country="SA" group-title="Saudi Arabia",Rotana Music
+https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinema.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png" tvg-country="EG" group-title="Egypt",Rotana Cinema
+https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/IlT8U6S.png" tvg-country="SA" group-title="Saudi Arabia",Rotana Comedy
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" tvg-country="SA" group-title="Saudi Arabia",Rotana Classic
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" tvg-country="SA" group-title="Saudi Arabia",Rotana Khalijia
+https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" tvg-country="SA" group-title="Saudi Arabia",Rotana Cinema KSA
+https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaFMKSA.sa@SD" tvg-logo="https://rotanaradios.com/wp-content/uploads/2024/10/Asset-4.png" group-title="Music",Rotana FM KSA (720p)
+rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
+#EXTINF:-1 tvg-id="RotanaClassic.sa@SD" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Classic",Rotana Classic (1080p) [Geo-blocked]
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="Undefined",Rotana Radio Jordan Studio (1080p) [Not 24/7]
+http://45.63.116.205/hls/stream1.m3u8
+#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD" tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="Undefined",Rotana Tarab Jordan City View (720p) [Not 24/7]
+http://45.63.116.205/hls3/stream1.m3u8
+#EXTINF:-1 tvg-id="RTN.us@SD" group-title="غير مصنف",RTN
+http://4.59.210.197:8815/udp/127.0.0.1:6002
+#EXTINF:-1 tvg-id="RTEOne.ie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/RT%C3%89_One_2014.svg/500px-RT%C3%89_One_2014.svg.png" tvg-country="IE" group-title="Ireland",RTÉ One
+https://live.rte.ie/live/a/channel1/channel1.isml/channel1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kCJ621Q.png" tvg-country="IT" group-title="Italy",Rete Mia
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8

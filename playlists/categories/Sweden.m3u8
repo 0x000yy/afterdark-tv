@@ -1,27 +1,7 @@
 #EXTM3U
 #GROUP: Sweden
-#TOTAL: 20
+#TOTAL: 10
 
-#EXTINF:-1,Aryen TV (1080p) [Not 24/7]
-https://aryen.tv/live/tv/playlist.m3u8
-#EXTINF:-1,ATG Live (720p)
-https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
-#EXTINF:-1,Di TV (1080p)
-https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
-#EXTINF:-1,Expressen TV (1080p)
-https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:-1,Himlen TV7 (720p)
-https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
-#EXTINF:-1,Komala TV
-https://komhls.wns.live/hls/stream.m3u8
-#EXTINF:-1,Kunskapskanalen HD (1080p) [Geo-blocked]
-https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls
-#EXTINF:-1,SVT1 HD (1080p) [Geo-blocked]
-https://svt-live-channel.akamaized.net/l4/se/svt1/master-fmp4.m3u8?defaultSubLang=1&format=hls
-#EXTINF:-1,SVT2 HD (1080p) [Geo-blocked]
-https://svt-live-channel.akamaized.net/l6/se/svt2/master-fmp4.m3u8?defaultSubLang=1&format=hls
-#EXTINF:-1,V Sport Golf [Not 24/7]
-http://315e5a5d.ottrast.com/iptv/8XFKA8883W9M5K/12077/index.m3u8
 #EXTINF:-1,SVT 1 Ⓖ
 https://svt-live-channel.akamaized.net/l4/se/svt1/manifest.mpd?format=dash&defaultSubLang=1
 #EXTINF:-1,SVT 2 Ⓖ

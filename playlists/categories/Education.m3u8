@@ -1,7 +1,59 @@
 #EXTM3U
 #GROUP: Education
-#TOTAL: 145
+#TOTAL: 156
 
+#EXTINF:-1,TRT EBA (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT EBA Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT EBA Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Fauna (576p)
+http://stream.mcquack.net/401/index.m3u8
+#EXTINF:-1,BVG (576p)
+https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
+#EXTINF:-1,E-Vidya 4 (576p)
+http://103.72.101.252:8080/live/406.m3u8
+#EXTINF:-1,E-Vidya 5 (576p)
+http://103.72.101.252:8080/live/407.m3u8
+#EXTINF:-1,E-Vidya 6 (576p)
+http://103.72.101.252:8080/live/408.m3u8
+#EXTINF:-1,E-Vidya 7 (576p)
+http://103.72.101.252:8080/live/404.m3u8
+#EXTINF:-1,E-Vidya 8 (576p)
+http://103.72.101.252:8080/live/409.m3u8
+#EXTINF:-1,E-Vidya 9 (576p)
+http://103.72.101.252:8080/live/410.m3u8
+#EXTINF:-1,E-Vidya 10 (576p)
+http://103.72.101.252:8080/live/411.m3u8
+#EXTINF:-1,E-Vidya 11 (576p)
+http://103.72.101.252:8080/live/1410.m3u8
+#EXTINF:-1,E-Vidya 12 (576p)
+http://103.72.101.252:8080/live/1532.m3u8
+#EXTINF:-1,Gyandarshan (720p)
+https://cdn.pishow.tv/ott/live/14/master.m3u8
+#EXTINF:-1,Gyandarshan HD (576p)
+https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
+#EXTINF:-1,Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1,Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Kan Educational (720p)
+http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1,Da Vinci (Poland) (1080p)
+http://57.128.231.171:8080/284/index.m3u8
+#EXTINF:-1,CCTV-7 (720p)
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1,CCTV-10 (720p)
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1,CCTV-World Geography SD (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+#EXTINF:-1,CETV-1 (576p)
+http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
+#EXTINF:-1,CETV-2 (576p)
+http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
+#EXTINF:-1,Jiangsu Educational Channel (576p)
+http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
 #EXTINF:-1,Campus TV (480p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6052/6052/playlist.m3u8
 #EXTINF:-1,Canal 15 (1080p) [Not 24/7]
@@ -58,40 +110,26 @@ https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunk
 https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1,Zoom (Colombia) (1080p)
 http://138.121.15.230:9002/ZOOM/index.m3u8
-#EXTINF:-1,TRT EBA (720p)
-https://tv-e-okul01.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT EBA Ilkokul (720p)
-https://tv-e-okul00.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT EBA Lise (720p)
-https://tv-e-okul02.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,BVG (576p)
-https://mumt05.tangotv.in/87NeALx2BVG/index.m3u8
-#EXTINF:-1,E-Vidya 4 (576p)
-http://103.72.101.252:8080/live/406.m3u8
-#EXTINF:-1,E-Vidya 5 (576p)
-http://103.72.101.252:8080/live/407.m3u8
-#EXTINF:-1,E-Vidya 6 (576p)
-http://103.72.101.252:8080/live/408.m3u8
-#EXTINF:-1,E-Vidya 7 (576p)
-http://103.72.101.252:8080/live/404.m3u8
-#EXTINF:-1,E-Vidya 8 (576p)
-http://103.72.101.252:8080/live/409.m3u8
-#EXTINF:-1,E-Vidya 9 (576p)
-http://103.72.101.252:8080/live/410.m3u8
-#EXTINF:-1,E-Vidya 10 (576p)
-http://103.72.101.252:8080/live/411.m3u8
-#EXTINF:-1,E-Vidya 11 (576p)
-http://103.72.101.252:8080/live/1410.m3u8
-#EXTINF:-1,E-Vidya 12 (576p)
-http://103.72.101.252:8080/live/1532.m3u8
-#EXTINF:-1,Gyandarshan (720p)
-https://cdn.pishow.tv/ott/live/14/master.m3u8
-#EXTINF:-1,Gyandarshan HD (576p)
-https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
+#EXTINF:-1,Kunskapskanalen HD (1080p) [Geo-blocked]
+https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls
+#EXTINF:-1,EBS 1TV (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS 2TV (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS English (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS Plus 1 (400p)
+https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,EBS Plus 2 (400p)
+https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1,NBS (720p)
+https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+#EXTINF:-1,OUN (1080p)
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1,Ryongnamsan Television (720p) [Not 24/7]
+https://live.koryocdn.org/ryongnamsan/index.m3u8
 #EXTINF:-1,Da Vinci (Russia) (576p)
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-#EXTINF:-1,Fauna (576p)
-http://stream.mcquack.net/401/index.m3u8
 #EXTINF:-1,Kto est kto (576p)
 http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8
 #EXTINF:-1,Al Alamiya 2
@@ -100,46 +138,6 @@ http://82.212.74.98:8000/live/7815.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1,Palestine Edu (1080p)
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
-#EXTINF:-1,Payam Javan TV (720p) [Not 24/7]
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:-1,Persiana Medical
-https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Rai Scuola (1080p)
-https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-#EXTINF:-1,Canal Educacao (720p)
-http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
-#EXTINF:-1,Canal Futura (720p)
-http://45.162.64.114/FUTURA/index.m3u8
-#EXTINF:-1,Futura (720p)
-http://168.197.104.22/FUTURA/index.m3u8
-#EXTINF:-1,ISTV (Brazil) (720p) [Not 24/7]
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1,O Encantador de Caes
-https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
-#EXTINF:-1,Pluto TV Minha Obsessao Favorita
-https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
-#EXTINF:-1,Pluto TV Misterios
-https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
-#EXTINF:-1,Pluto TV Natureza
-https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
-#EXTINF:-1,Pluto TV Paisagens por Stingray (720p)
-https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
-#EXTINF:-1,Pluto TV Vida Real
-https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
-#EXTINF:-1,Pronto-socorro: Historias De Emergencia
-https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
-#EXTINF:-1,Rede Minas (720p)
-https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
-#EXTINF:-1,Santa Cecilia TV (1080p)
-https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
-#EXTINF:-1,TV Mackenzie (480p)
-https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
-#EXTINF:-1,TV UFG (720p) [Not 24/7]
-http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
-#EXTINF:-1,UniTV Porto Alegre (480p)
-http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF:-1,Kan Educational (720p)
-http://stream.mcquack.net/378/index.m3u8
 #EXTINF:-1,BATV Educational Channel
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1,BUTV10 (1080p) [Not 24/7]
@@ -190,10 +188,6 @@ https://cdn-live.dltv.ac.th/dltv13.m3u8
 https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1,DLTV 15 (1080p)
 https://cdn-live.dltv.ac.th/dltv15.m3u8
-#EXTINF:-1,EBS English (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS Plus 2 (400p)
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,English Class (1080p)
 http://31.148.48.15/English_club_TV_HD/index.m3u8
 #EXTINF:-1,English Club Global
@@ -268,27 +262,55 @@ https://world.lls.pbs.org/index.m3u8
 https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
 #EXTINF:-1,WPS-TV (360p)
 https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8
-#EXTINF:-1,CCTV-7 (720p)
-http://74.91.26.218:82/live/cctv7hd.m3u8
-#EXTINF:-1,CCTV-10 (720p)
-http://74.91.26.218:82/live/cctv10hd.m3u8
-#EXTINF:-1,CCTV-World Geography SD (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-#EXTINF:-1,CETV-1 (576p)
-http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
-#EXTINF:-1,CETV-2 (576p)
-http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
-#EXTINF:-1,Jiangsu Educational Channel (576p)
-http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
-#EXTINF:-1,EBS 1TV (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS 2TV (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,EBS Plus 1 (400p)
-https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,NBS (720p)
-https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
-#EXTINF:-1,OUN (1080p)
-https://live.knou.ac.kr/knou1/live1/playlist.m3u8
-#EXTINF:-1,Ryongnamsan Television (720p) [Not 24/7]
-https://live.koryocdn.org/ryongnamsan/index.m3u8
+#EXTINF:-1,HTV4 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1,M5 (1080p)
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,Canal Educacao (720p)
+http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
+#EXTINF:-1,Canal Futura (720p)
+http://45.162.64.114/FUTURA/index.m3u8
+#EXTINF:-1,Futura (720p)
+http://168.197.104.22/FUTURA/index.m3u8
+#EXTINF:-1,ISTV (Brazil) (720p) [Not 24/7]
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1,O Encantador de Caes
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
+#EXTINF:-1,Pluto TV Minha Obsessao Favorita
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+#EXTINF:-1,Pluto TV Misterios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+#EXTINF:-1,Pluto TV Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+#EXTINF:-1,Pluto TV Paisagens por Stingray (720p)
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
+#EXTINF:-1,Pluto TV Vida Real
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+#EXTINF:-1,Pronto-socorro: Historias De Emergencia
+https://jmp2.uk/plu-61bb72a7bf8c520007a8fd27.m3u8
+#EXTINF:-1,Rede Minas (720p)
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8
+#EXTINF:-1,Santa Cecilia TV (1080p)
+https://5fb29de4928ea.streamlock.net/2063/2063/playlist.m3u8
+#EXTINF:-1,TV Mackenzie (480p)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1,TV UFG (720p) [Not 24/7]
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+#EXTINF:-1,UniTV Porto Alegre (480p)
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+#EXTINF:-1,EDU TV (576p) [Not 24/7]
+https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
+#EXTINF:-1,ALTV (1080p)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,ETV (Thailand) (1080p)
+http://150.95.66.20:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,R Channel
+http://180.180.243.239/streams/3/hls
+#EXTINF:-1,Dens Knowledge [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+#EXTINF:-1,Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
+#EXTINF:-1,Rai Scuola (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1,Shams TV (Afghanistan)
+https://fflive-darya-educationtv.b-cdn.net/master.m3u8

@@ -2,10 +2,10 @@
 #GROUP: Business;News
 #TOTAL: 8
 
-#EXTINF:-1,Canal E (720p)
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1,100% NEWS (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,Canal E (720p)
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 #EXTINF:-1,Asharq News (1080p)
 https://live-news.asharq.com/asharq.m3u8
 #EXTINF:-1,Asharq Radio (1080p)

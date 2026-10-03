@@ -1,9 +1,7 @@
 #EXTM3U
 #GROUP: Philippines
-#TOTAL: 5
+#TOTAL: 4
 
-#EXTINF:-1,AXN Asia Philippines (576p)
-https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
 #EXTINF:-1,CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
 #EXTINF:-1,INC TV (1080p)

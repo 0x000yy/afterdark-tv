@@ -1,11 +1,41 @@
 # 📊 إحصائيات IPTV Mega
 
-**آخر تحديث:** 2026-10-03 09:14:11 UTC
+**آخر تحديث:** 2026-10-03 09:21:37 UTC
 
 | القياس | القيمة |
 |---|---|
 | إجمالي القنوات | 15,897 |
-| عدد الفئات | 294 |
+| عدد الفئات | 293 |
 | عدد الدول | 73 |
 | عدد اللغات | 0 |
 | عدد المصادر | 724 |
+| القنوات الكبرى المكتشفة | 1051 |
+
+## القنوات الكبرى
+
+- `bein-sports`: 7
+- `ssc`: 20
+- `sky-sports`: 2
+- `dazn`: 4
+- `espn`: 12
+- `eurosport`: 3
+- `super-sport`: 29
+- `fox-sports`: 2
+- `nba-tv`: 23
+- `nfl-network`: 2
+- `wwe`: 7
+- `al-jazeera`: 30
+- `al-arabiya`: 10
+- `bbc`: 136
+- `cnn`: 19
+- `mbc`: 51
+- `rotana`: 15
+- `osn`: 6
+- `shahid`: 2
+- `cartoon-network`: 10
+- `disney`: 48
+- `nickelodeon`: 95
+- `spacetoon`: 17
+- `nat-geo`: 1
+- `discovery`: 20
+- `news`: 500

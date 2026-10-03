@@ -1,55 +1,7 @@
 #EXTM3U
 #GROUP: Denmark
-#TOTAL: 33
+#TOTAL: 9
 
-#EXTINF:-1,DR1 (1080p) [Geo-blocked]
-https://drlivedr1hls.akamaized.net/hls/live/2113625/drlivedr1/master.m3u8
-#EXTINF:-1,DR2 (1080p) [Geo-blocked]
-https://drlivedr2hls.akamaized.net/hls/live/2113623/drlivedr2/master.m3u8
-#EXTINF:-1,DR Ramasjang (720p) [Geo-blocked]
-https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
-#EXTINF:-1,DRTV (1080p)
-https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
-#EXTINF:-1,Kanal Hovedstaden (720p) [Not 24/7]
-http://khkbh.dk:8080/hls/livestream/index.m3u8
-#EXTINF:-1,KKRtv (720p) [Not 24/7]
-http://stream.kkr.dk/live/kkr/playlist.m3u8
-#EXTINF:-1,Pluto TV Alien Invasion (Sweden)
-https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
-#EXTINF:-1,Pluto TV Danske klassikere
-https://jmp2.uk/plu-67d2b814fe36d6e7b1d2318a.m3u8
-#EXTINF:-1,Pluto TV Fishing
-https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
-#EXTINF:-1,Pluto TV Handbold Highlights
-https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
-#EXTINF:-1,Pluto TV Handbold Live
-https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
-#EXTINF:-1,Pluto TV Humor (Sweden)
-https://jmp2.uk/plu-61c0974945b45d0007aaa5ac.m3u8
-#EXTINF:-1,Pluto TV Klassiske tegnefilm (720p)
-https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
-#EXTINF:-1,Pluto TV Kultfilm
-https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
-#EXTINF:-1,Pluto TV Space (Sweden)
-https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
-#EXTINF:-1,Pluto TV Star Trek (Sweden)
-https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
-#EXTINF:-1,Pluto TV Tegnefilm (720p)
-https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
-#EXTINF:-1,Pluto TV Verdenskrigene
-https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
-#EXTINF:-1,PodRadio pa Pluto TV
-https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
-#EXTINF:-1,TV 2/Bornholm (1080p) [Not 24/7]
-https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
-#EXTINF:-1,TV 2 Sport
-https://7nyaler.streamhostingcdn.top/stream/57/index.m3u8
-#EXTINF:-1,TV3+
-https://7nyaler.streamhostingcdn.top/stream/49/index.m3u8
-#EXTINF:-1,TV Storbyen (720p) [Not 24/7]
-https://5eeb3940cfaa0.streamlock.net/webtv_live/_definst_/mp4:kanalnordvest/playlist.m3u8
-#EXTINF:-1,TVMarineret (1080p)
-http://sdream.info:8080/hls/livestream/index.m3u8
 #EXTINF:-1,DR1 Ⓖ
 https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
 #EXTINF:-1,DR2 Ⓖ

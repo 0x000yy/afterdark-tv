@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: International
-#TOTAL: 23
+#TOTAL: 17
 
 #EXTINF:-1,Africanews French (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
@@ -10,22 +10,12 @@ https://janya-digimix.akamaized.net/vglive-sk-374850/america/ngrp:angelamerica_a
 https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
 #EXTINF:-1,Asianet Middle East (576p)
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
-#EXTINF:-1,Aznews TV (720p) [Not 24/7]
-https://edge1.socialsmart.tv/aznews/smil/playlist.m3u8
 #EXTINF:-1,CGTN French (1080p)
 http://145.239.5.177/214/index.m3u8
-#EXTINF:-1,E International Asia (576p)
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
-#EXTINF:-1,E International Europe (576p)
-https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp120.510.450:6060.m3u8
 #EXTINF:-1,Euronews German (720p)
 https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
 #EXTINF:-1,Euronews Greek (720p)
 https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
-#EXTINF:-1,Hum TV SD
-https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
-#EXTINF:-1,Kanal 10 Asia (540p)
-http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1,Shalom Global (1080p)
 https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8
 #EXTINF:-1,Trace Gospel Southern Africa (1080p)
@@ -46,5 +36,3 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 #EXTINF:-1,Vijay Takkar APAC (1080p)
 https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
-#EXTINF:-1,YOY International (576p)
-https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8

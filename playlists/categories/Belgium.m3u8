@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Belgium
-#TOTAL: 51
+#TOTAL: 50
 
 #EXTINF:-1,ACTV (Belgium) (504p)
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
@@ -78,8 +78,6 @@ https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 https://7nyaler.streamhostingcdn.top/stream/65/index.m3u8
 #EXTINF:-1,RTL-TVI (1080p) [Not 24/7]
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-#EXTINF:-1,Sterk TV (1080p)
-https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
 #EXTINF:-1,StuBru (1080p)
 https://live.vrtcdn.be/groupb/live/450aa9d1-7173-47f3-aaaa-9701426f8ddd/live.isml/.m3u8
 #EXTINF:-1,Tele MB (1080p)

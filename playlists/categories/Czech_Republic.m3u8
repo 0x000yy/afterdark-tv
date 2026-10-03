@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Czech Republic
-#TOTAL: 95
+#TOTAL: 88
 
 #EXTINF:-1,AXN CEE Czech Republic
 http://88.212.15.19/live/test_axn/playlist.m3u8
@@ -28,8 +28,6 @@ http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1,Disney Channel (Czech Republic)
 http://88.212.15.19/live/test_disney/playlist.m3u8
-#EXTINF:-1,Disney Channel (Hungary)
-http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1,Disney Junior (Czech Republic)
 http://88.212.15.19/live/test_disney_junior/playlist.m3u8
 #EXTINF:-1,DVTV Extra
@@ -52,8 +50,6 @@ http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
 #EXTINF:-1,Golf Channel
 https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
-#EXTINF:-1,HAHA TV
-https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
 #EXTINF:-1,History2
 http://88.212.15.19/live/test_h2/playlist.m3u8
 #EXTINF:-1,History (Czech Republic)
@@ -74,8 +70,6 @@ http://88.212.15.19/live/test_ngc/playlist.m3u8
 http://88.212.15.29/live/test_ngw/playlist.m3u8
 #EXTINF:-1,Nickelodeon (Czech Republic)
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
-#EXTINF:-1,Nicktoons (Czech Republic)
-http://88.212.15.19/live/test_nicktoons/playlist.m3u8
 #EXTINF:-1,Ocko (540p)
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1,Ocko Black
@@ -114,14 +108,6 @@ https://www.rtmplus.cz/live/1-playlist.m3u8
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
 #EXTINF:-1,Slager Original
 https://stream-13.mazana.tv/slagroriginal.m3u8s
-#EXTINF:-1,Spektrum (Czech Republic)
-http://88.212.15.19/live/test_spektrum/playlist.m3u8
-#EXTINF:-1,Spektrum Home (Czech Republic)
-http://88.212.15.19/live/test_home_hevc/playlist.m3u8
-#EXTINF:-1,Sport1
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1,Sport2
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1,Sporty TV
 https://dash2.antik.sk/live/sporty_tv/index.m3u8
 #EXTINF:-1,Story4 Czechia

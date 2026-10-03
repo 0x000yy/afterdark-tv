@@ -1,30 +1,12 @@
 #EXTM3U
 #GROUP: Malaysia
-#TOTAL: 13
+#TOTAL: 4
 
-#EXTINF:-1,Awesome TV [Geo-blocked]
-https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.533267421985.channel.B7bB1wHJRCnw.m3u8
 #EXTINF:-1,DidikTV KPM (1080p) [Geo-blocked]
 https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324
-#EXTINF:-1,Drama Sangat (1080p) [Geo-blocked]
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
 #EXTINF:-1,RTM Parlimen Dewan Negara [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8
 #EXTINF:-1,RTM Parlimen Dewan Rakyat [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
 #EXTINF:-1,SelangorTV (1080p)
 https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd
-#EXTINF:-1,Sukan RTM (1080p) [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1,Suke TV (720p)
-https://live.mana2.my/SukeTv/index.m3u8?auth_key=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272&token=1745177878-c9b78020e8d64aac92e7d5db06493530-0-951f497899c978ee5fbc2f1375671272
-#EXTINF:-1,TV3 (Malaysia) (1080p) [Geo-blocked]
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420323
-#EXTINF:-1,TV6 (Malaysia) [Geo-blocked]
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
-#EXTINF:-1,TV9 (Malaysia)
-https://tonton-live-switch-ssar.akamaized.net/stream-tv9/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311
-#EXTINF:-1,TVIKIM (1080p)
-https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942
-#EXTINF:-1,TVS (Malaysia) (1080p) [Geo-blocked]
-https://api.dani-dev.co.za/v1/stream/mytv/live/tvs

@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Democratic Republic of the Congo
-#TOTAL: 15
+#TOTAL: 13
 
 #EXTINF:-1,Antenne A
 http://51.254.199.122:8080/antenne_a-plus/index.m3u8
@@ -10,8 +10,6 @@ https://stream.berosat.live:19360/baraka-hd/baraka-hd.m3u8
 http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1,Congo Planet Television (1080p) [Not 24/7]
 https://radio.congoplanet.com/Congo_Planet_TV.sdp/Congo_Planet_TV/playlist.m3u8
-#EXTINF:-1,Digital Congo TV
-http://51.254.199.122:8080/DigitalCongoTV/index.m3u8
 #EXTINF:-1,EVI TV (720p)
 https://mistserver.evi-tv.com/hls/evi_tv_live/index.m3u8
 #EXTINF:-1,Kin24
@@ -20,8 +18,6 @@ http://51.254.199.122:8080/kin24/index.m3u8
 https://tnt-television.com/LBFD_RTV/index.m3u8
 #EXTINF:-1,Lollywood HD TV
 https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
-#EXTINF:-1,Mikuba TV (480p) [Not 24/7]
-http://51.254.199.122:8080/MIKUBATV/index.m3u8
 #EXTINF:-1,ONE-TV (720p) [Not 24/7]
 https://core.live-apc.eu:5443/LiveApp/streams/backup.m3u8
 #EXTINF:-1,PSTV HD (480p) [Not 24/7]

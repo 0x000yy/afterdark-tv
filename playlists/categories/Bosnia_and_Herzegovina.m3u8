@@ -1,9 +1,7 @@
 #EXTM3U
 #GROUP: Bosnia and Herzegovina
-#TOTAL: 26
+#TOTAL: 21
 
-#EXTINF:-1,AXN Spin
-https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 #EXTINF:-1,BHRT (720p) [Geo-blocked]
 https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8
 #EXTINF:-1,BHT 1 (720p)
@@ -14,14 +12,8 @@ http://185.81.240.65:15000/udp/233.233.233.39:12000
 https://restreamer1.tnt.ba/hls/kanal6.m3u8
 #EXTINF:-1,Newsmax Balkans (1080p)
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
-#EXTINF:-1,RTRS plus (576p) [Not 24/7]
-https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
-#EXTINF:-1,RTRS TV (576p) [Not 24/7]
-https://uzivo.rtrs.tv/tv/live/index.m3u8
 #EXTINF:-1,RTV Glas Drine (404p) [Not 24/7]
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1,RTV HB (576p) [Not 24/7]
-https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1,RTV Zenica (720p)
 https://stream.rtvze.ba/live/123/123.m3u8
 #EXTINF:-1,Super TV (Bosnia and Herzegovina) (720p)
@@ -32,8 +24,6 @@ https://balkanmedia.dynu.net/hls/tv5web.m3u8
 https://live.tv-m.net/hls/stream.m3u8
 #EXTINF:-1,TNT Kids TV (288p)
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
-#EXTINF:-1,TV SLO 1 HD
-https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
 #EXTINF:-1,TV Slon Extra (1080p) [Not 24/7]
 http://31.47.0.130:8082
 #EXTINF:-1,BHT 1

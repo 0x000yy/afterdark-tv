@@ -1,45 +1,7 @@
 #EXTM3U
 #GROUP: Finland
-#TOTAL: 42
+#TOTAL: 23
 
-#EXTINF:-1,Eveo (720p) [Not 24/7]
-https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
-#EXTINF:-1,Hero (720p) [Not 24/7]
-https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
-#EXTINF:-1,Jim (720p)
-https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
-#EXTINF:-1,JRTV Jarviradio (720p)
-https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
-#EXTINF:-1,Liv (720p)
-https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
-#EXTINF:-1,MTV Uutiset (720p)
-https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
-#EXTINF:-1,Nar-TV (360p)
-https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
-#EXTINF:-1,National Geographic (Finland) (720p) [Geo-blocked]
-https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
-#EXTINF:-1,Nelonen (720p)
-https://live-fi.tvkaista.net/nelonen/live.m3u8
-#EXTINF:-1,Nopola News (1080p) [Not 24/7]
-https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
-#EXTINF:-1,Onni TV (720p)
-https://onnitv.digitacdn.net/live/ott/onnitv/playlist.m3u8
-#EXTINF:-1,Rakuten TV Nordic Films (1080p)
-https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
-#EXTINF:-1,STAR Channel (720p)
-https://live-fi.tvkaista.net/star-channel/live.m3u8
-#EXTINF:-1,Taivas TV7 (720p)
-https://vod.tv7.fi/tv7-fi/smil:tv7-fi.smil/playlist.m3u8
-#EXTINF:-1,Viaplay TV (720p) [Not 24/7]
-https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true
-#EXTINF:-1,Yle Teema & Fem (1080p) [Not 24/7]
-https://yletvworld.akamaized.net/hls/live/622547/yletvteemafemw/index.m3u8
-#EXTINF:-1,Yle TV1 (1080p) [Not 24/7]
-https://yletvworld.akamaized.net/hls/live/622540/yletv1w/index.m3u8
-#EXTINF:-1,Yle TV2 (1080p) [Not 24/7]
-https://yletvworld.akamaized.net/hls/live/622541/yletv2w/index.m3u8
-#EXTINF:-1,YleX (720p)
-https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
 #EXTINF:-1,Yle TV1 Ⓖ
 https://yletv.akamaized.net/hls/live/622365/yletv1fin/index.m3u8
 #EXTINF:-1,Yle TV2 Ⓖ

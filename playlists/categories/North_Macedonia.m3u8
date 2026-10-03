@@ -1,9 +1,7 @@
 #EXTM3U
 #GROUP: North Macedonia
-#TOTAL: 43
+#TOTAL: 37
 
-#EXTINF:-1,Alsat (576p)
-http://5.254.89.106/8713/index.m3u8
 #EXTINF:-1,Arena Sport Premium M1
 https://racitonsen.s.gy/AM1P
 #EXTINF:-1,Arena Sport Premium M2
@@ -28,10 +26,6 @@ https://live.mnet.mk/hls/mnet-info.m3u8
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1,M-Net Sport (720p)
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1,MRT 2 [Geo-blocked]
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
-#EXTINF:-1,MRT Sobraniski kanal [Geo-blocked]
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 #EXTINF:-1,MTM [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
 #EXTINF:-1,Nasa TV (1080p) [Not 24/7]
@@ -46,12 +40,6 @@ https://eu.live.skyfolk.mk/live.m3u8
 https://live.muzickatv.mk/live/StarMusic2.m3u8
 #EXTINF:-1,Sutel TV [Geo-blocked]
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Shutel)/index.m3u8
-#EXTINF:-1,TopEstrada TV (720p)
-http://live.topestrada.com/live/topestrada/playlist.m3u8
-#EXTINF:-1,TV21 [Geo-blocked]
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
-#EXTINF:-1,TV ERA [Geo-blocked]
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
 #EXTINF:-1,TV NOVA 12 (576p) [Not 24/7]
 http://151.236.247.171:8080/nova/index.m3u8
 #EXTINF:-1,TV Shenja [Geo-blocked]

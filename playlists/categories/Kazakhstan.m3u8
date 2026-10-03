@@ -1,56 +1,6 @@
 #EXTM3U
 #GROUP: Kazakhstan
-#TOTAL: 26
+#TOTAL: 1
 
-#EXTINF:-1,31 Kanal (576p)
-http://stream.mcquack.net/388/index.m3u8
-#EXTINF:-1,Abai TV (720p)
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1,Alau TV (576p)
-https://otv.wotom.net/alau/stream.m3u8
-#EXTINF:-1,Aqjaiyq (576p)
-https://stream.kaztrk.kz/regional/oraltv/index.m3u8
-#EXTINF:-1,Aqtobe (576p)
-https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1,Astana TV (576p)
-http://stream.mcquack.net/28/index.m3u8
-#EXTINF:-1,Atyray (720p)
-https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
-#EXTINF:-1,Balapan (576p)
-https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
-#EXTINF:-1,Balapan HD (1080p)
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:-1,Balapan International (1080p)
-https://live-3.otcnet.ru/Balapan/index.m3u8
-#EXTINF:-1,Ertis (1080p) [Not 24/7]
-https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
-#EXTINF:-1,Jambyl (360p) [Not 24/7]
-https://stream.kaztrk.kz/regional/taraztv/index.m3u8
-#EXTINF:-1,Kokshe (720p) [Not 24/7]
-https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
-#EXTINF:-1,Novoe televidenie (576p)
-https://fs.uplink.kz/novoe_tv/mono.m3u8?token=onlinetv
-#EXTINF:-1,Ontustik (360p)
-https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-#EXTINF:-1,Qazaqstan (576p)
-https://fs.uplink.kz/qazaqstan/mono.m3u8?token=onlinetv
-#EXTINF:-1,Qazaqstan HD (1080p)
-http://stream.mcquack.net/71/index.m3u8
-#EXTINF:-1,QazSport (1080p)
-http://stream.mcquack.net/72/index.m3u8
-#EXTINF:-1,Qostanai (576p) [Not 24/7]
-https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-#EXTINF:-1,Qyzyljar (720p)
-https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
-#EXTINF:-1,Qyzylorda (720p)
-https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1,Saryarqa (720p) [Not 24/7]
-https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-#EXTINF:-1,Semei (1080p)
-https://stream.kaztrk.kz/regional/semeytv/index.m3u8
-#EXTINF:-1,Sport+ Qazaqstan (1080p)
-https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
-#EXTINF:-1,Turan TV (576p)
-https://fs.uplink.kz/turan_tv/mono.m3u8?token=onlinetv
 #EXTINF:-1,Qazaqstan
 https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8

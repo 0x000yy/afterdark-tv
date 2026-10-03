@@ -1,7 +1,147 @@
 #EXTM3U
 #GROUP: Music
-#TOTAL: 494
+#TOTAL: 577
 
+#EXTINF:-1,Dream Turk (720p)
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+#EXTINF:-1,Finest TV (288p) [Not 24/7]
+https://media.finest.tv/hls/live.m3u8
+#EXTINF:-1,Kral Pop TV (720p)
+https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
+#EXTINF:-1,Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1,Number 1 Damar (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1,Number 1 Dance (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1,Number 1 TV (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
+#EXTINF:-1,Power Dance (1080p)
+https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+#EXTINF:-1,Power Love (1080p)
+https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+#EXTINF:-1,PowerTurk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1,PowerTurk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1,PowerTurk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1,Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,TRT Muzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,4ever Music (1080p)
+http://stream.mcquack.net/257/index.m3u8
+#EXTINF:-1,¡Viva Latino! (1080p)
+http://stream.mcquack.net/285/index.m3u8
+#EXTINF:-1,Black (1080p)
+http://stream.mcquack.net/283/index.m3u8
+#EXTINF:-1,EU Music (1080p)
+http://stream.mcquack.net/261/index.m3u8
+#EXTINF:-1,InRating TV (1080p)
+http://stream.mcquack.net/147/index.m3u8
+#EXTINF:-1,M1 (Ukraine) (1080p)
+http://stream.mcquack.net/218/index.m3u8
+#EXTINF:-1,M2 (Ukraine) (1080p)
+http://stream.mcquack.net/330/index.m3u8
+#EXTINF:-1,Megogo Music
+https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
+#EXTINF:-1,Muzvar (1080p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
+#EXTINF:-1,Muzyka Pervogo (576p)
+http://stream.mcquack.net/153/index.m3u8
+#EXTINF:-1,NASHE Music (720p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
+#EXTINF:-1,UA Music (1080p)
+http://stream.mcquack.net/281/index.m3u8
+#EXTINF:-1,7X Music (576p)
+http://51.75.127.199:3141/7xmusic/index.m3u8
+#EXTINF:-1,9X Jalwa (1080p)
+https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
+#EXTINF:-1,9XM (1080p)
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1,B4U Music (1080p)
+https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
+#EXTINF:-1,Balle Balle (576p)
+https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
+#EXTINF:-1,Balle Balle HD (720p)
+https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1,Boogle Bollywood (720p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1,Deewana HD (540p)
+https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
+#EXTINF:-1,Dhamaal (576p)
+http://107.167.16.138/dhamaal/index.m3u8?token=test
+#EXTINF:-1,Epic Music (576p)
+https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
+#EXTINF:-1,Epic Music Digital (1080p)
+https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
+#EXTINF:-1,Insync (576p)
+https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
+#EXTINF:-1,Mastiii (576p)
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+#EXTINF:-1,Music India (576p)
+https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
+#EXTINF:-1,NH BollyRaga (1080p)
+https://jmp2.uk/stvp-IN460001373
+#EXTINF:-1,RS Bharat (576p)
+http://51.75.127.199:3141/rsbharat/index.m3u8
+#EXTINF:-1,Songdew TV (396p)
+https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1,Steelbird Music (720p) [Not 24/7]
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1,YRF Music (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:-1,Zing! (576p)
+http://107.167.16.138/zing/index.m3u8?token=test
+#EXTINF:-1,Zoom (India) (720p)
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1,4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,4 Music
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,AFN TV
+https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1,Avang TV (1080p)
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1,GEM 24B
+https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
+#EXTINF:-1,GEM Mifa
+https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
+#EXTINF:-1,GEM Mifa +
+https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
+#EXTINF:-1,High Vision TV (1080p) [Not 24/7]
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
+#EXTINF:-1,Navahang TV (720p)
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Folk
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Vibe
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,PMC
+https://pmchls.wns.live/hls/stream.m3u8
+#EXTINF:-1,PMC Royale (1080p)
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1,RJTV (1080p)
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,T2 TV
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1,4 Fun TV (576i) [Not 24/7]
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1,Disco Polo Music (1080p)
+http://185.227.34.179:8080/disco-polo-music/index.m3u8
+#EXTINF:-1,Eska Rock TV
+http://91.228.35.249:8001/1:0:1:2909:1EDC:71:820000:0:0:0:
+#EXTINF:-1,Kino Polska Muzyka (1080p)
+http://57.128.231.171:8080/237/index.m3u8
+#EXTINF:-1,Radio RAM (1080p)
+https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
+#EXTINF:-1,CCTV-11 (720p)
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1,CCTV-15 (1080p)
+https://xykt-fix.github.io/play/a02e/index.m3u8
+#EXTINF:-1,CCTV-Storm Music (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 #EXTINF:-1,13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1,88 Stereo (720p) [Not 24/7]
@@ -356,76 +496,34 @@ https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
 #EXTINF:-1,Zona Music TV (1080p)
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
-#EXTINF:-1,Dream Turk (720p)
-https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1,Finest TV (288p) [Not 24/7]
-https://media.finest.tv/hls/live.m3u8
-#EXTINF:-1,Kral Pop TV (720p)
-https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
-#EXTINF:-1,Number 1 Ask (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1,Number 1 Damar (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
-#EXTINF:-1,Number 1 Dance (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1,Number 1 TV (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1,Power Dance (1080p)
-https://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
-#EXTINF:-1,Power Love (1080p)
-https://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
-#EXTINF:-1,PowerTurk Akustik (1080p)
-https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1,PowerTurk Slow (1080p)
-https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
-#EXTINF:-1,PowerTurk Taptaze (1080p)
-https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-#EXTINF:-1,Stingray Naturescape (1080p)
-https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1,TRT Muzik (720p)
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,7X Music (576p)
-http://51.75.127.199:3141/7xmusic/index.m3u8
-#EXTINF:-1,9X Jalwa (1080p)
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1,9XM (1080p)
-https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1,B4U Music (1080p)
-https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8
-#EXTINF:-1,Balle Balle (576p)
-https://streams.tangotv.in/BALLEBALLE/ORIGIN/index.m3u8
-#EXTINF:-1,Balle Balle HD (720p)
-https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1,Boogle Bollywood (720p)
-https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1,Deewana HD (540p)
-https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
-#EXTINF:-1,Dhamaal (576p)
-http://107.167.16.138/dhamaal/index.m3u8?token=test
-#EXTINF:-1,Epic Music (576p)
-https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-#EXTINF:-1,Epic Music Digital (1080p)
-https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
-#EXTINF:-1,Insync (576p)
-https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
-#EXTINF:-1,Mastiii (576p)
-https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
-#EXTINF:-1,Music India (576p)
-https://streams.tangotv.in/MUSICINDIA/ORIGIN/index.m3u8
-#EXTINF:-1,NH BollyRaga (1080p)
-https://jmp2.uk/stvp-IN460001373
-#EXTINF:-1,RS Bharat (576p)
-http://51.75.127.199:3141/rsbharat/index.m3u8
-#EXTINF:-1,Songdew TV (396p)
-https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1,Steelbird Music (720p) [Not 24/7]
-https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
-#EXTINF:-1,YRF Music (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1,Zing! (576p)
-http://107.167.16.138/zing/index.m3u8?token=test
-#EXTINF:-1,Zoom (India) (720p)
-https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1,CMC TV (1080p)
+https://stream.cmctv.hr:49998/cmc/live.m3u8
+#EXTINF:-1,Klape i Tambure TV (1080p)
+https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1,Gugak TV (1080p)
+https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,KpopTV Play (576p)
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+#EXTINF:-1,KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BOX TV
+http://213.91.179.28:8000/play/a0an
+#EXTINF:-1,City TV (Bulgaria) (576p) [Not 24/7]
+https://tv.city.bg/play/tshls/citytv/index.m3u8
+#EXTINF:-1,DSTV (Bulgaria) (614p) [Not 24/7]
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1,Hit Mix Music
+http://213.91.179.28:8000/play/a0cl
+#EXTINF:-1,Magic TV (Bulgaria) (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1,The Voice (720p)
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
+#EXTINF:-1,Tiankov Folk (576p)
+https://streamer103.neterra.tv/tiankov-folk/live.m3u8
+#EXTINF:-1,Tiankov Orient Folk (576p)
+https://streamer103.neterra.tv/tiankov-orient/live.m3u8
+#EXTINF:-1,TV Rodina (1080p)
+https://shift03.isp.bg/RodinaTV/index.m3u8
 #EXTINF:-1,1HD Music Television (1080p)
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1,15+ Music (1080p)
@@ -480,8 +578,6 @@ https://kino-1.catcast.tv/content/37745/index.m3u8
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1,Muzyka Live (576p)
 http://stream.mcquack.net/303/index.m3u8
-#EXTINF:-1,Muzyka Pervogo (576p)
-http://stream.mcquack.net/153/index.m3u8
 #EXTINF:-1,MuzzOne
 https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
 #EXTINF:-1,o2tv (720p)
@@ -498,6 +594,20 @@ http://catchup.videoline.ru/shanson/index.m3u8
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1,Strana FM
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+#EXTINF:-1,AlbKanale Music TV HD (1080p)
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1,Elrodi TV (576p)
+http://5.254.89.106/8718/index.m3u8
+#EXTINF:-1,My Music (576p)
+http://5.254.89.106:80/8821/index.m3u8
+#EXTINF:-1,TopEstrada TV (720p)
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1,TV Arberia 4 Muzike (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+#EXTINF:-1,TV Arberia Retro Hits (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:-1,ZICO TV (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
 #EXTINF:-1,Abdulmajeed Abdullah (1080p)
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 #EXTINF:-1,Aghani Aghani TV (1080p)
@@ -554,140 +664,60 @@ https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.
 https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Tarab (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx002/playlist.m3u8
-#EXTINF:-1,4ever Music (1080p)
-http://stream.mcquack.net/257/index.m3u8
-#EXTINF:-1,¡Viva Latino! (1080p)
-http://stream.mcquack.net/285/index.m3u8
-#EXTINF:-1,Black (1080p)
-http://stream.mcquack.net/283/index.m3u8
-#EXTINF:-1,EU Music (1080p)
-http://stream.mcquack.net/261/index.m3u8
-#EXTINF:-1,InRating TV (1080p)
-http://stream.mcquack.net/147/index.m3u8
-#EXTINF:-1,M1 (Ukraine) (1080p)
-http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1,M2 (Ukraine) (1080p)
-http://stream.mcquack.net/330/index.m3u8
-#EXTINF:-1,Megogo Music
-https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
-#EXTINF:-1,Muzvar (1080p)
-https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
-#EXTINF:-1,NASHE Music (720p)
-https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
-#EXTINF:-1,UA Music (1080p)
-http://stream.mcquack.net/281/index.m3u8
-#EXTINF:-1,4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,4 Music
-https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,AFN TV
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
-#EXTINF:-1,Avang TV (1080p)
-https://hls.avang.live/hls/stream.m3u8
-#EXTINF:-1,GEM 24B
-https://ca-rt.onetv.app/gem24b/index-0.m3u8?token=onetv202
-#EXTINF:-1,GEM Mifa
-https://ca-rt.onetv.app/gemmifa/index-0.m3u8?token=onetv202
-#EXTINF:-1,GEM Mifa +
-https://ca-rt.onetv.app/gemmifaplus/index-0.m3u8?token=onetv202
-#EXTINF:-1,High Vision TV (1080p) [Not 24/7]
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-#EXTINF:-1,Navahang TV (720p)
-https://hls.navahang.live/hls/stream.m3u8
-#EXTINF:-1,Persiana Folk
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Persiana Vibe
-https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,PMC
-https://pmchls.wns.live/hls/stream.m3u8
-#EXTINF:-1,PMC Royale (1080p)
-https://pmcrohls.wns.live/hls/stream.m3u8
-#EXTINF:-1,RJTV (1080p)
-https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1,T2 TV
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1,7 RadioVisione (720p)
-https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-#EXTINF:-1,51 Radio TV (480p) [Geo-blocked]
-http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-#EXTINF:-1,70-80 TV
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1,Company TV (720p)
-https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
-#EXTINF:-1,Euro Indie Music Chart TV (360p)
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1,FM ITALIA (1080p)
-https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
-#EXTINF:-1,Kiss Kiss Napoli TV (720p)
-https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1,Kiss Kiss TV (1080p)
-https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
-#EXTINF:-1,m2o TV (1080p)
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1,RADIO DISCOunt TV (1080p)
-https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
-#EXTINF:-1,Radio Piter Pan TV (720p) [Not 24/7]
-https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1,Radio Zeta (1080p)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-#EXTINF:-1,Radiofreccia (1080p)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-#EXTINF:-1,RTL 102.5 Best (1080p)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
-#EXTINF:-1,RTL 102.5 Bro&Sis (1080p)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
-#EXTINF:-1,RTL 102.5 Caliente (1080p)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
-#EXTINF:-1,RTL 102.5 Disco (1080p)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
-#EXTINF:-1,RTL 102.5 Napule (1080p)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-#EXTINF:-1,RTL 102.5 Traffic (1080p)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1,RTL 102.5 TV (1080p)
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1,Video Rola (1080p)
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1,Famatv (1080p) [Not 24/7]
-https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
-#EXTINF:-1,KpopTV Play (576p)
-https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
-#EXTINF:-1,Kuriakos Music (1080p)
-http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
-#EXTINF:-1,Lamore Rock Show WebTV (720p)
-https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
-#EXTINF:-1,MTV Biggest Pop BR (1080p)
-https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
-#EXTINF:-1,MTV Classic BR (720p)
-https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
-#EXTINF:-1,Music Box Brazil (720p)
-http://168.197.104.22/MUSIC/index.m3u8
-#EXTINF:-1,Muzangala TV (1080p)
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-#EXTINF:-1,NPC Radio e TV (720p)
-https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
-#EXTINF:-1,ON FM (720p)
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
-#EXTINF:-1,Pluto TV Karaoke por Stingray (720p)
-https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
-#EXTINF:-1,Pluto TV Shows por Stingray (720p)
-https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
-#EXTINF:-1,RFPtv (360p)
-https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
-#EXTINF:-1,TikTok Radio Brasil (1080p)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
-#EXTINF:-1,Trace Brazuca (1080p)
-https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Brazuca HD (1080p)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1,Trace Toca (1080p)
-https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
-#EXTINF:-1,Trace Urban (1080p)
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Trace Urban HD (1080p)
-https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
-#EXTINF:-1,TV Cidade
-https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1,Atomic Academy TV (480p)
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1,Atomic TV (360p)
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1,Boom TV (1080p)
+https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1,Busuioc TV
+https://tt.nfthost.net/static/streaming-playlists/hls/bb907ca9-5cb5-49dd-b276-d77721a9bc6d/master.m3u8
+#EXTINF:-1,EMI TV
+https://astra.emitv.ro/hls/emi/index.m3u8
+#EXTINF:-1,Impact TV 2 (1080p)
+https://online.tvimpact.live/hls/impact_tv2.m3u8
+#EXTINF:-1,Impact TV (Romania) (1080p)
+https://live.tvimpact.ro:8088/hevc/index.m3u8
+#EXTINF:-1,Impact TV Dance (1080p)
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1,Impact TV Manele (1080p)
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF:-1,Kiss TV (1080p)
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+#EXTINF:-1,LiraTV (720p)
+https://cloud2.streaminglivehd.com:1936/liratv/liratv/playlist.m3u8
+#EXTINF:-1,Magic TV (Romania) (720p)
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+#EXTINF:-1,Mooz Dance
+https://tvextra-hls.b-cdn.net/moozdance/moozdance.m3u8
+#EXTINF:-1,Mooz Hits
+https://tvextra-hls.b-cdn.net/moozhits/moozhits.m3u8
+#EXTINF:-1,Mooz Ro!
+https://tvextra-hls.b-cdn.net/moozro/moozro.m3u8
+#EXTINF:-1,Noroc TV
+https://media.noroc.tv/noroc/bitrate_1080p.m3u8
+#EXTINF:-1,Radio Chisinau (576p)
+https://radiochisinau.md/hls/RChisinau.m3u8
+#EXTINF:-1,Radio Fx Net (720p)
+https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
+#EXTINF:-1,Radio Moldova Muzical
+https://radiolive.trm.md:8001/hls_rmm/muzical.m3u8
+#EXTINF:-1,Radio Romania 3Net (480p)
+https://media.3netmedia.ro/hls/stream.m3u8
+#EXTINF:-1,Radio Romania Antena Satelor (720p) [Not 24/7]
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
+#EXTINF:-1,Rock TV (Romania) (720p)
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:-1,Super TV (Romania) (576p)
+http://iptv.supertv.ro:8000/play/a001/index.m3u8
+#EXTINF:-1,Tele7music (576i)
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1,Tezaur TV (576i)
+https://tezaurtv.md/stream/index.m3u8
+#EXTINF:-1,Traditional TV (1080p)
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:-1,Zona M
+http://forever.megogo.xyz/iptv/QGB4M3H62GC7E3/2470/index.m3u8
 #EXTINF:-1,30A Music (720p)
 https://30a-tv.com/music.m3u8
 #EXTINF:-1,98.1 Pearl FM (720p)
@@ -700,8 +730,6 @@ https://2-fss-1.streamhoster.com/pl_122/206858-4412960-1/playlist.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1,AMusic Channel (720p)
 http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8
-#EXTINF:-1,Atomic TV (360p)
-https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1,AXS TV (720p)
 http://23.239.31.26:8989/axstv/index.m3u8
 #EXTINF:-1,Best of Dance TV (1080p)
@@ -822,8 +850,6 @@ https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1,Qwest TV Jazz & Beyond (1080p)
 https://samsungau-qwestjazz-samsungtv-zw2jc.amagi.tv/playlist/samsungau-qwestjazz-samsungtv/playlist.m3u8
-#EXTINF:-1,Radio Fx Net (720p)
-https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1,Radio Stad den Haag (720p)
 https://rsdh.cloud-streams.com/rsdh/rsdh/playlist.m3u8
 #EXTINF:-1,Rararadio (720p)
@@ -908,6 +934,10 @@ https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
 https://channels.trace.plus/Traceprod/AFRICA_EN_hd/index.m3u8
 #EXTINF:-1,Trace UK (1080p)
 https://channels.trace.plus/Traceprod/UK_FAST_hd/index.m3u8
+#EXTINF:-1,Trace Urban (1080p)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Trace Urban HD (1080p)
+https://channels.trace.plus/Traceprod/URBAN_FR_hd/index.m3u8
 #EXTINF:-1,Trace Urban International HD (1080p)
 https://channels.trace.plus/Traceprod/URBAN_INTER_hd/index.m3u8
 #EXTINF:-1,TVS Music Network (720p)
@@ -982,11 +1012,147 @@ https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 #EXTINF:-1,Yo! MTV CA (1080p)
 https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
-#EXTINF:-1,CCTV-11 (720p)
-http://74.91.26.218:82/live/cctv11hd.m3u8
-#EXTINF:-1,CCTV-15 (1080p)
-https://xykt-fix.github.io/play/a02e/index.m3u8
-#EXTINF:-1,CCTV-Storm Music (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
-#EXTINF:-1,Gugak TV (1080p)
-https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1,H!t Music Channel (480p)
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1,Muzsika TV
+http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1,Slager TV
+http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,Famatv (1080p) [Not 24/7]
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1,Kuriakos Music (1080p)
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1,Lamore Rock Show WebTV (720p)
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1,MTV Biggest Pop BR (1080p)
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+#EXTINF:-1,MTV Classic BR (720p)
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+#EXTINF:-1,Music Box Brazil (720p)
+http://168.197.104.22/MUSIC/index.m3u8
+#EXTINF:-1,Muzangala TV (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1,NPC Radio e TV (720p)
+https://stmv5.samcast.com.br/nasciparacantartv/nasciparacantartv/playlist.m3u8
+#EXTINF:-1,ON FM (720p)
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1,Pluto TV Karaoke por Stingray (720p)
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
+#EXTINF:-1,Pluto TV Shows por Stingray (720p)
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
+#EXTINF:-1,RFPtv (360p)
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1,TikTok Radio Brasil (1080p)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992529
+#EXTINF:-1,Trace Brazuca (1080p)
+https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1,Trace Brazuca HD (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1,Trace Toca (1080p)
+https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
+#EXTINF:-1,TV Cidade
+https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1,BIZ Music (1080p)
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+#EXTINF:-1,FTV (Uzbekistan) (576p)
+https://stream8.cinerama.uz/1018/playlist.m3u8
+#EXTINF:-1,Muz TV Uzbekistan
+https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DM Sat (576p)
+https://shift03.isp.bg/DMSat/index.m3u8
+#EXTINF:-1,Radio Hit FM TV (720p)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1,Radio Karolina TV (720p)
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1,Radio Lola TV (720p) [Not 24/7]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1,RTS Muzika (576p)
+https://de1.dstv.cx/RTSMuzika/index.m3u8
+#EXTINF:-1,TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1,Top TV (Serbia) (1080p)
+http://82.165.71.58:8081/TopTV/live/playlist.m3u8
+#EXTINF:-1,TV Duga+ (480p) [Not 24/7]
+http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
+#EXTINF:-1,JRTV Jarviradio (720p)
+https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
+#EXTINF:-1,YleX (720p)
+https://ylestudiolive.akamaized.net/hls/live/2007826/ylestudiolive-YleX/master.m3u8
+#EXTINF:-1,Music Information Channel (720p)
+https://mic.siar.us/mic/live/mic.m3u8
+#EXTINF:-1,7 RadioVisione (720p)
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+#EXTINF:-1,51 Radio TV (480p) [Geo-blocked]
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1,70-80 TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1,Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
+#EXTINF:-1,Euro Indie Music Chart TV (360p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1,FM ITALIA (1080p)
+https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8
+#EXTINF:-1,Kiss Kiss Napoli TV (720p)
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1,Kiss Kiss TV (1080p)
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+#EXTINF:-1,m2o TV (1080p)
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1,RADIO DISCOunt TV (1080p)
+https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
+#EXTINF:-1,Radio Piter Pan TV (720p) [Not 24/7]
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1,Radio Zeta (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1,Radiofreccia (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1,RTL 102.5 Best (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1,RTL 102.5 Bro&Sis (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1,RTL 102.5 Caliente (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1,RTL 102.5 Disco (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1,RTL 102.5 Napule (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1,RTL 102.5 Traffic (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1,RTL 102.5 TV (1080p)
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1,Video Rola (1080p)
+https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
+#EXTINF:-1,ATN Music (360p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1,Dhoom Music (720p)
+https://cdn.pishow.tv/ott/live/1456/master.m3u8
+#EXTINF:-1,Orange Bangla TV (720p)
+https://cdn.pishow.tv/ott/live/1499/master.m3u8
+#EXTINF:-1,Sangeet Bangla (720p)
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
+#EXTINF:-1,ZB Music (720p)
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1,Radio SWH TV (1080p)
+https://00ff00.latnet.media/edge/swh_tv.smil/playlist.m3u8
+#EXTINF:-1,8XM HD
+https://cdn4.mjunoon.tv:8087/streamtest/135M/chunks.m3u8
+#EXTINF:-1,ARY Musik (1080p)
+https://arymusik.aryzap.com/3fd38b2c62d0c3bbd74aedabb533c03a/6459fa78/v1/01847ac7a4930b8ed5aa6ed04aba/01847ac8f5f70b8ed5aa6ed04abd/main.m3u8
+#EXTINF:-1,LRT Klasika (1080p)
+https://stream-live.lrt.lt/klasika/master.m3u8
+#EXTINF:-1,LRT Opus (1080p)
+https://stream-live.lrt.lt/opus/master.m3u8
+#EXTINF:-1,M-1 (480p)
+https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8
+#EXTINF:-1,Power Hit Radio (576p)
+https://cdnlb.tvplayhome.lt/live/eds/PWR_LTU_Live/GO3_LIVE_HLS/PWR_LTU_Live.m3u8
+#EXTINF:-1,Med Muzik (1080p)
+http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1,EBS Musika (720p)
+https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8
+#EXTINF:-1,AMC (Afghanistan) (1080p)
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Kayhan TV (720p)
+https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8

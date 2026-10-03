@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Germany
-#TOTAL: 198
+#TOTAL: 197
 
 #EXTINF:-1,1-2-3.tv (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
@@ -40,8 +40,6 @@ https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 #EXTINF:-1,Chaos City
 https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
-#EXTINF:-1,Cira TV (1080p)
-https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 #EXTINF:-1,Curiosity Channel (720p)
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 #EXTINF:-1,Das Erste HD (1080p)

@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Switzerland
-#TOTAL: 30
+#TOTAL: 28
 
 #EXTINF:-1,Canal 9 (1080p)
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
@@ -36,10 +36,6 @@ https://a24daf1125344b9cab66eed2fcff8821.mediatailor.us-east-1.amazonaws.com/v1/
 https://edge14.vedge.infomaniak.com/livecast/ik:rhonetv/manifest.m3u8
 #EXTINF:-1,RTS Info (1080p)
 https://rtsinfo-d.akamaized.net/out/v1/2b7ae2e1ba3f43c6aba15bced153baf5/index.m3u8
-#EXTINF:-1,RTV Islam (720p)
-http://5.254.89.106/8714/index.m3u8
-#EXTINF:-1,RTV Pendimi (720p)
-https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
 #EXTINF:-1,Sivan TV (1080p)
 http://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1,SRF zwei

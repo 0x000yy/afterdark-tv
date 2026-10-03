@@ -2,6 +2,8 @@
 #GROUP: Animation
 #TOTAL: 34
 
+#EXTINF:-1,Animax Asia India (1080p) [Geo-blocked]
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1,Anime Vision (1080p)
 https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
 #EXTINF:-1,Anime Vision Classics (1080p)
@@ -30,20 +32,8 @@ https://jmp2.uk/plu-5ff4b9ccf938f8000779eb99.m3u8
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 #EXTINF:-1,Pluto TV Anime LatAm
 https://jmp2.uk/plu-5dcde17bf6591d0009839e02.m3u8
-#EXTINF:-1,Geekdot (720p)
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1,Naruto Brazil
-https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
-#EXTINF:-1,Pluto TV Anime BR
-https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
-#EXTINF:-1,Pluto TV Anime Acao
-https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
-#EXTINF:-1,Tokusato
-https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1,Animation+ (1080p) [Geo-blocked]
 https://pb-ioe9d0fpkd6pp.akamaized.net/playlist.m3u8
-#EXTINF:-1,Animax Asia India (1080p) [Geo-blocked]
-https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
 #EXTINF:-1,Anime x HIDIVE
 https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
 #EXTINF:-1,Aniplus Asia (720p)
@@ -70,3 +60,13 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1,Yu-Gi-Oh! (1080p)
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
+#EXTINF:-1,Geekdot (720p)
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1,Naruto Brazil
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+#EXTINF:-1,Pluto TV Anime BR
+https://jmp2.uk/plu-5f12136385bccc00070142ed.m3u8
+#EXTINF:-1,Pluto TV Anime Acao
+https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
+#EXTINF:-1,Tokusato
+https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
