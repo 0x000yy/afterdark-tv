@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Lahnda
+#TOTAL: 2
+
+#EXTINF:-1,Rohi (576p)
+http://103.250.28.74:8000/play/a00d/index.m3u8
+#EXTINF:-1,Waseb TV (576p)
+http://103.250.28.74:8000/play/a04k/index.m3u8

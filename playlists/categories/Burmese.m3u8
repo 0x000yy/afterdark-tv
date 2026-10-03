@@ -1,0 +1,36 @@
+#EXTM3U
+#GROUP: Burmese
+#TOTAL: 16
+
+#EXTINF:-1,5 Plus (720p)
+https://mmtvs.exliatycl.online/5plus/stream.m3u8
+#EXTINF:-1,Channel 9 (Myanmar) (720p)
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
+#EXTINF:-1,Channel K (720p)
+https://mmtvs.exliatycl.online/channelk/stream.m3u8
+#EXTINF:-1,DVB TV (720p) [Geo-blocked]
+https://live-stream.dvb.no/hls/stream_src/index.m3u8
+#EXTINF:-1,Fortune TV (720p)
+http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
+#EXTINF:-1,Hluttaw S & D
+https://mrtvott.com/cache/MRTV-HLUTTAW/master.m3u8
+#EXTINF:-1,MRTV
+https://mrtvott.com/cache/MRTV-HD/master.m3u8
+#EXTINF:-1,MRTV Entertainment
+https://mrtvott.com/cache/MRTV-Ent-HD/master.m3u8
+#EXTINF:-1,MRTV Farmer
+https://mrtvott.com/cache/MRTV-FARMER/master.m3u8
+#EXTINF:-1,MRTV News
+https://mrtvott.com/cache/MRTV-NEWS-HD/master.m3u8
+#EXTINF:-1,MRTV NRC
+https://mrtvott.com/cache/MRTV-NRC-HD/master.m3u8
+#EXTINF:-1,MRTV Sports [Not 24/7]
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1,MWD (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1,MWD Documentary [Geo-blocked]
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1,MWD Movies [Not 24/7]
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1,MWD Variety (720p) [Not 24/7]
+http://203.81.84.130/hls/mwd_variety/index.m3u8

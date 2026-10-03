@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Ayizo Gbe
+#TOTAL: 1
+
+#EXTINF:-1,Eden TV (540p) [Not 24/7]
+https://rtmp.edentv.bj/hls/stream.m3u8

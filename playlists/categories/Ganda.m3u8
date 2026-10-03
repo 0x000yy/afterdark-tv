@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Ganda
+#TOTAL: 2
+
+#EXTINF:-1,BBS TV (Uganda)
+https://bbstv.ug/hls/ch01/index.m3u8
+#EXTINF:-1,Bukedde TV 1 (576p)
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8

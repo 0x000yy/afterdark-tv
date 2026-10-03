@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Konzo
+#TOTAL: 1
+
+#EXTINF:-1,Rwenzori TV
+https://stream.rwenzoritv.com:3232/live/rwenzoritvlive.m3u8

@@ -1,0 +1,70 @@
+#EXTM3U
+#GROUP: Kannada
+#TOTAL: 33
+
+#EXTINF:-1,Aastha Kannada (480p)
+https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
+#EXTINF:-1,Asianet Suvarna News (1080p) [Not 24/7]
+https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+#EXTINF:-1,Ayush TV (576p)
+http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
+#EXTINF:-1,Bhakthi Siri (576p)
+https://mumbai-edge.smartplaytv.in/Bhakthisiri/index.m3u8
+#EXTINF:-1,Colors Kannada (576p)
+http://51.75.127.199:3141/colorskannadasd/index.m3u8
+#EXTINF:-1,Colors Kannada HD (1080i)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8
+#EXTINF:-1,Colors Kannada Cinema (576p)
+http://51.75.127.199:3141/colorskannadacinema/index.m3u8
+#EXTINF:-1,Colors Super (396p)
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:colorssuper1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1,DD Chandana (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
+#EXTINF:-1,Guarantee News (1080p)
+https://guaranteenews.in:8443/live/gnews/index.m3u8
+#EXTINF:-1,Nakshatra Digital TV (576p)
+http://51.75.127.199:3141/nakshatradigitaltv/index.m3u8
+#EXTINF:-1,News 1st (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/News1st/playlist.m3u8
+#EXTINF:-1,News18 Kannada (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
+#EXTINF:-1,NKR TV Kannada (1080p)
+https://stream.ottlive.co.in/nkrtv/index.m3u8
+#EXTINF:-1,Power TV (India) (576p)
+https://powertvkannada.com/hls/stream.m3u8
+#EXTINF:-1,Public Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+#EXTINF:-1,Public Music (576p)
+https://mumt04.tangotv.in/m18aqlK4PUBLICMUSIC/index.m3u8
+#EXTINF:-1,Public TV (720p)
+https://cdn.pishow.tv/ott/live/439/master.m3u8
+#EXTINF:-1,Raj Musix Kannada (576p)
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8
+#EXTINF:-1,Raj News Kannada (576p)
+https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8
+#EXTINF:-1,Republic Kannada (720p)
+https://mumbai-edge.smartplaytv.in/republickannada/index.m3u8
+#EXTINF:-1,Sankara TV (576p)
+https://mumt05.tangotv.in/87NeALx2SRISANKARA/index.m3u8
+#EXTINF:-1,Siri Kannada (576p)
+https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
+#EXTINF:-1,Siri Kannada All Time (576p)
+https://mumt07.tangotv.in/zHjX9OFlSIRIKANNADAALLTIME/index.m3u8
+#EXTINF:-1,Star Suvarna (576p)
+http://51.75.127.199:3141/starsuvarna/index.m3u8
+#EXTINF:-1,Star Suvarna Plus (576p)
+http://51.75.127.199:3141/starsuvarnaplus/index.m3u8
+#EXTINF:-1,Suvarna News SD (576p)
+https://streams.tangotv.in/SUVARNANEWS/ORIGIN/index.m3u8
+#EXTINF:-1,SVBC 3 (720p)
+https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
+#EXTINF:-1,TV5 Kannada (576p)
+https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
+#EXTINF:-1,TV9 Kannada (576p)
+https://streams.tangotv.in/TV9KANNADA/ORIGIN/index.m3u8
+#EXTINF:-1,Zee Kannada HD (1080p)
+https://yuppnimresmum.akamaized.net/28072023/smil:zeekannadahd.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1,Zee Kannada News (720p)
+https://d3vzwoqcbpfm8p.cloudfront.net/index_4.m3u8
+#EXTINF:-1,Zee Power HD (1080p)
+http://51.75.127.199:3141/zeepowerhd/index.m3u8

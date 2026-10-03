@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Min Nan Chinese
+#TOTAL: 1
+
+#EXTINF:-1,Dali TV (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8

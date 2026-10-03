@@ -1,12 +1,12 @@
 #EXTM3U
 #PLAYLIST: featured/cnn.m3u8
-#DATE: 2026-10-03 09:21:35 UTC
+#DATE: 2026-10-03 16:18:47 UTC
 #TOTAL: 19
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-country="US" group-title="USA",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 #EXTINF:-1 tvg-id="News18.com" tvg-logo="https://i.imgur.com/K3M8MoK.png" tvg-country="IN" group-title="India",CNN-News18
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://i.imgur.com/NYH39xs.png" tvg-country="PT" group-title="Portugal",CNN Portugal
@@ -15,7 +15,7 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
 #EXTINF:-1 tvg-id="CNNIndonesia.am" tvg-logo="https://imgur.com/MpxTMiP" tvg-country="ID" group-title="Indonesia",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="Czech Republic",CNN Prima News (1080p)
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="Czech",CNN Prima News (1080p)
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-country="AL" group-title="Albania",A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
@@ -29,10 +29,10 @@ http://181.78.8.199:8000/play/a0a7/index.m3u8
 http://181.65.191.173:8069/play/a061
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entertainment",RCN Novelas (1080p)
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.al" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-country="AL" group-title="Albania",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-id="CNA.al@SD" group-title="غير مصنف",CNA
 https://live1.mediadesk.al/cnatv.php
+#EXTINF:-1 tvg-id="CNA.al" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-country="AL" group-title="Albania",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://i.imgur.com/E3pamA5.png" tvg-country="AR" group-title="Argentina",C5N Ⓨ
 https://www.youtube.com/c/c5n/live
 #EXTINF:-1 tvg-id="CinePlus.ua@SD" tvg-logo="https://i.imgur.com/SAtdShq.png" group-title="Movies",Cine+

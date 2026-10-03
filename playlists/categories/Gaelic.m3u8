@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Gaelic
+#TOTAL: 1
+
+#EXTINF:-1,BBC Alba
+https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd

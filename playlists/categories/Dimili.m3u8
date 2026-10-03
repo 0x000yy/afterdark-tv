@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Dimili
+#TOTAL: 2
+
+#EXTINF:-1,TRT Kurdi (720p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Zarok TV (720p)
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8

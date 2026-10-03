@@ -1,0 +1,52 @@
+#EXTM3U
+#GROUP: Marathi
+#TOTAL: 24
+
+#EXTINF:-1,9X Jhakaas (1080p)
+https://amg01281-9xmediapvtltd-9xjhakaas-samsungin-ci2cs.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjhakaas-samsungin/playlist.m3u8
+#EXTINF:-1,ABP Majha (576p)
+https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
+#EXTINF:-1,Colors Marathi (576p)
+http://51.75.127.199:3141/colorsmarathisd/index.m3u8
+#EXTINF:-1,Colors Marathi HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsmarathihd.smil/playlist.m3u8
+#EXTINF:-1,DD Sahyadri (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
+#EXTINF:-1,Fakt Marathi (576p)
+https://mumt07.tangotv.in/zHjX9OFlFAKTMARATHI/index.m3u8
+#EXTINF:-1,Jai Maharashtra (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/jaimaharashtra/playlist.m3u8
+#EXTINF:-1,Lokshahi News (576p)
+https://mumt05.tangotv.in/87NeALx2LOKSAAHI/index.m3u8
+#EXTINF:-1,NDTV Marathi (1080p)
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
+#EXTINF:-1,News18 Marathi (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+#EXTINF:-1,News Marathi 24x7 (720p)
+https://live1.ottlive.co.in/newsmarathi/newsmarathi/index.m3u8
+#EXTINF:-1,Pudhari News (576p)
+https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
+#EXTINF:-1,Sangeet Marathi (720p)
+https://cdn.pishow.tv/ott/live/1229/master.m3u8
+#EXTINF:-1,Shemaroo Marathi Bana (720p)
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1,Sony Marathi (1080p)
+https://cloudplay-sonyliv.pages.dev/marathi.m3u8
+#EXTINF:-1,Star Pravah (576p)
+http://51.75.127.199:3141/starpravah/index.m3u8
+#EXTINF:-1,Star Pravah HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8
+#EXTINF:-1,Top News Marathi (1080p)
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8
+#EXTINF:-1,Tulja Bhavani (576p)
+http://51.75.127.199:3141/tuljabhavani/index.m3u8
+#EXTINF:-1,TV9 Marathi (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
+#EXTINF:-1,Zee 24 Taas (720p)
+https://dgrvlduwztkd4.cloudfront.net/index_5.m3u8
+#EXTINF:-1,Zee Marathi HD (1080p)
+http://51.75.127.199:3141/zeemarathihd/index.m3u8
+#EXTINF:-1,Zee Talkies (576p)
+http://107.167.16.138/zeetalkies/index.m3u8?token=test
+#EXTINF:-1,Zee Talkies HD (1080p)
+http://51.75.127.199:3141/zeetalkieshd/index.m3u8

@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Irish
+#TOTAL: 1
+
+#EXTINF:-1,Oireachtas TV (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/discovery.m3u8
-#DATE: 2026-10-03 09:21:37 UTC
+#DATE: 2026-10-03 16:18:48 UTC
 #TOTAL: 20
 
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-country="IT" group-title="Italy",Discovery Channel
@@ -15,15 +15,15 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" group-title="غير مصنف",Discover Pakistan
 http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel",Discover Pakistan (1080p)
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Culture;Documentary",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Urdu",Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="DiasporaTV.pe@SD" tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="Culture",Diaspora TV
 https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" group-title="غير مصنف",DSports
 http://138.121.113.175:8000/play/a0cj/index.m3u8
-#EXTINF:-1 tvg-id="Diaspora24.sn@SD" tvg-logo="https://i.imgur.com/4devfx1.png" group-title="Senegal",Diaspora 24 [Geo-blocked]
+#EXTINF:-1 tvg-id="Diaspora24.sn@SD" tvg-logo="https://i.imgur.com/4devfx1.png" group-title="French",Diaspora 24 [Geo-blocked]
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 #EXTINF:-1 tvg-id="DSports2.us@Panregional" group-title="غير مصنف",DSports 2
 http://138.121.113.175:8000/play/a0ca/index.m3u8

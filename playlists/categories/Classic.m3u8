@@ -2,40 +2,28 @@
 #GROUP: Classic
 #TOTAL: 53
 
-#EXTINF:-1,Zee Cine Classic (1080p)
-https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1,Zee Classic (576p)
-http://107.167.16.138/zeeclassic/index.m3u8?token=test
+#EXTINF:-1,Rotana Classic (1080p) [Geo-blocked]
+https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1,Thikrayat TV (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+#EXTINF:-1,Nostalgia (Russia) (576p)
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1,Retro (576p)
+http://stream.mcquack.net/191/index.m3u8
 #EXTINF:-1,Classic TV
 https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1,GEM Classic
 https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
 #EXTINF:-1,CCTV-Nostalgia Theater (1080p)
 http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-#EXTINF:-1,13Rec (576p)
-http://45.4.1.201:8000/play/a11i/index.m3u8
-#EXTINF:-1,MacGyver (United States) LatAm
-https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
-#EXTINF:-1,Pluto TV Series Retro
-https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
-#EXTINF:-1,Retrox TV (720p) [Not 24/7]
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
-#EXTINF:-1,TeleNostalgia (1080p)
-http://38.134.250.110:8000/play/a01q/index.m3u8
-#EXTINF:-1,TVN3 (1080p)
-http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
-#EXTINF:-1,TVS Retro (720p)
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1,Nostalgia (Bulgaria)
-http://213.91.179.28:8000/play/a03q
-#EXTINF:-1,Nostalgia (Russia) (576p)
-http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
-#EXTINF:-1,Retro (576p)
-http://stream.mcquack.net/191/index.m3u8
-#EXTINF:-1,Rotana Classic (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Thikrayat TV (1080p) [Geo-blocked]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
+#EXTINF:-1,MacGyver (United States)
+https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
+#EXTINF:-1,Pluto TV Desenhos Classicos
+https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1,Zee Cine Classic (1080p)
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+#EXTINF:-1,Zee Classic (576p)
+http://107.167.16.138/zeeclassic/index.m3u8?token=test
 #EXTINF:-1,Beverly Hillbillies
 https://jmp2.uk/plu-5f7796e470510900070d4e3d.m3u8
 #EXTINF:-1,Cinevault Westerns (540p) [Geo-blocked]
@@ -104,7 +92,19 @@ https://aegis-cloudfront-1.tubi.video/d5171dc7-f8c6-469c-81eb-e1ffaaed5721/playl
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 #EXTINF:-1,Westerns 4U (1080p)
 http://181.224.255.210:8001/play/a0rq/index.m3u8
-#EXTINF:-1,MacGyver (United States)
-https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
-#EXTINF:-1,Pluto TV Desenhos Classicos
-https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1,13Rec (576p)
+http://45.4.1.201:8000/play/a11i/index.m3u8
+#EXTINF:-1,MacGyver (United States) LatAm
+https://jmp2.uk/plu-63eb95baa99571000898a078.m3u8
+#EXTINF:-1,Pluto TV Series Retro
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1,Retrox TV (720p) [Not 24/7]
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/playlist.m3u8
+#EXTINF:-1,TeleNostalgia (1080p)
+http://38.134.250.110:8000/play/a01q/index.m3u8
+#EXTINF:-1,TVN3 (1080p)
+http://cdn1tlinkgo.tlink.cl/tvn3/mono.m3u8
+#EXTINF:-1,TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1,Nostalgia (Bulgaria)
+http://213.91.179.28:8000/play/a03q

@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/super-sport.m3u8
-#DATE: 2026-10-03 09:21:35 UTC
+#DATE: 2026-10-03 16:18:46 UTC
 #TOTAL: 29
 
 #EXTINF:-1 tvg-id="SuperscreenTV.ng" tvg-logo="https://i.imgur.com/DuhRy48.png" tvg-country="NG" group-title="Nigeria",Superscreen TV
@@ -47,10 +47,10 @@ http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
 http://31.148.48.15/Malish_TV/index.m3u8
 #EXTINF:-1 tvg-id="SuperCable.cr@SD" tvg-logo="https://i.imgur.com/KYtJp8F.png" group-title="Entertainment",Super Cable
 http://191.102.39.254:5000/live/5up3r5/playlist.m3u8
-#EXTINF:-1 tvg-id="SuperQPanama.pa@SD" tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="Music",Super Q Panama (1080p)
-https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperyachtTV.mc@SD" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Lifestyle",Superyacht TV (1080p)
 https://sy.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="SuperQPanama.pa@SD" tvg-logo="https://i.imgur.com/ocTnqi7.png" group-title="Music",Super Q Panama (1080p)
+https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperCanal.pe@SD" group-title="غير مصنف",Super Canal (720p)
 https://live.obslivestream.com/supercanal/index.m3u8
 #EXTINF:-1 tvg-id="SuperChannel12.mx@SD" tvg-logo="https://i.imgur.com/dLHIvKz.png" group-title="General",Super Channel 12 (1080p)

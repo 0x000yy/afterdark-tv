@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Belarusian
+#TOTAL: 1
+
+#EXTINF:-1,Sport TV (1080p)
+http://178.124.179.122:8080/SportTV/mpegts

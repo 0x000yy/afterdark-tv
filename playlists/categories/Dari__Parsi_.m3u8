@@ -1,0 +1,30 @@
+#EXTM3U
+#GROUP: Dari (Parsi)
+#TOTAL: 13
+
+#EXTINF:-1,4 Afghanistan
+https://4afghls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,ABN Afghanistan (540p)
+https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
+#EXTINF:-1,Afghan Nobel Movies (720p)
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1,Afghan Nobel TV (720p)
+https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8
+#EXTINF:-1,Amu TV
+https://jmc-live.ercdn.net/amutv/amutv.m3u8
+#EXTINF:-1,Bahar TV (720p) [Not 24/7]
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1,BBC News Pashto (720p)
+https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1,Dunya Naw TV (576p)
+https://dunyanhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Payam-e-Afghan TV (480p) [Not 24/7]
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1,RTA (1080p)
+https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8
+#EXTINF:-1,Shams TV (Afghanistan)
+https://fflive-darya-educationtv.b-cdn.net/master.m3u8
+#EXTINF:-1,Sohail TV (1080p)
+https://iptv.sohailtv.com/sohail/playlist/index.m3u8
+#EXTINF:-1,Tamadon TV (720p)
+https://hls.tamadon.live/hls/stream.m3u8

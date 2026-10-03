@@ -1,0 +1,50 @@
+#EXTM3U
+#GROUP: Gujarati
+#TOTAL: 23
+
+#EXTINF:-1,Aastha Gujarati (576p)
+https://mumt04.tangotv.in/m18aqlK4AASTHAGUJARATI/index.m3u8
+#EXTINF:-1,ABP Asmita (1080p)
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8
+#EXTINF:-1,BS9 News (576p)
+http://51.75.127.199:3141/bs9news/index.m3u8
+#EXTINF:-1,Buletin India (576p)
+http://51.75.127.199:3141/buletinindia/index.m3u8
+#EXTINF:-1,CNBC Bajar (1080p)
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
+#EXTINF:-1,Colors Gujarati (396p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+#EXTINF:-1,Colors Gujarati Cinema (576p)
+http://51.75.127.199:3141/colorsgujaraticinema/index.m3u8
+#EXTINF:-1,DD Girnar (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
+#EXTINF:-1,GS TV (576p)
+https://mumt05.tangotv.in/87NeALx2GSTV/index.m3u8
+#EXTINF:-1,Gujarat First (576p)
+https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
+#EXTINF:-1,Mantavya News (576p)
+https://d1msejlow1t3l4.cloudfront.net/fta/mantavya/playlist.m3u8
+#EXTINF:-1,News18 Gujarati (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
+#EXTINF:-1,News Capital Gujarat (1080p)
+https://newscapital.com/hls/main4/stream.m3u8
+#EXTINF:-1,News Capital Market (1080p)
+https://newscapital.com/hls/stream.m3u8?token=Nc360PermanentSecureKey987
+#EXTINF:-1,Pradesh24 Gujarati (1080p)
+https://stream2.livebox.co.in/pradesh24hls/live.m3u8
+#EXTINF:-1,Sadvidya TV (576p)
+http://51.75.127.199:3141/sadvidyatv/index.m3u8
+#EXTINF:-1,Sandesh News (576p)
+https://mumt01.tangotv.in/O5aw8Zn3SANDESHNEWS/index.m3u8
+#EXTINF:-1,TV9 Gujarati (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
+#EXTINF:-1,TV13 Gujarati (480p)
+https://live.wrencdn.in/wrencdn/hls/tv13_web/index.m3u8
+#EXTINF:-1,Valam TV Dayro (576p)
+https://mumt03.tangotv.in/Dsly5z3HVALAMDAIRO/index.m3u8
+#EXTINF:-1,VR Live (720p)
+https://channel.vrlivegujarat.com/hls/vrchannel.m3u8
+#EXTINF:-1,VTV News (576p)
+https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8
+#EXTINF:-1,Zee 24 Kalak (720p)
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zee24kalak/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/497f7199-758d-495d-9d2f-a5489231c428/14b7c8ec-16da-47f2-8d7e-5bbaec67b3e2/3.m3u8

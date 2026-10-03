@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Bambara
+#TOTAL: 1
+
+#EXTINF:-1,ORTM 1
+https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8

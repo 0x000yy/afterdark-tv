@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Sindhi
+#TOTAL: 1
+
+#EXTINF:-1,KTN News (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8

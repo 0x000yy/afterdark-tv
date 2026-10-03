@@ -1,0 +1,18 @@
+#EXTM3U
+#GROUP: Sinhala
+#TOTAL: 7
+
+#EXTINF:-1,Charana TV (360p)
+https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+#EXTINF:-1,Hiru TV (360p) [Not 24/7]
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1,Jaya TV (480p)
+https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
+#EXTINF:-1,Shraddha TV (480p)
+https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
+#EXTINF:-1,Siyatha TV (576p)
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:-1,Swarnavahini (480p)
+https://teledrama.ebc.lk/TTT/proxy.php
+#EXTINF:-1,The Buddhist (480p)
+https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8

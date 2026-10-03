@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Mandarin Chinese
+#TOTAL: 2
+
+#EXTINF:-1,AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1,Bread TV (720p)
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8

@@ -1,0 +1,74 @@
+#EXTM3U
+#GROUP: Mongolian
+#TOTAL: 35
+
+#EXTINF:-1,AsianBox (1080p)
+https://cdn4.skygo.mn/live/disk1/AsianBOX/DASH-FTA/AsianBOX.mpd
+#EXTINF:-1,Bloomberg TV Mongolia (1080p)
+https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
+#EXTINF:-1,C1 (1080p)
+https://cdn4.skygo.mn/live/disk1/C1/DASH-FTA/C1.mpd
+#EXTINF:-1,Central TV (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/Ekh_Oron/DASH-FTA/Ekh_Oron.mpd
+#EXTINF:-1,Channel 11 (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/Channel11/DASH-FTA/Channel11.mpd
+#EXTINF:-1,Cinema (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
+#EXTINF:-1,DreamTV (1080p)
+https://xykt-fix.github.io/play/a02j/index.m3u8
+#EXTINF:-1,Eagle News (1080p)
+https://cdn4.skygo.mn/live/disk1/Eagle/DASH-FTA/Eagle.mpd
+#EXTINF:-1,Edutainment TV (1080p)
+https://cdn4.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
+#EXTINF:-1,ETV (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/ETV/DASH-FTA/ETV.mpd
+#EXTINF:-1,Global TV (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/GlobalTV/DASH-FTA/GlobalTV.mpd
+#EXTINF:-1,GTV (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/GTV/DASH-FTA/GTV.mpd
+#EXTINF:-1,Malchin TV (1080p)
+https://cdn4.skygo.mn/live/disk1/Malchin/DASH-FTA/Malchin.mpd
+#EXTINF:-1,MN+
+https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
+#EXTINF:-1,MNB (1080p)
+https://cdn4.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
+#EXTINF:-1,MNB Mongoliin Medee (1080p)
+https://cdn4.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
+#EXTINF:-1,MNB Sport (1080p)
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+#EXTINF:-1,Mongolian News Channel (1080p)
+https://cdn4.skygo.mn/live/disk1/MNCTV/DASH-FTA/MNCTV.mpd
+#EXTINF:-1,MovieBox (1080p)
+https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
+#EXTINF:-1,NTV (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
+#EXTINF:-1,ONTV (1080p)
+https://cdn4.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
+#EXTINF:-1,Parliament TV (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/Parlament/DASH-FTA/Parlament.mpd
+#EXTINF:-1,SBN (1080p)
+https://cdn4.skygo.mn/live/disk1/SBN/DASH-FTA/SBN.mpd
+#EXTINF:-1,Seven Channel (720p) [Not 24/7]
+https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8
+#EXTINF:-1,Soyon Gegeeruulegch TV (1080p)
+https://cdn4.skygo.mn/live/disk1/SoyonGegeeruulegch/DASH-FTA/SoyonGegeeruulegch.mpd
+#EXTINF:-1,Star TV (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
+#EXTINF:-1,Suld TV (1080p)
+https://cdn4.skygo.mn/live/disk1/SuldTV/DASH-FTA/SuldTV.mpd
+#EXTINF:-1,TenGer TV (1080p)
+https://cdn4.skygo.mn/live/disk1/VTV/DASH-FTA/VTV.mpd
+#EXTINF:-1,TM TV (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/TM/DASH-FTA/TM.mpd
+#EXTINF:-1,TV5 (1080p)
+https://cdn4.skygo.mn/live/disk1/TV5HD/DASH-FTA/TV5HD.mpd
+#EXTINF:-1,TV8 (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/TV8HD/DASH-FTA/TV8HD.mpd
+#EXTINF:-1,TV9 (Mongolia) (1080p)
+https://cdn4.skygo.mn/live/disk1/TV9HD/DASH-FTA/TV9HD.mpd
+#EXTINF:-1,TV 25 (1080p)
+https://cdn4.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
+#EXTINF:-1,UBS (1080p)
+https://cdn4.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
+#EXTINF:-1,Ulzii TV (1080p)
+https://cdn4.skygo.mn/live/disk1/UlziiTV/DASH-FTA/UlziiTV.mpd

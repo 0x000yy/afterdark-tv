@@ -1,0 +1,22 @@
+#EXTM3U
+#GROUP: Somali
+#TOTAL: 9
+
+#EXTINF:-1,Arlaadi TV
+https://ap02.iqplay.tv:8082/iqb8002/alr114iapp/playlist.m3u8
+#EXTINF:-1,Dacwa TV (576p) [Not 24/7]
+https://ap02.iqplay.tv:8082/iqb8002/d13w1/playlist.m3u8
+#EXTINF:-1,Hirshabelle TV (576p)
+http://ap02.iqplay.tv:8081/iqb8002/h1rshbe1iptv/playlist.m3u8
+#EXTINF:-1,Kalsan TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
+#EXTINF:-1,Puntland TV (720p)
+http://cdn.mediavisionuae.com:1935/live/putlandtv2.stream/playlist.m3u8
+#EXTINF:-1,Saab TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/playlist.m3u8
+#EXTINF:-1,SBC TV (720p) [Not 24/7]
+http://cdn.mediavisionuae.com:1935/live/sbctv.stream/playlist.m3u8
+#EXTINF:-1,SNTV Daljir (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s2tve/playlist.m3u8
+#EXTINF:-1,Somali National TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8

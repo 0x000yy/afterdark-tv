@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Bisa
+#TOTAL: 1
+
+#EXTINF:-1,RTB 3
+https://edge13.vedge.infomaniak.com/livecast/ik:rtb3-1/manifest.m3u8

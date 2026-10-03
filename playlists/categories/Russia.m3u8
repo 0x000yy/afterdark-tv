@@ -1,13 +1,7 @@
 #EXTM3U
 #GROUP: Russia
-#TOTAL: 44
+#TOTAL: 41
 
-#EXTINF:-1,FashionTV (Russia) (1080p)
-http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
-#EXTINF:-1,MCM Top (576p)
-http://46.32.176.50/mcmtop/index.m3u8
-#EXTINF:-1,Tamyr (576p)
-https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1,Матч ТВ Ⓢ
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1,НТВ Ⓢ

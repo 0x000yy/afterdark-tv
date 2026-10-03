@@ -1,11 +1,7 @@
 #EXTM3U
 #GROUP: Israel
-#TOTAL: 5
+#TOTAL: 3
 
-#EXTINF:-1,i24NEWS French (1080p)
-https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1,Yam Tichoni (1080p)
-http://stream.mcquack.net/46/index.m3u8
 #EXTINF:-1,9 канал Ⓨ
 https://www.youtube.com/@israel9tv/live
 #EXTINF:-1,ערוץ 13

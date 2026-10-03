@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Ewe
+#TOTAL: 1
+
+#EXTINF:-1,TVT (Togo) (720p) [Not 24/7]
+http://69.64.57.208/tvt/playlist.m3u8

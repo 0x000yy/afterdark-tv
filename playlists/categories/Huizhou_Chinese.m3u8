@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Huizhou Chinese
+#TOTAL: 1
+
+#EXTINF:-1,AXN White CzechRepublic
+http://88.212.15.19/live/test_white/playlist.m3u8

@@ -1,0 +1,32 @@
+#EXTM3U
+#GROUP: Assamese
+#TOTAL: 14
+
+#EXTINF:-1,Asom Live 24 (576p)
+https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
+#EXTINF:-1,Assam Talks (576p)
+http://tvsen7.aynascope.net/AssamTalks/index.m3u8
+#EXTINF:-1,DY 365 (360p)
+https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
+#EXTINF:-1,Jonack (576p)
+https://cdn.pishow.tv/ott/live/10006/master.m3u8
+#EXTINF:-1,News Live (576p)
+https://prideeast.thelegitpro.in/newslive/newslive/index.m3u8
+#EXTINF:-1,NK TV 24x7 (1080p)
+https://nktv.smartstream.video/smartstream-us/nktvplus/nktvplus/chunks.m3u8
+#EXTINF:-1,Pear TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3PEARTV/index.m3u8
+#EXTINF:-1,Prag News (576p)
+https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
+#EXTINF:-1,Pratham Khabar 24x7 (576p)
+https://livelegitpro.in/hls2/newstime/index.m3u8
+#EXTINF:-1,Pratidin Time (576p)
+https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
+#EXTINF:-1,Ramdhenu (576p)
+https://mumt01.tangotv.in/O5aw8Zn3RAMDHENU/index.m3u8
+#EXTINF:-1,Rang (576p)
+https://cdn.pishow.tv/ott/live/10017/master.m3u8
+#EXTINF:-1,Rengoni (576p)
+https://streams.tangotv.in/RENGONI/ORIGIN/index.m3u8
+#EXTINF:-1,Spondon (1080p)
+https://nktv.smartstream.video/smartstream-us/spondon/spondon/playlist.m3u8

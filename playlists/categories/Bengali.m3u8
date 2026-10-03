@@ -1,0 +1,172 @@
+#EXTM3U
+#GROUP: Bengali
+#TOTAL: 84
+
+#EXTINF:-1,24Hrs TV (576p)
+http://51.75.127.199:3141/24hrstv/index.m3u8
+#EXTINF:-1,Aakaash Aath (576p)
+http://tvsen5.aynascope.net/Wm9Lv2RjZGT6/index.m3u8
+#EXTINF:-1,Aamar Bangla (720p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1,ABP Ananda (1080p)
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8
+#EXTINF:-1,AKD Calcutta News (1080p)
+https://live.legitpro.co.in/cnnnews/index.m3u8
+#EXTINF:-1,Akhon Kolkata (478p)
+https://server.playontv.in/ekhonkolkata/ekhonkolkata/index.m3u8
+#EXTINF:-1,Ananda Barta (720p)
+https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
+#EXTINF:-1,Ananda TV (480p)
+http://103.99.249.139/anandatv/index.m3u8
+#EXTINF:-1,ATN Bangla (720p)
+http://tvsen5.aynascope.net/atnbangla/index.m3u8
+#EXTINF:-1,ATN Bangla UK (576p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1,ATN Music (360p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1,Azan TV
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1,Bangla Vision (720p)
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1,Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1,Colors Bangla (576p)
+http://51.75.127.199:3141/colorsbanglasd/index.m3u8
+#EXTINF:-1,Colors Bangla HD (1080p)
+http://103.165.93.31:8095/colorsBangla/index.m3u8
+#EXTINF:-1,Colors Bangla Cinema (576p)
+http://51.75.127.199:3141/colorsbanglacinema/index.m3u8
+#EXTINF:-1,CTVN AKD Plus (1080p)
+https://live.legitpro.co.in/ctvnakdplus/index.m3u8
+#EXTINF:-1,DBC News (480p)
+http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+#EXTINF:-1,DD Bangla (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index.m3u8
+#EXTINF:-1,DD Tripura (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index.m3u8
+#EXTINF:-1,Deen TV (576p)
+https://cd198.anystream.uk:9092/iqapp/d33ntv/playlist.m3u8
+#EXTINF:-1,DesheBideshe TV
+https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
+#EXTINF:-1,Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1,Dhoom Music (720p)
+https://cdn.pishow.tv/ott/live/1456/master.m3u8
+#EXTINF:-1,Doyel TV
+https://3d46w.doyeltv.com/memfs/aa3aa6f7-ec12-41a2-8183-a891e157bbf8.m3u8
+#EXTINF:-1,Duronto TV (720p)
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1,Ekhon TV (1080p)
+https://tplay.live/out/bangladesh/ekhontv.index.m3u8
+#EXTINF:-1,Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1,Enterr 10 Bangla (720p)
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1,Express News (576p)
+http://51.75.127.199:3141/expressnews/index.m3u8
+#EXTINF:-1,Friends TV (1080p)
+https://server.playontv.in/friendstv/index.m3u8
+#EXTINF:-1,Gazi TV (1080p)
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1,Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1,Headlines Tripura (720p)
+https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8
+#EXTINF:-1,High News (480p)
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+#EXTINF:-1,Ion TV (576p)
+https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
+#EXTINF:-1,Iqra Bangla (576p)
+https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8
+#EXTINF:-1,Jalsha Movies (576p)
+http://51.75.127.199:3141/jalshamovies/index.m3u8
+#EXTINF:-1,JonmoBhumi TV (720p)
+https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:-1,Khushboo Bangla (720p)
+https://cdn.pishow.tv/ott/live/1473/master.m3u8
+#EXTINF:-1,Kolkata TV (1080p)
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+#EXTINF:-1,KTV Bangla (720p)
+https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:-1,Maasranga TV (720p)
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+#EXTINF:-1,Madani Channel Bangla (1080p)
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1,Matribhumi TV (720p)
+http://live.playmax.live/matribhumi/index.m3u8
+#EXTINF:-1,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1,My TV (Bangladesh)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1,NAN TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
+#EXTINF:-1,News18 Bangla (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1,News 21 Bangla TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1,News Live Bangla (576p)
+https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
+#EXTINF:-1,Nexus TV (576p)
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1,NK TV Bangla (1080p)
+https://nktv.smartstream.video/smartstream-us/nkbangla/nkbangla/playlist.m3u8
+#EXTINF:-1,NTV (Bangladesh) (720p)
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1,Orange Bangla TV (720p)
+https://cdn.pishow.tv/ott/live/1499/master.m3u8
+#EXTINF:-1,Peace TV Bangla (1080p)
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1,Probashi TV News (1080p)
+http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1,R Plus (768p)
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+#EXTINF:-1,R Plus Gold (720p)
+https://cdn.pishow.tv/ott/live/1231/master.m3u8
+#EXTINF:-1,Raatdin Bangla (720p)
+https://server.playontv.in/raatdinbangla/index.m3u8
+#EXTINF:-1,Rajdhani TV SD (1080p)
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1,Republic Bangla (1080p)
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+#EXTINF:-1,RTV (Bangladesh) (720p)
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+#EXTINF:-1,Rupashi Bangla TV (720p)
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8
+#EXTINF:-1,Rupasi Bangla (720p)
+https://cdn.pishow.tv/ott/live/1039/master.m3u8
+#EXTINF:-1,Samay Kolkata (1080p)
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+#EXTINF:-1,Sangeet Bangla (720p)
+https://cdn.pishow.tv/ott/live/1143/master.m3u8
+#EXTINF:-1,Shiksha TV (576p)
+http://51.75.127.199:3141/shikshatv/index.m3u8
+#EXTINF:-1,Sony Aath (1080p)
+https://cloudplay-sonyliv.pages.dev/aath.m3u8
+#EXTINF:-1,Star Jalsha (576p)
+http://51.75.127.199:3141/starjalsha/index.m3u8
+#EXTINF:-1,Star Jalsha HD (720p)
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1,T Sports (1080p)
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1,TV9 Bangla (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1,U Bangla (1080p)
+https://stream.ottlive.co.in/ubangla/index.m3u8
+#EXTINF:-1,Vokta TV (720p)
+https://vokta.raytahost.com/live/voktatv/index.m3u8
+#EXTINF:-1,ZB Bhakti (720p)
+https://server.zillarbarta.com/zbbhakti/index.m3u8
+#EXTINF:-1,ZB Cartoon (1080p)
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1,ZB Music (720p)
+https://server.zillarbarta.com/zbmusic/index.m3u8
+#EXTINF:-1,Zee 24 Ghanta (576p)
+https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
+#EXTINF:-1,Zee Bangla HD (1080p)
+http://51.75.127.199:3141/zeebanglahd/index.m3u8
+#EXTINF:-1,Zee Bangla Sonar (576p)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1,ZillarBarta News
+https://server.zillarbarta.com/zillarbarta/index.m3u8
+#EXTINF:-1,Zodiak TV (1080p)
+https://ranacable.duckdns.org/ZodiakTv/index.m3u8

@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Odia
+#TOTAL: 2
+
+#EXTINF:-1,Ekamra Bharat Odia (400p)
+https://live.ekamraott.com/bharat/bharat/index.m3u8
+#EXTINF:-1,One Paschima (400p)
+https://live.ekamraott.com/onepaschima/onepaschima/index.m3u8

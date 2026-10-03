@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Uighur
+#TOTAL: 1
+
+#EXTINF:-1,Xinjiang TV 2
+http://110.153.180.106:55555/out_3/index.m3u8

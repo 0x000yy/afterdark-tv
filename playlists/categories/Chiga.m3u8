@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: Chiga
+#TOTAL: 2
+
+#EXTINF:-1,Tayari West TV (1080p)
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
+#EXTINF:-1,TV West (720p)
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
