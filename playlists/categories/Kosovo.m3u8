@@ -1,0 +1,34 @@
+#EXTM3U
+#GROUP: Kosovo
+#TOTAL: 15
+
+#EXTINF:-1,ATV (Kosovo) (1080p)
+http://5.254.89.106/8709/index.m3u8
+#EXTINF:-1,First Channel (1080p)
+http://5.254.89.106/8717/index.m3u8
+#EXTINF:-1,Klan Kosova (720p)
+http://5.254.89.106/8706/index.m3u8
+#EXTINF:-1,Kohavision (720p)
+http://5.254.89.106/8705/index.m3u8
+#EXTINF:-1,RTK 1 (1080p)
+http://5.254.89.106/8702/index.m3u8
+#EXTINF:-1,RTK 3 (1080p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1,RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1,T7 (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+#EXTINF:-1,TV Arberia 3 Femije (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+#EXTINF:-1,TV Arberia 4 Muzike (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+#EXTINF:-1,TV Arberia Retro Hits (720p)
+https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+#EXTINF:-1,TV Arta (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1,TV Dielli (720p) [Not 24/7]
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1,TV Opoja (720p) [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1,TV Syri (720p)
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8

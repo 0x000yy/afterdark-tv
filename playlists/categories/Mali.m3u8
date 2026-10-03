@@ -1,0 +1,10 @@
+#EXTM3U
+#GROUP: Mali
+#TOTAL: 3
+
+#EXTINF:-1,D3 TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/d3tvnet/playlist.m3u8
+#EXTINF:-1,ORTM 1
+https://cs2.push2stream.com/ORTM-DVR/playlist.m3u8
+#EXTINF:-1,TM1 TV (360p) [Not 24/7]
+http://69.64.57.208/tm1/playlist.m3u8

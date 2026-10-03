@@ -1,12 +1,8 @@
 #EXTM3U
 #GROUP: Culture;Documentary
-#TOTAL: 4
+#TOTAL: 2
 
 #EXTINF:-1,BBC Four
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
 #EXTINF:-1,Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1,HRT 3 (720p)
-https://webtvstream.bhtelecom.ba/hrt3.m3u8
-#EXTINF:-1,HRT 3 HD (720p) [Geo-blocked]
-https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd

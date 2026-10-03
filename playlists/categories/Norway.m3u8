@@ -1,6 +1,30 @@
 #EXTM3U
 #GROUP: Norway
-#TOTAL: 1
+#TOTAL: 13
 
+#EXTINF:-1,Frikanalen (720p)
+https://frikanalen.no/stream/index.m3u8
+#EXTINF:-1,NRK1 (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrk1/muxed.m3u8
+#EXTINF:-1,NRK2 (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrk2/muxed.m3u8
+#EXTINF:-1,NRK3 (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrk3/muxed.m3u8
+#EXTINF:-1,NRK Super (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
+#EXTINF:-1,NRK Tegnsprak (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrk_tegnspraak/muxed.m3u8
+#EXTINF:-1,Pluto TV Klassiske tegnefilmer (720p)
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1,Pluto TV Komedie
+https://jmp2.uk/plu-61c1e3a679a4390007c78136.m3u8
+#EXTINF:-1,Pluto TV Overnaturlig
+https://jmp2.uk/plu-61c1e74354d923000731bf7c.m3u8
+#EXTINF:-1,Pluto TV Romantikk
+https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
+#EXTINF:-1,TV Ostfold (1080p)
+https://streamnorge.com:8088/hls/tvo.m3u8
+#EXTINF:-1,TVModum (720p)
+https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8
 #EXTINF:-1,Kanal 10 Norge Ⓨ
 https://www.youtube.com/c/Kanal10Norge/live

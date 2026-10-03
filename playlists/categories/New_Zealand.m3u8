@@ -1,0 +1,8 @@
+#EXTM3U
+#GROUP: New Zealand
+#TOTAL: 2
+
+#EXTINF:-1,Te Reo (1080p)
+https://i.mjh.nz/.r/te-reo.m3u8
+#EXTINF:-1,Whakaata Maori (1080p)
+https://i.mjh.nz/.r/maori-tv.m3u8

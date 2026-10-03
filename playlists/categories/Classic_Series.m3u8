@@ -2,6 +2,8 @@
 #GROUP: Classic;Series
 #TOTAL: 31
 
+#EXTINF:-1,Cin Cin
+https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 #EXTINF:-1,AWTV (1080p) [Geo-blocked]
 https://awtv.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1,Becker (Sweden)
@@ -62,5 +64,3 @@ https://jmp2.uk/plu-6964bcf9ae33e24d911d7e1c.m3u8
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
 #EXTINF:-1,The Wild Wild West (Sweden) NO
 https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
-#EXTINF:-1,Cin Cin
-https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8

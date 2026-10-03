@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: French Guiana
+#TOTAL: 1
+
+#EXTINF:-1,Tele Peyi (720p)
+https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8

@@ -1,8 +1,6 @@
 #EXTM3U
 #GROUP: Entertainment;Lifestyle
-#TOTAL: 2
+#TOTAL: 1
 
 #EXTINF:-1,NBC LX Home (1080p)
 https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
-#EXTINF:-1,TV3 Life (1080p)
-http://stream.mcquack.net/373/index.m3u8

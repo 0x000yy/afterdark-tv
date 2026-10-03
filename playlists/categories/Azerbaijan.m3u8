@@ -1,7 +1,37 @@
 #EXTM3U
 #GROUP: Azerbaijan
-#TOTAL: 3
+#TOTAL: 18
 
+#EXTINF:-1,Alvin Channel TV (360p) [Not 24/7]
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:-1,APA Tv (1080p)
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1,Ayaz TV (720p)
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1,Az TV (1080p)
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1,Baku.TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1,CBC Sport [Geo-blocked]
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1,EL TV
+https://live.eltv.az/live/eltv/playlist.m3u8
+#EXTINF:-1,GunAz TV
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1,Ictimai TV
+https://live.itv.az/itv.m3u8
+#EXTINF:-1,Kanal 35 (720p)
+https://str2.yodacdn.net/kanal35/index.m3u8
+#EXTINF:-1,Kanal S
+https://lives.atv.az:5443/KANAL-S/streams/kanals.m3u8
+#EXTINF:-1,Kapaz TV
+http://85.132.78.122:8050/hls/stream/index.m3u8
+#EXTINF:-1,KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Medeniyyet TV (1080p)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1,Xezer TV (720p)
+https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1,Muz TV Ⓨ
 https://www.youtube.com/channel/UCgHYcHd2SuX0ees5q0OWicQ/live
 #EXTINF:-1,Real TV Ⓨ

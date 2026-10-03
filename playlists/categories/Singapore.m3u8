@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Singapore
+#TOTAL: 1
+
+#EXTINF:-1,Suria [Geo-blocked]
+https://d11h6a6nhl9kj9.cloudfront.net/hls/clr4ctv_suria/master.m3u8

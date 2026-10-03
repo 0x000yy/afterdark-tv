@@ -1,7 +1,11 @@
 #EXTM3U
 #GROUP: Taiwan
-#TOTAL: 10
+#TOTAL: 12
 
+#EXTINF:-1,AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1,Dali TV (720p)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1,CTV (中視) Ⓨ
 https://www.youtube.com/c/twctvnews/live
 #EXTINF:-1,CTV News Channel (中視新聞台) Ⓨ

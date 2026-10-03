@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Morocco
+#TOTAL: 1
+
+#EXTINF:-1,Medi1TV Afrique (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8

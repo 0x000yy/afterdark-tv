@@ -1,0 +1,12 @@
+#EXTM3U
+#GROUP: Bonaire
+#TOTAL: 4
+
+#EXTINF:-1,Bonaire.tv (1080p) [Not 24/7]
+https://media.streambrothers.com:1936/8506/8506/playlist.m3u8
+#EXTINF:-1,NosTV Bonaire 2
+https://stream2.nostvbonaire.com/hls/0/stream.m3u8
+#EXTINF:-1,NosTV Bonaire (1080p)
+http://streaming.flamingotv.net/nostv/live.m3u8
+#EXTINF:-1,Voz Di Bonaire TV (720p)
+https://tv.westream.cloud/VozdiBonaireTV/VozdiBonaireTV.m3u8

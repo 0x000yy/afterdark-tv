@@ -1,0 +1,10 @@
+#EXTM3U
+#GROUP: Ethiopia
+#TOTAL: 3
+
+#EXTINF:-1,Addis TV (720p)
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1,Mereja TV
+https://g4wlkqp8l23a-hls-live.5centscdn.com/MerejaTV/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1,Nesiha TV (720p)
+https://stream.cisk.tech/nasihatv/index.m3u8

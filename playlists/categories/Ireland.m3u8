@@ -1,7 +1,9 @@
 #EXTM3U
 #GROUP: Ireland
-#TOTAL: 16
+#TOTAL: 17
 
+#EXTINF:-1,Oireachtas TV (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls.m3u8
 #EXTINF:-1,Today FM
 https://live-bauerie.sharp-stream.com/TDAAC
 #EXTINF:-1,98FM

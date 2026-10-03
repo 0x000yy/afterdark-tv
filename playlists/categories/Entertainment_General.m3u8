@@ -1,22 +1,16 @@
 #EXTM3U
 #GROUP: Entertainment;General
-#TOTAL: 9
+#TOTAL: 6
 
+#EXTINF:-1,America TeVe (1080p)
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1,StreamForce 360 (1080p)
+https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
+#EXTINF:-1,Super+ (360p)
+http://dtv.vol.net.ua/super_plus/index.m3u8
 #EXTINF:-1,NTV (Brazil) (720p)
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1,MCN6 Main Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
 #EXTINF:-1,TV Today Janakpur
 https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
-#EXTINF:-1,America TeVe (1080p)
-https://live.gideo.video/americateve2/master.m3u8
-#EXTINF:-1,HTV2 (720p)
-https://dethich.pw/htv2/index.m3u8
-#EXTINF:-1,Ray TV HD
-https://streaming.tvnepal.com:19360/raynewsdaily/720p.m3u8
-#EXTINF:-1,Ray TV HD SD (576p)
-https://streaming.tvnepal.com:19360/raynewsdaily/480p.m3u8
-#EXTINF:-1,StreamForce 360 (1080p)
-https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
-#EXTINF:-1,Super+ (360p)
-http://dtv.vol.net.ua/super_plus/index.m3u8

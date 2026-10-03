@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Monaco
+#TOTAL: 1
+
+#EXTINF:-1,Monaco Info (1080p)
+https://webtv.monacoinfo.com/live/prod/index.m3u8

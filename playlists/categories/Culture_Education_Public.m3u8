@@ -2,7 +2,7 @@
 #GROUP: Culture;Education;Public
 #TOTAL: 2
 
-#EXTINF:-1,TV UFOP (1080p)
-https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1,UAA TV (1080p)
 https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
+#EXTINF:-1,TV UFOP (1080p)
+https://app.tvufop.com.br/hls/tvufop.m3u8

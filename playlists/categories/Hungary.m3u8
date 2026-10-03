@@ -1,7 +1,271 @@
 #EXTM3U
 #GROUP: Hungary
-#TOTAL: 10
+#TOTAL: 142
 
+#EXTINF:-1,7.TV (360p)
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1,16tv Budapest (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
+#EXTINF:-1,Alfold TV (1080p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:-1,Apostol TV (576p)
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1,ATV (Hungary) (160p)
+https://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1,ATV Spirit (360p)
+https://streamservers.atv.hu/atvliveedge/_definst_/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1,Bajai TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1,Balaton TV (432p)
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1,BBC Earth Hungary
+http://88.212.15.19/live/bbce_hun/index.m3u8
+#EXTINF:-1,Berente TV (1080p)
+https://stream.streaming4u.hu/BerenteTV/index.m3u8
+#EXTINF:-1,BTV (Hungary) (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
+#EXTINF:-1,Budapest Europa Televizio (576p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1,City TV (Hungary)
+https://citytv.hu/playlist.m3u8
+#EXTINF:-1,Csurgo TV (720p)
+https://cstv.medialivecdn.hu/csurgotv/27725804dc13aa23b3970414524d2dbf.sdp/playlist.m3u8
+#EXTINF:-1,Daru TV (720p)
+https://5cd03f21c7193.streamlock.net/darutv/darutvlive/playlist.m3u8
+#EXTINF:-1,Dikh TV
+http://88.212.15.19/live/dikh/index.m3u8
+#EXTINF:-1,DSTV (Hungary) (720p)
+http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
+#EXTINF:-1,DTV (Hungary) (720p) [Not 24/7]
+http://cloudfront44.lexanetwork.com:1732/hlsrelay003/hls/livestream.sdp.m3u8
+#EXTINF:-1,Duna
+http://88.212.15.19/live/duna_hun/index.m3u8
+#EXTINF:-1,Egyker TV (1080p)
+https://iptv01.eurocable.co.hu/EC-EGYKERTVHD/index.m3u8
+#EXTINF:-1,ESTV (420p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
+#EXTINF:-1,Euronews Hungarian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1,EWTN/Bonum TV
+https://dash2.antik.sk/live/ewtn_bonum/index.m3u8
+#EXTINF:-1,Fehervar TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
+#EXTINF:-1,FEM3
+http://88.212.15.19/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1,Film4
+http://88.212.15.19/live/film4_hun/index.m3u8
+#EXTINF:-1,Film Cafe
+http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:-1,Film Mania (576p)
+https://dokagents.site/live/filmmania/mono.m3u8
+#EXTINF:-1,Film+ (Hungary)
+http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+#EXTINF:-1,FILMBOX+ Comedy Magyar (576p)
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,FILMBOX+ Emotion Hungary (1080p)
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,FILMBOX+ One Magyar
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,FIX TV (720p) [Not 24/7]
+https://fixhd.tv:8082/fix/1080i/playlist.m3u8
+#EXTINF:-1,Galaxy4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+#EXTINF:-1,Globo TV (Hungary) (720p) [Geo-blocked]
+https://stream.streaming4u.hu/GloboTV/index.m3u8
+#EXTINF:-1,Golya TV (480p) [Geo-blocked]
+https://stream.streaming4u.hu/GolyaTV/index.m3u8
+#EXTINF:-1,Gran TV (720p)
+https://stream.medialive.hu/gran/grantvlive/playlist.m3u8
+#EXTINF:-1,Gyongyosi TV (576p)
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+#EXTINF:-1,H!t Music Channel (480p)
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:-1,Halom TV (576i)
+rtmp://212.92.13.108/live/livestream1
+#EXTINF:-1,Hangulat TV (720p)
+https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
+#EXTINF:-1,Hegyvidek TV
+https://iptv02.eurocable.co.hu:15400/EC-HEGYVIDEKTV-FTA/index.m3u8
+#EXTINF:-1,Hevizi TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1,History (Hungary)
+http://88.212.15.19/live/history_hun/index.m3u8
+#EXTINF:-1,Izaura TV (1080p)
+http://88.212.15.19/live/izaura/index.m3u8
+#EXTINF:-1,Jaszsagi Tersegi TV (440p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast007.sdp/playlist.m3u8
+#EXTINF:-1,Jocky TV
+http://88.212.15.19/live/jocky/index.m3u8
+#EXTINF:-1,Kanizsa TV (400p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/kanizsavtv.sdp/playlist.m3u8
+#EXTINF:-1,Kapos TV (1080p)
+https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1,Karcag TV (720p)
+https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
+#EXTINF:-1,Kecskemeti TV (416p) [Not 24/7]
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
+#EXTINF:-1,Kiskoros TV (720p)
+https://5cd03f21c7193.streamlock.net/kiskorostv/korostvlive/playlist.m3u8
+#EXTINF:-1,Kolyokklub
+http://88.212.15.19/live/kolyokklub_atk/index.m3u8
+#EXTINF:-1,Komaromi Televizio (400p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1,Komlos TV (1080p) [Not 24/7]
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Liceum TV (576p)
+http://193.225.32.62:8890/live.m3u8
+#EXTINF:-1,Life TV (Hungary)
+http://88.212.15.19/live/lifetv/index.m3u8
+#EXTINF:-1,Loverseny kozvetites (420p)
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1,M1 (Hungary) HD
+http://88.212.15.19/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,M2 (Hungary) (1080p)
+http://88.212.15.19/live/m2_hun/index.m3u8
+#EXTINF:-1,M4 Sport (1080p)
+http://88.212.15.19/live/uatlmvixrr/index.m3u8
+#EXTINF:-1,M5 (1080p)
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,Magyar Mozi TV
+http://88.212.15.19/live/mozi/index.m3u8
+#EXTINF:-1,Makoi Varosi Televizio (576p)
+http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+#EXTINF:-1,Mezokovesdi Televizio (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
+#EXTINF:-1,Minimax (Hungary)
+http://88.212.15.19/live/minimax_hun/index.m3u8
+#EXTINF:-1,Mora-Net TV (576p)
+https://stream.moranettv.hu/live/index.m3u8
+#EXTINF:-1,Mozi+
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1,Moziklub
+http://88.212.15.19/live/moziklub_atk/index.m3u8
+#EXTINF:-1,Moziverzum
+http://88.212.15.19/live/moziverzum/index.m3u8
+#EXTINF:-1,Muzsika TV
+http://88.212.15.19/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,National Geographic (Hungary)
+http://88.212.15.19/live/ngc_hun/index.m3u8
+#EXTINF:-1,National Geographic Wild (Hungary)
+http://88.212.15.19/live/ngw_hun/index.m3u8
+#EXTINF:-1,Nick Jr. (Hungary)
+http://88.212.15.19/live/nick_junior_hun/index.m3u8
+#EXTINF:-1,Nickelodeon (Hungary)
+http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+#EXTINF:-1,Nicktoons (Hungary)
+http://88.212.15.19/live/nicktoons_hungary/index.m3u8
+#EXTINF:-1,Oroszlanyi Varosi Televizio (720p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
+#EXTINF:-1,Orszaggyules: OGY plenaris (720p) [Not 24/7]
+http://plenaris.parlament.hu:1935/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1,Orszaggyules: OGY TAB (720p) [Not 24/7]
+http://tab.parlament.hu:1935/edgelive/smil:mkogytab.smil/playlist.m3u8
+#EXTINF:-1,Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1,Ozdi Varosi TV (720p) [Not 24/7]
+http://stream.nmih.hu:7980/live.m3u8
+#EXTINF:-1,Ozone TV
+http://88.212.15.19/live/ozone/index.m3u8
+#EXTINF:-1,PilisTV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/PilisTV/index.m3u8
+#EXTINF:-1,Prime (Hungary)
+http://88.212.15.19/live/prime/index.m3u8
+#EXTINF:-1,PVTV (720p)
+http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8?token=null
+#EXTINF:-1,Rakosmente TV (720p)
+http://rakosmentetv.hu:8080/hls/rmtv.m3u8
+#EXTINF:-1,Regio TV (406p)
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
+#EXTINF:-1,RegioPlusz TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+#EXTINF:-1,RTL (Hungary)
+http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,RTL Gold (Hungary)
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,RTL Harom
+http://88.212.15.19/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,RTL Ketto
+http://88.212.15.19/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,RTL Otthon
+http://88.212.15.19/live/rtl_otthon_atk/index.m3u8
+#EXTINF:-1,SIXO TV (360p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
+#EXTINF:-1,Slager TV
+http://88.212.15.19/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,Soltvadkerti Televizio (720p)
+http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+#EXTINF:-1,Sorozatklub
+http://88.212.15.19/live/sorozatklub_atk/index.m3u8
+#EXTINF:-1,Spektrum (Hungary)
+http://88.212.15.19/live/spektrum_hun/index.m3u8
+#EXTINF:-1,Spektrum Home (Hungary)
+http://88.212.15.19/live/spektrum_home_hun/index.m3u8
+#EXTINF:-1,Spiler 1
+http://88.212.15.19/live/spiler1/index.m3u8
+#EXTINF:-1,Spiler 2
+http://88.212.15.19/live/spiler2/index.m3u8
+#EXTINF:-1,Sport 1 (Hungary)
+http://88.212.15.19/live/sport1_hun/index.m3u8
+#EXTINF:-1,Sport 2 (Hungary)
+http://88.212.15.19/live/sport2_hun/index.m3u8
+#EXTINF:-1,Story4
+http://88.212.15.19/live/test_story_4_atk_1200/playlist.m3u8
+#EXTINF:-1,Super TV2
+http://88.212.15.19/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,Szecseny TV (720p)
+http://iptv.eurocable.co.hu/EC-SZECSENYTVHD/index.m3u8
+#EXTINF:-1,Szolnok TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1,Tatai TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1,TelePaks (396p)
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
+#EXTINF:-1,The Fishing & Hunting Channel
+http://88.212.15.19/live/test_fishing_hunting/playlist.m3u8
+#EXTINF:-1,The Fishing & Hunting Channel HD
+http://88.212.15.19/live/fishing_hun/index.m3u8
+#EXTINF:-1,Tisza TV (576p) [Not 24/7]
+https://www.tiszatv.hu/onlinetv/tiszatv_1.m3u8
+#EXTINF:-1,Trimedio TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TriMedioTV/index.m3u8
+#EXTINF:-1,TV2 (Hungary)
+http://88.212.15.19/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1,TV2 Comedy
+http://88.212.15.19/live/tv2_comedy/index.m3u8
+#EXTINF:-1,TV2 Kids
+http://88.212.15.19/live/tv2_kids/index.m3u8
+#EXTINF:-1,TV2 Sef
+http://88.212.15.19/live/test_lichi_tv_atk_tv/playlist.m3u8
+#EXTINF:-1,TV4 (Hungary)
+http://88.212.15.19/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,TV Budakalasz (1080p) [Not 24/7]
+https://stream.streaming4u.hu/TVBudakalasz/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TV Eger (1080p)
+http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1,TV Keszthely (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
+#EXTINF:-1,TV Paprika (Hungary)
+http://88.212.15.19/live/parpika_hun/index.m3u8
+#EXTINF:-1,TV Szentendre (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/TVSzentendre/index.m3u8
+#EXTINF:-1,Vasarhelyi Televizio (576p)
+https://stream.vasarhelyitelevizio.hu/stream/stream.m3u8
+#EXTINF:-1,Volgyhid TV (540p)
+https://5cd03f21c7193.streamlock.net/volgyhidtv/mediakft/playlist.m3u8
+#EXTINF:-1,VTV Fuzesabony (720p) [Not 24/7]
+https://stream.nmih.hu:7962/live.m3u8
+#EXTINF:-1,VTV Mor (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
+#EXTINF:-1,Williams TV (480p)
+http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
+#EXTINF:-1,XV TV (480p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
+#EXTINF:-1,Zalaegerszegi TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
+#EXTINF:-1,Zenebutik
+http://88.212.15.19/live/zenebutik/index.m3u8
+#EXTINF:-1,Zuglo TV (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 #EXTINF:-1,M1 Hiradó Ⓨ
 https://www.youtube.com/@M1-Hirado/live
 #EXTINF:-1,ErdélyTV Ⓨ
