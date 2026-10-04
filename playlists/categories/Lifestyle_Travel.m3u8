@@ -1,8 +1,6 @@
 #EXTM3U
 #GROUP: Lifestyle;Travel
-#TOTAL: 2
+#TOTAL: 1
 
-#EXTINF:-1,TV Paprika (Romania)
-https://galandriel1.thobias11.cfd/papi/usergendxs3jk0s9nd.m3u8
 #EXTINF:-1,TV Paprika (Hungary)
 http://88.212.15.19/live/parpika_hun/index.m3u8

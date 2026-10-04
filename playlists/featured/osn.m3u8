@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/osn.m3u8
-#DATE: 2026-10-03 16:18:47 UTC
+#DATE: 2026-10-04 05:55:01 UTC
 #TOTAL: 6
 
 #EXTINF:-1 tvg-id="OSN.ru@SD" tvg-logo="https://www.osnmedia.ru/wp-content/uploads/2024/11/osn-logo-header.png" group-title="General",OSN
@@ -13,5 +13,5 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 https://jmp2.uk/plu-5f1acba0d1f6340007db8843.m3u8
 #EXTINF:-1 tvg-id="N1BosniaHerzegovina.ba" tvg-logo="https://i.imgur.com/72oMSWz.png" tvg-country="BA" group-title="Bosnia and Herzegovina",N1 Bosna i Hercegovina
 https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1 tvg-id="SuperTV.ba@SD" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="Bosnian",Super TV (Bosnia and Herzegovina) (720p)
+#EXTINF:-1 tvg-id="SuperTV.ba@SD" tvg-logo="https://i.imgur.com/XYWgd3E.png" group-title="General",Super TV (Bosnia and Herzegovina) (720p)
 https://mirtv.club/live/mirtv/index.m3u8

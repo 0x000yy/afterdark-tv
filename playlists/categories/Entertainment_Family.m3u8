@@ -2,7 +2,7 @@
 #GROUP: Entertainment;Family
 #TOTAL: 2
 
-#EXTINF:-1,Soweto TV (576p)
-https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
 #EXTINF:-1,Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1,Soweto TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8

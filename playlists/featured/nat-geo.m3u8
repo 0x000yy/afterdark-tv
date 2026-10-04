@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/nat-geo.m3u8
-#DATE: 2026-10-03 16:18:48 UTC
+#DATE: 2026-10-04 05:55:02 UTC
 #TOTAL: 1
 
-#EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" group-title="German",N24 Doku
+#EXTINF:-1 tvg-id="N24Doku.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" group-title="Documentary",N24 Doku
 https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8

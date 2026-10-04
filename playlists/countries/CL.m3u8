@@ -1,9 +1,11 @@
 #EXTM3U
 #COUNTRY: CL
-#TOTAL: 13
+#TOTAL: 14
 
 #EXTINF:-1,UCV Televisión
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1,TVN Ⓖ
+https://iptv2.intersurtv.cl/TVN/index.m3u8
 #EXTINF:-1,24 horas
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1,NTV Ⓖ

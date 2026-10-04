@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/wwe.m3u8
-#DATE: 2026-10-03 16:18:46 UTC
+#DATE: 2026-10-04 05:54:59 UTC
 #TOTAL: 7
 
 #EXTINF:-1 tvg-id="LamoreRockShowWebTV.br@SD" tvg-logo="https://www.lamorerockshowwebtv.com.br/wp-content/uploads/2024/11/logo_rockshow.avif" group-title="Music",Lamore Rock Show WebTV (720p)
@@ -13,7 +13,7 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs08#.m3u8
 https://naori-test.netgenx.site/pxx.php?shk_cid=bs12#.m3u8
 #EXTINF:-1 tvg-id="W9.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/W9_2018.svg/60px-W9_2018.svg.png" tvg-country="FR" group-title="France",W9
 http://145.239.5.177/331a/index.m3u8
-#EXTINF:-1 tvg-id="JOJWau.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-wau-sk.png" tvg-country="SK" group-title="Slovakia",Wau
-https://sktv.mxnticek.eu/new/stream.php?ch=Wau
 #EXTINF:-1 tvg-id="W24.at" tvg-logo="https://i.imgur.com/PGb4wYw.png" tvg-country="AT" group-title="Austria",W24
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JOJWau.sk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/joj-wau-sk.png" tvg-country="SK" group-title="Slovakia",Wau
+https://sktv.mxnticek.eu/new/stream.php?ch=Wau

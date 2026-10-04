@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Comedy;Movies;Series;Sports
+#TOTAL: 1
+
+#EXTINF:-1,USA Network (720p)
+http://190.197.41.183/USA_NETWORK/index.m3u8

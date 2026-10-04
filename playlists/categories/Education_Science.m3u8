@@ -1,8 +1,6 @@
 #EXTM3U
 #GROUP: Education;Science
-#TOTAL: 2
+#TOTAL: 1
 
 #EXTINF:-1,Chuzhou Science & Education Channel (400p)
 http://live.cztv.cc:85/live/sjpd.m3u8
-#EXTINF:-1,Can Tho TV 2 (1080p)
-https://live.canthotv.vn/cs2/live.stream/playlist.m3u8
