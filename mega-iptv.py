@@ -407,6 +407,43 @@ FEATURED_QUERIES = {
     "news": "news",
 }
 
+AUTO_CATEGORY_RULES = {
+    "sports": "sport sports رياضة football soccer beinsport espn dazn ssc nba nfl ufc wwe eurosport",
+    "news": "news أخبار اخبار bbc cnn jazeera الجزيرة العربية alarabiya",
+    "kids": "kids children أطفال اطفال cartoon disney nickelodeon spacetoon baraem majid",
+    "movies": "movie movies cinema أفلام افلام film hbo osn shahid rotana",
+    "music": "music موسيقى mtv music",
+    "documentary": "documentary وثائقي discovery natgeo nationalgeographic",
+}
+
+
+def _keyword_match(text, keyword):
+    """مطابقة آمنة نسبيًا تمنع اعتبار كلمة عامة جزءًا من اسم مختلف."""
+    ntext, nkey = normalize(text), normalize(keyword)
+    if not nkey:
+        return False
+    if len(nkey) <= 3:
+        return nkey == ntext or any(nkey == normalize(x) for x in tokenize(text))
+    return nkey in ntext
+
+
+def detect_channel_profile(channel):
+    """اكتشاف العلامات والفئات تلقائيًا من الاسم والحقول والرابط."""
+    fields = " ".join(str(channel.get(k, "")) for k in
+                      ("name", "group", "tvg_id", "country", "language", "url"))
+    brands = []
+    for brand, aliases in ALIASES.items():
+        terms = [brand] + aliases.split()
+        if any(_keyword_match(fields, term) for term in terms):
+            brands.append(brand)
+    categories = []
+    for category, terms in AUTO_CATEGORY_RULES.items():
+        if any(_keyword_match(fields, term) for term in terms.split()):
+            categories.append(category)
+    if not categories:
+        categories.append("other")
+    return brands, categories
+
 
 # ============================================================
 # [5] التطبيع
@@ -707,7 +744,8 @@ class SearchIndex:
         for i, (ch, _) in enumerate(self.channels):
             full = f"{ch['name']} {ch['group']} " \
                    f"{ch.get('country','')} {ch.get('language','')} " \
-                   f"{ch.get('tvg_id','')}"
+                   f"{ch.get('tvg_id','')} {ch.get('url','')} " \
+                   f"{' '.join(ch.get('_brands', []))} {' '.join(ch.get('_categories', []))}"
             norm = normalize(full)
             for tok in set(tokenize(full)):
                 tn = normalize(tok)
@@ -927,6 +965,9 @@ def fetch_one(item):
     chs = parse_m3u(text)
     seen = set(); uniq = []
     for ch in chs:
+        brands, categories = detect_channel_profile(ch)
+        ch["_brands"] = brands
+        ch["_categories"] = categories
         k = (ch["name"], ch["url"])
         if k not in seen:
             seen.add(k); uniq.append(ch)
@@ -962,6 +1003,11 @@ def fetch_all(force=False, all_sources=None, quiet=False):
     if not force:
         cached, age = load_cache()
         if cached:
+            for channels in cached.values():
+                for ch in channels:
+                    brands, categories = detect_channel_profile(ch)
+                    ch["_brands"] = brands
+                    ch["_categories"] = categories
             total = sum(len(v) for v in cached.values())
             if not quiet:
                 h = int(age//3600); m = int((age%3600)//60)
@@ -1307,7 +1353,30 @@ def export_all_playlists(engine):
 
     print(f"{C.G}✓{C.END} languages/ ({len(by_lang)} لغة)")
 
-    # 5) القنوات الكبرى: كل علامة في ملف مستقل + قائمة موحدة
+    # 5) اكتشاف ديناميكي: لا يعتمد على قائمة القنوات الكبرى فقط
+    detected_folder = OUTPUT_DIR / "detected"
+    detected_folder.mkdir(exist_ok=True)
+    detected_brands = defaultdict(list)
+    detected_categories = defaultdict(list)
+    for ch in all_ch:
+        for brand in ch.get("_brands", []):
+            detected_brands[brand].append(ch)
+        for category in ch.get("_categories", []):
+            detected_categories[category].append(ch)
+    for brand, chs in detected_brands.items():
+        save_m3u(chs, f"detected/brand-{safe_name(brand)}.m3u8")
+    for category, chs in detected_categories.items():
+        save_m3u(chs, f"detected/category-{safe_name(category)}.m3u8")
+    profile = {
+        "brands": {k: len(v) for k, v in sorted(detected_brands.items())},
+        "categories": {k: len(v) for k, v in sorted(detected_categories.items())},
+        "total_channels": len(all_ch),
+    }
+    (detected_folder / "index.json").write_text(
+        json.dumps(profile, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"{C.G}✓{C.END} detected/ ({len(detected_brands)} علامات، {len(detected_categories)} فئات)")
+
+    # 6) القنوات الكبرى: كل علامة في ملف مستقل + قائمة موحدة
     featured_folder = OUTPUT_DIR / "featured"
     featured_folder.mkdir(exist_ok=True)
     featured_all = []
@@ -1332,7 +1401,7 @@ def export_all_playlists(engine):
         save_m3u(featured_all, "featured.m3u8")
     print(f"{C.G}✓{C.END} featured/ ({sum(1 for n in featured_counts.values() if n)}/{len(FEATURED_QUERIES)} علامات، {len(featured_all)} قناة فريدة)")
 
-    # 6) قوائم مشهورة
+    # 7) قوائم مشهورة
     popular = {
         "arabic.m3u8": ["ara", "arabic", "عربي"],
         "sports.m3u8": ["sport", "رياضة", "sports"],
@@ -1356,7 +1425,7 @@ def export_all_playlists(engine):
             save_m3u(matched, fname)
             print(f"{C.G}✓{C.END} {fname} ({len(matched)})")
 
-    # 7) README مع الإحصاءات
+    # 8) README مع الإحصاءات
     stats_file = OUTPUT_DIR / "STATS.md"
     try:
         with open(stats_file, "w", encoding="utf-8") as f:
@@ -1369,6 +1438,8 @@ def export_all_playlists(engine):
             f.write(f"| عدد اللغات | {len(by_lang)} |\n")
             f.write(f"| عدد المصادر | {len(SOURCES)} |\n")
             f.write(f"| القنوات الكبرى المكتشفة | {len(featured_all)} |\n")
+            f.write(f"| العلامات المكتشفة تلقائيًا | {len(detected_brands)} |\n")
+            f.write(f"| الفئات المكتشفة تلقائيًا | {len(detected_categories)} |\n")
             f.write("\n## القنوات الكبرى\n\n")
             for slug, count in featured_counts.items():
                 if count:
