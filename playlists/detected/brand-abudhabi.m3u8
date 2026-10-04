@@ -1,0 +1,13 @@
+#EXTM3U
+#PLAYLIST: detected/brand-abudhabi.m3u8
+#DATE: 2026-10-04 17:55:54 UTC
+#TOTAL: 4
+
+#EXTINF:-1 tvg-id="AbuDhabiTV.ae" tvg-logo="https://i.imgur.com/7cNke07.png" tvg-country="AE" group-title="United Arab Emirates",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/1920px-Abu_Dhabi_Sports_logo_2023.svg.png" tvg-country="AE" group-title="United Arab Emirates",Abu Dhabi Sports 1
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/1920px-Abu_Dhabi_Sports_logo_2023.svg.png" tvg-country="AE" group-title="United Arab Emirates",Abu Dhabi Sports 2
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" tvg-country="AE" group-title="United Arab Emirates",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8

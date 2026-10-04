@@ -2,29 +2,29 @@
 #GROUP: Science
 #TOTAL: 13
 
+#EXTINF:-1,Ozone TV
+http://88.212.15.19/live/ozone/index.m3u8
+#EXTINF:-1,Ilm va Tabiat (1080p)
+https://live.teleradiocom.tj/15/3m.m3u8
 #EXTINF:-1,Eko TV (720p)
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1,Nauka (Ukraine) (576p)
 http://stream.mcquack.net/403/index.m3u8
-#EXTINF:-1,InWonder (1080p)
-https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
-#EXTINF:-1,Smithsonian Channel Asia [Geo-blocked]
-https://xyktmobile00.s.gy/PPV940_SMITHSONIAN
-#EXTINF:-1,Smithsonian Channel Selects (United States)
-https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8
-#EXTINF:-1,Wonder (1080p)
-https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Cosmos TV (720p)
-https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
+#EXTINF:-1,Shandong TV Agricultural Science Channel (406p) [Geo-blocked]
+http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 #EXTINF:-1,EXC TV (720p) [Not 24/7]
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
+#EXTINF:-1,Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1,.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,Pervyy Kosmicheskiy HD (1080p)
 http://str2.iptvhd.ru:8080/Eureka_HD/index.m3u8
-#EXTINF:-1,Ozone TV
-http://88.212.15.19/live/ozone/index.m3u8
-#EXTINF:-1,Shandong TV Agricultural Science Channel (406p) [Geo-blocked]
-http://livealone302.iqilu.com/iqilu/nkpd.m3u8
-#EXTINF:-1,Ilm va Tabiat (1080p)
-https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1,InWonder (1080p)
+https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
+#EXTINF:-1,Wonder (1080p)
+https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Smithsonian Channel Asia [Geo-blocked]
+https://xyktmobile00.s.gy/PPV940_SMITHSONIAN
+#EXTINF:-1,Smithsonian Channel Selects (United States)
+https://jmp2.uk/plu-5f21ea08007a49000762d349.m3u8

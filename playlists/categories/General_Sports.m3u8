@@ -2,7 +2,7 @@
 #GROUP: General;Sports
 #TOTAL: 2
 
-#EXTINF:-1,Prime (Syria) (1080p)
-https://cdn.bestream.io/prime/prime.m3u8
 #EXTINF:-1,TVR Sport
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1,Prime (Syria) (1080p)
+https://cdn.bestream.io/prime/prime.m3u8

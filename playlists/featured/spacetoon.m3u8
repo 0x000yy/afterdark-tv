@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST: featured/spacetoon.m3u8
-#DATE: 2026-10-04 16:51:18 UTC
+#DATE: 2026-10-04 17:56:00 UTC
 #TOTAL: 17
 
-#EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png" group-title="Animation;Kids",Spacetoon Arabic (576p)
+#EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" group-title="غير مصنف",Spacetoon Arabic (576p)
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-id="SpacetoonTurkey.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" group-title="Animation;Kids",Spacetoon Turkey (720p) [Not 24/7]
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8

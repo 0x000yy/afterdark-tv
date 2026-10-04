@@ -1,0 +1,55 @@
+#EXTM3U
+#PLAYLIST: detected/brand-arabiya.m3u8
+#DATE: 2026-10-04 17:55:54 UTC
+#TOTAL: 25
+
+#EXTINF:-1 tvg-id="CNBCArabiya.ae@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/CNBC_Arabia_2025.svg/960px-CNBC_Arabia_2025.svg.png" group-title="Business",CNBC Arabiya (1080p)
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" tvg-logo="https://shahid.mbc.net/mediaObject/7cfc0baf-1201-477f-b722-d3099fafe17f?height=230&width=512&croppingPoint=&version=1&type=png" group-title="News",Al Arabiya English (1080p)
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="غير مصنف",Al Arabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaBusiness.ae@SD" group-title="غير مصنف",Al Arabiya Business (1080p)
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" group-title="غير مصنف",Al Arabiya Programs (1280p)
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="غير مصنف",Alarabiya (1080p)
+http://185.9.2.18/chid_146/index.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="غير مصنف",Alarabiya (1080p)
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="غير مصنف",Alarabiya (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD" group-title="غير مصنف",Sky News Arabia (1080p) [Not 24/7]
+https://stream.skynewsarabia.com/ott/ott.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@HD" group-title="غير مصنف",Sky News Arabia (1080p)
+https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabia.ae@SD" group-title="غير مصنف",Sky News Arabia (720p) [Not 24/7]
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae@SD" group-title="غير مصنف",Sky News Arabia (Portrait) (1280p) [Not 24/7]
+https://stream.skynewsarabia.com/vertical/vertical.m3u8
+#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae@HD" group-title="غير مصنف",Sky News Arabia Vertical (1080p)
+https://live-stream.skynewsarabia.com/c-vertical-channel/vertical-stream/index.m3u8
+#EXTINF:-1 tvg-id="AlHadath.sa@SD" group-title="غير مصنف",Al Arabiya Al Hadath (1080p) [Not 24/7]
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" group-title="غير مصنف",Al Arabiya English (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
+#EXTINF:-1 tvg-id="AlHadath.sa@SD" group-title="غير مصنف",Al Hadath TV (1080p) [Not 24/7]
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTA3AlArabia.uk@SD" tvg-logo="https://i.imgur.com/m3PEldJ.png" group-title="Religious",MTA3 Al-Arabia (1080p)
+https://chlivemta1.akamaized.net/hls/live/2010556/mta3alarabia/playlist.m3u8
+#EXTINF:-1 tvg-id="KairaliArabia.in@SD" tvg-logo="https://i.imgur.com/BBEfplL.png" group-title="General",Kairali Arabia (576p)
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@Arabia" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Arabia (720p)
+https://janya-digimix.akamaized.net/vglive-sk-213167/arabia/ngrp:angelarabia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-country="SA" group-title="Saudi Arabia",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" tvg-country="SA" group-title="Saudi Arabia",Rotana Classic
+https://bcovlive-a.akamaihd.net/0debf5648e584e5fb795c3611c5c0252/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="AlHadath.sa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Al_Hadath_TV_logo_2023.svg" group-title="News (AR)",Al Hadath العربية
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_1080p/chunks.m3u8
+#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News (AR)",France 24 العربية Ⓨ
+https://www.youtube.com/c/FRANCE24Arabic/live
+#EXTINF:-1 tvg-id="DWArabic.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News (AR)",DW العربية
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="News (AR)",CGTN العربية
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8

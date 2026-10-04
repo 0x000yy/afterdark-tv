@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST: featured/sky-sports.m3u8
-#DATE: 2026-10-04 16:51:16 UTC
+#DATE: 2026-10-04 17:55:55 UTC
 #TOTAL: 2
 
-#EXTINF:-1 tvg-id="SkySportsFootball.ie@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png" group-title="Sports",Sky Sports Football
+#EXTINF:-1 tvg-id="SkySportsFootball.ie@SD" group-title="غير مصنف",Sky Sports Football
 https://7nyaler.streamhostingcdn.top/stream/39/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsCricket.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png" group-title="Sports",Sky Sports Cricket HD
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https

@@ -1,8 +1,6 @@
 #EXTM3U
 #GROUP: Relax;Travel
-#TOTAL: 2
+#TOTAL: 1
 
 #EXTINF:-1,DroneTV (1080p)
 https://airvuz-dronetv-1-us.ohlscdn.wurl.tv/playlist.m3u8
-#EXTINF:-1,Space Live powered by sen (1080p)
-https://linear-1224.frequency.stream/dist/lg-uk/1224/hls/master/playlist.m3u8

@@ -1,0 +1,205 @@
+#EXTM3U
+#PLAYLIST: detected/brand-cartoon.m3u8
+#DATE: 2026-10-04 17:55:54 UTC
+#TOTAL: 100
+
+#EXTINF:-1 tvg-id="ChifengComprehensiveNewsChanel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/cfxwzhpd.jpg" group-title="News",Chifeng Comprehensive News Chanel
+http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
+#EXTINF:-1 tvg-id="ZBCartoon.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png" group-title="Kids",ZB Cartoon (1080p)
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-id="BaichengTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/baicheng.jpg" group-title="General",Baicheng TV [Geo-blocked]
+https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
+#EXTINF:-1 tvg-id="BeijingSatelliteTV.cn@SD" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="General",Beijing Satellite TV [Not 24/7]
+http://ivi.bupt.edu.cn/hls/btv1.m3u8
+#EXTINF:-1 tvg-id="ChinaWeatherChannel.cn@SD" tvg-logo="https://i.imgur.com/syNwDpg.png" group-title="Weather",China Weather Channel (576p) [Not 24/7]
+http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn@SD" tvg-logo="https://i.imgur.com/xfVHrKQ.png" group-title="Animation;Kids",Golden Eagle Cartoon (576p)
+http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+#EXTINF:-1 tvg-id="JiangxiChildrensChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv6.jpg" group-title="Animation;Kids",Jiangxi Children's Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
+#EXTINF:-1 tvg-id="JiangxiCityChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jxds.jpg" group-title="General",Jiangxi City Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
+#EXTINF:-1 tvg-id="JiangxiEconomyLifeChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jxtv3.jpg" group-title="Business",Jiangxi Economy & Life Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv3.m3u8
+#EXTINF:-1 tvg-id="JiangxiMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxi.jpg" group-title="Movies",Jiangxi Movie Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+#EXTINF:-1 tvg-id="JiangxiPublicAgricultureChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jxgg.jpg" group-title="General",Jiangxi Public & Agriculture Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv5.m3u8
+#EXTINF:-1 tvg-id="JilinCityChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jldspd.jpg" group-title="Lifestyle",Jilin City Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+#EXTINF:-1 tvg-id="JilinLifestyleChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jlshpd.jpg" group-title="Lifestyle",Jilin Lifestyle Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+#EXTINF:-1 tvg-id="JilinMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jlyspd.jpg" group-title="Movies",Jilin Movie Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+#EXTINF:-1 tvg-id="JilinRuralChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jlxcpd.jpg" group-title="Education;Lifestyle;Science",Jilin Rural Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+#EXTINF:-1 tvg-id="LanzhouComprehensiveNewsChannel.cn@SD" tvg-logo="https://p3-pc.douyinpic.com/img/aweme-avatar/tos-cn-avt-0015_c2a13a952c0111b21f081d672798c8ed~c5_300x300.jpeg?from=2956013662" group-title="News",Lanzhou Comprehensive News Channel
+https://liveplus.lzr.com.cn/xwzh/HD/live.m3u8
+#EXTINF:-1 tvg-id="LanzhouCultureTourismChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/lanzhou.jpg" group-title="Culture",Lanzhou Culture & Tourism Channel
+https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8
+#EXTINF:-1 tvg-id="NanchangNewsGeneralistChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/nctv1.jpg" group-title="General",Nanchang News & Generalist Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_nanchang.m3u8
+#EXTINF:-1 tvg-id="QTV1.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv1.jpg" group-title="News",QTV-1
+http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV2.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv2.jpg" group-title="Lifestyle",QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV3.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv3.jpg" group-title="Movies",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV4.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv4.jpg" group-title="General",QTV-4
+http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV5.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv5.jpg" group-title="General",QTV-5
+http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+#EXTINF:-1 tvg-id="QTV6.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/qdtv6.jpg" group-title="Kids;Lifestyle",QTV-6
+http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
+#EXTINF:-1 tvg-id="ShenzhenSatelliteTV.cn@SD" group-title="Undefined",Shenzhen Satellite TV (2160p)
+https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
+#EXTINF:-1 tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="General",Siping TV
+http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+#EXTINF:-1 tvg-id="TonghuaTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/thtv1.jpg" group-title="News",Tonghua TV (1080p)
+http://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 tvg-id="XianBusinessInformationChannel.cn@SD" tvg-logo="https://i.imgur.com/dzdiY4O.png" group-title="Business",Xi'an Business Information Channel (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv3/playlist.m3u8
+#EXTINF:-1 tvg-id="XianSilkRoadChannel.cn@SD" tvg-logo="https://i.imgur.com/52i1Qnz.png" group-title="Undefined",Xi'an Silk Road Channel (404p) [Not 24/7]
+http://stream2.xiancity.cn/xatv5/playlist.m3u8
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn@SD" tvg-logo="https://i.imgur.com/GZInf2W.png" group-title="Animation;Kids",You Man Cartoon Channel (576p)
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
+#EXTINF:-1 tvg-id="GospelCartoon.br@SD" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Religious",Gospel Cartoon (360p)
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="XtremaCartoons.ar@SD" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Animation;Kids",Xtrema Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="Animation;Kids",Cartoon Classics
+https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us@SD" group-title="غير مصنف",TVS Pinball Network (480p)
+https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="غير مصنف",Beijing Youth Radio [Geo-blocked]
+http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
+#EXTINF:-1 tvg-id="CCTV1.cn@SD" group-title="غير مصنف",CCTV-1
+https://liveplay-srs.voc.com.cn/hls/tv/134_180adf.m3u8
+#EXTINF:-1 tvg-id="CNDFilmMiddleSchoolChannel.cn@SD" group-title="غير مصنف",CND Film Middle School Channel
+http://live-play.zxstv.com.cn/zhongxuesheng/zhongxuesheng.m3u8
+#EXTINF:-1 group-title="غير مصنف",Foshan News TV
+http://dslive.grtn.cn/fszh/sd/live.m3u8
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn@SD" group-title="غير مصنف",Golden Eagle Cartoon
+http://1.24.190.98:10080/hls/51/index.m3u8
+#EXTINF:-1 tvg-id="NeiMonggolTV.cn@SD" group-title="غير مصنف",Nei Monggol TV (1080i) [Not 24/7]
+http://play1-qk.nmtv.cn/live/1769652018126032.m3u8
+#EXTINF:-1 tvg-id="NeiMonggolTV2MongolianCultureChannel.cn@SD" group-title="غير مصنف",Nei Monggol TV 2 Mongolian Culture Channel (1080i) [Not 24/7]
+http://play1-qk.nmtv.cn/live/1769652109096027.m3u8
+#EXTINF:-1 tvg-id="QinghaiTV.cn@SD" group-title="غير مصنف",Qinghai TV
+https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8
+#EXTINF:-1 tvg-id="TonghuaTV.cn@SD" group-title="غير مصنف",Tonghua TV (1080p)
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/index.m3u8
+#EXTINF:-1 group-title="غير مصنف",云南 Ⅰ 文山公共台 (1080p)
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch2.flv
+#EXTINF:-1 group-title="غير مصنف",云南 Ⅰ 文山综合台 (1080p) [Not 24/7]
+http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+#EXTINF:-1 tvg-id="YouManCartoonChannel.cn@SD" group-title="غير مصنف",优漫卡通 (576p)
+http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+#EXTINF:-1 group-title="غير مصنف",兴隆综合
+https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8
+#EXTINF:-1 group-title="غير مصنف",农安新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/naxw/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",前郭综合 [Geo-blocked]
+https://stream2.jlntv.cn/qg/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",北京财经 [Not 24/7]
+http://ivi.bupt.edu.cn/hls/btv5.m3u8
+#EXTINF:-1 group-title="غير مصنف",北京青年 [Not 24/7]
+http://ivi.bupt.edu.cn/hls/btv8.m3u8
+#EXTINF:-1 group-title="غير مصنف",南京少儿 (720p) [Not 24/7]
+https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",南京教科 (720p) [Not 24/7]
+https://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",吉林市新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/jilin1/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",四平新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",孟州电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+#EXTINF:-1 group-title="غير مصنف",广东 Ⅰ 韶关公共台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",广东 Ⅰ 韶关综合台 (720p) [Not 24/7]
+https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",延边新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/jlyb/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",建安电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/11003-1.m3u8
+#EXTINF:-1 group-title="غير مصنف",文山综合 (1080p) [Not 24/7]
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+#EXTINF:-1 group-title="غير مصنف",新泰乡村党建 (480p) [Not 24/7]
+http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8
+#EXTINF:-1 group-title="غير مصنف",新泰影視頻道 (480p) [Not 24/7]
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+#EXTINF:-1 group-title="غير مصنف",新泰生活 (480p) [Not 24/7]
+http://live.xtgdw.cn:1935/live/xtsh/playlist.m3u8
+#EXTINF:-1 group-title="غير مصنف",新泰综合 (480p) [Not 24/7]
+http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8
+#EXTINF:-1 group-title="غير مصنف",新郑综合 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+#EXTINF:-1 group-title="غير مصنف",松原新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/sytv/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",河源综合 (540p)
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",浙江 Ⅰ 绍兴影视 (720p)
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1 group-title="غير مصنف",浙江 Ⅰ 绍兴综合 (576p)
+http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+#EXTINF:-1 group-title="غير مصنف",海西州综合 (576p)
+http://stream.haixitv.cn/1/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",甘肃公共 (540p) [Not 24/7]
+https://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+#EXTINF:-1 group-title="غير مصنف",甘肃移动 (540p) [Not 24/7]
+https://hls.gstv.com.cn/49048r/y72q36.m3u8
+#EXTINF:-1 group-title="غير مصنف",白山新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/baishan1/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",萬州三峽移民 (576p)
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",萬州影視文藝 (576p)
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",萬州科教頻道 (576p)
+http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",萬州綜合頻道 (576p)
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",罗山电视台 (1080p) [Not 24/7]
+http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+#EXTINF:-1 group-title="غير مصنف",西安乐购购物 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv6/playlist.m3u8
+#EXTINF:-1 group-title="غير مصنف",西安影视 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv4/playlist.m3u8
+#EXTINF:-1 group-title="غير مصنف",西安新闻 (1080p) [Not 24/7]
+http://stream2.xiancity.cn/xatv1/playlist.m3u8
+#EXTINF:-1 group-title="غير مصنف",西安白鸽 (180p) [Not 24/7]
+http://stream2.xiancity.cn/xatv2/playlist.m3u8
+#EXTINF:-1 group-title="غير مصنف",辽源新闻综合 [Geo-blocked]
+https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",通化新闻 [Geo-blocked]
+https://stream2.jlntv.cn/tonghua1/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",金昌公共頻道 (240p) [Geo-blocked]
+http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",金昌綜合頻道 (720p) [Geo-blocked]
+http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn@SD" group-title="غير مصنف",金鹰卡通 (576p) [Geo-blocked]
+http://223.110.241.149:6610/gitv/live1/G_JINYING/G_JINYING/1.m3u8
+#EXTINF:-1 tvg-id="GoldenEagleCartoon.cn@SD" group-title="غير مصنف",金鹰卡通 (湖南) (540p) [Not 24/7]
+http://112.25.48.68/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 group-title="غير مصنف",长春综合 [Geo-blocked]
+https://stream2.jlntv.cn/jlcc/sd/live.m3u8
+#EXTINF:-1 group-title="غير مصنف",集安综合 [Geo-blocked]
+https://stream2.jlntv.cn/ja/sd/live.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-country="FR" group-title="France",CGTN Français
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-country="RU" group-title="Russia",CGTN Pусский
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://i.imgur.com/oK2DcDJ.png" tvg-country="IT" group-title="Italy",Cartoonito Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9.cn" tvg-logo="https://i.imgur.com/Ruyzhu5.png" tvg-country="CN" group-title="China",CCTV-9 纪录
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" tvg-country="AE" group-title="United Arab Emirates",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="Documentaries (EN)",CGTN Documentary English Ⓢ
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="News (AR)",CGTN العربية
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="News",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-logo="https://i.imgur.com/fMsJYzl.png" group-title="News (ES)",CGTN Español
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8

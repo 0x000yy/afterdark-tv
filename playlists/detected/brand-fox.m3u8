@@ -1,0 +1,139 @@
+#EXTM3U
+#PLAYLIST: detected/brand-fox.m3u8
+#DATE: 2026-10-04 17:55:54 UTC
+#TOTAL: 67
+
+#EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies",Star Channel (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX/video.m3u8
+#EXTINF:-1 tvg-id="StarCrime.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Star_Crime_2023.svg/960px-Star_Crime_2023.svg.png" group-title="Series",Star Crime (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+#EXTINF:-1 tvg-id="StarLife.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/960px-Star_Life_2021.svg.png" group-title="Series",Star Life (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
+#EXTINF:-1 tvg-id="StarChannel.pt@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Entertainment",Star Channel (Portugal)
+http://znty.dyndns.org:5010/hls/fox.m3u8
+#EXTINF:-1 tvg-id="AguilaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3770-294x165-FFFFFF.jpg" group-title="General",Aguila TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
+#EXTINF:-1 tvg-id="BajoTechoTV.do@SD" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Shop",Bajo Techo TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Bellavision.do@SD" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Entertainment",Bellavision (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bellavision8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="BocaChicaTV.do@SD" tvg-logo="https://i.imgur.com/npiRBPC.png" group-title="General",Boca Chica TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="CromTV.do@SD" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="General",CromTV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/cromtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="DeltaTVCanal50.do@SD" tvg-logo="https://imgur.com/Z1K1tyl.jpg" group-title="General",Delta TV Canal 50 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/deltatv50/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="GHTelevision.do@SD" tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="General",GH Television (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="HermanasMirabalTV.do@SD" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="News",Hermanas Mirabal TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/hmtv/index.m3u8
+#EXTINF:-1 tvg-id="HTVLive.do@SD" tvg-logo="https://i.imgur.com/0WBsAin.png" group-title="Entertainment",HTV Live (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/canalhtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MorroTV.do@SD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3759-294x165-FFFFFF.jpg" group-title="General",MorroTV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="PronemsTV.do@SD" tvg-logo="https://i.imgur.com/a9ORO1G.png" group-title="Entertainment",Pronems TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
+#EXTINF:-1 tvg-id="PulaTV.do@SD" tvg-logo="https://i.imgur.com/8gSLJ2f.png" group-title="Entertainment",Pula TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/pulatv/index.m3u8
+#EXTINF:-1 tvg-id="PuntaCanaTV.do@SD" tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="General",Punta Cana TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
+#EXTINF:-1 tvg-id="PuntoTV.do@SD" tvg-logo="https://imgur.com/vfvN6ox.png" group-title="General",Punto TV (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/puntotv/index.m3u8
+#EXTINF:-1 tvg-id="Telenord8.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="General",Telenord 8 (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord10.do@SD" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="General",Telenord 10 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord12.do@SD" tvg-logo="https://i.imgur.com/o7EzEsV.png" group-title="General",Telenord 12 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenord12/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenovisa43.do@SD" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="Family;General",Telenovisa43 (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/telenonisa43/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Travel",Teletur (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TourSpotTV.do@HD" tvg-logo="https://imgur.com/khj869k.png" group-title="Sports",Tour Spot TV (1280p) [Not 24/7]
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+#EXTINF:-1 tvg-id="VegavisionCanal18.do@SD" tvg-logo="https://i.imgur.com/352jxnd.png" group-title="General",Vegavision Canal 18 (1080p) [Not 24/7]
+https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fox.ru@SD" tvg-logo="https://i.imgur.com/nr1Y67Z.png" group-title="Entertainment",Fox (Russia) (576p)
+http://stream.mcquack.net/182/index.m3u8
+#EXTINF:-1 tvg-id="FoxLife.ru@SD" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Series",Fox Life (576p)
+http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1 tvg-id="FX.ru@SD" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/478.png" group-title="Entertainment",FX (1080p)
+http://str2.iptvhd.ru:8080/FOX_HD/index.m3u8
+#EXTINF:-1 tvg-id="FXLife.ru@SD" tvg-logo="https://i.imgur.com/VLv4r50.png" group-title="Series",FX Life (576p)
+http://str2.iptvhd.ru:8080/Fox_Life_HD/index.m3u8
+#EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="Entertainment",Fox (Poland) (1080p)
+http://57.128.231.171:8080/249/index.m3u8
+#EXTINF:-1 tvg-id="NOWTV.tr@SD" group-title="غير مصنف",NOW TV
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1 tvg-id="FoxWeather.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/960px-Fox_Weather_logo.svg.png" group-title="Weather",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/960px-Fox_Business.svg.png" group-title="Business",Fox Business Network (576p)
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8
+#EXTINF:-1 tvg-id="FoxSoul.us@SD" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@East" group-title="غير مصنف",Fox (720p)
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="غير مصنف",Fox Business Network (480p)
+https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" group-title="غير مصنف",Fox Deportes (720p)
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="غير مصنف",Fox News Channel (720p)
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="غير مصنف",Fox News Channel (144p)
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" group-title="غير مصنف",Fox News Radio (720p)
+https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" group-title="غير مصنف",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@West" group-title="غير مصنف",Fox West (720p)
+http://stream.cammonitorplus.net/1799/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KDFW" group-title="غير مصنف",KDFW-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KRIV" group-title="غير مصنف",KRIV-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KSAZTV" group-title="غير مصنف",KSAZ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ksaz-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KTBC" group-title="غير مصنف",KTBC-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktbc-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KTTV" group-title="غير مصنف",KTTV 11.1 (720p)
+https://n15sb.host5245.com/63/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KTTV" group-title="غير مصنف",KTTV-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="غير مصنف",LiveNOW from FOX (720p) [Geo-blocked]
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="غير مصنف",LiveNOW from FOX (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WHBQTV" group-title="غير مصنف",WHBQ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WITI" group-title="غير مصنف",WITI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WJBK" group-title="غير مصنف",WJBK-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WNYW" group-title="غير مصنف",WNYW-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WTTG" group-title="غير مصنف",WTTG-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WTVT" group-title="غير مصنف",WTVT-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WTXFTV" group-title="غير مصنف",WTXF-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WSVN" group-title="غير مصنف",Fox WSVN (1080p)
+http://190.197.41.183/Fox/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" group-title="غير مصنف",Fox Sports 1 (720p)
+http://193.254.245.162/Fox_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KBSI" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="General",Fox (United States) KBSI (720p) [Not 24/7]
+https://live.field59.com/kbsi/kbsi1/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KCPQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",Fox (United States) KCPQ (720p)
+https://aegis-cloudfront-1.tubi.video/cc394198-7bde-43e8-b186-875bc0eb3037/index.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KMPHTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",Fox (United States) KMPH-TV (1080p)
+https://linear-711.frequency.stream/dist/stirr/711/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@KOKHTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",Fox (United States) KOKH-TV (1080p)
+https://linear-705.frequency.stream/dist/stirr/705/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WBFF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",Fox (United States) WBFF (1080p)
+https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WFTXTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",Fox (United States) WFTX-TV (720p)
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WFXT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",Fox (United States) WFXT (1080p) [Geo-blocked]
+https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+#EXTINF:-1 tvg-id="Fox.us@WXXVTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" group-title="General",Fox (United States) WXXV-TV (720p)
+https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8

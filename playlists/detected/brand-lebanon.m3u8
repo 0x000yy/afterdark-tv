@@ -1,0 +1,19 @@
+#EXTM3U
+#PLAYLIST: detected/brand-lebanon.m3u8
+#DATE: 2026-10-04 17:55:54 UTC
+#TOTAL: 7
+
+#EXTINF:-1 tvg-id="OTV.lb@SD" tvg-logo="https://i.imgur.com/toxFMeY.png" group-title="General",OTV (Lebanon) (1080p)
+https://otv.hibridcdn.net/otv/tv_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="AlImanTV.lb@SD" tvg-logo="https://i.imgur.com/4WKQppG.png" group-title="Religious",Al-Iman TV (Lebanon) (240p) [Not 24/7]
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVLebanon.lb@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png" group-title="General",MTV Lebanon (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+#EXTINF:-1 tvg-id="RedTVLebanon.lb@HD" tvg-logo="https://i.imgur.com/bWwY885.png" group-title="News",Red TV Lebanon (1080p)
+https://live.kwikmotion.com/redtvlive/redtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD" tvg-logo="https://i.imgur.com/f8WcqRY.png" group-title="News",Voice of Lebanon (1080p)
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LBCInternational.lb@SD" group-title="غير مصنف",LBC International (1080p)
+http://185.9.2.18/chid_521/index.m3u8
+#EXTINF:-1 tvg-id="FalestinonaChannel.lb" group-title="Lebanon",Falestinona Channel
+https://ffs3.gulfsat.com/Falestinona-TV/index.fmp4.m3u8

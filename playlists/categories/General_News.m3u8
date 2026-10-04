@@ -1,36 +1,34 @@
 #EXTM3U
 #GROUP: General;News
-#TOTAL: 16
+#TOTAL: 15
 
-#EXTINF:-1,Seraj TV (1080i)
-https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
 #EXTINF:-1,TVK Stella (576p)
 https://stream.tvkstella.pl/stella/stella.m3u8
-#EXTINF:-1,Arirang TV (1080p)
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1,Arirang TV HD (720p)
-http://45.162.64.114/ARIRANG/index.m3u8
-#EXTINF:-1,BX Inform (1080p)
-https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
-#EXTINF:-1,NTD TV English (1080p)
-https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
-#EXTINF:-1,NTD TV English UK (1080p)
-https://ntd02.akamaized.net/NTD-UK/index.m3u8
-#EXTINF:-1,Canal 1 Mar Menor Torre Pacheco (1080p)
-https://directo.tuwebtv.es/canal1.m3u8
-#EXTINF:-1,Canal 33 Tijuana (720p)
-https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
-#EXTINF:-1,PRO TV Chisinau (576p)
-http://178.76.68.60:7441/15/mpegts
-#EXTINF:-1,Sochi24 (720p)
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1,Dong Nai TV 1 (720p)
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 #EXTINF:-1,HTV9 (720p)
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1,Vinh Long TV 1 (720p)
 https://dethich.pw/thvl1/index.m3u8
+#EXTINF:-1,PRO TV Chisinau (576p)
+http://178.76.68.60:7441/15/mpegts
+#EXTINF:-1,Seraj TV (1080i)
+https://43869de4e1a0d641.servers.dvcloud.tv/hls/al_aqsa_channel/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8
+#EXTINF:-1,Canal 33 Tijuana (720p)
+https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
+#EXTINF:-1,Sochi24 (720p)
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1,NH (1080p)
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
+#EXTINF:-1,NTD TV English UK (1080p)
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1,Canal 1 Mar Menor Torre Pacheco (1080p)
+https://directo.tuwebtv.es/canal1.m3u8
 #EXTINF:-1,Star Kentrikis Elladas (1080p)
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+#EXTINF:-1,Arirang TV (1080p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,Arirang TV HD (720p)
+http://45.162.64.114/ARIRANG/index.m3u8
+#EXTINF:-1,NTD TV English (1080p)
+https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8

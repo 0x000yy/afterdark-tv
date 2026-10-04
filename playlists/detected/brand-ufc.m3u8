@@ -1,0 +1,7 @@
+#EXTM3U
+#PLAYLIST: detected/brand-ufc.m3u8
+#DATE: 2026-10-04 17:55:54 UTC
+#TOTAL: 1
+
+#EXTINF:-1 tvg-id="UDAR.ru@SD" group-title="غير مصنف",UDAR (1080p)
+http://str2.iptvhd.ru:8080/UFC_HD/index.m3u8

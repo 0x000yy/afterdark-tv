@@ -1,34 +1,34 @@
 #EXTM3U
 #PLAYLIST: featured/nba-tv.m3u8
-#DATE: 2026-10-04 16:51:16 UTC
+#DATE: 2026-10-04 17:55:56 UTC
 #TOTAL: 23
 
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="غير مصنف",NBA TV (720p)
-http://rezofoot.tv/NBATV/index.m3u8
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
-#EXTINF:-1 tvg-id="TVSPinballNetwork.us@SD" tvg-logo="https://i.imgur.com/HHmc14i.png" group-title="Kids",TVS Pinball Network (480p)
+#EXTINF:-1 tvg-id="NBATV.us@SD" group-title="غير مصنف",NBA TV (720p)
+http://rezofoot.tv/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="TVSPinballNetwork.us@SD" group-title="غير مصنف",TVS Pinball Network (480p)
 https://rpn.bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="DonbassOnline.ua@SD" tvg-logo="https://i.imgur.com/8h3kOI1.png" group-title="News",Donbass Online (1080p) [Not 24/7]
 http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
-#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de@SD" group-title="غير مصنف",SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/SWR_Logo_2023.svg/960px-SWR_Logo_2023.svg.png" group-title="Undefined",SWR Fernsehen Baden-Wurttemberg (720p) [Geo-blocked]
 https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 #EXTINF:-1 tvg-id="TBNBaltia.ee" tvg-logo="https://i.imgur.com/rKBaK56.png" tvg-country="EE" group-title="Estonia",TBN Baltia
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-id="BaanBaanTV73.th@SD" tvg-logo="https://i.imgur.com/JGLy1Pm.png" group-title="Undefined",Baan Baan TV 73
 https://vdo.plathong.net/live8794/live8794/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd@SD" group-title="غير مصنف",ATN Bangla (720p)
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd@SD" tvg-logo="https://i.imgur.com/K1HmMRz.png" group-title="General",ATN Bangla (720p)
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
+#EXTINF:-1 tvg-id="ATNBangla.bd@SD" group-title="غير مصنف",ATN Bangla (720p)
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-logo="https://i.imgur.com/vFpjggf.png" group-title="General",ATN Bangla UK (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="RaatdinBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="News",Raatdin Bangla (720p)
-https://server.playontv.in/raatdinbangla/index.m3u8
 #EXTINF:-1 tvg-id="RaatdinBangla.in@SD" group-title="غير مصنف",Raatdin Bangla (576p)
 http://51.75.127.199:3141/raatdinbangla/index.m3u8
 #EXTINF:-1 tvg-id="AfarinBaxcha.iq@SD" tvg-logo="https://i.postimg.cc/4xRkBDRx/Afarin-Baxcha-200.png" group-title="Kids",Afarin Baxcha (1080p)
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RaatdinBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="News",Raatdin Bangla (720p)
+https://server.playontv.in/raatdinbangla/index.m3u8
 #EXTINF:-1 tvg-id="Nova.bg@SD" group-title="غير مصنف",Nova
 http://213.91.179.28:8000/play/a03l
 #EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png" tvg-country="ES" group-title="Spain",Nova Ⓢ
@@ -37,10 +37,10 @@ http://40.160.24.55/Nova/index.m3u8
 http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@WestKalimantan" group-title="غير مصنف",TVRI Kalimantan Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-country="IT" group-title="Italy",Nove
-https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BL9ziSJ.png" tvg-country="CA" group-title="Canada",Noovo
 https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-country="IT" group-title="Italy",Nove
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="NH.nl@SD" tvg-logo="https://i.imgur.com/SPkK4md.png" group-title="General;News",NH (1080p)
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="Now14.il@SD" tvg-logo="https://i.imgur.com/Iq2Kb69.png" group-title="General",Now 14 (1080p)

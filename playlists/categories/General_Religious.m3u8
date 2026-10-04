@@ -1,16 +1,14 @@
 #EXTM3U
 #GROUP: General;Religious
-#TOTAL: 6
+#TOTAL: 5
 
 #EXTINF:-1,Holy Quran Radio (1080p)
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-#EXTINF:-1,Approval TV (720p)
-https://live.approvaltv.com/approvaltv/index.m3u8
-#EXTINF:-1,BX Inspire (720p)
-https://reflect-stream-bronxnet.cablecast.tv/live-18/live/stream-7/live.m3u8
-#EXTINF:-1,KBSV 23.1 (720p) [Not 24/7]
-http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1,Caritas TV (1080p)
 https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1,City Eden TV [Not 24/7]
 https://cityeden.catcast.tv/content/34246/index.m3u8
+#EXTINF:-1,Approval TV (720p)
+https://live.approvaltv.com/approvaltv/index.m3u8
+#EXTINF:-1,KBSV 23.1 (720p) [Not 24/7]
+http://66.242.170.53/hls/live/temp/index.m3u8

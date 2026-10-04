@@ -2,9 +2,9 @@
 #GROUP: Classic;Comedy
 #TOTAL: 3
 
-#EXTINF:-1,I Love Lucy
-https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
 #EXTINF:-1,I Love Lucy CA
 https://jmp2.uk/plu-63a2f1dda0d69700078b7cba.m3u8
 #EXTINF:-1,The Beverly Hillbillies
 https://jmp2.uk/plu-6565fefdc917a50008485cc6.m3u8
+#EXTINF:-1,I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8

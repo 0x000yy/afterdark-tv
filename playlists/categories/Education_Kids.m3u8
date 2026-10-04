@@ -1,11 +1,7 @@
 #EXTM3U
 #GROUP: Education;Kids
-#TOTAL: 9
+#TOTAL: 7
 
-#EXTINF:-1,ABC Entertains (720p)
-https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1,Knowledge Network (720p) [Geo-blocked]
-https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
 #EXTINF:-1,NCM Educational & Kids Channel
 https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1,PBS Kids (720p)

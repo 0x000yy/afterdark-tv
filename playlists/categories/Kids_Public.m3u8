@@ -1,8 +1,6 @@
 #EXTM3U
 #GROUP: Kids;Public
-#TOTAL: 2
+#TOTAL: 1
 
 #EXTINF:-1,Clan (1080p)
 https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
-#EXTINF:-1,Clan Internacional (1080p)
-http://168.228.44.241:9999/play/a04j/index.m3u8

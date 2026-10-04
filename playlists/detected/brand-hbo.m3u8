@@ -1,0 +1,11 @@
+#EXTM3U
+#PLAYLIST: detected/brand-hbo.m3u8
+#DATE: 2026-10-04 17:55:54 UTC
+#TOTAL: 3
+
+#EXTINF:-1 tvg-id="HBOMovies.us@East" group-title="غير مصنف",HBO Movies (720p)
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBODrama.us@East" group-title="غير مصنف",HBO Drama (1080p)
+https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@WestHD" group-title="غير مصنف",HBO Hits West HD (1080p)
+https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8

@@ -1,0 +1,9 @@
+#EXTM3U
+#PLAYLIST: detected/brand-shahid.m3u8
+#DATE: 2026-10-04 17:55:54 UTC
+#TOTAL: 2
+
+#EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.imgur.com/A2fJysM.png" tvg-country="SA" group-title="Saudi Arabia",Al Quran Al Kareem TV
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" tvg-country="AE" group-title="United Arab Emirates",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8

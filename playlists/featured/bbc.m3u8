@@ -1,26 +1,26 @@
 #EXTM3U
 #PLAYLIST: featured/bbc.m3u8
-#DATE: 2026-10-04 16:51:17 UTC
+#DATE: 2026-10-04 17:55:58 UTC
 #TOTAL: 135
 
-#EXTINF:-1 tvg-id="BBCFood.us" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-country="US" group-title="USA",BBC Food
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="BBCOne.uk@London" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One
 https://cdn.stmify.com/bbc/stream/BBC_ONE_LONDON/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCFood.us" tvg-logo="https://i.imgur.com/N3xiz4m.png" tvg-country="US" group-title="USA",BBC Food
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/500px-BBC_One_logo_2021.svg.png" tvg-country="GB" group-title="UK",BBC One Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/500px-BBC_Two_logo_2021.svg.png" tvg-country="GB" group-title="UK",BBC Two Ⓖ
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/500px-BBC_Three_2022.svg.png" tvg-country="GB" group-title="UK",BBC Three Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8
-#EXTINF:-1 tvg-id="BBCHome.us" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-country="US" group-title="USA",BBC Home
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="BBCAlba.uk@SD" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="General",BBC Alba
-https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="News",BBC News Ⓖ
 https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="BBCAlba.uk@SD" tvg-logo="https://i.imgur.com/36KDxLg.png" group-title="General",BBC Alba
+https://cdn.stmify.com/bbc/stream/BBC_ALBA/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCFour.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four
 https://cdn.stmify.com/bbc/stream/BBC_FOUR/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCHome.us" tvg-logo="https://i.imgur.com/Ii8DX1x.png" tvg-country="US" group-title="USA",BBC Home
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="BBCAlba.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/BBC_Alba_2021.svg/500px-BBC_Alba_2021.svg.png" tvg-country="GB" group-title="UK",BBC Alba Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_alba/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/500px-BBC_Four_logo_2021.svg.png" tvg-country="GB" group-title="UK",BBC Four Ⓖ
@@ -43,10 +43,6 @@ https://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=320000
 https://lsn.lv/bbcradio.m3u8?station=bbc_radio_three&bitrate=320000
 #EXTINF:-1 tvg-id="BBCRadio4FM.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4-epg.png" tvg-country="GB" group-title="UK",BBC Radio 4
 https://lsn.lv/bbcradio.m3u8?station=bbc_radio_fourfm&bitrate=320000
-#EXTINF:-1 tvg-id="BBCFood.us@SD" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Cooking",BBC Food (1080p)
-https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCKids.us@SD" tvg-logo="https://i.imgur.com/vKUD64a.png" group-title="Kids",BBC Kids (720p)
-https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCScotland.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/960px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="General",BBC Scotland
 https://cdn.stmify.com/bbc/stream/BBC_SCOTLAND/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCTwo.uk@Wales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two Wales
@@ -55,14 +51,14 @@ https://cdn.stmify.com/bbc/stream/BBC_TWO_WALES/hevc_iptv_mse_v0.mpd
 http://45.14.84.37/bbc3/index.m3u8
 #EXTINF:-1 tvg-id="BBCUHD4.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 4 (720p)
 http://45.14.84.37/bbc4/index.m3u8
+#EXTINF:-1 tvg-id="BBCFood.us@SD" tvg-logo="https://i.imgur.com/kcmHcSx.png" group-title="Cooking",BBC Food (1080p)
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCKids.us@SD" tvg-logo="https://i.imgur.com/vKUD64a.png" group-title="Kids",BBC Kids (720p)
+https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCScotland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/500px-BBC_Scotland_2021_%28channel%29.svg.png" tvg-country="GB" group-title="UK",BBC Scotland Ⓢ Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_scotland_hd/pc_hd_abr_v2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J2B9FjO.jpg" group-title="VOD Italy",BBC Doctor Who
 https://bbceu-doctorwho-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCBrit.uk@Poland" tvg-logo="https://i.imgur.com/i4remZo.png" group-title="Entertainment",BBC Brit (1080p)
-http://57.128.231.171:8080/309/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Poland" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth (1080p)
-http://57.128.231.171:8080/307/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@UK" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News (1080p)
 https://xemzi.short.gy/1000015
 #EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two HD (720p)
@@ -71,6 +67,10 @@ http://193.46.58.239:8080/BBCTwoHD/index.m3u8
 https://xemzi.short.gy/1000001
 #EXTINF:-1 tvg-id="BBCUHD2.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/960px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 2 (1080p)
 https://xemzi.short.gy/1000002
+#EXTINF:-1 tvg-id="BBCEarth.uk@Poland" group-title="غير مصنف",BBC Earth (1080p)
+http://57.128.231.171:8080/307/index.m3u8
+#EXTINF:-1 tvg-id="BBCBrit.uk@Poland" group-title="غير مصنف",BBC Brit (1080p)
+http://57.128.231.171:8080/309/index.m3u8
 #EXTINF:-1 tvg-id="BBCArabic.uk@SD" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCParliament.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/BBC_Parliament_Logo.svg/960px-BBC_Parliament_Logo.svg.png" group-title="Legislative",BBC Parliament
@@ -85,30 +85,30 @@ https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=320000
 https://lsn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=320000
 #EXTINF:-1 tvg-id="BBCEarth.uk@Hungary" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth Hungary
 http://88.212.15.19/live/bbce_hun/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth Czechia
-http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://i.imgur.com/pTiiPz0.png" group-title="Entertainment",BBC America (720p)
-http://23.239.31.26:8989/bbcamerica/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Romania" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth Romania
-https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth Turkiye
-https://nord.ayakkabiparti.lol/bbc/index.m3u8
-#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth US (1080p)
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" tvg-logo="https://i.imgur.com/CGXC5fp.png" group-title="Animation;Family;Kids",BBC Three/CBBC (720p)
 http://193.46.58.239:8080/CBBCHD/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Czechia" group-title="غير مصنف",BBC Earth Czechia
+http://88.212.15.29/live/test_bbc_eartch_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Turkiye" group-title="غير مصنف",BBC Earth Turkiye
+https://nord.ayakkabiparti.lol/bbc/index.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Romania" group-title="غير مصنف",BBC Earth Romania
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth US (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" group-title="غير مصنف",BBC America (720p)
+http://23.239.31.26:8989/bbcamerica/index.m3u8
 #EXTINF:-1 tvg-id="BBCRadio6Music.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd6-epg.png" tvg-country="GB" group-title="UK",BBC Radio 6 Music
 https://lsn.lv/bbcradio.m3u8?station=bbc_6music&bitrate=320000
 #EXTINF:-1 tvg-id="BBCRadio4Extra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd4x-epg.png" tvg-country="GB" group-title="UK",BBC Radio 4 Extra
 https://lsn.lv/bbcradio.m3u8?station=bbc_radio_four_extra&bitrate=320000
-#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (1080p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrAqXHJ.png" group-title="VOD Italy",BBC Drama – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 tvg-id="BBCFirst.uk@Romania" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="Entertainment",BBC First Romania
-https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
-#EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" tvg-logo="https://i.imgur.com/UBoBYUI.png" group-title="Entertainment",BBC First Turkiye
+#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://i.imgur.com/4uTMnPb.png" group-title="News",BBC Persian (1080p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCFirst.uk@Turkiye" group-title="غير مصنف",BBC First Turkiye
 http://88.212.15.29/live/bbc_first/index.m3u8
+#EXTINF:-1 tvg-id="BBCFirst.uk@Romania" group-title="غير مصنف",BBC First Romania
+https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 #EXTINF:-1 tvg-id="BBCRadioAsianNetwork.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-country="GB" group-title="UK",BBC Asian Network
 https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
 #EXTINF:-1 tvg-id="BBCRadioWorldService.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcws-epg.png" tvg-country="GB" group-title="UK",BBC World Service
@@ -119,7 +119,7 @@ https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_af
 http://45.153.96.44:8001
 #EXTINF:-1 tvg-id="BBCNewsHindi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="News",BBC News Hindi (1080p)
 http://51.75.127.199:3141/bbcnewshindi/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@Europe" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Europe (576p)
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" group-title="غير مصنف",BBC News Europe (576p)
 http://46.32.176.50/bbcworld/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@Europe" group-title="غير مصنف",BBC News Europe (576p)
 http://stream.mcquack.net/85/index.m3u8
@@ -129,34 +129,30 @@ https://stream8.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 http://str2.iptvhd.ru:8080/bbc/index.m3u8
 #EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" tvg-logo="https://i.imgur.com/aH0PCPy.png" group-title="Animation;General;Kids",BBC Four/CBeebies (720p)
 http://193.46.58.239:8080/CbeebiesHD/index.m3u8
-#EXTINF:-1 tvg-id="BBCHomeGarden.us@SD" tvg-logo="https://i.imgur.com/rC0pi1D.png" group-title="Lifestyle",BBC Home & Garden (1080p)
-https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Africa (1080p)
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One London HD (720p)
 http://193.46.58.239:8080/BBCOneHD/index.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk@LondonHD" group-title="غير مصنف",BBC One London HD (720p)
 http://193.239.186.231/BBC1/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@SouthAsia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News South Asia (720p)
-https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
+#EXTINF:-1 tvg-id="BBCHomeGarden.us@SD" tvg-logo="https://i.imgur.com/rC0pi1D.png" group-title="Lifestyle",BBC Home & Garden (1080p)
+https://d11r33s5i066xh.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@Africa" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Africa (1080p)
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="BBCThree.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="General",BBC Three (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth Romania HD (576p)
-http://hls127.freeott.top:8080/BG_The_World/video.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk@SouthAsia" group-title="غير مصنف",BBC News South Asia (720p)
+https://mumbai-edge.smartplaytv.in/BBCNews/index.m3u8
 #EXTINF:-1 tvg-id="BBCLifestyle.uk@Asia" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="Lifestyle",BBC Lifestyle Asia (720p)
 http://58.8.186.128:10003/bysid/2333
 #EXTINF:-1 tvg-id="BBCTwo.uk@NorthernIreland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two Northern Ireland
 https://cdn.stmify.com/bbc/stream/BBC_TWO_NORTHERN_IRELAND/hevc_iptv_mse_v0.mpd
+#EXTINF:-1 tvg-id="BBCEarth.uk@RomaniaHD" group-title="غير مصنف",BBC Earth Romania HD (576p)
+http://hls127.freeott.top:8080/BG_The_World/video.m3u8
 #EXTINF:-1 tvg-id="BBCRadio5SportsExtra.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd5s-epg.png" tvg-country="GB" group-title="UK",BBC Radio 5 Sports Extra
 https://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000
 #EXTINF:-1 tvg-id="BBCNews.uk@AsiaPacific" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Asia Pacific (576p)
 https://thinkkast.dpdns.org/thinkkast/bbcworld_news_sd/versiglia/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" group-title="غير مصنف",BBC News North America (576p)
 https://tvsen1.aynaott.com/shn6jGTk/index.m3u8
-#EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland" tvg-logo="https://i.imgur.com/9mzJJ3y.png" group-title="Lifestyle",BBC Lifestyle Poland (1080p)
-http://57.128.231.171:8080/305/index.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News Latin America (720p)
-http://138.121.15.230:9002/BBC-NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BBC_NEWS/images/LOGO_HD/image.png" group-title="News",BBC News North America (1080p)
 http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One East (720p) [Geo-blocked]
@@ -165,6 +161,10 @@ https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_e
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One West (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-id="BBCNews.uk@LatinAmerica" group-title="غير مصنف",BBC News Latin America (720p)
+http://138.121.15.230:9002/BBC-NEWS/index.m3u8
+#EXTINF:-1 tvg-id="BBCLifestyle.uk@Poland" group-title="غير مصنف",BBC Lifestyle Poland (1080p)
+http://57.128.231.171:8080/305/index.m3u8
 #EXTINF:-1 tvg-id="BBCOne.uk@Wales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One Wales (720p) [Geo-blocked]
 https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BBCOne.uk@NorthWestHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/960px-BBC_One_logo_2021.svg.png" group-title="General",BBC One North West HD [Geo-blocked]
