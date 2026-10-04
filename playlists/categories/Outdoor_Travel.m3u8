@@ -1,8 +1,10 @@
 #EXTM3U
 #GROUP: Outdoor;Travel
-#TOTAL: 2
+#TOTAL: 3
 
 #EXTINF:-1,Peer TV Alto Adige (1280p)
 https://iptv.peer.biz/live/peertv-it.m3u8
 #EXTINF:-1,Peer TV South Tyrol (1280p)
 https://iptv.peer.biz/live/peertv-en.m3u8
+#EXTINF:-1,Peer TV Sudtirol (1080p)
+https://iptv.peer.biz/live/peertv.m3u8

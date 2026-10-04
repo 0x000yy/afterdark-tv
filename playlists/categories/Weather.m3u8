@@ -2,10 +2,6 @@
 #GROUP: Weather
 #TOTAL: 17
 
-#EXTINF:-1,Megatiempo (1080p)
-http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
-#EXTINF:-1,WeatherSpy (Mexico) (720p)
-https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,WeatherSpy (India)
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Weathernews (720p)
@@ -28,6 +24,10 @@ https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,WeatherSpy (United States) (720p)
 https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Megatiempo (1080p)
+http://cdn1tlinkgo.tlink.cl/megatiempo/mono.m3u8
+#EXTINF:-1,WeatherSpy (Mexico) (720p)
+https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,China Weather Channel (576p) [Not 24/7]
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1,Meteonews (1080p)

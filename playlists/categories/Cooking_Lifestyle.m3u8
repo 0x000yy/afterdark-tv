@@ -1,13 +1,15 @@
 #EXTM3U
 #GROUP: Cooking;Lifestyle
-#TOTAL: 14
+#TOTAL: 16
 
-#EXTINF:-1,Pluto TV Cocina
-https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
 #EXTINF:-1,Gambero Rosso Channel (720p)
 https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8
 #EXTINF:-1,Pluto TV Cucina
 https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1,Buying Blind Denmark
+https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
+#EXTINF:-1,Stugfixarna Norge
+https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
 #EXTINF:-1,Food Food (576p)
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
 #EXTINF:-1,Pluto TV KFOOD
@@ -16,8 +18,6 @@ https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8
 https://jmp2.uk/plu-63c6a1c46d126a000760b91c.m3u8
 #EXTINF:-1,Boligkob i blinde
 https://jmp2.uk/plu-63c6a27a4faf1c0007b48f7b.m3u8
-#EXTINF:-1,Buying Blind Denmark
-https://jmp2.uk/plu-63c6a7544faf1c0007b496d7.m3u8
 #EXTINF:-1,Koch'en pa toppen
 https://jmp2.uk/plu-660d667519ca71000849a1e1.m3u8
 #EXTINF:-1,MasterChef Danmarks storste madtalenter
@@ -26,7 +26,11 @@ https://jmp2.uk/plu-61c19edbf535220007075c4e.m3u8
 https://jmp2.uk/plu-63e3b33e8795f300087e6a46.m3u8
 #EXTINF:-1,Skonne ombygninger
 https://jmp2.uk/plu-61c19d329b8260000744331b.m3u8
-#EXTINF:-1,Stugfixarna Norge
-https://jmp2.uk/plu-61c18ec6ac860c0007684981.m3u8
 #EXTINF:-1,Til Middag Hos
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
+#EXTINF:-1,Pluto TV Cocina
+https://jmp2.uk/plu-5f1acdaa8ba90f0007d5e760.m3u8
+#EXTINF:-1,Pluto TV Cuisine
+https://jmp2.uk/plu-5f8ed48146ba9e00078424b6.m3u8
+#EXTINF:-1,TV5MONDE Chefs (1080p)
+https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8

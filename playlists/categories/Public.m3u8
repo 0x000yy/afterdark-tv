@@ -1,12 +1,6 @@
 #EXTM3U
 #GROUP: Public
-#TOTAL: 4
+#TOTAL: 1
 
-#EXTINF:-1,3Cat Cameres del temps (1080p)
-https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
-#EXTINF:-1,Esport3 (1080p) [Geo-blocked]
-https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8
-#EXTINF:-1,Esport3 Originals (1080p) [Not 24/7]
-https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
 #EXTINF:-1,ETB1 On (1080p)
 https://cdn1.etbon.eus/etb1on/index.m3u8

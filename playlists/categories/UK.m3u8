@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: UK
-#TOTAL: 39
+#TOTAL: 40
 
 #EXTINF:-1,BBC One Ⓖ
 https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/iptv_hd_abr_v1.m3u8
@@ -46,6 +46,8 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parlia
 https://linear021-gb-hls1-prd-ak.cdn.skycdp.com/Content/HLS_001_hd/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1,France 24 Ⓨ
 https://www.youtube.com/c/france24english/live
+#EXTINF:-1,NHK World Japan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1,Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1,QVC Beauty Ⓢ

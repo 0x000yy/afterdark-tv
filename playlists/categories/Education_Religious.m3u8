@@ -1,6 +1,8 @@
 #EXTM3U
 #GROUP: Education;Religious
-#TOTAL: 1
+#TOTAL: 2
 
 #EXTINF:-1,Telepace 3 (1080p)
 https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+#EXTINF:-1,Paighan TV (1080p)
+http://116.90.120.151:8000/play/a00h/index.m3u8

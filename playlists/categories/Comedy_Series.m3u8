@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Comedy;Series
-#TOTAL: 6
+#TOTAL: 7
 
 #EXTINF:-1,HOT Comedy (1080p)
 http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8
@@ -14,3 +14,5 @@ https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
 https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8
 #EXTINF:-1,The Conners
 https://jmp2.uk/plu-66e2a94d167a8b000813485d.m3u8
+#EXTINF:-1,Pluto TV Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8

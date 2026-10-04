@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/cnn.m3u8
-#DATE: 2026-10-04 05:55:00 UTC
+#DATE: 2026-10-04 16:51:17 UTC
 #TOTAL: 20
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-country="US" group-title="USA",CNN
@@ -27,10 +27,10 @@ http://170.238.200.199/rcn-novelas/index.m3u8
 http://181.78.8.199:8000/play/a0a7/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" group-title="غير مصنف",RCN Novelas (480p)
 http://181.65.191.173:8069/play/a061
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entertainment",RCN Novelas (1080p)
-https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" group-title="غير مصنف",RCN Novelas (1080p)
 https://stream1.bitred.cl/rcn-novelas/index.m3u8
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entertainment",RCN Novelas (1080p)
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.al" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-country="AL" group-title="Albania",CNA
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-id="CNA.al@SD" group-title="غير مصنف",CNA

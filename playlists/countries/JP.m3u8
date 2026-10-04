@@ -1,6 +1,6 @@
 #EXTM3U
 #COUNTRY: JP
-#TOTAL: 21
+#TOTAL: 20
 
 #EXTINF:-1,NHK Eテレ（東京）
 https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02#.m3u8
@@ -34,8 +34,6 @@ https://naori-test.netgenx.site/pxx.php?shk_cid=bs07#.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1,GSTV
 https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csf,audio-only=false)
-#EXTINF:-1,NHK WORLD JAPAN
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1,TOKYO MX チャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-tokyomx-cmaf-rakutenjp/playlist.m3u8
 #EXTINF:-1,日テレNEWS
