@@ -1,8 +1,6 @@
 #EXTM3U
 #GROUP: Entertainment;Kids
-#TOTAL: 2
+#TOTAL: 1
 
 #EXTINF:-1,Unique TV (576p)
 https://mumt05.tangotv.in/87NeALx2UNIQUETV/index.m3u8
-#EXTINF:-1,9Go! (720p) [Geo-blocked]
-https://9now-livestreams.akamaized.net/hls/live/2008312/go-syd/master.m3u8
