@@ -1,15 +1,15 @@
 #EXTM3U
 #GROUP: General;News
-#TOTAL: 15
+#TOTAL: 16
 
-#EXTINF:-1,TVK Stella (576p)
-https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1,Dong Nai TV 1 (720p)
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 #EXTINF:-1,HTV9 (720p)
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1,Vinh Long TV 1 (720p)
 https://dethich.pw/thvl1/index.m3u8
+#EXTINF:-1,TVK Stella (576p)
+https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1,PRO TV Chisinau (576p)
 http://178.76.68.60:7441/15/mpegts
 #EXTINF:-1,Seraj TV (1080i)
@@ -30,5 +30,7 @@ https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,Arirang TV HD (720p)
 http://45.162.64.114/ARIRANG/index.m3u8
+#EXTINF:-1,BX Inform (1080p)
+https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 #EXTINF:-1,NTD TV English (1080p)
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/spacetoon.m3u8
-#DATE: 2026-10-04 17:56:00 UTC
+#DATE: 2026-10-05 05:55:11 UTC
 #TOTAL: 17
 
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" group-title="غير مصنف",Spacetoon Arabic (576p)
@@ -33,7 +33,7 @@ https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
 http://61.85.197.53:1935/jtv_live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://i.imgur.com/9JSQglj.png" tvg-country="SA" group-title="Saudi Arabia",SBC Saudi Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
-#EXTINF:-1 tvg-id="SVGTV.vc@SD" tvg-logo="https://i.imgur.com/fGLz34S.png" group-title="General",SVG TV (576p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SVGTV.vc@SD" group-title="غير مصنف",SVG TV (576p) [Geo-blocked]
 https://customer-1drvoydzrkhpnbh4.cloudflarestream.com/64f76b07446d5d8801c4b9f6192ac79b/manifest/video.m3u8
 #EXTINF:-1 tvg-id="HLDEDTV.kr@SD" group-title="غير مصنف",SBS TBC (540p)
 http://203.251.91.122:1935/on-air-Backup/tv/playlist.m3u8

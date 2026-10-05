@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/mbc.m3u8
-#DATE: 2026-10-04 17:55:58 UTC
+#DATE: 2026-10-05 05:55:09 UTC
 #TOTAL: 51
 
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-country="AE" group-title="United Arab Emirates",MBC 1
@@ -53,7 +53,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 https://hls.mbcpersia.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="HLCXDTV.kr@SD" group-title="غير مصنف",MBC Jeonju (450p)
 https://5ee9633b25727.streamlock.net/jmbc_tv/_definst_/jmbc_tv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 Egypt (1080p)
+#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" group-title="غير مصنف",MBC 1 Egypt (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 #EXTINF:-1 tvg-id="MBCTV.kr@SD" group-title="غير مصنف",MBC TV [Geo-blocked]
 https://xyktmobile00.s.gy/PPV930_S_OPERA_SD
@@ -95,7 +95,7 @@ http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HLAQDTV.kr@SD" group-title="غير مصنف",MBC Gangwon (MBC 강원영동) (1080p) [Not 24/7]
 http://123.254.93.7:1935/tvlive/livestream2/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" group-title="غير مصنف",MBC+ Drama (1080p)
+#EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 #EXTINF:-1 tvg-id="EstrellaTV.us@WMBCTV" group-title="غير مصنف",WMBC-DT1
 http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/1098/index.m3u8

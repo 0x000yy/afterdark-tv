@@ -18,12 +18,12 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c9627573574
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1,Zee Classic (576p)
 http://107.167.16.138/zeeclassic/index.m3u8?token=test
-#EXTINF:-1,TeleNostalgia (1080p)
-http://38.134.250.110:8000/play/a01q/index.m3u8
 #EXTINF:-1,MacGyver (United States)
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1,Pluto TV Desenhos Classicos
 https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
+#EXTINF:-1,TeleNostalgia (1080p)
+http://38.134.250.110:8000/play/a01q/index.m3u8
 #EXTINF:-1,13Rec (576p)
 http://45.4.1.201:8000/play/a11i/index.m3u8
 #EXTINF:-1,TVN3 (1080p)
