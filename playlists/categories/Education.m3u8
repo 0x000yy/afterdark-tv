@@ -24,6 +24,12 @@ https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 #EXTINF:-1,Ryongnamsan Television (720p) [Not 24/7]
 https://live.koryocdn.org/ryongnamsan/index.m3u8
+#EXTINF:-1,Payam Javan TV (720p) [Not 24/7]
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1,Persiana Medical
+https://phd2hls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,HTV4 (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1,ALTV (1080p)
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1,DLTV 1 (1080p)
@@ -60,34 +66,28 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,R Channel
 http://180.180.243.239/streams/3/hls
-#EXTINF:-1,Shams TV (Afghanistan)
-https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1,Kunskapskanalen HD (1080p) [Geo-blocked]
 https://svt-live-channel.akamaized.net/l6/se/svtk/master-fmp4.m3u8?defaultSubLang=1&format=hls
-#EXTINF:-1,HTV4 (1080p)
-https://freem3u.xyz/api/live/play.m3u8?vid=9
-#EXTINF:-1,M5 (1080p)
-http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,Shams TV (Afghanistan)
+https://fflive-darya-educationtv.b-cdn.net/master.m3u8
 #EXTINF:-1,A2i Naija (720p) [Not 24/7]
 https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
+#EXTINF:-1,M5 (1080p)
+http://88.212.15.19/live/test_m_5_hun_atk_1200/playlist.m3u8
 #EXTINF:-1,Yaslyk (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch002.m3u8
-#EXTINF:-1,Dens Knowledge [Geo-blocked]
-https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
-#EXTINF:-1,Rinjani TV
-https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1,TRT EBA (720p)
 https://tv-e-okul01.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA Ilkokul (720p)
 https://tv-e-okul00.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT EBA Lise (720p)
 https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Dens Knowledge [Geo-blocked]
+https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
+#EXTINF:-1,Rinjani TV
+https://rinjanitv.cloud/hls/tvkabel.m3u8
 #EXTINF:-1,Fauna (576p)
 http://stream.mcquack.net/401/index.m3u8
-#EXTINF:-1,Payam Javan TV (720p) [Not 24/7]
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
-#EXTINF:-1,Persiana Medical
-https://phd2hls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,EBC General Education (720p) [Not 24/7]
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 #EXTINF:-1,One TV E-School Cambodia (1080p)
@@ -108,12 +108,8 @@ http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
 http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
 #EXTINF:-1,Jiangsu Educational Channel (576p)
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225923/index.m3u8
-#EXTINF:-1,Al Alamiya 2
-http://82.212.74.98:8000/live/7815.m3u8
 #EXTINF:-1,Palestine Edu (1080p)
 https://pbc.furrera.ps/PalestineEDU/index.m3u8
-#EXTINF:-1,Rai Scuola (1080p)
-https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1,Al Hiwar TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:-1,BVG (576p)
@@ -140,6 +136,38 @@ http://103.72.101.252:8080/live/1532.m3u8
 https://cdn.pishow.tv/ott/live/14/master.m3u8
 #EXTINF:-1,Gyandarshan HD (576p)
 https://mumt05.tangotv.in/87NeALx2GYANDARSHAN/index.m3u8
+#EXTINF:-1,Rai Scuola (1080p)
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1,Educa TV (720p) [Not 24/7]
+https://avm.ecuamedia.net/educatv/live/playlist.m3u8
+#EXTINF:-1,Inti TV (1080p) [Not 24/7]
+https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
+#EXTINF:-1,UEBI TV Online (720p) [Not 24/7]
+https://ventaxtv.com:3575/live/uebilive.m3u8
+#EXTINF:-1,UNIANDES TV (720p) [Not 24/7]
+https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
+#EXTINF:-1,Eduvision (1080p)
+https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
+#EXTINF:-1,Zoom (Colombia) (1080p)
+http://138.121.15.230:9002/ZOOM/index.m3u8
+#EXTINF:-1,ILCE Canal 15 Summa Saberes (720p)
+https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
+#EXTINF:-1,Tele UV [Not 24/7]
+https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+#EXTINF:-1,TV BUAP (1080p)
+https://tvenvivo.buap.mx/livestream/stream/index.m3u8
+#EXTINF:-1,TV Cuatro 4.4 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
+#EXTINF:-1,TV UG (1080p) [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
+#EXTINF:-1,TV UJAT (720p) [Not 24/7]
+https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
+#EXTINF:-1,UACJ-TV [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
+#EXTINF:-1,Unison TV (1080p) [Not 24/7]
+https://stream.unison.mx/hls/unisontvatem.m3u8
+#EXTINF:-1,XHUNES-TDT (720p)
+https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1,Canal Educacao (720p)
 http://45.162.64.114/CANAL_EDUCACAO/index.m3u8
 #EXTINF:-1,Canal Futura (720p)
@@ -172,40 +200,12 @@ https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playli
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
 #EXTINF:-1,UniTV Porto Alegre (480p)
 http://unitvaovivo.ufrgs.br:8080/live.ogg
-#EXTINF:-1,Educa TV (720p) [Not 24/7]
-https://avm.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1,Inti TV (1080p) [Not 24/7]
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/.m3u8
-#EXTINF:-1,UEBI TV Online (720p) [Not 24/7]
-https://ventaxtv.com:3575/live/uebilive.m3u8
-#EXTINF:-1,UNIANDES TV (720p) [Not 24/7]
-https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:-1,Eduvision (1080p)
-https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8
-#EXTINF:-1,Zoom (Colombia) (1080p)
-http://138.121.15.230:9002/ZOOM/index.m3u8
-#EXTINF:-1,ILCE Canal 15 Summa Saberes (720p)
-https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
-#EXTINF:-1,Tele UV [Not 24/7]
-https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
-#EXTINF:-1,TV BUAP (1080p)
-https://tvenvivo.buap.mx/livestream/stream/index.m3u8
-#EXTINF:-1,TV Cuatro 4.4 (1080p)
-https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
-#EXTINF:-1,TV UG (1080p) [Not 24/7]
-https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist.m3u8
-#EXTINF:-1,TV UJAT (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
-#EXTINF:-1,UACJ-TV [Not 24/7]
-https://5ca3e84a76d30.streamlock.net/uacj/videouacj/playlist.m3u8
-#EXTINF:-1,Unison TV (1080p) [Not 24/7]
-https://stream.unison.mx/hls/unisontvatem.m3u8
-#EXTINF:-1,XHUNES-TDT (720p)
-https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 #EXTINF:-1,Canal Universidad
 https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmdp.m3u8
 #EXTINF:-1,TV Universidad
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:-1,Educanal (1080p)
+http://190.128.214.97:64333/play/a011/index.m3u8
 #EXTINF:-1,GVision (288p)
 https://videostream.chileservidores.com:8081/tome/index.m3u8
 #EXTINF:-1,TV Usach (720p)
@@ -218,6 +218,8 @@ https://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream1/chunk
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1,Kto est kto (576p)
 http://str2.iptvhd.ru:8080/kto_est_kto/index.m3u8
+#EXTINF:-1,English Club TV (576i)
+https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ARD-alpha (720p)
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 #EXTINF:-1,Curiosity Channel (720p)
@@ -226,8 +228,6 @@ https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
 #EXTINF:-1,NRWision (1080p)
 https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
-#EXTINF:-1,English Club TV (576i)
-https://stream8.cinerama.uz/1442/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1,DidikTV KPM (1080p) [Geo-blocked]

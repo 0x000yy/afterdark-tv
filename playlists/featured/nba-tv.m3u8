@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST: featured/nba-tv.m3u8
-#DATE: 2026-10-05 20:57:23 UTC
+#DATE: 2026-10-06 06:31:43 UTC
 #TOTAL: 23
 
-#EXTINF:-1 tvg-id="NBATV.us@SD" group-title="غير مصنف",NBA TV (720p)
+#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="غير مصنف",NBA TV (720p)
 http://rezofoot.tv/NBATV/index.m3u8

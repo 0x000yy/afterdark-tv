@@ -1,26 +1,26 @@
 #EXTM3U
 #PLAYLIST: detected/brand-morocco.m3u8
-#DATE: 2026-10-05 20:57:22 UTC
+#DATE: 2026-10-06 06:31:42 UTC
 #TOTAL: 11
 
 #EXTINF:-1 tvg-id="NRTTV.iq@SD" tvg-logo="https://i.imgur.com/uGKGtbW.png" group-title="News",NRT TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
-#EXTINF:-1 tvg-id="2M.ma@SD" tvg-logo="https://i.imgur.com/PJYTfHi.png" group-title="General",2M
+#EXTINF:-1 tvg-id="2M.ma@SD" group-title="غير مصنف",2M
 http://185.9.2.18/chid_218/index.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@SD" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde (360p)
+#EXTINF:-1 tvg-id="2MMonde.ma@SD" group-title="غير مصنف",2M Monde (360p)
 https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
-#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General",2M Monde +1 (1080p)
+#EXTINF:-1 tvg-id="2MMonde.ma@Plus1" group-title="غير مصنف",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" tvg-logo="https://i.imgur.com/a20DHnj.png" group-title="News",Medi1TV Afrique (1080p)
+#EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" group-title="غير مصنف",Medi1TV Afrique (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="News",Medi1TV Arabic (1080p)
-https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" group-title="News",Medi1TV Maghreb (1080p)
-https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVAfrique.ma@SD" group-title="غير مصنف",Medi1TV Afrique (1080p) (DVR) (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" group-title="غير مصنف",Medi 1 TV Arabic (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" group-title="غير مصنف",Medi 1 TV Arabic (1080p) (DVR) (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" group-title="غير مصنف",Medi 1 TV Maghreb (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
 #EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" group-title="غير مصنف",Medi 1 TV Maghreb (1080p) (DVR) (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="noticiasnrt.com" tvg-logo="https://i.imgur.com/IudKE0n.png" tvg-country="MX" group-title="Mexico",NRT 4 Monclova

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: detected/brand-iraq.m3u8
-#DATE: 2026-10-05 20:57:22 UTC
-#TOTAL: 35
+#DATE: 2026-10-06 06:31:42 UTC
+#TOTAL: 37
 
 #EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="Undefined",Al Iraqia Kurdish (720p)
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
@@ -29,7 +29,7 @@ https://stream.shams.tv/hls/stream.m3u8
 https://utviraqi-live.lg.mncdn.com/utviraqi-live/64c80359/index.m3u8
 #EXTINF:-1 tvg-id="ZagrosTV.iq@SD" tvg-logo="https://i.imgur.com/9Mspf32.png" group-title="General",Zagros TV (Iraq) (1080p)
 https://hlspackager.akamaized.net/live/DB/ZAGROS_TV/HLS/ZAGROS_TV.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="غير مصنف",Al Jazeera (1080p)
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="غير مصنف",Al Jazeera (1080p)
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
@@ -55,10 +55,14 @@ https://cdn-7.pishow.tv/live/429/master.m3u8
 http://stream.mcquack.net/131/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (576p)
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (1080p)
-https://cdn1tlinkgo.tlink.cl/aljazeera/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (720p)
+http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
 #EXTINF:-1 tvg-id="AlSharqiya.iq@SD" group-title="غير مصنف",Al-Sharqiya (1080p)
 https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiya.iq@SD" group-title="غير مصنف",Al Sharqiya (1080p)
+https://indexforce.com/tvhighres/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSharqiyaNews.iq@SD" group-title="غير مصنف",Al Sharqiya News (1080p)
+https://indexforce.com/newshighres/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlhurraTVIraq.iq" tvg-logo="https://i.imgur.com/mXBZEQP.png" tvg-country="IQ" group-title="Iraq",Al-Hurra Iraq
 https://mbnvvideoingest-i.akamaihd.net/hls/live/1004674/MBNV_ALHURRA_IRAQ/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHurra.iq" tvg-logo="https://i.imgur.com/0izeu5z.png" tvg-country="IQ" group-title="Iraq",Al-Hurra
