@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/al-arabiya.m3u8
-#DATE: 2026-10-06 06:31:44 UTC
+#DATE: 2026-10-06 18:39:43 UTC
 #TOTAL: 10
 
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="غير مصنف",Al Arabiya (1080p)
@@ -13,7 +13,7 @@ https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlArabiyaEnglish.sa@SD" group-title="غير مصنف",Al Arabiya English (1080p)
 https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
-#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" tvg-logo="https://i.imgur.com/Hoc3cfO.png" group-title="Documentary;News",Al Arabiya Programs (1280p)
+#EXTINF:-1 tvg-id="AlArabiyaPrograms.ae@SD" group-title="غير مصنف",Al Arabiya Programs (1280p)
 https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHadath.sa@SD" group-title="غير مصنف",Al Arabiya Al Hadath (1080p) [Not 24/7]
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8

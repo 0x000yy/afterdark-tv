@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Movies;Series
-#TOTAL: 74
+#TOTAL: 70
 
 #EXTINF:-1,AXN Asia Philippines (576p)
 https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
@@ -56,12 +56,10 @@ https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1,Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-#EXTINF:-1,Pantalla Clasica EC (512p) [Not 24/7]
-https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1,Star Channel (Colombia) (1080p)
 http://190.61.47.54:8000/play/a035/index.m3u8
-#EXTINF:-1,Star Channel (Chile) (720p)
-http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
+#EXTINF:-1,Pantalla Clasica EC (512p) [Not 24/7]
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1,Bonanza CA
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1,Paramount Network (432p)
@@ -74,6 +72,8 @@ https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1,Rawhide (United States) CA
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
+#EXTINF:-1,Star Channel (Chile) (720p)
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1,Amedia Hit (1080p)
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1,Amedia Premium (720p)
@@ -122,12 +122,6 @@ https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 #EXTINF:-1,Ebony TV by Lionsgate (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
-#EXTINF:-1,HBO Drama (1080p)
-https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8
-#EXTINF:-1,HBO Hits West HD (1080p)
-https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8
-#EXTINF:-1,HBO Movies (720p)
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1,OuterSphere (1080p)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1,Pluto TV Horror (United States)
@@ -144,8 +138,6 @@ https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 #EXTINF:-1,Star Trek: Voyager (United States)
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
-#EXTINF:-1,SYFY (720p)
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1,The Wild Wild West (United States)
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1,Pluto TV Sci-Fi (United States) LatAm

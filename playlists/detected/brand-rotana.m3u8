@@ -1,13 +1,13 @@
 #EXTM3U
 #PLAYLIST: detected/brand-rotana.m3u8
-#DATE: 2026-10-06 06:31:42 UTC
+#DATE: 2026-10-06 18:39:39 UTC
 #TOTAL: 14
 
-#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD" group-title="غير مصنف",Rotana Cinema Egypt (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg@SD" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="Movies",Rotana Cinema Egypt (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="Undefined",Rotana Radio Jordan Studio (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" group-title="غير مصنف",Rotana Radio Jordan Studio (1080p) [Not 24/7]
 http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD" tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="Undefined",Rotana Tarab Jordan City View (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD" group-title="غير مصنف",Rotana Tarab Jordan City View (720p) [Not 24/7]
 http://45.63.116.205/hls3/stream1.m3u8
 #EXTINF:-1 tvg-id="AlResalah.sa@SD" tvg-logo="https://i.imgur.com/7o4HgrP.png" group-title="Religious",Al Resalah (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/risala_net-7Y83PP5adWixDF93/playlist.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: General;News
-#TOTAL: 16
+#TOTAL: 15
 
 #EXTINF:-1,TVK Stella (576p)
 https://stream.tvkstella.pl/stella/stella.m3u8
@@ -30,7 +30,5 @@ https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,Arirang TV HD (720p)
 http://45.162.64.114/ARIRANG/index.m3u8
-#EXTINF:-1,BX Inform (1080p)
-https://reflect-stream-bronxnet.cablecast.tv/live-8/live/stream-4/live.m3u8
 #EXTINF:-1,NTD TV English (1080p)
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/rotana.m3u8
-#DATE: 2026-10-06 06:31:45 UTC
+#DATE: 2026-10-06 18:39:44 UTC
 #TOTAL: 15
 
 #EXTINF:-1 tvg-id="RotanaClip.sa" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-country="SA" group-title="Saudi Arabia",Rotana Ciip
@@ -23,9 +23,9 @@ rtmp://live.restream.io/pull/play_320121_94512612fd0e084bd284
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1 tvg-id="RotanaClassic.sa@SD" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Classic",Rotana Classic (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="Undefined",Rotana Radio Jordan Studio (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo@SD" group-title="غير مصنف",Rotana Radio Jordan Studio (1080p) [Not 24/7]
 http://45.63.116.205/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD" tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="Undefined",Rotana Tarab Jordan City View (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo@SD" group-title="غير مصنف",Rotana Tarab Jordan City View (720p) [Not 24/7]
 http://45.63.116.205/hls3/stream1.m3u8
 #EXTINF:-1 tvg-id="RTN.us@SD" group-title="غير مصنف",RTN
 http://4.59.210.197:8815/udp/127.0.0.1:6002
