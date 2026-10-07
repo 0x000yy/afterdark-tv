@@ -1,6 +1,6 @@
 #EXTM3U
 #COUNTRY: US
-#TOTAL: 16
+#TOTAL: 15
 
 #EXTINF:-1,Stadium
 https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/5994000126001/profile_1/976f34cf5a614518b7b539cbf9812080/chunklist_ssaiV.m3u8
@@ -8,8 +8,6 @@ https://bcovlive-a.akamaihd.net/e64d564b9275484f85981d8c146fb915/us-east-1/59940
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1,CNBC Ⓨ
 https://www.youtube.com/c/CNBC/live
-#EXTINF:-1,ABC News
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 #EXTINF:-1,CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1,Reuters TV

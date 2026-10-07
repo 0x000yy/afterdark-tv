@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST: featured/nba-tv.m3u8
-#DATE: 2026-10-06 18:39:41 UTC
+#DATE: 2026-10-07 06:18:30 UTC
 #TOTAL: 23
 
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="NBATV.us@SD" group-title="غير مصنف",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="غير مصنف",NBA TV (720p)
 http://rezofoot.tv/NBATV/index.m3u8
@@ -17,10 +17,10 @@ https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-id="BaanBaanTV73.th@SD" tvg-logo="https://i.imgur.com/JGLy1Pm.png" group-title="Undefined",Baan Baan TV 73
 https://vdo.plathong.net/live8794/live8794/playlist.m3u8
-#EXTINF:-1 tvg-id="ATNBangla.bd@SD" group-title="غير مصنف",ATN Bangla (720p)
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="ATNBangla.bd@SD" tvg-logo="https://i.imgur.com/K1HmMRz.png" group-title="General",ATN Bangla (720p)
 http://tvsen5.aynascope.net/atnbangla/index.m3u8
+#EXTINF:-1 tvg-id="ATNBangla.bd@SD" group-title="غير مصنف",ATN Bangla (720p)
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
 #EXTINF:-1 tvg-id="ATNBanglaUK.uk@SD" tvg-logo="https://i.imgur.com/vFpjggf.png" group-title="General",ATN Bangla UK (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaatdinBangla.in@SD" group-title="غير مصنف",Raatdin Bangla (576p)

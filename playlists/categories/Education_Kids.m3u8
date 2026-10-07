@@ -1,7 +1,9 @@
 #EXTM3U
 #GROUP: Education;Kids
-#TOTAL: 8
+#TOTAL: 9
 
+#EXTINF:-1,DeParinti.ro (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 #EXTINF:-1,ABC Entertains (720p)
 https://c.mjh.nz/abc-me.m3u8
 #EXTINF:-1,NCM Educational & Kids Channel

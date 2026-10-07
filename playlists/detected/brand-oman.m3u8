@@ -1,16 +1,18 @@
 #EXTM3U
 #PLAYLIST: detected/brand-oman.m3u8
-#DATE: 2026-10-06 18:39:39 UTC
-#TOTAL: 128
+#DATE: 2026-10-07 06:18:28 UTC
+#TOTAL: 130
 
 #EXTINF:-1 tvg-id="TVRomana.sk@SD" tvg-logo="https://i.imgur.com/r7avFBX.png" group-title="Undefined",TV Romana (720p)
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
-#EXTINF:-1 tvg-id="Minimax.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg" group-title="Animation;Kids",Minimax (Romania)
-https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomantik.se@SE" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png" group-title="Movies",Pluto TV Romantik
 https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
+#EXTINF:-1 tvg-id="Minimax.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/Minimax_2021.svg" group-title="Animation;Kids",Minimax (Romania)
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 #EXTINF:-1 tvg-id="PlutoTVRomantikk.se@NO" tvg-logo="https://images.pluto.tv/channels/63a19bb5e6914b000721b5c0/colorLogoPNG_1767773376618.png" group-title="Movies",Pluto TV Romantikk
 https://jmp2.uk/plu-63a19bb5e6914b000721b5c0.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRomantik.se@DK" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png" group-title="Movies",Pluto TV Romantik DK
+https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 #EXTINF:-1 tvg-id="AgroTV.ro@SD" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Outdoor",Agro TV (Romania) (360p) [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1 tvg-id="Antena1.ro@SD" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="General",Antena 1 (Romania)
@@ -59,6 +61,8 @@ https://media.3netmedia.ro/hls/stream.m3u8
 https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaOlteniaCraiova.ro@SD" tvg-logo="https://www.rador.ro/wp-content/uploads/2017/06/logo-radio-oltenia-craiova.png" group-title="General;Music",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
+#EXTINF:-1 tvg-id="RadioRomaniaResita.ro@SD" tvg-logo="https://www.radioresita.ro/wp-content/themes/radioresita/images/custom/logo-main.svg" group-title="General;Music",Radio Romania Resita (576p) [Not 24/7]
+https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioRomaniaTarguMures.ro@SD" tvg-logo="https://myradioonline.ro/public/uploads/radio_img/radio-romania-targu-mures/fb_cover.jpg" group-title="General;Music",Radio Romania Targu Mures (576p)
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 #EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music",Rock TV (Romania) (720p)
@@ -81,8 +85,6 @@ https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
 #EXTINF:-1 tvg-id="ViasatNature.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Cropped-viasat-nature.png" group-title="Documentary",Viasat Nature (Romania)
 https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRomantik.se@DK" tvg-logo="https://images.pluto.tv/channels/63a1c954d3897300079fcb12/colorLogoPNG_1767773445743.png" group-title="Movies",Pluto TV Romantik DK
-https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
 #EXTINF:-1 tvg-id="OmanSportsTV.om@SD" tvg-logo="https://i.imgur.com/1omi7p8.png" group-title="Sports",Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-logo="https://i.imgur.com/rBftT9x.png" group-title="General",Oman TV (1080p)
@@ -105,36 +107,38 @@ https://edge12.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 #EXTINF:-1 tvg-id="RHTGuadeloupe.gp@SD" tvg-logo="https://i.imgur.com/hQ0Q6nE.png" group-title="Music",RHT Guadeloupe (720p)
 https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8
+#EXTINF:-1 tvg-id="FUSIONTV.mq@SD" tvg-logo="https://i.imgur.com/WMrYEgH.png" group-title="Music",FUSION TV (1080p)
+https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmAncoraPiuRomantici.de@IT" tvg-logo="https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png" group-title="Movies",Pluto TV Film Ancora Piu Romantici
 https://jmp2.uk/plu-699d87093d5dba980705cca8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFilmRomantici.de@IT" tvg-logo="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png" group-title="Movies",Pluto TV Film Romantici
 https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
 #EXTINF:-1 tvg-id="RomanticaTV.it@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Romantica%20TV.jpeg" group-title="General",Romantica TV (1080p)
 https://stream10.xdevel.com/video0s977363-1901/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="FUSIONTV.mq@SD" tvg-logo="https://i.imgur.com/WMrYEgH.png" group-title="Music",FUSION TV (1080p)
-https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8
 #EXTINF:-1 tvg-id="AnzoateguiTV.ve@SD" tvg-logo="https://i.imgur.com/SLqrEOz.png" group-title="General",Anzoategui TV (360p) [Not 24/7]
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
-#EXTINF:-1 tvg-id="TelePeyi.gf@SD" tvg-logo="https://i.imgur.com/LJ9sXaB.png" group-title="General",Tele Peyi (720p)
-https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineComediaRomantica.us@BR" tvg-logo="https://images.pluto.tv/channels/62545ed3dab4380007582f7c/colorLogoPNG.png" group-title="Movies",Pluto TV Cine Comedia Romantica
 https://jmp2.uk/plu-62545ed3dab4380007582f7c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineRomance.us@BR" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Movies",Pluto TV Cine Romance
 https://jmp2.uk/plu-5f171f988ab9780007fa95ea.m3u8
+#EXTINF:-1 tvg-id="TelePeyi.gf@SD" tvg-logo="https://i.imgur.com/LJ9sXaB.png" group-title="General",Tele Peyi (720p)
+https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Music",Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="RomanaTVCanal42.do@SD" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="General",Romana TV Canal 42 (480p)
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:-1 tvg-id="TomAndJerry.do@HD" tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" group-title="Kids",Tom And Jerry (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-#EXTINF:-1 tvg-id="StingrayRomanceLatino.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/960px-Stingray_Music_logo.svg.png" group-title="Music",Stingray Romance Latino (1080p)
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="BAMTV.be@SD" tvg-logo="https://i.imgur.com/9UmR6cs.png" group-title="Culture",BAM-TV
-https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
-#EXTINF:-1 tvg-id="FunVision.be@SD" tvg-logo="https://i.imgur.com/AhkKr7Y.png" group-title="Music",Fun Vision
-https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-id="Romantichnoe.ru@HD" tvg-logo="https://i.imgur.com/ruacPMS.png" group-title="Undefined",Romantichnoe HD (1080p)
 http://str2.iptvhd.ru:8080/Semeynoe_HD/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" tvg-logo="https://i.imgur.com/cQN0P2B.png" group-title="Movies",Russkiy roman (1080p)
 http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="vijuTV1000romantica.ru@HD" tvg-logo="https://rnnxdki1nv.a.trbcdn.net/viasat/production/tvchannels/dc243048-c5ad-4ccc-86c6-3a480874ec29/logos/flo59mr6lh1jf68g3021urgwtd5k" group-title="Series",viju TV1000 romantica HD (1080p)
+http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
+#EXTINF:-1 tvg-id="BAMTV.be@SD" tvg-logo="https://i.imgur.com/9UmR6cs.png" group-title="Culture",BAM-TV
+https://belafrikamediatv.vedge.infomaniak.com/livecast/ik:belafrikamediatv/manifest.m3u8
+#EXTINF:-1 tvg-id="FunVision.be@SD" tvg-logo="https://i.imgur.com/AhkKr7Y.png" group-title="Music",Fun Vision
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 #EXTINF:-1 tvg-id="Canal9.ch@SD" group-title="غير مصنف",Canal 9 en Français (1080p)
 https://livehd.vedge.infomaniak.com/livecast/livehd/master.m3u8
 #EXTINF:-1 tvg-id="CanalAlphaJura.ch@SD" group-title="غير مصنف",Canal Alpha Jura (1080p)
@@ -177,10 +181,10 @@ https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
 #EXTINF:-1 tvg-id="PuissanceTV.fr@SD" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="General",Puissance TV
 https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRomance.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png" group-title="Movies;Series",Pluto TV Romance (Germany) DACH
-https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 tvg-id="GREATromance.uk@UK" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3643.png" group-title="Movies",GREAT! romance (1080p)
 https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRomance.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png" group-title="Movies;Series",Pluto TV Romance (Germany) DACH
+https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 tvg-id="BBCEarth.uk@Romania" group-title="غير مصنف",BBC Earth Romania
 https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
 #EXTINF:-1 tvg-id="AMCEurope.uk@Romania" group-title="غير مصنف",AMC Europe Romania
@@ -195,8 +199,6 @@ https://jmp2.uk/plu-5f1ac9a2d3611d0007a844bb.m3u8
 https://jmp2.uk/plu-655b5d865812e80008843bd1.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Junior (Romania)
 https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
-#EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="Entertainment",ANT1 Cyprus (1080p)
-http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Romania" group-title="غير مصنف",FILMBOX+ One Romania
 https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusHits.pl@Romania" group-title="غير مصنف",FILMBOX+ Hits Romania
@@ -205,6 +207,8 @@ https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
 https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Romania" group-title="غير مصنف",FILMBOX+ Love & Crime Romania
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="Entertainment",ANT1 Cyprus (1080p)
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNCEE.es@Romania" group-title="غير مصنف",AXN CEE Romania
 https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Romania" tvg-logo="https://i.imgur.com/Peo1QiZ.png" group-title="Movies",AXN Black Romania
@@ -243,14 +247,14 @@ http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsRomania.ro" tvg-logo="https://i.imgur.com/jUOVUXt.png" tvg-country="RO" group-title="Romania",Euronews România Ⓨ
 https://www.youtube.com/euronewsro/live
-#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Movies",Pluto TV Cine Romance LatAm
-https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" group-title="غير مصنف",Russkiy roman (576p)
 http://stream.mcquack.net/266/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" group-title="غير مصنف",Russkiy roman (576p)
 https://vod.tuva.ru/rusroman/index.m3u8
 #EXTINF:-1 tvg-id="Russkiyroman.ru@SD" group-title="غير مصنف",Russkiy roman (576p)
 http://str2.iptvhd.ru:8080/Russkiy_roman/index.m3u8
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG_1771344977802.png" group-title="Movies",Pluto TV Cine Romance LatAm
+https://jmp2.uk/plu-5dd7ea2aeab5230009986735.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CHDU86j.png" tvg-country="IT" group-title="Italy",Antenna 3 Massa
 https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j6livg0.png" group-title="VOD Movies (EN)",Pluto TV Romance

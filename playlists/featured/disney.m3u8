@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/disney.m3u8
-#DATE: 2026-10-06 18:39:46 UTC
-#TOTAL: 49
+#DATE: 2026-10-07 06:18:35 UTC
+#TOTAL: 47
 
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" group-title="غير مصنف",Disney Jr. (576p)
 http://41.205.64.66/DISNEY-JUNIOR/index.m3u8
@@ -19,12 +19,12 @@ http://zntx.dyndns.org:8085/hls/disney.m3u8
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.cz@SD" group-title="غير مصنف",Disney Channel
 http://88.212.15.19/live/test_disney/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.nl@SD" group-title="غير مصنف",Disney Channel
-http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de@SD" group-title="غير مصنف",Disney Channel
 http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
 #EXTINF:-1 tvg-id="DisneyChannel.bg@SD" group-title="غير مصنف",Disney Channel
 http://213.91.179.28:8000/play/a059
+#EXTINF:-1 tvg-id="DisneyChannel.nl@SD" group-title="غير مصنف",Disney Channel
+http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.hu@SD" group-title="غير مصنف",Disney Channel
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.ro@SD" group-title="غير مصنف",Disney Channel
@@ -42,15 +42,11 @@ http://tvsen7.aynascope.net/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="غير مصنف",Disney Junior (480p)
 http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="غير مصنف",Disney Channel (576p)
-http://202.70.146.135:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD" group-title="غير مصنف",Disney Channel (576p)
 http://51.75.127.199:3141/disneychannel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pt@SD" group-title="غير مصنف",Disney Channel (1080p)
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.in@HD" group-title="غير مصنف",Disney Channel HD (1080p)
 http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.nl@HD" group-title="غير مصنف",Disney Channel HD (1080i)
-https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.pl@HD" group-title="غير مصنف",Disney Channel HD (1080p)
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.tr@SD" group-title="غير مصنف",Disney Jr. (1080p) [Geo-blocked]

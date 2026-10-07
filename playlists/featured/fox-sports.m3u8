@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST: featured/fox-sports.m3u8
-#DATE: 2026-10-06 18:39:41 UTC
+#DATE: 2026-10-07 06:18:30 UTC
 #TOTAL: 2
 
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" group-title="غير مصنف",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" group-title="غير مصنف",Fox Sports 1 (720p)
 http://193.254.245.162/Fox_Sports_1/index.m3u8

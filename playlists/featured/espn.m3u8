@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/espn.m3u8
-#DATE: 2026-10-06 18:39:40 UTC
+#DATE: 2026-10-07 06:18:29 UTC
 #TOTAL: 12
 
 #EXTINF:-1 tvg-id="ESPN.br@SD" group-title="غير مصنف",ESPN (720p)
@@ -13,11 +13,11 @@ http://181.78.197.59:8000/play/a081/index.m3u8
 http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports",ESPN 4 (1080p)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/espn-hd-deportes_c.png" group-title="Sports",ESPN Deportes HD (720p)
+#EXTINF:-1 tvg-id="ESPNDeportes.us@HD" group-title="غير مصنف",ESPN Deportes HD (720p)
 http://168.228.44.241:9998/play/a0dz/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@SD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPNU (720p)
+#EXTINF:-1 tvg-id="ESPNU.us@SD" group-title="غير مصنف",ESPNU (720p)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@HD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Sports",ESPNU HD (720p)
+#EXTINF:-1 tvg-id="ESPNU.us@HD" group-title="غير مصنف",ESPNU HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Sports",ESPN8: The Ocho (1080p)
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8

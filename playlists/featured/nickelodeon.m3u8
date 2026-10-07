@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/nickelodeon.m3u8
-#DATE: 2026-10-06 18:39:46 UTC
-#TOTAL: 96
+#DATE: 2026-10-07 06:18:35 UTC
+#TOTAL: 94
 
 #EXTINF:-1 tvg-id="NickJr.cz@SD" group-title="غير مصنف",Nick Jr.
 http://88.212.15.19/live/test_nick_jr/playlist.m3u8
@@ -39,8 +39,6 @@ http://str2.iptvhd.ru:8080/nickjr/index.m3u8
 http://107.167.16.138/nickjr/index.m3u8?token=test
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@US" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV (720p)
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
-#EXTINF:-1 tvg-id="NickJr.us@EastHD" group-title="غير مصنف",Nick Jr. East HD (1080p)
-https://sra72yz.s.gy/NICK_JR_HD.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb1c443f0671bc03ece8/colorLogoPNG_1748329104247.png" group-title="Kids",Nick Jr. Club (Germany) (720p)
 https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-id="NickJrClub.us@BR" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="Kids",Nick Jr. Club (United States) BR (720p)
@@ -69,8 +67,6 @@ http://158.101.222.193:88/georgia_play.php?id=nikijunior
 http://41.205.93.154/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.fr@SD" group-title="غير مصنف",Nicktoons (1080p)
 http://193.254.245.162/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="غير مصنف",Nicktoons (1080p)
-https://sra72yz.s.gy/NICKTOONS_HD.m3u8
 #EXTINF:-1 tvg-id="NikiKids.ua@SD" tvg-logo="https://i.imgur.com/HH4HZ2J.png" group-title="Kids",Niki Kids (1080p)
 http://stream.mcquack.net/271/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" group-title="غير مصنف",Nickelodeon (576p)
@@ -155,10 +151,10 @@ https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@SD" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="Outdoor",Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" group-title="غير مصنف",Ohotnik i rybolov HD (1080p)
-http://str2.iptvhd.ru:8080/Ohotnik_i_Ryibolov_HD/index.m3u8
 #EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" tvg-logo="https://i.imgur.com/Bj1jI7F.png" group-title="Outdoor",Ohotnik i rybolov HD (1080p)
 http://stream.mcquack.net/194/index.m3u8
+#EXTINF:-1 tvg-id="Ohotnikirybolov.ru@HD" group-title="غير مصنف",Ohotnik i rybolov HD (1080p)
+http://str2.iptvhd.ru:8080/Ohotnik_i_Ryibolov_HD/index.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="Kids",TeenNick (406p)
 http://89.33.29.115:8080/TeenNick/index.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr@SD" tvg-logo="https://i.imgur.com/qIoipDq.png" group-title="Kids",Minika Go (720p)
