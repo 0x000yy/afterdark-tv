@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: detected/brand-wwe.m3u8
-#DATE: 2026-10-07 06:18:28 UTC
+#DATE: 2026-10-07 19:10:55 UTC
 #TOTAL: 1
 
-#EXTINF:-1 tvg-id="WWENetwork.us@SD" group-title="غير مصنف",WWE Network (1080p)
+#EXTINF:-1 tvg-id="WWENetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/500px-WWE_Network_logo.svg.png" group-title="Sports",WWE Network (1080p)
 http://103.151.60.162:2122/play/a00p/index.m3u8?hls
