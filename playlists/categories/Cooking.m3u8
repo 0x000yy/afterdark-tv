@@ -8,12 +8,12 @@ http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
 http://213.91.179.28:8000/play/a03n
 #EXTINF:-1,24Kitchen Bulgary (1080p)
 http://hls127.freeott.top:8080/BG_24_Kitchen/video.m3u8
+#EXTINF:-1,GEM Food
+https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
 #EXTINF:-1,Chefi.ro (1080p)
 https://live77cdn2.antenaplay.ro/live2_aws4_sdi13/live2_aws4_sdi13.m3u8
 #EXTINF:-1,Hello Taste
 https://dai.google.com/linear/hls/pa/event/YeG0_KbLRjGeYKU2qVhl_Q/stream/30ddffe9-87f0-4dc7-b0fe-8f0e12044f3e:GRQ/variant/c209b0d3694ace6f439e2179fdad8e66/bandwidth/2628000.m3u8
-#EXTINF:-1,GEM Food
-https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
 #EXTINF:-1,Masala TV (576p)
 http://103.250.28.74:8000/play/a02x/index.m3u8
 #EXTINF:-1,Dens Food Channel [Not 24/7]
@@ -22,12 +22,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/cooking/playlist.m3u8
 #EXTINF:-1,Foodxp (1080p)
 https://techtraveleat.in/stream.m3u8?id=foodxp
-#EXTINF:-1,El Gourmet South (1080p)
-https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 #EXTINF:-1,Chef TV (720p)
 http://168.197.104.22/CHEF_TV/index.m3u8
 #EXTINF:-1,Tastemade Brasil (720p)
 https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+#EXTINF:-1,El Gourmet South (1080p)
+https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 #EXTINF:-1,City Eden Recepty Gurmana [Not 24/7]
 https://cityeden.catcast.tv/content/47516/index.m3u8
 #EXTINF:-1,FoodTime (1080p)
