@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: detected/brand-movistar.m3u8
-#DATE: 2026-10-07 19:10:55 UTC
+#DATE: 2026-10-08 06:22:17 UTC
 #TOTAL: 16
 
 #EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" group-title="Sports",Movistar Deportes (1080p)
@@ -19,18 +19,18 @@ https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleangolRadio.cl@SD" tvg-logo="https://i.imgur.com/nhPFGs8.png" group-title="Music",Teleangol Radio (720p)
 https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" group-title="غير مصنف",Movistar Plus (576p)
-http://190.108.91.206:9050/play/a0bb/index.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" group-title="غير مصنف",Movistar Deportes (1080p)
-http://195.178.110.110/movistar/index.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" group-title="غير مصنف",Movistar Deportes (1080p)
-http://170.244.209.30:8000/play/a1i8/index.m3u8
 #EXTINF:-1 tvg-id="Canal13.cl@SD" group-title="غير مصنف",Canal 13 (720p)
 https://pantera1-100gb-cl-movistar.dps.live/t13radio/t13radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Mega.cl@SD" group-title="غير مصنف",Mega (720p)
 https://pantera1-100gb-cl-movistar.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="PuconTV.cl@SD" group-title="غير مصنف",Pucón TV (1080p) [Not 24/7]
 https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MovistarPlus.pe@SD" group-title="غير مصنف",Movistar Plus (576p)
+http://190.108.91.206:9050/play/a0bb/index.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" group-title="غير مصنف",Movistar Deportes (1080p)
+http://195.178.110.110/movistar/index.m3u8
+#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" group-title="غير مصنف",Movistar Deportes (1080p)
+http://170.244.209.30:8000/play/a1i8/index.m3u8
 #EXTINF:-1 tvg-id="DeportesporMovistarPlusPlus.es@SD" group-title="Sports",Deportes por Movistar Plus+
 https://7nyaler.streamhostingcdn.top/stream/18/index.m3u8
 #EXTINF:-1 tvg-id="LigadeCampeonesporMovistarPlusPlus.es@SD" group-title="Sports",Liga de Campeones por Movistar Plus+

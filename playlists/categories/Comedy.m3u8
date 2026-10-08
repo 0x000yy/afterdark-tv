@@ -1,19 +1,13 @@
 #EXTM3U
 #GROUP: Comedy
-#TOTAL: 132
+#TOTAL: 134
 
 #EXTINF:-1,bTV Comedy
 http://213.91.179.28:8000/play/a04k
 #EXTINF:-1,Comedy TV
 http://31.146.5.178:8087/play/a00b/index.m3u8
-#EXTINF:-1,Polsat Comedy Central Extra (1080p)
-http://57.128.231.171:8080/290/index.m3u8
 #EXTINF:-1,HAHA TV
 https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
-#EXTINF:-1,GEM Comedy
-https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1,Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,Beavis and Butt-Head
 https://jmp2.uk/plu-6486e8b48e3c0a0008e56914.m3u8
 #EXTINF:-1,Broad City
@@ -42,8 +36,12 @@ https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
 https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
 #EXTINF:-1,Tosh.0 (Sweden)
 https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
-#EXTINF:-1,TV2 Comedy
-http://88.212.15.19/live/tv2_comedy/index.m3u8
+#EXTINF:-1,Polsat Comedy Central Extra (1080p)
+http://57.128.231.171:8080/290/index.m3u8
+#EXTINF:-1,Comedy Play (576i)
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1,Prima Comedy (576p)
+https://dokagents.site/live/primacomedy/mono.m3u8
 #EXTINF:-1,Beavis and Butt-Head NO
 https://jmp2.uk/plu-6486e8328e3c0a0008e5686c.m3u8
 #EXTINF:-1,Broad City NO
@@ -70,8 +68,12 @@ https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8
 https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
 #EXTINF:-1,Tosh.0 (Sweden) NO
 https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8
-#EXTINF:-1,Comedy Play (576i)
-https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1,GEM Comedy
+https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
+#EXTINF:-1,Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,TV2 Comedy
+http://88.212.15.19/live/tv2_comedy/index.m3u8
 #EXTINF:-1,Awkward (Sweden)
 https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
 #EXTINF:-1,Beavis and Butt-Head DK
@@ -118,6 +120,8 @@ https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
 https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1,Comedy Central Latin America (1080p)
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
+#EXTINF:-1,Comedy Central Brasil (480p)
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1,Comedy Central Pluto TV BR
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1,FailArmy Brazil
@@ -128,6 +132,8 @@ https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
 #EXTINF:-1,TVMatic Comedy (720p)
 http://cdn.tvmatic.net/comedy.m3u8
+#EXTINF:-1,13 Humor (1080p)
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1,British Comedy
 https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1,Comedy Central (United States) CA
@@ -136,8 +142,6 @@ https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
 #EXTINF:-1,Pluto TV Comedy CA
 https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
-#EXTINF:-1,13 Humor (1080p)
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1,Gagsnetwork (576p)
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1,Kamedi HD (1080p)

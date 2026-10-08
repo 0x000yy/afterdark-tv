@@ -6,10 +6,10 @@
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
 #EXTINF:-1,Nauka (Ukraine) (576p)
 http://stream.mcquack.net/403/index.m3u8
-#EXTINF:-1,Ozone TV
-http://88.212.15.19/live/ozone/index.m3u8
 #EXTINF:-1,Ilm va Tabiat (1080p)
 https://live.teleradiocom.tj/15/3m.m3u8
+#EXTINF:-1,Ozone TV
+http://88.212.15.19/live/ozone/index.m3u8
 #EXTINF:-1,Shandong TV Agricultural Science Channel (406p) [Geo-blocked]
 http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 #EXTINF:-1,EXC TV (720p) [Not 24/7]

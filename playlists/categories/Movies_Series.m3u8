@@ -4,10 +4,6 @@
 
 #EXTINF:-1,AXN Asia Thailand (720p)
 http://58.8.186.128:10007/bysid/2814
-#EXTINF:-1,Bolt (Ukraine) (1080p)
-http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1,FilmUADrama (1080p)
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1,Pluto TV Action (Sweden)
 https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
 #EXTINF:-1,Pluto TV Horror (Sweden)
@@ -20,6 +16,10 @@ https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 #EXTINF:-1,The Twilight Zone
 https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
+#EXTINF:-1,Bolt (Ukraine) (1080p)
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1,FilmUADrama (1080p)
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1,Pluto TV Action (Sweden) NO
 https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
 #EXTINF:-1,Pluto TV Horror (Sweden) NO
@@ -58,6 +58,8 @@ http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1,Pantalla Clasica EC (512p) [Not 24/7]
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1,Star Channel (Chile) (720p)
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1,Bonanza CA
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1,Paramount Network (432p)
@@ -70,8 +72,6 @@ https://jmp2.uk/plu-62ea3f8a38acc80007072d26.m3u8
 https://jmp2.uk/plu-66166cb1307fa30008f275e7.m3u8
 #EXTINF:-1,Rawhide (United States) CA
 https://jmp2.uk/plu-65660223635c3c00086c2578.m3u8
-#EXTINF:-1,Star Channel (Chile) (720p)
-http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1,Amedia Hit (1080p)
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1,Amedia Premium (720p)
