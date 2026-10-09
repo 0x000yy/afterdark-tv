@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/bein-sports.m3u8
-#DATE: 2026-10-08 19:01:01 UTC
+#DATE: 2026-10-09 06:22:39 UTC
 #TOTAL: 7
 
 #EXTINF:-1 tvg-id="beINBoxOffice1.tr@SD" tvg-logo="https://i.imgur.com/MGrJFVN.png" group-title="Movies",beIN Box Office 1
@@ -13,7 +13,7 @@ https://nord.ayakkabiparti.lol/box3/index.m3u8
 https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1 tvg-id="beINMoviesStars.tr@SD" tvg-logo="https://i.imgur.com/eryPkrT.png" group-title="Movies",beIN Movies Stars
 https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)
+#EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" group-title="غير مصنف",beIN SPORTS XTRA (1080p)
 https://bein-xtra-bein.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",beIN SPORTS XTRA en Espanol (1080p)
+#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" group-title="غير مصنف",beIN SPORTS XTRA en Espanol (1080p)
 http://201.190.41.246:9060/play/a03y/index.m3u8

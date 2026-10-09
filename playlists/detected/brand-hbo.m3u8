@@ -1,7 +1,9 @@
 #EXTM3U
 #PLAYLIST: detected/brand-hbo.m3u8
-#DATE: 2026-10-08 19:01:01 UTC
-#TOTAL: 1
+#DATE: 2026-10-09 06:22:39 UTC
+#TOTAL: 2
 
-#EXTINF:-1 tvg-id="HBOMovies.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/HBO_Movies_Logo.svg/960px-HBO_Movies_Logo.svg.png" group-title="Movies;Series",HBO Movies (720p)
+#EXTINF:-1 tvg-id="HBOMovies.us@East" group-title="غير مصنف",HBO Movies (720p)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" group-title="غير مصنف",HBO Latin America (720p) [Geo-blocked]
+http://15.204.246.24:8080/HBOHD/index.m3u8

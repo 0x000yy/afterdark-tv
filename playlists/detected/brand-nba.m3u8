@@ -1,11 +1,11 @@
 #EXTM3U
 #PLAYLIST: detected/brand-nba.m3u8
-#DATE: 2026-10-08 19:01:01 UTC
+#DATE: 2026-10-09 06:22:39 UTC
 #TOTAL: 4
 
 #EXTINF:-1 tvg-id="BATVEducationalChannel.us@SD" tvg-logo="https://i.imgur.com/eDoJqtg.png" group-title="Education",BATV Educational Channel
 https://livestream.telvue.com/billerica2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
+#EXTINF:-1 tvg-id="NBATV.us@SD" group-title="غير مصنف",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" group-title="غير مصنف",NBA TV (720p)
 http://rezofoot.tv/NBATV/index.m3u8

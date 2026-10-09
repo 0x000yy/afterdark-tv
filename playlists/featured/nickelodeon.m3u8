@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/nickelodeon.m3u8
-#DATE: 2026-10-08 19:01:05 UTC
-#TOTAL: 94
+#DATE: 2026-10-09 06:22:44 UTC
+#TOTAL: 95
 
 #EXTINF:-1 tvg-id="NickJr.cz@SD" group-title="غير مصنف",Nick Jr.
 http://88.212.15.19/live/test_nick_jr/playlist.m3u8
@@ -47,20 +47,22 @@ https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.cz@SD" group-title="غير مصنف",Nicktoons
 http://88.212.15.19/live/test_nicktoons/playlist.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.ro@SD" group-title="غير مصنف",Nicktoons
-https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.hu@SD" group-title="غير مصنف",Nicktoons
 http://88.212.15.19/live/nicktoons_hungary/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.de@SD" group-title="غير مصنف",Nickelodeon
-https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="Nicktoons.ro@SD" group-title="غير مصنف",Nicktoons
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.cz@SD" group-title="غير مصنف",Nickelodeon
 http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD" group-title="غير مصنف",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon
 http://213.91.179.28:8000/play/a056
-#EXTINF:-1 tvg-id="Nickelodeon.ro@SD" group-title="غير مصنف",Nickelodeon
-https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.hu@SD" group-title="غير مصنف",Nickelodeon
 http://88.212.15.19/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.it@SD" group-title="غير مصنف",Nickelodeon
+https://zg9mhld.s.gy/HD-NICK-IT.ts
+#EXTINF:-1 tvg-id="Nickelodeon.ro@SD" group-title="غير مصنف",Nickelodeon
+https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
 #EXTINF:-1 tvg-id="NikiJunior.ua@SD" group-title="غير مصنف",Niki Junior
 http://158.101.222.193:88/georgia_play.php?id=nikijunior
 #EXTINF:-1 tvg-id="Nicktoons.us@East" group-title="غير مصنف",Nicktoons (720p)
