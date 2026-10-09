@@ -20,10 +20,10 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1,NH (1080p)
 https://takeoff.jetstre.am/?account=nhnieuws&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
-#EXTINF:-1,NTD TV English UK (1080p)
-https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1,Canal 1 Mar Menor Torre Pacheco (1080p)
 https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:-1,NTD TV English UK (1080p)
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
 #EXTINF:-1,Star Kentrikis Elladas (1080p)
 https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1,Arirang TV (1080p)

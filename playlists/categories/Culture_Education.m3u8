@@ -2,10 +2,10 @@
 #GROUP: Culture;Education
 #TOTAL: 10
 
-#EXTINF:-1,Liceum TV (576p)
-http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1,Ciftci TV (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1,Liceum TV (576p)
+http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1,Shiksha TV (576p)
 http://51.75.127.199:3141/shikshatv/index.m3u8
 #EXTINF:-1,Jalisco TV (720p)

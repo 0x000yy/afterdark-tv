@@ -2,12 +2,12 @@
 #GROUP: Entertainment;News
 #TOTAL: 7
 
+#EXTINF:-1,E! Latin America (1080p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1,E! Latin America Mexico (720p)
 http://72.1.184.5:8089/play/a05d/index.m3u8
 #EXTINF:-1,PSN (288p)
 https://srspsn.live/live/livestream.m3u8
-#EXTINF:-1,E! Latin America (1080p)
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/entertainment.stream/playlist.m3u8
 #EXTINF:-1,TV Zoom (720p)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1,Vergina TV (1080p)

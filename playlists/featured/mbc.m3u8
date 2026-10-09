@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/mbc.m3u8
-#DATE: 2026-10-09 06:22:43 UTC
+#DATE: 2026-10-09 18:31:12 UTC
 #TOTAL: 50
 
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-country="AE" group-title="United Arab Emirates",MBC 1
@@ -25,7 +25,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d4724
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/g5PWnqp.png" tvg-country="AE" group-title="United Arab Emirates",MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8
-#EXTINF:-1 tvg-id="MBC.uk@HD" tvg-logo="https://mybingechannel.co.uk/wp-content/uploads/2023/02/mbc-logo-for-website.png" group-title="Undefined",MBC (1080p)
+#EXTINF:-1 tvg-id="MBC.uk@HD" group-title="غير مصنف",MBC (1080p)
 https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
 #EXTINF:-1 tvg-id="MBCTV.in@SD" group-title="غير مصنف",MBC TV (576p)
 https://cdn.pishow.tv/ott/live/1017/master.m3u8

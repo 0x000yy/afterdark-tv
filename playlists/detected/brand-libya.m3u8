@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST: detected/brand-libya.m3u8
-#DATE: 2026-10-09 06:22:39 UTC
+#DATE: 2026-10-09 18:31:09 UTC
 #TOTAL: 2
 
 #EXTINF:-1 tvg-id="LibyaAlAhrarTV.qa@SD" tvg-logo="https://i.imgur.com/xkQKVGi.png" group-title="News",Libya Al Ahrar TV (1080p)
 https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="LibyaAlWataniya.ly@SD" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="General",Libya Al Wataniya (360p)
+#EXTINF:-1 tvg-id="LibyaAlWataniya.ly@SD" group-title="غير مصنف",Libya Al Wataniya (360p)
 https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8

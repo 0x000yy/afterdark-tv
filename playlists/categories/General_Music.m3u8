@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: General;Music
-#TOTAL: 5
+#TOTAL: 6
 
 #EXTINF:-1,RTV Glas Drine (404p) [Not 24/7]
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
@@ -12,3 +12,5 @@ https://stream3.srr.ro/RadioResita/live/playlist.m3u8
 https://stream3.srr.ro/live/radio-muresr/chunklist_w1731505049.m3u8
 #EXTINF:-1,TVR Folclor
 https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1,ACW UG TV (480p)
+https://live.acwugtv.com/hls/stream.m3u8
