@@ -1,15 +1,15 @@
 #EXTM3U
 #GROUP: Comedy
-#TOTAL: 132
+#TOTAL: 136
 
 #EXTINF:-1,bTV Comedy
 http://213.91.179.28:8000/play/a04k
-#EXTINF:-1,Polsat Comedy Central Extra (1080p)
-http://57.128.231.171:8080/290/index.m3u8
-#EXTINF:-1,Comedy TV
-http://31.146.5.178:8087/play/a00b/index.m3u8
 #EXTINF:-1,HAHA TV
 https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
+#EXTINF:-1,Comedy TV
+http://31.146.5.178:8087/play/a00b/index.m3u8
+#EXTINF:-1,Polsat Comedy Central Extra (1080p)
+http://57.128.231.171:8080/290/index.m3u8
 #EXTINF:-1,Beavis and Butt-Head
 https://jmp2.uk/plu-6486e8b48e3c0a0008e56914.m3u8
 #EXTINF:-1,Broad City
@@ -38,8 +38,8 @@ https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
 https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
 #EXTINF:-1,Tosh.0 (Sweden)
 https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
-#EXTINF:-1,Comedy Play (576i)
-https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1,TV2 Comedy
+http://88.212.15.19/live/tv2_comedy/index.m3u8
 #EXTINF:-1,Beavis and Butt-Head NO
 https://jmp2.uk/plu-6486e8328e3c0a0008e5686c.m3u8
 #EXTINF:-1,Broad City NO
@@ -66,8 +66,6 @@ https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8
 https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
 #EXTINF:-1,Tosh.0 (Sweden) NO
 https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8
-#EXTINF:-1,TV2 Comedy
-http://88.212.15.19/live/tv2_comedy/index.m3u8
 #EXTINF:-1,Awkward (Sweden)
 https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
 #EXTINF:-1,Beavis and Butt-Head DK
@@ -102,20 +100,28 @@ https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 #EXTINF:-1,Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Comedy Play (576i)
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1,In Puii Mei (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
+#EXTINF:-1,iRoast (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
+#EXTINF:-1,iUmor (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
+#EXTINF:-1,Rotana Comedy (1080p) [Geo-blocked]
+https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Jordan Comedy (1080p)
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1,ETV Comedy (1080p)
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
-#EXTINF:-1,Rotana Comedy (1080p) [Geo-blocked]
-https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Sirippoli TV (576p)
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
+#EXTINF:-1,Zee Comedy Nation (1080p)
+https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1,FailArmy Italy
 https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Pluto TV Scherzi e risate
 https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8
-#EXTINF:-1,Zee Comedy Nation (1080p)
-https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
 #EXTINF:-1,Comedy Central Latin America (1080p)
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 #EXTINF:-1,Comedy Central Brasil (480p)
@@ -184,6 +190,10 @@ https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
 https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 #EXTINF:-1,Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+#EXTINF:-1,FailArmy UK (720p)
+https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Planet Fun (1080p)
+http://66.102.126.10:8000/play/a02k/index.m3u8
 #EXTINF:-1,Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
 #EXTINF:-1,Comedia a lo bestia de Pluto TV
@@ -192,8 +202,6 @@ https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
 #EXTINF:-1,Vaya semanita
 https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
-#EXTINF:-1,FailArmy UK (720p)
-https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Comedy Central (Poland) (1080p)
 http://57.128.231.171:8080/286/index.m3u8
 #EXTINF:-1,FailArmy Poland (720p)

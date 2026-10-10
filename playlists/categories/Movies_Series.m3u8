@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Movies;Series
-#TOTAL: 69
+#TOTAL: 71
 
 #EXTINF:-1,AXN Asia Thailand (720p)
 http://58.8.186.128:10007/bysid/2814
@@ -28,6 +28,10 @@ https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
 https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
 #EXTINF:-1,The Twilight Zone NO
 https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
+#EXTINF:-1,Bolt (Ukraine) (1080p)
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1,FilmUADrama (1080p)
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1,Pluto TV Action (Sweden) DK
 https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1,Pluto TV Horror (Sweden) DK
@@ -42,10 +46,6 @@ https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1,The Twilight Zone DK
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
-#EXTINF:-1,Bolt (Ukraine) (1080p)
-http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1,FilmUADrama (1080p)
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1,Pluto TV Sci-Fi (Germany) IT
 https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 #EXTINF:-1,Star Trek: Voyager (Germany) IT
@@ -120,6 +120,8 @@ https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 #EXTINF:-1,Ebony TV by Lionsgate (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1,HBO Movies (720p)
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1,OuterSphere (1080p)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1,Pluto TV Horror (United States)
@@ -136,6 +138,8 @@ https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 #EXTINF:-1,Star Trek: Voyager (United States)
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+#EXTINF:-1,SYFY (720p)
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1,The Wild Wild West (United States)
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1,Pluto TV Sci-Fi (United States) LatAm

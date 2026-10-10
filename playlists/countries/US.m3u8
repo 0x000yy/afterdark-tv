@@ -1,9 +1,7 @@
 #EXTM3U
 #COUNTRY: US
-#TOTAL: 25
+#TOTAL: 21
 
-#EXTINF:-1,Buzzr Ⓖ
-http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1,Retro TV
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/retro/index.m3u8
 #EXTINF:-1,Stadium
@@ -18,8 +16,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://www.youtube.com/c/CNBC/live
 #EXTINF:-1,Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1,ABC News
-https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
 #EXTINF:-1,CBS News
 https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
 #EXTINF:-1,NBC News
@@ -42,10 +38,6 @@ https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 http://media.boni-records.com/index.m3u8
 #EXTINF:-1,Stryk TV
 https://FFFFFFF110156200.tvustream.com/ryfy.m3u8
-#EXTINF:-1,FOX Live Now
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1,Cheddar
-https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
 #EXTINF:-1,Court TV
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1,America's Voice
