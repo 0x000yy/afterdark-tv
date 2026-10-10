@@ -1,18 +1,18 @@
 #EXTM3U
 #PLAYLIST: detected/brand-spacetoon.m3u8
-#DATE: 2026-10-10 06:06:21 UTC
+#DATE: 2026-10-10 17:37:28 UTC
 #TOTAL: 16
 
 #EXTINF:-1 tvg-id="SpacetoonTurkey.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/2/2b/Spacetoon_logo.png" group-title="Animation;Kids",Spacetoon Turkey (720p) [Not 24/7]
 https://live-tr-next.spacetoongo.com/ST_TR_NEXT/hls/h7qefeiwfbjn1.m3u8
-#EXTINF:-1 tvg-id="PTV.ua@SD" tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="News",PTV (Ukraine) (720p)
-https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="PTVNews.pk@SD" tvg-logo="https://i.imgur.com/Fpn8VU7.png" group-title="News",PTV News (1080p)
 http://103.250.28.74:8000/play/a017/index.m3u8
 #EXTINF:-1 tvg-id="PTVSports.pk@SD" tvg-logo="https://i.imgur.com/CPm6GHA.png" group-title="Sports",PTV Sports (1080p)
 http://103.250.28.74:8000/play/a019/index.m3u8
 #EXTINF:-1 tvg-id="SipingTV.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/sptv1.jpg" group-title="General",Siping TV
 http://stream2.jlntv.cn/sptv/sd/live.m3u8?_upt=f27750421743154598
+#EXTINF:-1 tvg-id="PTV.ua@SD" tvg-logo="https://i.imgur.com/WDHoSVz.png" group-title="News",PTV (Ukraine) (720p)
+https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SpacetoonArabic.ae@SD" group-title="غير مصنف",Spacetoon Arabic (576p)
 https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br@SD" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="General",Rede SPTV (360p)

@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/cnn.m3u8
-#DATE: 2026-10-10 06:06:24 UTC
+#DATE: 2026-10-10 17:37:33 UTC
 #TOTAL: 24
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN
@@ -21,7 +21,7 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="News",CNN Prima News (1080p)
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNenEspanol.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Espanol (1080p)
+#EXTINF:-1 tvg-id="CNNenEspanol.us@SD" group-title="غير مصنف",CNN en Espanol (1080p)
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-country="AL" group-title="Albania",A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8

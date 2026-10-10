@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Lifestyle
-#TOTAL: 91
+#TOTAL: 90
 
 #EXTINF:-1,Good Life (576p)
 http://stream.mcquack.net/47/index.m3u8
@@ -14,12 +14,14 @@ https://cdn2.invivo.bg/codehealth_test/index.m3u8
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1,BBC Lifestyle Asia (720p)
 http://58.8.186.128:10003/bysid/2333
-#EXTINF:-1,Fortuna TV (720p)
-https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1,Hangulat TV (720p)
 https://iptv01.eurocable.co.hu/EC-HANGULATTV/index.m3u8
-#EXTINF:-1,36.6 TV
-https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
+#EXTINF:-1,Fortuna TV (720p)
+https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
+#EXTINF:-1,Antena Monden (720p)
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+#EXTINF:-1,MediCOOL TV
+https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1,GEM Life
 https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
 #EXTINF:-1,Biznet Lifestyle (1080p)
@@ -28,10 +30,6 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u
 https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 #EXTINF:-1,Dens Play [Geo-blocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8
-#EXTINF:-1,Antena Monden (720p)
-https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
-#EXTINF:-1,MediCOOL TV
-https://live77cdn2.antenaplay.ro/live2_fast/ch1/stream.m3u8
 #EXTINF:-1,CCTV-12 (720p)
 http://74.91.26.218:82/live/cctv12hd.m3u8
 #EXTINF:-1,CCTV-Health (1080p)
@@ -48,6 +46,8 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/i
 http://103.154.3.101:5001/live/1736.m3u8
 #EXTINF:-1,QTV-2
 http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1,36.6 TV
+https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
 #EXTINF:-1,Ayush TV (576p)
 http://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8
 #EXTINF:-1,CVR Health (576p)
@@ -58,14 +58,14 @@ https://mumbai-edge.smartplaytv.in/ETVLIFE/index.m3u8
 https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8
 #EXTINF:-1,Bizz TV (1080p)
 https://stream.bizzmedia.biz/bizz_tv/index.m3u8
-#EXTINF:-1,Fashion India (720p)
-http://51.75.127.199:3141/fashionindia/index.m3u8
 #EXTINF:-1,Alma TV (576p)
 http://151.0.207.99:1935/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1,Pluto TV Real Life
 https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8
 #EXTINF:-1,Pluto TV Viaggi
 https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+#EXTINF:-1,Fashion India (720p)
+http://51.75.127.199:3141/fashionindia/index.m3u8
 #EXTINF:-1,TLC Latin America (1080p)
 http://38.134.250.110:8000/play/a00n/index.m3u8
 #EXTINF:-1,Pluto TV Cozinha
@@ -128,8 +128,6 @@ https://jmp2.uk/plu-64db2e0835425100080f2f5a.m3u8
 http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1,Guide Love TV (720p)
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
-#EXTINF:-1,9Life (720p) [Geo-blocked]
-https://9now-livestreams.akamaized.net/hls/live/2008313/life-syd/master.m3u8
 #EXTINF:-1,Fashion&LifeStyle (1080p)
 http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1,FashionTV (Russia) (1080p)

@@ -4,10 +4,10 @@
 
 #EXTINF:-1,Pluto TV True Crime (Sweden)
 https://jmp2.uk/plu-61c0b438244e50000758083b.m3u8
-#EXTINF:-1,GZT (1080p)
-https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1,Pluto TV True Crime (Sweden) NO
 https://jmp2.uk/plu-61c1e51354d923000731bf78.m3u8
+#EXTINF:-1,GZT (1080p)
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1,Pluto TV True Crime (Sweden) DK
 https://jmp2.uk/plu-61c097ec8bb1830008e3f962.m3u8
 #EXTINF:-1,Pluto TV True Crime (Germany) IT

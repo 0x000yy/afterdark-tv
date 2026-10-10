@@ -1,14 +1,12 @@
 #EXTM3U
 #PLAYLIST: detected/brand-palestine.m3u8
-#DATE: 2026-10-10 06:06:21 UTC
+#DATE: 2026-10-10 17:37:28 UTC
 #TOTAL: 10
 
 #EXTINF:-1 tvg-id="Palestinetv.ir@SD" tvg-logo="https://i.ibb.co/svrZNZTX/Palestine.png" group-title="General",Palestinetv
 https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
 #EXTINF:-1 tvg-id="PBCTapeshTV.us@SD" tvg-logo="https://i.imgur.com/50JzsmH.png" group-title="General",PBC Tapesh TV (720p)
 https://iptv.tapesh.tv/tapesh/playlist.m3u8
-#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.imgur.com/n8dSgx4.png" group-title="News",Palestine Al Yawm (720p)
-https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="MusawaChannel.ps@SD" tvg-logo="https://i.imgur.com/GB2Q9kl.png" group-title="General",Musawa Channel (1080p) [Not 24/7]
 https://pbc.furrera.ps/musawahd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineEdu.ps@SD" tvg-logo="https://i.imgur.com/AwVHXyC.png" group-title="Education",Palestine Edu (1080p)
@@ -19,6 +17,8 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News",Palestine Today (480p) [Geo-blocked]
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.imgur.com/n8dSgx4.png" group-title="News",Palestine Al Yawm (720p)
+https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps@SD" group-title="غير مصنف",Palestine Satellite Channel (360p)
 https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8
 #EXTINF:-1 tvg-id="PBCTVChannel20.us@SD" tvg-logo="https://i.imgur.com/2bGBbOZ.png" group-title="Legislative",PBC TV Channel 20 (720p)

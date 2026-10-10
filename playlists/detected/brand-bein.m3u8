@@ -1,8 +1,10 @@
 #EXTM3U
 #PLAYLIST: detected/brand-bein.m3u8
-#DATE: 2026-10-10 06:06:21 UTC
+#DATE: 2026-10-10 17:37:28 UTC
 #TOTAL: 10
 
+#EXTINF:-1 tvg-id="K100.is@SD" tvg-logo="https://i.imgur.com/tv60ogG.png" group-title="Music",K100 (1080p)
+https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 tvg-id="beINBoxOffice1.tr@SD" tvg-logo="https://i.imgur.com/MGrJFVN.png" group-title="Movies",beIN Box Office 1
 https://nord.ayakkabiparti.lol/box1/index.m3u8
 #EXTINF:-1 tvg-id="beINBoxOffice2.tr@SD" tvg-logo="https://i.imgur.com/Kg7oOcO.png" group-title="Movies",beIN Box Office 2
@@ -13,8 +15,6 @@ https://nord.ayakkabiparti.lol/box3/index.m3u8
 https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
 #EXTINF:-1 tvg-id="beINMoviesTurk.tr@SD" tvg-logo="https://i.imgur.com/nw8Sa2z.png" group-title="Movies",beIN Movies Turk
 https://nord.ayakkabiparti.lol/bsturk/index.m3u8
-#EXTINF:-1 tvg-id="K100.is@SD" tvg-logo="https://i.imgur.com/tv60ogG.png" group-title="Music",K100 (1080p)
-https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="General",Telecaribe (1080p)
 http://138.121.15.230:9002/TELECARIBE/index.m3u8
 #EXTINF:-1 tvg-id="CNA.sg@SD" tvg-logo="https://i.imgur.com/awIDugE.png" group-title="News",CNA (Singapore) (1080p) [Geo-blocked]
