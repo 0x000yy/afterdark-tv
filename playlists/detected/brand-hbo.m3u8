@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: detected/brand-hbo.m3u8
-#DATE: 2026-10-10 17:37:28 UTC
-#TOTAL: 5
+#DATE: 2026-10-11 05:57:16 UTC
+#TOTAL: 8
 
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
@@ -13,3 +13,9 @@ http://15.204.246.24:8080/HBOHD/index.m3u8
 http://38.65.175.84:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" group-title="غير مصنف",HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us@SD" group-title="غير مصنف",HBO+ Latin America (720p) [Geo-blocked]
+http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" group-title="غير مصنف",HBO 2 Latin America HD (720p) [Geo-blocked]
+http://15.204.246.24:8080/HBO2HD/index.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" group-title="غير مصنف",HBO Family Latin America (720p) [Geo-blocked]
+http://15.204.246.24:8080/HBOFamilyHD/index.m3u8

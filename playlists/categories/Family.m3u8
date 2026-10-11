@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Family
-#TOTAL: 35
+#TOTAL: 36
 
 #EXTINF:-1,Sevimli TV (1080p)
 https://stream8.cinerama.uz/1017/tracks-v1a1/playlist.m3u8
@@ -22,12 +22,12 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 #EXTINF:-1,The Pet Collective Italy
 https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,The Pet Collective Brazil (720p)
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1,TV Familia (720p)
 https://cloudusa.streamingconnect.com/tvfamiliatvbox/tvfamiliaweb.m3u8
 #EXTINF:-1,The Pet Collective Mexico (720p)
 https://the-pet-collective-international-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective Brazil (720p)
-https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1,Canal IPe (720p)
 http://187.102.210.46/IPE/index.m3u8
 #EXTINF:-1,STS (576p)
@@ -40,10 +40,10 @@ https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
 https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,The Pet Collective UK (720p)
 https://the-pet-collective-international-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,The Pet Collective Spain
-https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,The Pet Collective Poland (720p)
 https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8
+#EXTINF:-1,The Pet Collective Spain
+https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,LTN Family SD (576p)
 http://103.250.28.74:8000/play/a02j/index.m3u8
 #EXTINF:-1,My Family [Geo-blocked]
@@ -54,6 +54,8 @@ https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1,AMG TV (1080p)
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
+#EXTINF:-1,Discovery Family (720p)
+https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 #EXTINF:-1,Dove Channel (1080p)
 https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 #EXTINF:-1,Hallmark Channel (1080p)

@@ -2,14 +2,14 @@
 #GROUP: General;News
 #TOTAL: 15
 
+#EXTINF:-1,TVK Stella (576p)
+https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1,Dong Nai TV 1 (720p)
 https://vtvgolive-ott3.vtvdigital.vn/live/dongnai1tv/chunklist_2.m3u8
 #EXTINF:-1,HTV9 (720p)
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1,Vinh Long TV 1 (720p)
 https://dethich.pw/thvl1/index.m3u8
-#EXTINF:-1,TVK Stella (576p)
-https://stream.tvkstella.pl/stella/stella.m3u8
 #EXTINF:-1,PRO TV Chisinau (576p)
 http://178.76.68.60:7442/15/mpegts
 #EXTINF:-1,Seraj TV (1080i)

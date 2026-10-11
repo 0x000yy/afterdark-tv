@@ -36,14 +36,14 @@ https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
 https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1,The Andy Griffith Show CA
 https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
-#EXTINF:-1,13Rec (576p)
-http://45.4.1.201:8000/play/a11i/index.m3u8
-#EXTINF:-1,TVN3 (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1,Nostalgia (Russia) (576p)
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1,Retro (576p)
 http://stream.mcquack.net/191/index.m3u8
+#EXTINF:-1,13Rec (576p)
+http://45.4.1.201:8000/play/a11i/index.m3u8
+#EXTINF:-1,TVN3 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1,Pluto TV Classic TV
 https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
 #EXTINF:-1,Pluto TV Sherlock
