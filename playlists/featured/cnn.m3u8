@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/cnn.m3u8
-#DATE: 2026-10-11 17:53:45 UTC
-#TOTAL: 27
+#DATE: 2026-10-12 06:16:37 UTC
+#TOTAL: 32
 
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="News",CNN
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
@@ -19,20 +19,30 @@ https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
 #EXTINF:-1 tvg-id="CNNIndonesia.am" tvg-logo="https://imgur.com/MpxTMiP" tvg-country="ID" group-title="Indonesia",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="News",CNN Indonesia
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
 #EXTINF:-1 tvg-id="CNNChile.cl@SD" tvg-logo="https://i.imgur.com/t4EXijz.png" group-title="News",CNN Chile (1080p)
 http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" group-title="News",CNN Brasil (1080p)
 https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us@Europe" group-title="غير مصنف",CNN International
 http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" group-title="غير مصنف",CNN Prima News (1080p)
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="News",CNN Prima News (1080p)
 http://88.212.15.19/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/960px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Espanol (1080p)
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us@SD" group-title="غير مصنف",CNN en Espanol (1080p)
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us@Europe" group-title="غير مصنف",CNN International (1080p)
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us@NorthAmerica" group-title="غير مصنف",CNN International North America (1080p)
+https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-country="AL" group-title="Albania",A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena3CNN.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="News",Antena 3 CNN (576p)
+#EXTINF:-1 tvg-id="Antena3CNN.ro@SD" group-title="غير مصنف",Antena 3 CNN (576p)
 https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
+#EXTINF:-1 tvg-id="Antena3CNN.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="News",Antena 3 CNN (1080p)
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-id="ACNN.ng@SD" tvg-logo="https://i.imgur.com/91JLpxr.png" group-title="Religious",ACNN (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" group-title="غير مصنف",RCN Novelas (720p)

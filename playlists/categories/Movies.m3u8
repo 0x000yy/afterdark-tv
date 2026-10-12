@@ -1,15 +1,39 @@
 #EXTM3U
 #GROUP: Movies
-#TOTAL: 627
+#TOTAL: 619
 
 #EXTINF:-1,Armenia Premium (720p)
 http://stream.mcquack.net/123/index.m3u8
+#EXTINF:-1,Yes Movies Action (1080p)
+http://stream.mcquack.net/380/index.m3u8
+#EXTINF:-1,Klasik (576p) [Not 24/7]
+https://178.253.194.105/klasiktv/playlist.m3u8
+#EXTINF:-1,BIZ Cinema (1080p)
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
+#EXTINF:-1,Kinoteatr (1080p)
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Hero (720p) [Not 24/7]
+https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
+#EXTINF:-1,Rakuten TV Action Movies Finland (1080p)
+https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
+#EXTINF:-1,Rakuten TV Comedy Movies Finland (1080p)
+https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
+#EXTINF:-1,Rakuten TV Drama Movies Finland (1080p)
+https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
+#EXTINF:-1,Rakuten TV Nordic Films (1080p)
+https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
+#EXTINF:-1,Rakuten TV Top Movies Finland (1080p)
+https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
 #EXTINF:-1,KinoBoevik (1080p)
 https://fs.uplink.kz/kinoboevik/mono.m3u8?token=onlinetv
 #EXTINF:-1,Mirovoe kino (1080p)
 https://fs.uplink.kz/mirovoe_kino/mono.m3u8?token=onlinetv
 #EXTINF:-1,Silk Way Cinema (1080p) [Geo-blocked]
 https://stream.qazcdn.net/ex6r514/silkwaycinema/index.m3u8
+#EXTINF:-1,RTSH Shqip (1080p)
+http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+#EXTINF:-1,Persiana Korea
+https://korhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,AMC Europe Bulgary (576p)
 http://hls127.freeott.top:8080/BG_AMC/video.m3u8
 #EXTINF:-1,AXN Black (576p)
@@ -44,52 +68,10 @@ http://hls127.freeott.top:8080/BG_FOX/video.m3u8
 http://85.14.32.26:8800/udp/239.100.10.100:5000
 #EXTINF:-1,Viasat Kino Bulgaria (1080p)
 http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
-#EXTINF:-1,Klasik (576p) [Not 24/7]
-https://178.253.194.105/klasiktv/playlist.m3u8
-#EXTINF:-1,RTSH Shqip (1080p)
-http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
-#EXTINF:-1,HOT Cinema 1 (1080p)
-http://str2.iptvhd.ru:8080/Gold/index.m3u8
-#EXTINF:-1,HOT Cinema 2 (1080p)
-http://str2.iptvhd.ru:8080/action/index.m3u8
-#EXTINF:-1,HOT Cinema 3 (1080p)
-http://str2.iptvhd.ru:8080/fun/index.m3u8
-#EXTINF:-1,HOT Cinema 4 (1080p)
-http://str2.iptvhd.ru:8080/drama/index.m3u8
-#EXTINF:-1,Yes Movies Action (1080p)
-http://stream.mcquack.net/380/index.m3u8
-#EXTINF:-1,BIZ Cinema (1080p)
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
-#EXTINF:-1,Kinoteatr (1080p)
-https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Persiana Korea
-https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Hero (720p) [Not 24/7]
-https://live-fi.tvkaista.net/hero/live.m3u8?hd=true
-#EXTINF:-1,Rakuten TV Action Movies Finland (1080p)
-https://bca5a421a70c46ad911efd0a4767c4bf.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6075/master.m3u8
-#EXTINF:-1,Rakuten TV Comedy Movies Finland (1080p)
-https://a300af98e00746e2acf2346f43e47bd1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6191/master.m3u8
-#EXTINF:-1,Rakuten TV Drama Movies Finland (1080p)
-https://d7e8ee3c924d4305a0c1840fe94c5d36.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6102/master.m3u8
-#EXTINF:-1,Rakuten TV Nordic Films (1080p)
-https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/master.m3u8
-#EXTINF:-1,Rakuten TV Top Movies Finland (1080p)
-https://1d1b0d4cb6ae4c31985d13221795695b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6057/master.m3u8
 #EXTINF:-1,Star Channel (Slovenia)
 http://92.36.202.5:10001/play/a01s
 #EXTINF:-1,Star Movies (Slovenia)
 http://92.36.202.5:10001/play/a01o
-#EXTINF:-1,AXN Black Poland (576p)
-http://185.227.34.179:8080/axn-black/index.m3u8
-#EXTINF:-1,FILMBOX+ Festival Poland
-http://92.114.85.87:8018/play/a009/index.m3u8
-#EXTINF:-1,FILMBOX+ One (1080p)
-http://57.128.231.171:8080/236/index.m3u8
-#EXTINF:-1,Kino Polska (1080p)
-http://57.128.231.171:8080/238/index.m3u8
-#EXTINF:-1,Polsat Film HD
-http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 #EXTINF:-1,Thrill (540p)
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
 #EXTINF:-1,True Film 1 (720p)
@@ -102,8 +84,24 @@ http://58.8.186.128:10004/bysid/2416
 http://58.8.186.128:10003/bysid/2325
 #EXTINF:-1,True Thai Film (720p)
 http://58.8.186.128:10003/bysid/2326
+#EXTINF:-1,Canal+ Action Europe Slovakia (720p)
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
 #EXTINF:-1,EBS Cinema (720p)
 https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1,ON Movies (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1,Itage TV (480p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
+#EXTINF:-1,AXN Black Poland (576p)
+http://185.227.34.179:8080/axn-black/index.m3u8
+#EXTINF:-1,FILMBOX+ Festival Poland
+http://92.114.85.87:8018/play/a009/index.m3u8
+#EXTINF:-1,FILMBOX+ One (1080p)
+http://57.128.231.171:8080/236/index.m3u8
+#EXTINF:-1,Kino Polska (1080p)
+http://57.128.231.171:8080/238/index.m3u8
+#EXTINF:-1,Polsat Film HD
+http://92.63.196.180:8080/live/74173747597177/7vfxky4rjx3j/10208.m3u8?token=Q0FaWEpZFFsXAwNWUFMEBwJXAwMDVlpTBgVTVwEHAQNeWgoACVVXVQAVGEZGFUdTUl9qWwIVAlBSAQBdGENHQ10RbVBdEwxDAgANUAJVFxoRRlxfAxUCUU4RQA1QQwheTQ9eFRtUThVQRVoFWT5RU0VbVldEDVYUDl8cRlsPbVRdDlNXXRMMQwQVGEZcEkUUCVxAXgobGgMLR0IFQAQQClYWXlUVE1UOQFlAFkxDDxRjfhceRFJAFQddQw1bDxAKGg4BTAETGkNcRGsWUBJBRFZTWFcUFQJDUhEcRlkASm9bDFxXXFJCCFpZR0YPQwQUHxBYXQheTA4QbEANUEMIXk0PXkQ=
 #EXTINF:-1,Merry Christmas from Viafree
 https://jmp2.uk/plu-6304854ac6073d0007259fe1.m3u8
 #EXTINF:-1,NonStop Kung Fu
@@ -126,84 +124,14 @@ https://jmp2.uk/plu-63a19da6847a090007f230da.m3u8
 https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
 #EXTINF:-1,Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
-#EXTINF:-1,Itage TV (480p)
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
-#EXTINF:-1,ON Movies (720p)
-https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1,Canal+ Action Europe Slovakia (720p)
-http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
-#EXTINF:-1,312 Kino (406p)
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1,AXN CEE
-http://88.212.15.19/live/axn_hun/index.m3u8
-#EXTINF:-1,Film4
-http://88.212.15.19/live/film4_hun/index.m3u8
-#EXTINF:-1,Film Cafe
-http://88.212.15.19/live/film_cafe/index.m3u8
-#EXTINF:-1,Film+ (Hungary)
-http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
-#EXTINF:-1,FILMBOX+ Comedy Magyar (576p)
-http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
-#EXTINF:-1,FILMBOX+ Emotion Hungary (1080p)
-http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
-#EXTINF:-1,FILMBOX+ One Magyar
-http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
-#EXTINF:-1,Magyar Mozi TV
-http://88.212.15.19/live/mozi/index.m3u8
-#EXTINF:-1,MAX4 (1080p)
-http://141.94.193.53:80/MAX4_HD/index.m3u8
-#EXTINF:-1,Mozi+
-http://88.212.15.19/live/mozi_plusz/index.m3u8
-#EXTINF:-1,Moziverzum
-http://88.212.15.19/live/moziverzum/index.m3u8
 #EXTINF:-1,Viasat Kino Action (576p)
 http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
-#EXTINF:-1,Cinemaraton Plus (1080i)
-https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
-#EXTINF:-1,Film Now
-https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
-#EXTINF:-1,Film Now HD (1080i)
-https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
-#EXTINF:-1,FILMBOX+ Emotion Romania
-https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
-#EXTINF:-1,FILMBOX+ Hits Romania (576p)
-https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
-#EXTINF:-1,FILMBOX+ One Romania (576p)
-https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
-#EXTINF:-1,Nostalgia TV (1080p)
-https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
-#EXTINF:-1,Pro Cinema (1080p)
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
-#EXTINF:-1,Viasat Kino Romania
-https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+#EXTINF:-1,312 Kino (406p)
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1,MWD Movies [Not 24/7]
 http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1,Kantipur Max [Geo-blocked]
 https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
-#EXTINF:-1,Filmax (576p)
-https://s3.ideationtec.live/Filmax/Filmax.m3u8
-#EXTINF:-1,4ever Cinema (1080p)
-http://stream.mcquack.net/258/index.m3u8
-#EXTINF:-1,Cine+
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567
-#EXTINF:-1,Cine+ Hit
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539
-#EXTINF:-1,Cine+ Legend
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568
-#EXTINF:-1,Enter-Film (1080p)
-http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1,FilmUA Live
-https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
-#EXTINF:-1,Hollywood Ukraine (576p)
-http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
-#EXTINF:-1,Kinoliving (1080p)
-http://stream.mcquack.net/445/index.m3u8
-#EXTINF:-1,Kinowood (1080p)
-http://stream.mcquack.net/446/index.m3u8
-#EXTINF:-1,Nashe Lubimoe Kino Ukraine (1080p)
-http://stream.mcquack.net/456/index.m3u8
-#EXTINF:-1,Prokino (360p)
-http://dtv.vol.net.ua/ProKino/index.m3u8
 #EXTINF:-1,Merry Christmas from Viafree NO
 https://jmp2.uk/plu-63047bd6b0726b000795341d.m3u8
 #EXTINF:-1,NonStop Kung Fu NO
@@ -236,44 +164,112 @@ https://nord.ayakkabiparti.lol/bsaction1/index.m3u8
 https://nord.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1,MovieSmart Turk (576p)
 http://playhdnewjj.xyz:8080/recc121412/KVqfhtdJ2nQ7/174
+#EXTINF:-1,Filmax (576p)
+https://s3.ideationtec.live/Filmax/Filmax.m3u8
+#EXTINF:-1,Cinemaraton Plus (1080i)
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1,Film Now
+https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
+#EXTINF:-1,Film Now HD (1080i)
+https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
+#EXTINF:-1,FILMBOX+ Emotion Romania
+https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
+#EXTINF:-1,FILMBOX+ Hits Romania (576p)
+https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
+#EXTINF:-1,FILMBOX+ One Romania (576p)
+https://nosignal1.antenaplay.ro/hls/fb-one-sd/index.m3u8
+#EXTINF:-1,Nostalgia TV (1080p)
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+#EXTINF:-1,Pro Cinema (1080p)
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-procinema/live_fullhd?offsetSeconds=0
+#EXTINF:-1,Viasat Kino Romania
+https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+#EXTINF:-1,Merry Christmas from Viafree DK
+https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
+#EXTINF:-1,NonStop Kung Fu DK
+https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
+#EXTINF:-1,Pluto TV Bud & Terence (Sweden) DK
+https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8
+#EXTINF:-1,Pluto TV Film (Sweden) DK
+https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
+#EXTINF:-1,Pluto TV Harlequin DK
+https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
+#EXTINF:-1,Pluto TV John Wayne DK
+https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
+#EXTINF:-1,Pluto TV Kultfilm
+https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
+#EXTINF:-1,Pluto TV Paranormal (Sweden) DK
+https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
+#EXTINF:-1,Pluto TV Romantik DK
+https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
+#EXTINF:-1,Star Trek Movies DK
+https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
+#EXTINF:-1,Viafree Movies DK
+https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 #EXTINF:-1,Cinema (Mongolia) (1080p)
 https://cdn4.skygo.mn/live/disk1/CinemaTV/DASH-FTA/CinemaTV.mpd
 #EXTINF:-1,MN+
 https://cdn4.skygo.mn/live/disk1/MNplus91/HLSv3-FTA/MNplus91.m3u8
 #EXTINF:-1,MovieBox (1080p)
 https://cdn4.skygo.mn/live/disk1/Moviebox/DASH-FTA/Moviebox.mpd
-#EXTINF:-1,CCTV-6 [Geo-blocked]
-https://live.eac-news.com/CCTV/streams/cctv6.m3u8
-#EXTINF:-1,CCTV-6 HD (1080p)
-http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1,CCTV-Storm Theater (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
-#EXTINF:-1,CCTV-The First Theater (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-#EXTINF:-1,Celestial Movies (576i)
-http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
-#EXTINF:-1,CHC Action (1080p)
-http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-#EXTINF:-1,CND Film Middle School Channel
-http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
-#EXTINF:-1,Harbin Movie Channel
-https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1,Jiangsu Movie Channel (576p)
-http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
-#EXTINF:-1,Jiangxi Movie Channel
-https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
-#EXTINF:-1,Jilin Movie Channel
-https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
-#EXTINF:-1,Mei Ah Movie Channel (1080p)
-http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
-#EXTINF:-1,QTV-3
-http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
+#EXTINF:-1,4ever Cinema (1080p)
+http://stream.mcquack.net/258/index.m3u8
+#EXTINF:-1,Cine+
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR&master=567
+#EXTINF:-1,Cine+ Hit
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw%3D%3D&master=539
+#EXTINF:-1,Cine+ Legend
+http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ%3D%3D&master=568
+#EXTINF:-1,Enter-Film (1080p)
+http://stream.mcquack.net/322/index.m3u8
+#EXTINF:-1,FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+#EXTINF:-1,Hollywood Ukraine (576p)
+http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
+#EXTINF:-1,Kinoliving (1080p)
+http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1,Kinowood (1080p)
+http://stream.mcquack.net/446/index.m3u8
+#EXTINF:-1,Nashe Lubimoe Kino Ukraine (1080p)
+http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1,Prokino (360p)
+http://dtv.vol.net.ua/ProKino/index.m3u8
+#EXTINF:-1,AXN CEE
+http://88.212.15.19/live/axn_hun/index.m3u8
+#EXTINF:-1,Film4
+http://88.212.15.19/live/film4_hun/index.m3u8
+#EXTINF:-1,Film Cafe
+http://88.212.15.19/live/film_cafe/index.m3u8
+#EXTINF:-1,Film+ (Hungary)
+http://88.212.15.19/live/film_plus_hun_atk/index.m3u8
+#EXTINF:-1,FILMBOX+ Comedy Magyar (576p)
+http://88.212.15.19/live/test_filmbox_family_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,FILMBOX+ Emotion Hungary (1080p)
+http://88.212.15.19/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,FILMBOX+ One Magyar
+http://88.212.15.19/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
+#EXTINF:-1,Magyar Mozi TV
+http://88.212.15.19/live/mozi/index.m3u8
+#EXTINF:-1,MAX4 (1080p)
+http://141.94.193.53:80/MAX4_HD/index.m3u8
+#EXTINF:-1,Mozi+
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1,Moziverzum
+http://88.212.15.19/live/moziverzum/index.m3u8
 #EXTINF:-1,Colors Bangla Cinema (576p)
 http://103.151.60.162:2122/play/a02m/index.m3u8?hls
 #EXTINF:-1,Jalsha Movies HD (1080p)
 http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
 #EXTINF:-1,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1,Komsan TV [Not 24/7]
+http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
+#EXTINF:-1,Manoranjan Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
+#EXTINF:-1,Pitaara (720p)
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+#EXTINF:-1,Punjabi Shorts (1080p)
+https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
 #EXTINF:-1,Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
 #EXTINF:-1,Bravo Farsi TV (360p)
@@ -311,9 +307,9 @@ https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1,ICC plus (1080p)
 https://icchls.wns.live/hls/stream.m3u8
 #EXTINF:-1,iFilm 2
-https://live.presstv.ir/hls/ifilm2.m3u8
+https://live.presstv.co.uk/hls/ifilm2.m3u8
 #EXTINF:-1,iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
 #EXTINF:-1,Maah TV (720p)
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:-1,Meta Film TV
@@ -338,48 +334,46 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://ca-rt.onetv.app/T2Movies/index-0.m3u8?token=onetv202
 #EXTINF:-1,Tamasha
 https://ncdn.telewebion.ir/hdtest/live/playlist.m3u8
-#EXTINF:-1,Manoranjan Movies (576p)
-https://mumt04.tangotv.in/m18aqlK4MANORANJANMOVIES/index.m3u8
-#EXTINF:-1,Pitaara (720p)
-https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
-#EXTINF:-1,Punjabi Shorts (1080p)
-https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
-#EXTINF:-1,Komsan TV [Not 24/7]
-http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
 #EXTINF:-1,Zee Talkies (576p)
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
-#EXTINF:-1,Merry Christmas from Viafree DK
-https://jmp2.uk/plu-63048147b09fd60007847a08.m3u8
-#EXTINF:-1,NonStop Kung Fu DK
-https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
-#EXTINF:-1,Pluto TV Bud & Terence (Sweden) DK
-https://jmp2.uk/plu-65b915b1dc10a40008d53797.m3u8
-#EXTINF:-1,Pluto TV Film (Sweden) DK
-https://jmp2.uk/plu-61c09515fbb4b50007d221f5.m3u8
-#EXTINF:-1,Pluto TV Harlequin DK
-https://jmp2.uk/plu-68c01afa3efb41cd9759dafb.m3u8
-#EXTINF:-1,Pluto TV John Wayne DK
-https://jmp2.uk/plu-655ca7aa635c3c000855d655.m3u8
-#EXTINF:-1,Pluto TV Kultfilm
-https://jmp2.uk/plu-63dbe7ed51f5d000083e9499.m3u8
-#EXTINF:-1,Pluto TV Paranormal (Sweden) DK
-https://jmp2.uk/plu-62b30beb81f89900071fc7b9.m3u8
-#EXTINF:-1,Pluto TV Romantik DK
-https://jmp2.uk/plu-63a1c954d3897300079fcb12.m3u8
-#EXTINF:-1,Star Trek Movies DK
-https://jmp2.uk/plu-6400c281dff38e00083f59da.m3u8
-#EXTINF:-1,Viafree Movies DK
-https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
+#EXTINF:-1,CinemaWorld (720p)
+http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
+#EXTINF:-1,HITS Movies (576p)
+http://103.151.60.162:2122/play/a01h/index.m3u8?hls
+#EXTINF:-1,CCTV-6 [Geo-blocked]
+https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+#EXTINF:-1,CCTV-6 HD (1080p)
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1,CCTV-Storm Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1,CCTV-The First Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1,Celestial Movies (576i)
+http://103.58.160.157:8278/720-CELESTIALMOVIES/playlist.m3u8
+#EXTINF:-1,CHC Action (1080p)
+http://39.134.19.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1,CND Film Middle School Channel
+http://live2.rxip.sc96655.com/live/zxs_4000.m3u8?A=&E=&K=&P=&S=&U=
+#EXTINF:-1,Harbin Movie Channel
+https://stream.hrbtv.net/yspd/playlist.m3u8
+#EXTINF:-1,Jiangsu Movie Channel (576p)
+http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
+#EXTINF:-1,Jiangxi Movie Channel
+https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv4.m3u8
+#EXTINF:-1,Jilin Movie Channel
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+#EXTINF:-1,Mei Ah Movie Channel (1080p)
+http://103.172.187.30:12000/stream/mytv/null-9/master.m3u8
+#EXTINF:-1,QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1,Mix Hollywood (1080p)
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 #EXTINF:-1,Nile Drama (576p)
 http://185.9.2.18/chid_352/index.m3u8
 #EXTINF:-1,Rotana Cinema Egypt (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,CinemaWorld (720p)
-http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
-#EXTINF:-1,HITS Movies (576p)
-http://103.151.60.162:2122/play/a01h/index.m3u8?hls
+#EXTINF:-1,Public Movies (576p)
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1,OSN Movies Action (1080p)
 http://116.90.120.151:8000/play/a0ax/index.m3u8
 #EXTINF:-1,ETV Cinema (396p)
@@ -387,7 +381,7 @@ https://yupplivegcpusa.yuppcdn.net/100823/smil:etvcinema.smil/playlist.m3u8?hdnt
 #EXTINF:-1,ETV Cinema HD (1080p)
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 #EXTINF:-1,Sony Pix HD (1080p)
-https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1,Star Maa Movies HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1,Studio One + (720p)
@@ -404,14 +398,28 @@ https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1,Rotana Cinema KSA (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,Public Movies (576p)
-https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+#EXTINF:-1,Movies Now HD (1080p)
+http://103.151.60.162:2122/play/a02w/index.m3u8?hls
+#EXTINF:-1,NH Tamil Gold (1080p)
+https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+#EXTINF:-1,Raj Digital Plus (1080p)
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
+#EXTINF:-1,Star Movies (India) HD (1080p)
+http://103.185.24.134:3001/Star-Movies/index.m3u8
+#EXTINF:-1,Star Movies Select HD (1080p)
+http://103.151.60.162:2122/play/a02l/index.m3u8?hls
+#EXTINF:-1,Star Tamil Television (360p)
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
+#EXTINF:-1,Suriyan TV (576p)
+https://stream.sscloud7.com/live/suriyantv/index.m3u8
+#EXTINF:-1,Thalaa TV (1080p)
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
+#EXTINF:-1,TVCARiB Cinema (720p) [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
 #EXTINF:-1,Cine34 [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
 #EXTINF:-1,Cine34 HD (1080p)
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
-#EXTINF:-1,Horror Channel (1080p)
-http://str2.iptvhd.ru:8080/Horror/index.m3u8
 #EXTINF:-1,Pluto TV Alberto Sordi
 https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8
 #EXTINF:-1,Pluto TV Christmas tutto l'anno
@@ -458,32 +466,14 @@ https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
 #EXTINF:-1,Rakuten TV Top Movies Italy (1080p)
 https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
-#EXTINF:-1,Movies Now HD (1080p)
-http://103.151.60.162:2122/play/a02w/index.m3u8?hls
-#EXTINF:-1,NH Tamil Gold (1080p)
-https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
-#EXTINF:-1,Raj Digital Plus (1080p)
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
-#EXTINF:-1,Star Movies (India) HD (1080p)
-http://103.185.24.134:3001/Star-Movies/index.m3u8
-#EXTINF:-1,Star Movies Select HD (1080p)
-http://103.151.60.162:2122/play/a02l/index.m3u8?hls
-#EXTINF:-1,Star Tamil Television (360p)
-https://edge4-moblive.yuppcdn.net/trans1sd/smil:strtml19.smil/playlist.m3u8?dvr=
-#EXTINF:-1,Suriyan TV (576p)
-https://stream.sscloud7.com/live/suriyantv/index.m3u8
-#EXTINF:-1,Thalaa TV (1080p)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-#EXTINF:-1,TVCARiB Cinema (720p) [Not 24/7]
-https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
 #EXTINF:-1,iFilm Arabic
-https://live.presstv.ir/hls/ifilmar.m3u8
+https://live.presstv.co.uk/hls/ifilmar.m3u8
+#EXTINF:-1,&TV International (1080p)
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 #EXTINF:-1,&TV (576p)
 http://103.151.60.162:2122/play/a020/index.m3u8?hls
 #EXTINF:-1,&TV HD (1080p)
 http://202.70.146.135:8000/play/a06c/index.m3u8
-#EXTINF:-1,&TV International (1080p)
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
 #EXTINF:-1,&xplor HD (1080p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
 #EXTINF:-1,All Time Movies (576p)
@@ -536,8 +526,8 @@ http://107.167.16.138/sonymax2/index.m3u8?token=test
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=156013&extension=ts&play_token=slNi06NyY0
 #EXTINF:-1,Sony Max HD (1080p)
 http://103.185.24.134:3001/SonyMAX/index.m3u8
-#EXTINF:-1,Sony Wah (1080p)
-https://cloudplay-sonyliv.pages.dev/wah.m3u8
+#EXTINF:-1,Sony Wah (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
 #EXTINF:-1,South Station (1080p)
 https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
 #EXTINF:-1,Star Gold 2 HD (1080p)
@@ -558,6 +548,44 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 http://103.151.60.162:2122/play/a024/index.m3u8?hls
 #EXTINF:-1,Zee South Flix (1080p)
 https://amg00862-amg00862c9-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c9-amgplt0173/playlist.m3u8
+#EXTINF:-1,Cinecanal (1080p)
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1,AXN Latin America Andes (1080p)
+http://181.78.8.199:8000/play/a0cu/index.m3u8
+#EXTINF:-1,AXN Latin America Mexico
+http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
+#EXTINF:-1,CineLatino (720p)
+http://206.135.11.174:8010/play/a0lq/index.m3u8
+#EXTINF:-1,Claro Cinema (1080p)
+http://158.172.217.18:8000/play/a00d/index.m3u8
+#EXTINF:-1,Filmex (1080p) [Geo-blocked]
+https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,Filmex Clasico (1080p) [Geo-blocked]
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1,Golden Premier 2 (1080p)
+http://200.229.147.210:9999/play/a00l/index.m3u8
+#EXTINF:-1,Golden Premier (1080p)
+http://200.229.147.210:9999/play/a00k/index.m3u8
+#EXTINF:-1,MultiPremier (1080p)
+http://168.196.127.137:6001/play/a08n/index.m3u8
+#EXTINF:-1,MyTime Movie Network (Mexico) (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,Popcorn Central (1080p)
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
+#EXTINF:-1,AMC Latin America (1080p)
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1,AXN Latin America South
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
+#EXTINF:-1,Cinecanal South
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
+#EXTINF:-1,Canal Cine Dios
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1,Warner Channel Colombia (1080p)
+http://38.134.250.110:8000/play/a029/index.m3u8
+#EXTINF:-1,Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1,Xtrema Terror
+https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1,Adrenalina Pura TV Brazil
 https://jmp2.uk/plu-61b790b985706b00072cb797.m3u8
 #EXTINF:-1,AMC Latin America Brazil (720p)
@@ -622,42 +650,6 @@ http://45.162.64.114/SONY_MOVIES/index.m3u8
 http://znty.dyndns.org:5010/hls/foxm.m3u8
 #EXTINF:-1,Telecine Action (1080p)
 http://46.151.196.223:14326/
-#EXTINF:-1,Cinecanal (1080p)
-http://15.204.246.24:8080/CinecanalHD/index.m3u8
-#EXTINF:-1,AXN Latin America Andes (1080p)
-http://181.78.8.199:8000/play/a0cu/index.m3u8
-#EXTINF:-1,Canal Cine Dios
-https://canal.mediaserver.com.co/live/cinedios.m3u8
-#EXTINF:-1,Warner Channel Colombia (1080p)
-http://38.134.250.110:8000/play/a029/index.m3u8
-#EXTINF:-1,AMC Latin America (1080p)
-http://15.204.246.24:8080/AMCHD/index.m3u8
-#EXTINF:-1,AXN Latin America South (1080p)
-http://181.78.12.119:16123/play/ch46/index.m3u8
-#EXTINF:-1,AXN Latin America Mexico
-http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-#EXTINF:-1,CineLatino (720p)
-http://206.135.11.174:8010/play/a0lq/index.m3u8
-#EXTINF:-1,Claro Cinema (1080p)
-http://158.172.217.18:8000/play/a00d/index.m3u8
-#EXTINF:-1,Filmex (1080p) [Geo-blocked]
-https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1,Filmex Clasico (1080p) [Geo-blocked]
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1,Golden Premier 2 (1080p)
-http://200.229.147.210:9999/play/a00l/index.m3u8
-#EXTINF:-1,Golden Premier (1080p)
-http://200.229.147.210:9999/play/a00k/index.m3u8
-#EXTINF:-1,MultiPremier (1080p)
-http://168.196.127.137:6001/play/a08n/index.m3u8
-#EXTINF:-1,MyTime Movie Network (Mexico) (720p)
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1,Popcorn Central (1080p)
-https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1,Xtrema Accion
-https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
-#EXTINF:-1,Xtrema Terror
-https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 #EXTINF:-1,Cinecanal Pacific (1080p)
 http://138.121.15.230:9002/CINECANAL/index.m3u8
 #EXTINF:-1,MovieSphere CA
@@ -886,6 +878,18 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1,Sony One Hits Comedie (1080p)
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1,Canal+ Action Europe (360p)
+https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8
+#EXTINF:-1,Film1 Action
+http://86.87.15.10:8008/play/a01l/index.m3u8
+#EXTINF:-1,Film1 Drama
+http://86.87.15.10:8008/play/a01k/index.m3u8
+#EXTINF:-1,Film1 Family
+http://86.87.15.10:8008/play/a01m/index.m3u8
+#EXTINF:-1,Film1 Premiere
+http://86.87.15.10:8008/play/a01n/index.m3u8
+#EXTINF:-1,FILMBOX+ One Nederland
+http://46.149.191.219:9100/play/a015
 #EXTINF:-1,Pluto TV Bud & Terence (Germany)
 https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8
 #EXTINF:-1,Pluto TV Ferne Galaxien
@@ -906,28 +910,6 @@ https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/
 https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
 #EXTINF:-1,Rakuten TV Drama Movies Austria (720p)
 https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
-#EXTINF:-1,Canal+ Action Europe (360p)
-https://lb.iptvnetwork.net/ls28/10020/playlist.m3u8
-#EXTINF:-1,Film1 Action
-http://86.87.15.10:8008/play/a01l/index.m3u8
-#EXTINF:-1,Film1 Drama
-http://86.87.15.10:8008/play/a01k/index.m3u8
-#EXTINF:-1,Film1 Family
-http://86.87.15.10:8008/play/a01m/index.m3u8
-#EXTINF:-1,Film1 Premiere
-http://86.87.15.10:8008/play/a01n/index.m3u8
-#EXTINF:-1,FILMBOX+ One Nederland
-http://46.149.191.219:9100/play/a015
-#EXTINF:-1,GREAT! movies (1080p)
-https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
-#EXTINF:-1,GREAT! romance (1080p)
-https://amg01753-narrativeuk-amg01753c2-lg-gb-1832.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatchristmas-lggb/playlist.m3u8
-#EXTINF:-1,MovieSphere UK (1080p)
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,MyTime Movie Network (United Kingdom) (1080p)
-https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Nolly Africa (1080p)
-https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
 #EXTINF:-1,Pluto TV Cult Films (Germany)
 https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0.m3u8
 #EXTINF:-1,Pluto TV Family Movie Club
@@ -942,14 +924,6 @@ https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8
 https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8
 #EXTINF:-1,Pluto TV Westerns (Germany)
 https://jmp2.uk/plu-5d4bdb635ce813b38639e6a3.m3u8
-#EXTINF:-1,Rakuten TV Action Movies UK (1080p)
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
-#EXTINF:-1,Rakuten TV Comedy Movies UK (1080p)
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
-#EXTINF:-1,Rakuten TV Drama Movies UK (1080p)
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
-#EXTINF:-1,Rakuten TV Top Movies UK (1080p)
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 #EXTINF:-1,Grjngo Western Movies (720p)
 https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Moviedome (720p)
@@ -962,6 +936,24 @@ https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/
 https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
 #EXTINF:-1,Rakuten TV Top Movies Germany (1080p)
 https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1,MovieSphere UK (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network (United Kingdom) (1080p)
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nolly Africa (1080p)
+https://amg02784-amg02784c2-amgplt0002.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg02784-amg02784c2-amgplt0002/playlist.m3u8
+#EXTINF:-1,Rakuten TV Action Movies UK (1080p)
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1,Rakuten TV Comedy Movies UK (1080p)
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+#EXTINF:-1,Rakuten TV Drama Movies UK (1080p)
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+#EXTINF:-1,Rakuten TV Top Movies UK (1080p)
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+#EXTINF:-1,AXN Black Czech Republic
+http://88.212.15.19/live/test_black/playlist.m3u8
+#EXTINF:-1,AXN CEE Czech Republic
+http://88.212.15.19/live/test_axn/playlist.m3u8
 #EXTINF:-1,Canal+ Action Europe Czechia
 http://46.149.191.219:9106/play/a01g
 #EXTINF:-1,Film+ (Czech Republic)
@@ -978,10 +970,6 @@ http://88.212.15.19/live/test_filmbox_plus_atk_1200/playlist.m3u8
 http://88.212.15.19/live/test_filmbox/playlist.m3u8
 #EXTINF:-1,Kino Barrandov
 http://88.212.15.19/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
-#EXTINF:-1,AXN Black Czech Republic
-http://88.212.15.19/live/test_black/playlist.m3u8
-#EXTINF:-1,AXN CEE Czech Republic
-http://88.212.15.19/live/test_axn/playlist.m3u8
 #EXTINF:-1,AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
 #EXTINF:-1,AXN (Spain) (1080p)
@@ -1034,24 +1022,22 @@ http://141.94.193.53:80/axn_black/index.m3u8
 http://88.212.15.19/live/fb_premium_hungary/index.m3u8
 #EXTINF:-1,AXN Black Romania
 https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
-#EXTINF:-1,AXN CEE Romania
-https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
 #EXTINF:-1,Film Cafe Romania
 https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
-#EXTINF:-1,FILMBOX+ Comedy Romania
-https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8
-#EXTINF:-1,FILMBOX+ Love & Crime Romania
-https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
 #EXTINF:-1,Filmazia (576p)
 http://103.250.28.74:8000/play/a02k/index.m3u8
-#EXTINF:-1,iFilm English
-https://live.presstv.ir/hls/ifilmen.m3u8
 #EXTINF:-1,Allo Cine (1080p)
 https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1,Lollywood HD TV
+https://stream.berosat.live/hls/lollywood-hd/lollywood-hd.m3u8
 #EXTINF:-1,MovieSphere AU (1080p)
 https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1,CTB Perth Movies Channel (720p)
+https://movies.ctbperth.net.au/hls/stream.m3u8
 #EXTINF:-1,My Cinema [Geo-blocked]
 https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
+#EXTINF:-1,DUST (1080p)
+https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Alankar TV (720p)
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 #EXTINF:-1,Asianet Movies HD (720p)
@@ -1068,8 +1054,6 @@ https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
 #EXTINF:-1,Oscar Movies Bhojpuri (720p)
 https://cdn.pishow.tv/ott/live/233/master.m3u8
-#EXTINF:-1,DUST (1080p)
-https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
 #EXTINF:-1,00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1,24 Hour Free Movies (720p)
@@ -1110,7 +1094,7 @@ https://d1si3n1st4nkgb.cloudfront.net/10502/88886011/hls/master.m3u8?ads.xumo_ch
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1,Cine Terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:-1,Cinemax West (720p)
+#EXTINF:-1,Cinemax (United States) West (720p)
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1,Cinemax Classics (1080p)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8

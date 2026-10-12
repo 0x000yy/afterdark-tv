@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Entertainment;General;Movies;Music
+#TOTAL: 1
+
+#EXTINF:-1,+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8

@@ -1,9 +1,7 @@
 #EXTM3U
 #GROUP: Movies;Series
-#TOTAL: 71
+#TOTAL: 73
 
-#EXTINF:-1,AXN Asia Thailand (720p)
-http://58.8.186.128:10007/bysid/2814
 #EXTINF:-1,Pluto TV Action (Sweden)
 https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
 #EXTINF:-1,Pluto TV Horror (Sweden)
@@ -16,10 +14,6 @@ https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 #EXTINF:-1,The Twilight Zone
 https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
-#EXTINF:-1,Bolt (Ukraine) (1080p)
-http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1,FilmUADrama (1080p)
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1,Pluto TV Action (Sweden) NO
 https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
 #EXTINF:-1,Pluto TV Horror (Sweden) NO
@@ -46,6 +40,10 @@ https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1,The Twilight Zone DK
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
+#EXTINF:-1,Bolt (Ukraine) (1080p)
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1,FilmUADrama (1080p)
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1,Pluto TV Sci-Fi (Germany) IT
 https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8
 #EXTINF:-1,Star Trek: Voyager (Germany) IT
@@ -54,10 +52,10 @@ https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1,Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-#EXTINF:-1,Star Channel (Colombia) (1080p)
-http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1,Pantalla Clasica EC (512p) [Not 24/7]
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1,Star Channel (Colombia) (1080p)
+http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1,Bonanza CA
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1,Paramount Network (432p)
@@ -110,6 +108,8 @@ https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1,AXN Asia Taiwan (1080p)
 http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1,AXN Asia Malaysia (1080p)
+https://2x2.me/5aE8sA
 #EXTINF:-1,50 Cent Action (720p)
 https://jmp2.uk/plu-68487fb3f212bedacf5a53e3.m3u8
 #EXTINF:-1,Battlestar Galactica
@@ -120,6 +120,10 @@ https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
 #EXTINF:-1,Ebony TV by Lionsgate (1080p)
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1,HBO (720p)
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1,HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1,HBO Movies (720p)
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 #EXTINF:-1,OuterSphere (1080p)

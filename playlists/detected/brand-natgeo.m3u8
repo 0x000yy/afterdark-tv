@@ -1,30 +1,30 @@
 #EXTM3U
 #PLAYLIST: detected/brand-natgeo.m3u8
-#DATE: 2026-10-11 17:53:41 UTC
-#TOTAL: 40
+#DATE: 2026-10-12 06:16:33 UTC
+#TOTAL: 41
 
-#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Bulgaria) (1080p)
-http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (Bulgaria) (1080p)
-http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Croatia) (1080p)
 http://176.61.157.250/NationalGeographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.fi@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Finland) (720p) [Geo-blocked]
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="NationalGeographic.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Hungary)
-http://88.212.15.19/live/ngc_hun/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (Hungary)
-http://88.212.15.19/live/ngw_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Bulgaria) (1080p)
+http://hls127.freeott.top:8080/BG_Nat_Geo_HD/video.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (Bulgaria) (1080p)
+http://hls127.freeott.top:8080/BG_NG_Wild_HD/video.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Turkiye)
+https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (Turkiye)
+https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Romania)
 https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (Romania)
 https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ua@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (Ukraine) (1080p)
 http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Turkiye)
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (Turkiye)
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Hungary)
+http://88.212.15.19/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (Hungary)
+http://88.212.15.19/live/ngw_hun/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143573_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic (India) (576p) [Geo-blocked]
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla
 #EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic (India) HD (1080p)
@@ -39,6 +39,8 @@ http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8
 http://hls127.freeott.top:8080/Nat_Geo_Wild_SD/video.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.ru@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild (Russia) HD
 http://178.76.68.60:7442/50/mpegts
+#EXTINF:-1 tvg-id="NationalGeographic.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Netherlands) (360p)
+https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.nl@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Netherlands) HD (1080p)
 http://46.32.176.50/NationalGeographicHD/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic (Czech Republic)
