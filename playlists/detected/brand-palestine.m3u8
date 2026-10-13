@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: detected/brand-palestine.m3u8
-#DATE: 2026-10-13 06:57:09 UTC
+#DATE: 2026-10-13 19:34:58 UTC
 #TOTAL: 10
 
 #EXTINF:-1 tvg-id="Palestinetv.ir@SD" tvg-logo="https://i.ibb.co/svrZNZTX/Palestine.png" group-title="General",Palestinetv
@@ -17,7 +17,7 @@ https://pbc.furrera.ps/palestinelivehd/index.m3u8
 https://pbc.furrera.ps/palestinehd/index.m3u8
 #EXTINF:-1 tvg-id="PalestineToday.ps@SD" tvg-logo="https://i.imgur.com/BS8XXug.png" group-title="News",Palestine Today (480p) [Geo-blocked]
 https://live.paltodaytv.com/paltv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" tvg-logo="https://i.imgur.com/n8dSgx4.png" group-title="News",Palestine Al Yawm (720p)
+#EXTINF:-1 tvg-id="PalestineAlYawm.lb@SD" group-title="غير مصنف",Palestine Al Yawm (720p)
 https://live.paltodaytv.com/paltv/live/playlist_sfm4s.m3u8
 #EXTINF:-1 tvg-id="PalestineSatelliteChannel.ps@SD" group-title="غير مصنف",Palestine Satellite Channel (360p)
 https://cdn-globecast.akamaized.net/live/eds/palestinian_satellite_channel/hls_roku/palestinian_satellite_channel.m3u8

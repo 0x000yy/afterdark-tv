@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/nickelodeon.m3u8
-#DATE: 2026-10-13 06:57:13 UTC
+#DATE: 2026-10-13 19:35:06 UTC
 #TOTAL: 92
 
 #EXTINF:-1 tvg-id="NickJr.cz@SD" group-title="غير مصنف",Nick Jr.
@@ -75,10 +75,10 @@ http://202.70.146.135:8000/play/a04c/index.m3u8
 http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD" group-title="غير مصنف",Nickelodeon (504p)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon (576p)
-http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br@SD" group-title="غير مصنف",Nickelodeon (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon (576p)
+http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="غير مصنف",Nickelodeon (720p)
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" group-title="غير مصنف",Nickelodeon (576p)
@@ -179,11 +179,11 @@ http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 #EXTINF:-1 tvg-id="News24.al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/960px-News_24_%28Albania%29.svg.png" tvg-country="AL" group-title="Albania",News 24 Ⓢ
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" tvg-country="GB" group-title="UK",Now 70s
+#EXTINF:-1 group-title="Music (EN)",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/8paz37m.png" tvg-country="GB" group-title="UK",Now 80s
-https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="news24online.com" tvg-logo="https://i.imgur.com/N5BbEek.jpeg" tvg-country="IN" group-title="India",News24 Ⓨ
-https://www.youtube.com/@News24thinkfirst/live
 #EXTINF:-1 group-title="Music (EN)",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="news24online.com" tvg-logo="https://i.imgur.com/N5BbEek.jpeg" tvg-country="IN" group-title="India",News24 Ⓨ
+https://www.youtube.com/@News24thinkfirst/live
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/8paz37m.png" tvg-country="GB" group-title="UK",Now 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
