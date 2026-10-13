@@ -2,6 +2,24 @@
 #GROUP: Classic;Series
 #TOTAL: 31
 
+#EXTINF:-1,Becker (Sweden) NO
+https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
+#EXTINF:-1,Diagnosis Murder NO
+https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
+#EXTINF:-1,Happy Days (Sweden) NO
+https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
+#EXTINF:-1,JAG (Sweden) NO
+https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
+#EXTINF:-1,MacGyver (Sweden) NO
+https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
+#EXTINF:-1,Matlock (Sweden) NO
+https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
+#EXTINF:-1,Mission Impossible (Sweden) NO
+https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
+#EXTINF:-1,Rawhide (Sweden) NO
+https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
+#EXTINF:-1,The Wild Wild West (Sweden) NO
+https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 #EXTINF:-1,Becker (Sweden)
 https://jmp2.uk/plu-672e16f5daad7f0008929a0d.m3u8
 #EXTINF:-1,Diagnosis Murder
@@ -38,24 +56,6 @@ https://jmp2.uk/plu-6478a9e4f77b61000817034b.m3u8
 https://jmp2.uk/plu-6964ba787e92438c2754e924.m3u8
 #EXTINF:-1,The Wild Wild West (Sweden) DK
 https://jmp2.uk/plu-6964bc3806d76f50db3e315e.m3u8
-#EXTINF:-1,Becker (Sweden) NO
-https://jmp2.uk/plu-672e1634e482950008c759a5.m3u8
-#EXTINF:-1,Diagnosis Murder NO
-https://jmp2.uk/plu-668bf91208d5490008065ffd.m3u8
-#EXTINF:-1,Happy Days (Sweden) NO
-https://jmp2.uk/plu-654a508d986ad20008a456a5.m3u8
-#EXTINF:-1,JAG (Sweden) NO
-https://jmp2.uk/plu-654a4fc753fc9700083ae79f.m3u8
-#EXTINF:-1,MacGyver (Sweden) NO
-https://jmp2.uk/plu-654a59d483595c0008187514.m3u8
-#EXTINF:-1,Matlock (Sweden) NO
-https://jmp2.uk/plu-66290b7523e24f000832cc17.m3u8
-#EXTINF:-1,Mission Impossible (Sweden) NO
-https://jmp2.uk/plu-639b4eb4da3fda0008036f6e.m3u8
-#EXTINF:-1,Rawhide (Sweden) NO
-https://jmp2.uk/plu-6964baa63dfd98e10945ac51.m3u8
-#EXTINF:-1,The Wild Wild West (Sweden) NO
-https://jmp2.uk/plu-6964bca2a6c400fd418854a2.m3u8
 #EXTINF:-1,Cin Cin
 https://jmp2.uk/plu-65cb78b83a116800079e2e35.m3u8
 #EXTINF:-1,AWTV (1080p) [Geo-blocked]
