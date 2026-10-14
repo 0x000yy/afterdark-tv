@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/nickelodeon.m3u8
-#DATE: 2026-10-13 19:35:06 UTC
+#DATE: 2026-10-14 05:12:01 UTC
 #TOTAL: 92
 
 #EXTINF:-1 tvg-id="NickJr.cz@SD" group-title="غير مصنف",Nick Jr.
@@ -47,10 +47,10 @@ http://88.212.15.19/live/nicktoons_hungary/index.m3u8
 https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.ro@SD" group-title="غير مصنف",Nicktoons
 http://178.76.68.60:7442/80/mpegts
-#EXTINF:-1 tvg-id="Nickelodeon.cz@SD" group-title="غير مصنف",Nickelodeon
-http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.de@SD" group-title="غير مصنف",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="Nickelodeon.cz@SD" group-title="غير مصنف",Nickelodeon
+http://88.212.15.19/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon
 http://213.91.179.28:8000/play/a056
 #EXTINF:-1 tvg-id="Nickelodeon.hu@SD" group-title="غير مصنف",Nickelodeon
@@ -71,14 +71,14 @@ http://stream.mcquack.net/271/index.m3u8
 http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" group-title="غير مصنف",Nickelodeon (576p)
 http://202.70.146.135:8000/play/a04c/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.uk@SD" group-title="غير مصنف",Nickelodeon (576p)
-http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.fr@SD" group-title="غير مصنف",Nickelodeon (504p)
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.br@SD" group-title="غير مصنف",Nickelodeon (480p)
-https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.uk@SD" group-title="غير مصنف",Nickelodeon (576p)
+http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon (576p)
 http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.br@SD" group-title="غير مصنف",Nickelodeon (480p)
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="غير مصنف",Nickelodeon (720p)
 http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" group-title="غير مصنف",Nickelodeon (576p)
@@ -115,10 +115,10 @@ https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassics.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" group-title="Kids",Nickelodeon Classics (720p)
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
-#EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Kids",Nickelodeon Teen LatAm (720p)
-https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassico.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png" group-title="Kids",Nickelodeon Classico (720p)
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:-1 tvg-id="NickelodeonTeen.us@LatAm" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Kids",Nickelodeon Teen LatAm (720p)
+https://jmp2.uk/plu-5fab09a8749b1a00077d35d2.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" group-title="غير مصنف",Nickelodeon (576p) [Geo-blocked]
 http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=1752848&extension=ts&play_token=8FNt7g9GJ5
 #EXTINF:-1 tvg-id="NickelodeonToons.us@LatAm" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="Kids",Nickelodeon Toons LatAm (720p)
@@ -183,7 +183,7 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music (EN)",Now 80's
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="news24online.com" tvg-logo="https://i.imgur.com/N5BbEek.jpeg" tvg-country="IN" group-title="India",News24 Ⓨ
-https://www.youtube.com/@News24thinkfirst/live
 #EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/8paz37m.png" tvg-country="GB" group-title="UK",Now 80s
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="news24online.com" tvg-logo="https://i.imgur.com/N5BbEek.jpeg" tvg-country="IN" group-title="India",News24 Ⓨ
+https://www.youtube.com/@News24thinkfirst/live
