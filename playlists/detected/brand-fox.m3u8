@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: detected/brand-fox.m3u8
-#DATE: 2026-10-14 05:11:54 UTC
+#DATE: 2026-10-14 17:23:54 UTC
 #TOTAL: 67
 
 #EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies",Star Channel (Bulgaria) (720p)
@@ -59,6 +59,8 @@ https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1 tvg-id="FoxLife.ru@SD" tvg-logo="https://i.imgur.com/O2miSLA.png" group-title="Series",Fox Life (576p)
 http://stream.mcquack.net/129/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports.ar@SD" group-title="غير مصنف",Fox Sports (1080p)
+http://158.172.155.130:8000/play/a09x/index.m3u8
 #EXTINF:-1 tvg-id="Fox.pl@SD" tvg-logo="https://i.imgur.com/hSDN9YQ.png" group-title="Entertainment",Fox (Poland) (1080p)
 http://57.128.231.171:8080/249/index.m3u8
 #EXTINF:-1 tvg-id="NOWTV.tr@SD" group-title="غير مصنف",NOW TV
@@ -135,5 +137,3 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://n15sb.host5245.com/63/index.m3u8
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" group-title="غير مصنف",LiveNOW from FOX (720p) [Geo-blocked]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" group-title="غير مصنف",Fox Sports 1 (720p)
-http://193.254.245.162/Fox_Sports_1/index.m3u8

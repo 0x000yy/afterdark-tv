@@ -1,19 +1,19 @@
 #EXTM3U
 #GROUP: Series
-#TOTAL: 375
+#TOTAL: 373
 
 #EXTINF:-1,HOT Drama (1080p)
 http://stream.mcquack.net/381/index.m3u8
 #EXTINF:-1,RTS Drama (576p)
 https://de1.dstv.cx/RTSDrama/index.m3u8
-#EXTINF:-1,Star Crime (Slovenia)
-http://92.36.202.5:10001/play/a02o
-#EXTINF:-1,Star Life (Slovenia)
-http://92.36.202.5:10001/play/a02n
 #EXTINF:-1,Star Crime (Bulgaria) (720p)
 http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
 #EXTINF:-1,Star Life (Bulgaria) (720p)
 http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
+#EXTINF:-1,Star Crime (Slovenia)
+http://92.36.202.5:10001/play/a02o
+#EXTINF:-1,Star Life (Slovenia)
+http://92.36.202.5:10001/play/a02n
 #EXTINF:-1,Drama Channel (1080p)
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 #EXTINF:-1,7th Heaven
@@ -56,8 +56,10 @@ https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
 #EXTINF:-1,Wildfire
 https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
-#EXTINF:-1,Drama Sangat (1080p) [Geo-blocked]
-https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
+#EXTINF:-1,AXN Spin (Poland)
+http://92.114.85.87:8010/play/a00b/index.m3u8
+#EXTINF:-1,Polsat Seriale (1080p)
+http://57.128.210.196:8080/196/index.m3u8
 #EXTINF:-1,7th Heaven NO
 https://jmp2.uk/plu-6728ca75529ac9000830ab14.m3u8
 #EXTINF:-1,Auction Hunters (Sweden) NO
@@ -102,10 +104,8 @@ https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
 https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
 #EXTINF:-1,Wildfire NO
 https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8
-#EXTINF:-1,AXN Spin (Poland)
-http://92.114.85.87:8010/play/a00b/index.m3u8
-#EXTINF:-1,Polsat Seriale (1080p)
-http://57.128.210.196:8080/196/index.m3u8
+#EXTINF:-1,Drama Sangat (1080p) [Geo-blocked]
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
 #EXTINF:-1,Afra Series
 https://afrashls.wns.live/hls/stream.m3u8
 #EXTINF:-1,AVA Series
@@ -118,10 +118,6 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
 #EXTINF:-1,Viasat Epic Drama Romania
 https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
-#EXTINF:-1,4ever Drama (1080p)
-http://stream.mcquack.net/260/index.m3u8
-#EXTINF:-1,Tviy serial (1080p)
-http://stream.mcquack.net/466/index.m3u8
 #EXTINF:-1,7th Heaven DK
 https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8
 #EXTINF:-1,2900 Happiness
@@ -170,6 +166,10 @@ https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
 https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
 #EXTINF:-1,Wildfire DK
 https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
+#EXTINF:-1,4ever Drama (1080p)
+http://stream.mcquack.net/260/index.m3u8
+#EXTINF:-1,Tviy serial (1080p)
+http://stream.mcquack.net/466/index.m3u8
 #EXTINF:-1,MBC Masr Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
 #EXTINF:-1,Bab Al Hara (1080p)
@@ -178,6 +178,8 @@ https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1,Rotana Drama (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1,MBC Drama USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1,Andromeda Italy (720p)
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1,Donna TV (480p)
@@ -190,8 +192,16 @@ https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
 #EXTINF:-1,Top Crime [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1,MBC Drama USA (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+#EXTINF:-1,Tlnovelas Mexico (1080p)
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1,TNT Series Latin America (1080p)
+http://168.196.127.137:6001/play/a095/index.m3u8
+#EXTINF:-1,TNT Novelas Colombia (1080p)
+http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1,AMC Series Latin America (1080p)
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1,Latina Clasicos (1080p)
+http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1,CSI: Miami BR
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 #EXTINF:-1,Diff'rent Strokes Arnold
@@ -240,14 +250,10 @@ http://45.162.64.114/TNT_NOVELAS/index.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1,TVI Ficcao (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
-#EXTINF:-1,TNT Series Latin America (1080p)
-http://168.196.127.137:6001/play/a095/index.m3u8
-#EXTINF:-1,Tlnovelas Mexico (1080p)
-http://167.249.23.102:8000/play/a0g8/index.m3u8
-#EXTINF:-1,AMC Series Latin America (1080p)
-http://45.171.64.30:6060/play/a005/index.m3u8
-#EXTINF:-1,TNT Novelas Colombia (1080p)
-http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1,Europa Europa (1080p)
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+#EXTINF:-1,TNT Novelas (1080p)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1,48 Hours CA
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1,Bar Rescue CA
@@ -290,16 +296,6 @@ https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8
 https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1,Three's Company CA (720p)
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
-#EXTINF:-1,Europa Europa (1080p)
-https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
-#EXTINF:-1,TNT Novelas (1080p)
-http://190.93.224.42/TNT-NOVELAS/index.m3u8
-#EXTINF:-1,13T (720p)
-https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
-#EXTINF:-1,Mega Ficcion (1080p)
-http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
-#EXTINF:-1,Latina Clasicos (1080p)
-http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1,5 minut tishiny (1080p)
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1,A2 (576p)
@@ -344,6 +340,46 @@ http://195.189.60.253/118/index.m3u8
 http://46.53.200.153:7777/play/Viju_Drama/index.m3u8
 #EXTINF:-1,viju+ Serial HD (1080p)
 http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1,13T (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1,Mega Ficcion (1080p)
+http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1,Alerte a Malibu
+https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
+#EXTINF:-1,Frequence Novelas (1080p)
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1,Helene et les garcons
+https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
+#EXTINF:-1,Investigation by Pluto TV
+https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+#EXTINF:-1,Le miracle de l'amour
+https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
+#EXTINF:-1,Les Annees fac
+https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
+#EXTINF:-1,Les filles d'a cote
+https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+#EXTINF:-1,Les Nouveaux Detectives
+https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
+#EXTINF:-1,Louis La Brocante
+https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+#EXTINF:-1,Pluto TV Brigade Criminelle
+https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
+#EXTINF:-1,Pluto TV Dating (720p)
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
+#EXTINF:-1,Pluto TV Polar
+https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+#EXTINF:-1,Pluto TV Series Fantastiques
+https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+#EXTINF:-1,Series by Pluto TV
+https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+#EXTINF:-1,Sony One Blacklist (1080p)
+https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+#EXTINF:-1,Tout le monde deteste Chris
+https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+#EXTINF:-1,True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1,Walker Texas Ranger
+https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1,90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 #EXTINF:-1,Awkward (Germany)
@@ -368,8 +404,6 @@ https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
 https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 #EXTINF:-1,The L Word – Wenn Frauen lieben
 https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
-#EXTINF:-1,Frequence Novelas (1080p)
-https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1,Chaos City
 https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
 #EXTINF:-1,Ice Pilots
@@ -434,8 +468,6 @@ https://jmp2.uk/plu-5dc2ba1a9c91420009db4858.m3u8
 https://jmp2.uk/plu-5bd05b4694d45d266bc951f2.m3u8
 #EXTINF:-1,Wild at Heart
 https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
-#EXTINF:-1,Viasat Epic Drama Czechia
-http://88.212.15.29/live/test_epic_drama_atk_tv/playlist.m3u8
 #EXTINF:-1,Ana y los 7
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 #EXTINF:-1,Andromeda
@@ -478,10 +510,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1,XPTV US (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-#EXTINF:-1,Novela Channel (720p) [Not 24/7]
-https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
-#EXTINF:-1,Serie Max
-https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1,48 Hours (1080p)
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1,Acapulco Shore US
@@ -668,30 +696,14 @@ https://jmp2.uk/plu-688a44cf5d73ec0a3f49718b.m3u8
 https://jmp2.uk/plu-5d48678d34ceb37d3c458a55.m3u8
 #EXTINF:-1,Acapulco Shore
 https://jmp2.uk/plu-61a52615cbef2500072876e2.m3u8
-#EXTINF:-1,Alerte a Malibu
-https://jmp2.uk/plu-60afaa535580be0007ac9ee4.m3u8
 #EXTINF:-1,CSI: Miami LatAm
 https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
-#EXTINF:-1,Helene et les garcons
-https://jmp2.uk/plu-604f8de01b479400078fb1e7.m3u8
 #EXTINF:-1,iCarly (United States) LatAm
 https://jmp2.uk/plu-620ff0a01f9e8700076c6f9d.m3u8
 #EXTINF:-1,Investiga
 https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
-#EXTINF:-1,Investigation by Pluto TV
-https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
 #EXTINF:-1,Kenan & Kel
 https://jmp2.uk/plu-5fcea93ffcf94500071c4b2f.m3u8
-#EXTINF:-1,Le miracle de l'amour
-https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
-#EXTINF:-1,Les Annees fac
-https://jmp2.uk/plu-60afae68a7fc50000737186d.m3u8
-#EXTINF:-1,Les filles d'a cote
-https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
-#EXTINF:-1,Les Nouveaux Detectives
-https://jmp2.uk/plu-5f8edb6df1ebb800072edf10.m3u8
-#EXTINF:-1,Louis La Brocante
-https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
 #EXTINF:-1,MTV Dating (United States) LatAm (720p)
 https://jmp2.uk/plu-6851b909954170e0128bc71d.m3u8
 #EXTINF:-1,MTV Teen Mom (United States) (720p)
@@ -702,10 +714,6 @@ https://jmp2.uk/plu-63eb947c4e83e70008ab877b.m3u8
 https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
 #EXTINF:-1,Pluto TV Aventura
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
-#EXTINF:-1,Pluto TV Brigade Criminelle
-https://jmp2.uk/plu-684bf01df7d8b74b625b7dd1.m3u8
-#EXTINF:-1,Pluto TV Dating (720p)
-https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 #EXTINF:-1,Pluto TV Dramas Coreanos
 https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
 #EXTINF:-1,Pluto TV Dramas Coreanos Teen
@@ -718,8 +726,6 @@ https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
 #EXTINF:-1,Pluto TV Novelas de Venezuela
 https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
-#EXTINF:-1,Pluto TV Polar
-https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
 #EXTINF:-1,Pluto TV Series (United States)
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
 #EXTINF:-1,Pluto TV Series de Accion
@@ -734,21 +740,11 @@ https://jmp2.uk/plu-655f636d954b020008c93299.m3u8
 https://jmp2.uk/plu-6806d570c178637410ae4962.m3u8
 #EXTINF:-1,Pluto TV Series de Sci-Fi
 https://jmp2.uk/plu-65662f8a2c46f300088a84cc.m3u8
-#EXTINF:-1,Pluto TV Series Fantastiques
-https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
 #EXTINF:-1,Pluto TV Series Latinas
 https://jmp2.uk/plu-5dd837642c6e9300098ad484.m3u8
-#EXTINF:-1,Series by Pluto TV
-https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
 #EXTINF:-1,Star Trek LatAm
 https://jmp2.uk/plu-5ec5761aabe4690007f6e047.m3u8
 #EXTINF:-1,The New Detectives (United States) LatAm
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
-#EXTINF:-1,Tout le monde deteste Chris
-https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
-#EXTINF:-1,True Crime by Pluto TV
-https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
-#EXTINF:-1,Walker Texas Ranger
-https://jmp2.uk/plu-635659445b4c4700076d2ad1.m3u8
 #EXTINF:-1,Yam Tichoni (1080p)
 http://stream.mcquack.net/46/index.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
 #COUNTRY: FR
-#TOTAL: 15
+#TOTAL: 14
 
 #EXTINF:-1,LCP
 https://lcp.fr/le-live-lcp-tnt-5433
@@ -28,7 +28,5 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
-#EXTINF:-1,BFM TV
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
 #EXTINF:-1,L'Équipe Ⓨ
 https://www.youtube.com/@lequipe/live
