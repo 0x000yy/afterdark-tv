@@ -1,6 +1,6 @@
 #EXTM3U
 #COUNTRY: FR
-#TOTAL: 14
+#TOTAL: 15
 
 #EXTINF:-1,LCP
 https://lcp.fr/le-live-lcp-tnt-5433
@@ -30,3 +30,5 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
 #EXTINF:-1,L'Équipe Ⓨ
 https://www.youtube.com/@lequipe/live
+#EXTINF:-1,RMC Life (ex-Chérie 25)
+http://145.239.5.177/333/index.m3u8
