@@ -1,7 +1,7 @@
 {
   "brands": {
     "abudhabi": 4,
-    "algeria": 133,
+    "algeria": 134,
     "arabiya": 25,
     "bahrain": 5,
     "bbc": 129,
@@ -27,7 +27,7 @@
     "mbc": 36,
     "morocco": 11,
     "movistar": 15,
-    "mtv": 109,
+    "mtv": 110,
     "natgeo": 41,
     "nba": 4,
     "nfl": 2,
@@ -49,13 +49,13 @@
     "yemen": 1
   },
   "categories": {
-    "documentary": 296,
-    "kids": 477,
+    "documentary": 303,
+    "kids": 480,
     "movies": 904,
-    "music": 874,
-    "news": 1496,
-    "other": 11232,
-    "sports": 570
+    "music": 880,
+    "news": 1494,
+    "other": 11190,
+    "sports": 568
   },
-  "total_channels": 15761
+  "total_channels": 15732
 }
