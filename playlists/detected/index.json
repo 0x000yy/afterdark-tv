@@ -5,7 +5,7 @@
     "arabiya": 25,
     "bahrain": 5,
     "bbc": 129,
-    "bein": 10,
+    "bein": 18,
     "canal": 537,
     "cartoon": 126,
     "cnn": 36,
@@ -39,7 +39,7 @@
     "rotana": 14,
     "saudi": 10,
     "shahid": 2,
-    "sky": 25,
+    "sky": 27,
     "spacetoon": 16,
     "sudan": 2,
     "supersport": 17,
@@ -50,12 +50,12 @@
   },
   "categories": {
     "documentary": 312,
-    "kids": 483,
-    "movies": 926,
-    "music": 886,
+    "kids": 488,
+    "movies": 927,
+    "music": 891,
     "news": 1502,
-    "other": 11234,
-    "sports": 576
+    "other": 11228,
+    "sports": 586
   },
-  "total_channels": 15833
+  "total_channels": 15845
 }
