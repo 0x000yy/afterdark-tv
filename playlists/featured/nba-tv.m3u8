@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/nba-tv.m3u8
-#DATE: 2026-10-17 04:44:57 UTC
+#DATE: 2026-10-17 15:53:41 UTC
 #TOTAL: 23
 
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
@@ -29,10 +29,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="RaatdinBangla.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/raatdinbangla.png" group-title="News",Raatdin Bangla (720p)
 https://server.playontv.in/raatdinbangla/index.m3u8
-#EXTINF:-1 tvg-id="Nova.bg@SD" group-title="غير مصنف",Nova
-http://213.91.179.28:8000/play/a03l
 #EXTINF:-1 tvg-id="Nova.es" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/nova-es.png" tvg-country="ES" group-title="Spain",Nova Ⓢ
 http://40.160.24.55/Nova/index.m3u8
+#EXTINF:-1 tvg-id="Nova.bg@SD" group-title="غير مصنف",Nova
+http://213.91.179.28:8000/play/a03l
 #EXTINF:-1 tvg-id="SuspilneDonbas.ua@SD" tvg-logo="https://i.imgur.com/GPXrpJC.png" group-title="General",Suspilne. Donbas (576p)
 http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@WestKalimantan" group-title="غير مصنف",TVRI Kalimantan Barat (480p)
