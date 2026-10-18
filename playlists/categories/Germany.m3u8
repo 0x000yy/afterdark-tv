@@ -1,9 +1,7 @@
 #EXTM3U
 #GROUP: Germany
-#TOTAL: 15
+#TOTAL: 14
 
-#EXTINF:-1,Das Erste Ⓖ
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1,ZDF Ⓖ
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 #EXTINF:-1,3sat Ⓖ
