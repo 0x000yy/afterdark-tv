@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: detected/brand-kuwait.m3u8
-#DATE: 2026-10-18 04:47:57 UTC
+#DATE: 2026-10-18 16:10:09 UTC
 #TOTAL: 20
 
 #EXTINF:-1 tvg-id="KTV.kr@SD" tvg-logo="https://i.ibb.co/WkrLDJW/Screenshot-20230714-135036-removebg-preview.png" group-title="Legislative;News",KTV (South Korea) (1080p)
@@ -39,7 +39,7 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master.m3u8
 https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KuriakosTV.pt@SD" tvg-logo="https://i.imgur.com/xdAW0D5.png" group-title="Religious",Kuriakos TV (1080p)
 https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV.at@SD" tvg-logo="https://i.imgur.com/RYbR4Sf.png" group-title="Religious",K-TV (720p)
+#EXTINF:-1 tvg-id="KTV.at@SD" group-title="غير مصنف",K-TV (720p)
 https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 tvg-id="KecskemetiTV.hu@SD" group-title="غير مصنف",Kecskemeti TV (416p) [Not 24/7]
 https://eurobioinvest.hu:444/live/ktv.m3u8
