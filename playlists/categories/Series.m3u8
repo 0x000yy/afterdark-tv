@@ -6,14 +6,14 @@
 http://stream.mcquack.net/381/index.m3u8
 #EXTINF:-1,RTS Drama (576p)
 https://de1.dstv.cx/RTSDrama/index.m3u8
-#EXTINF:-1,Star Crime (Bulgaria) (720p)
-http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
-#EXTINF:-1,Star Life (Bulgaria) (720p)
-http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
 #EXTINF:-1,Star Crime (Slovenia)
 http://92.36.202.5:10001/play/a02o
 #EXTINF:-1,Star Life (Slovenia)
 http://92.36.202.5:10001/play/a02n
+#EXTINF:-1,Star Crime (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
+#EXTINF:-1,Star Life (Bulgaria) (720p)
+http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
 #EXTINF:-1,Drama Sangat (1080p) [Geo-blocked]
 https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420342
 #EXTINF:-1,Drama Channel (1080p)
@@ -58,54 +58,6 @@ https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
 #EXTINF:-1,Wildfire
 https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
-#EXTINF:-1,7th Heaven DK
-https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8
-#EXTINF:-1,2900 Happiness
-https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
-#EXTINF:-1,Auction Hunters (Sweden) DK
-https://jmp2.uk/plu-62da73c4ec46c000070f4cb1.m3u8
-#EXTINF:-1,BET DK
-https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
-#EXTINF:-1,Bondi Rescue (Sweden) DK (720p)
-https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
-#EXTINF:-1,Britain's Next Top Model DK
-https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
-#EXTINF:-1,Bull DK
-https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
-#EXTINF:-1,Car Chase (Sweden) DK (720p)
-https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
-#EXTINF:-1,CSI (Sweden)
-https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
-#EXTINF:-1,Dallas Cowboys Cheerleaders DK
-https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
-#EXTINF:-1,Dating Naked UK DK
-https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
-#EXTINF:-1,FBoy Island
-https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
-#EXTINF:-1,House of Lies DK
-https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
-#EXTINF:-1,Judge Judy (Sweden) DK
-https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
-#EXTINF:-1,Medium (Sweden) DK
-https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
-#EXTINF:-1,NCIS (Sweden)
-https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
-#EXTINF:-1,NCIS: Det bedste med Gibbs
-https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
-#EXTINF:-1,NCIS: Det bedste med Tony & Ziva
-https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
-#EXTINF:-1,NCIS: Los Angeles (Sweden)
-https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
-#EXTINF:-1,Numbers (Sweden)
-https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
-#EXTINF:-1,Scorpion (Sweden) DK
-https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
-#EXTINF:-1,The L Word DK
-https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
-#EXTINF:-1,The New Detectives (Sweden) DK
-https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
-#EXTINF:-1,Wildfire DK
-https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
 #EXTINF:-1,7th Heaven NO
 https://jmp2.uk/plu-6728ca75529ac9000830ab14.m3u8
 #EXTINF:-1,Auction Hunters (Sweden) NO
@@ -162,6 +114,58 @@ https://onehls.persiana.live/hls/stream.m3u8
 http://stream.mcquack.net/260/index.m3u8
 #EXTINF:-1,Tviy serial (1080p)
 http://stream.mcquack.net/466/index.m3u8
+#EXTINF:-1,Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1,Viasat Epic Drama Romania
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
+#EXTINF:-1,7th Heaven DK
+https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8
+#EXTINF:-1,2900 Happiness
+https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
+#EXTINF:-1,Auction Hunters (Sweden) DK
+https://jmp2.uk/plu-62da73c4ec46c000070f4cb1.m3u8
+#EXTINF:-1,BET DK
+https://jmp2.uk/plu-61c1939b8929e40007ff6382.m3u8
+#EXTINF:-1,Bondi Rescue (Sweden) DK (720p)
+https://jmp2.uk/plu-660d66be7bcd8600087cfee5.m3u8
+#EXTINF:-1,Britain's Next Top Model DK
+https://jmp2.uk/plu-67a09ddc21af380008088dc3.m3u8
+#EXTINF:-1,Bull DK
+https://jmp2.uk/plu-6964b982ca459f9b939da8e6.m3u8
+#EXTINF:-1,Car Chase (Sweden) DK (720p)
+https://jmp2.uk/plu-65a93b0607e03a000895abda.m3u8
+#EXTINF:-1,CSI (Sweden)
+https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
+#EXTINF:-1,Dallas Cowboys Cheerleaders DK
+https://jmp2.uk/plu-64e87c6b28cec700088ceb55.m3u8
+#EXTINF:-1,Dating Naked UK DK
+https://jmp2.uk/plu-692edc78d52ea9e4858cf78f.m3u8
+#EXTINF:-1,FBoy Island
+https://jmp2.uk/plu-6790d6c7bc03978b9bfbfd44.m3u8
+#EXTINF:-1,House of Lies DK
+https://jmp2.uk/plu-693ae62a43fe00a023e76e0d.m3u8
+#EXTINF:-1,Judge Judy (Sweden) DK
+https://jmp2.uk/plu-6380c36389eccc000858c50f.m3u8
+#EXTINF:-1,Medium (Sweden) DK
+https://jmp2.uk/plu-68f0f54ca362b63a8df4d5a9.m3u8
+#EXTINF:-1,NCIS (Sweden)
+https://jmp2.uk/plu-6319ec31c62c3f00075c90b1.m3u8
+#EXTINF:-1,NCIS: Det bedste med Gibbs
+https://jmp2.uk/plu-6901d952ec12c3c759fdc7cd.m3u8
+#EXTINF:-1,NCIS: Det bedste med Tony & Ziva
+https://jmp2.uk/plu-68921b2f4fa995eff24df6c8.m3u8
+#EXTINF:-1,NCIS: Los Angeles (Sweden)
+https://jmp2.uk/plu-66fbf4d3d7de140008d41f5b.m3u8
+#EXTINF:-1,Numbers (Sweden)
+https://jmp2.uk/plu-62bebb3a67307900077a7f9d.m3u8
+#EXTINF:-1,Scorpion (Sweden) DK
+https://jmp2.uk/plu-63a1caefc8d285000799e8af.m3u8
+#EXTINF:-1,The L Word DK
+https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
+#EXTINF:-1,The New Detectives (Sweden) DK
+https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
+#EXTINF:-1,Wildfire DK
+https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
 #EXTINF:-1,AXN Black (Poland) (576i)
 http://92.114.85.87:8014/play/a00h/index.m3u8
 #EXTINF:-1,AXN Spin (Poland)
@@ -178,16 +182,14 @@ http://92.114.85.87:8019/play/a00a/index.m3u8
 http://92.114.85.87:8001/play/a00x/index.m3u8
 #EXTINF:-1,MBC Masr Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
-#EXTINF:-1,Mireasa (720p)
-https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:-1,Viasat Epic Drama Romania
-https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
 #EXTINF:-1,Bab Al Hara (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 #EXTINF:-1,Maraya (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1,Rotana Drama (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1,MBC Drama USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1,Andromeda Italy (720p)
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1,Donna TV (480p)
@@ -200,16 +202,20 @@ https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
 #EXTINF:-1,Top Crime [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
-#EXTINF:-1,MBC Drama USA (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1,TNT Series Latin America (1080p)
 http://168.196.127.137:6001/play/a095/index.m3u8
-#EXTINF:-1,Tlnovelas Mexico (1080p)
-http://167.249.23.102:8000/play/a0g8/index.m3u8
 #EXTINF:-1,AMC Series Latin America (1080p)
 http://45.171.64.30:6060/play/a005/index.m3u8
 #EXTINF:-1,TNT Series Latin America South
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
+#EXTINF:-1,Tlnovelas Mexico (1080p)
+http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1,TNT Novelas Colombia (1080p)
+http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1,Europa Europa (1080p)
+https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
+#EXTINF:-1,TNT Novelas (1080p)
+http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1,CSI: Miami BR
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 #EXTINF:-1,Diff'rent Strokes Arnold
@@ -258,12 +264,6 @@ http://45.162.64.114/TNT_NOVELAS/index.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1,TVI Ficcao (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
-#EXTINF:-1,TNT Novelas Colombia (1080p)
-http://190.61.47.54:8000/play/a02f/index.m3u8
-#EXTINF:-1,Europa Europa (1080p)
-https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
-#EXTINF:-1,TNT Novelas (1080p)
-http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1,48 Hours CA
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1,Bar Rescue CA
