@@ -1,9 +1,11 @@
 #EXTM3U
 #GROUP: Brazil
-#TOTAL: 4
+#TOTAL: 5
 
 #EXTINF:-1,SBT Ⓨ
 https://www.youtube.com/watch?v=ABVQXgr2LW4
+#EXTINF:-1,Futura
+http://168.197.104.22/FUTURA/index.m3u8
 #EXTINF:-1,RBC Ⓨ
 https://www.youtube.com/watch?v=oUdd3CsxYaE
 #EXTINF:-1,ISTV

@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Auto
-#TOTAL: 24
+#TOTAL: 25
 
 #EXTINF:-1,Shift TV (1080p)
 https://hls.shift.tv/live/shifttv/playlist.m3u8
@@ -34,6 +34,8 @@ https://cityeden.catcast.tv/content/47515/index.m3u8
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Pluto TV Motor (Germany)
 https://jmp2.uk/plu-6080345ebb49b90007ce0baf.m3u8
+#EXTINF:-1,DTX (576i)
+http://57.128.231.171:8080/274/index.m3u8
 #EXTINF:-1,30A We Love Cars (720p)
 https://30a-tv.com/feeds/vidaa/cars.m3u8
 #EXTINF:-1,Discovery Turbo (India) (720p)
