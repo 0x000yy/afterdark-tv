@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Series
-#TOTAL: 382
+#TOTAL: 378
 
 #EXTINF:-1,HOT Drama (1080p)
 http://stream.mcquack.net/381/index.m3u8
@@ -10,8 +10,6 @@ https://de1.dstv.cx/RTSDrama/index.m3u8
 http://hls127.freeott.top:8080/BG_FOX_Crime/video.m3u8
 #EXTINF:-1,Star Life (Bulgaria) (720p)
 http://hls127.freeott.top:8080/BG_FOX_Life/video.m3u8
-#EXTINF:-1,ON Cine
-https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1,Star Crime (Slovenia)
 http://92.36.202.5:10001/play/a02o
 #EXTINF:-1,Star Life (Slovenia)
@@ -60,6 +58,8 @@ https://jmp2.uk/plu-645cb7857cb4b1000859c57c.m3u8
 https://jmp2.uk/plu-61c1900995f417000731a002.m3u8
 #EXTINF:-1,Wildfire
 https://jmp2.uk/plu-62beb0de371e6c000775930c.m3u8
+#EXTINF:-1,ON Cine
+https://freem3u.xyz/api/live/play.m3u8?vid=176
 #EXTINF:-1,7th Heaven NO
 https://jmp2.uk/plu-6728ca75529ac9000830ab14.m3u8
 #EXTINF:-1,Auction Hunters (Sweden) NO
@@ -104,10 +104,18 @@ https://jmp2.uk/plu-6181511c1e13690007b143c2.m3u8
 https://jmp2.uk/plu-61c1e1c445b45d0007aad03e.m3u8
 #EXTINF:-1,Wildfire NO
 https://jmp2.uk/plu-62beb7d7fbf54600076abc7b.m3u8
-#EXTINF:-1,4ever Drama (1080p)
-http://stream.mcquack.net/260/index.m3u8
-#EXTINF:-1,Tviy serial (1080p)
-http://stream.mcquack.net/466/index.m3u8
+#EXTINF:-1,Mireasa (720p)
+https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
+#EXTINF:-1,Viasat Epic Drama Romania
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
+#EXTINF:-1,Afra Series
+https://afrashls.wns.live/hls/stream.m3u8
+#EXTINF:-1,AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1,GEM Series +
+https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
+#EXTINF:-1,Persiana Series
+https://onehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,7th Heaven DK
 https://jmp2.uk/plu-6728c9c85534bb0008b320a4.m3u8
 #EXTINF:-1,2900 Happiness
@@ -156,14 +164,10 @@ https://jmp2.uk/plu-693ae48864476d678e9b6235.m3u8
 https://jmp2.uk/plu-618147d2a814250007b42916.m3u8
 #EXTINF:-1,Wildfire DK
 https://jmp2.uk/plu-62b9b63d3bbe9000073c0a2d.m3u8
-#EXTINF:-1,Afra Series
-https://afrashls.wns.live/hls/stream.m3u8
-#EXTINF:-1,AVA Series
-https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1,GEM Series +
-https://ca-rt.onetv.app/gemseriesplus/index-0.m3u8?token=onetv202
-#EXTINF:-1,Persiana Series
-https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,4ever Drama (1080p)
+http://stream.mcquack.net/260/index.m3u8
+#EXTINF:-1,Tviy serial (1080p)
+http://stream.mcquack.net/466/index.m3u8
 #EXTINF:-1,AXN Black (Poland) (576i)
 http://92.114.85.87:8014/play/a00h/index.m3u8
 #EXTINF:-1,AXN Spin (Poland)
@@ -178,10 +182,6 @@ http://92.114.85.87:8014/play/a00a/index.m3u8
 http://92.114.85.87:8019/play/a00a/index.m3u8
 #EXTINF:-1,Viasat Epic Drama Poland (1080p)
 http://92.114.85.87:8001/play/a00x/index.m3u8
-#EXTINF:-1,Mireasa (720p)
-https://stream1.antenaplay.ro/live/MireasaExtra/playlist.m3u8
-#EXTINF:-1,Viasat Epic Drama Romania
-https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
 #EXTINF:-1,MBC Masr Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
 #EXTINF:-1,Bab Al Hara (1080p)
@@ -190,8 +190,6 @@ https://shd-amg-fast.edgenextcdn.net/tx010/playlist.m3u8
 https://shd-amg-fast.edgenextcdn.net/tx008/playlist.m3u8
 #EXTINF:-1,Rotana Drama (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-#EXTINF:-1,MBC Drama USA (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1,Andromeda Italy (720p)
 https://jmp2.uk/plu-60802d37ee238e0007c94e64.m3u8
 #EXTINF:-1,Donna TV (480p)
@@ -204,10 +202,18 @@ https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
 https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
 #EXTINF:-1,Top Crime [Geo-blocked]
 https://live3-mediaset-it.akamaized.net/content/hls_h0_clr_vos/live/channel(lt)/index.m3u8
+#EXTINF:-1,MBC Drama USA (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 #EXTINF:-1,TNT Series Latin America (1080p)
 http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1,Tlnovelas Mexico (1080p)
 http://167.249.23.102:8000/play/a0g8/index.m3u8
+#EXTINF:-1,TNT Novelas Colombia (1080p)
+http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1,AMC Series Latin America (1080p)
+http://45.171.64.30:6060/play/a005/index.m3u8
+#EXTINF:-1,TNT Series Latin America South
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
 #EXTINF:-1,CSI: Miami BR
 https://jmp2.uk/plu-63eb9c5351f5d000085e8d7e.m3u8
 #EXTINF:-1,Diff'rent Strokes Arnold
@@ -244,7 +250,7 @@ https://jmp2.uk/plu-6474ab5cdc7a760008745008.m3u8
 https://jmp2.uk/plu-65f060d84e01740008d7421f.m3u8
 #EXTINF:-1,Pluto TV Series Novelescas
 https://jmp2.uk/plu-691627e4a29a6123e400b3e0.m3u8
-#EXTINF:-1,Pluto TV Series Sci-Fi (United States)
+#EXTINF:-1,Pluto TV Series Sci-Fi
 https://jmp2.uk/plu-63d2ba2f60bc8f0008981a0e.m3u8
 #EXTINF:-1,Series Classic (720p)
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/serieclassic/serieclassic/playlist.m3u8
@@ -256,16 +262,12 @@ http://45.162.64.114/TNT_NOVELAS/index.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1,TVI Ficcao (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
-#EXTINF:-1,AMC Series Latin America (1080p)
-http://45.171.64.30:6060/play/a005/index.m3u8
-#EXTINF:-1,TNT Series Latin America South
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/TNTseries.stream/chunks.m3u8
-#EXTINF:-1,TNT Novelas Colombia (1080p)
-http://190.61.47.54:8000/play/a02f/index.m3u8
 #EXTINF:-1,Europa Europa (1080p)
 https://iptv.bitred.cl/EUROPAEUROPA_HD/index.m3u8
 #EXTINF:-1,TNT Novelas (1080p)
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
+#EXTINF:-1,Latina Clasicos (1080p)
+http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1,48 Hours CA
 https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8
 #EXTINF:-1,Bar Rescue CA
@@ -308,8 +310,6 @@ https://jmp2.uk/plu-62e92e536f28870007fa9b3a.m3u8
 https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
 #EXTINF:-1,Three's Company CA (720p)
 https://jmp2.uk/plu-64ca723a2bc49300081a8966.m3u8
-#EXTINF:-1,Latina Clasicos (1080p)
-http://45.171.108.253:8888/LATINA/index.m3u8
 #EXTINF:-1,13T (720p)
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
 #EXTINF:-1,Mega Ficcion (1080p)
@@ -506,12 +506,8 @@ https://jmp2.uk/plu-5f1aca8310a30e00074fab92.m3u8
 https://jmp2.uk/plu-60e4573c9f963e00077ecf25.m3u8
 #EXTINF:-1,Pluto TV K-Drama
 https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
-#EXTINF:-1,Pluto TV Series (Germany)
-https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
 #EXTINF:-1,Pluto TV Series criminales
 https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
-#EXTINF:-1,Pluto TV Series Sci-Fi (Germany)
-https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
 #EXTINF:-1,Pluto TV Telenovelas Clasicas
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 #EXTINF:-1,Sin tetas no hay paraiso
@@ -524,10 +520,6 @@ https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_576.m3u8
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_1080.m3u8
 #EXTINF:-1,XPTV US (720p)
 https://janus.xpbroadcasting.com:8443/hls/xptvUS.m3u8
-#EXTINF:-1,Novela Channel (720p) [Not 24/7]
-https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
-#EXTINF:-1,Serie Max
-https://video1.getstreamhosting.com:1936/8330/8330/playlist.m3u8
 #EXTINF:-1,48 Hours (1080p)
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 #EXTINF:-1,Acapulco Shore US
@@ -744,7 +736,7 @@ https://jmp2.uk/plu-6474a7958e3c0a0008b97cae.m3u8
 https://jmp2.uk/plu-686eed4c677f2f98b4a1ccd4.m3u8
 #EXTINF:-1,Pluto TV Novelas de Venezuela
 https://jmp2.uk/plu-6474a86917f5e100089a0c1c.m3u8
-#EXTINF:-1,Pluto TV Series (United States)
+#EXTINF:-1,Pluto TV Series
 https://jmp2.uk/plu-5dcde1317578340009b751d0.m3u8
 #EXTINF:-1,Pluto TV Series de Accion
 https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8

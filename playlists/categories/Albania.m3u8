@@ -1,11 +1,9 @@
 #EXTM3U
 #GROUP: Albania
-#TOTAL: 9
+#TOTAL: 8
 
 #EXTINF:-1,Kanali 7 Ⓢ
 https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-#EXTINF:-1,A2 CNN Albania
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1,ABC News Albania Ⓣ
 https://www.twitch.tv/abcnewsal
 #EXTINF:-1,Alpo TV

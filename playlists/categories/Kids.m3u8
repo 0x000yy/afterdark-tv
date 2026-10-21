@@ -1,23 +1,21 @@
 #EXTM3U
 #GROUP: Kids
-#TOTAL: 315
+#TOTAL: 314
 
 #EXTINF:-1,BabyFirst (720p)
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
-#EXTINF:-1,Bravo! Kids TV
-https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
-#EXTINF:-1,Nick Jr. (Croatia) (540p)
-http://176.61.157.250/NickJr/index.m3u8
-#EXTINF:-1,Nickelodeon (Croatia) (1080p)
-http://176.61.157.250/Nickelodeon/index.m3u8
 #EXTINF:-1,Hop! (1080p)
 http://stream.mcquack.net/44/index.m3u8
 #EXTINF:-1,JimJam Europe (720p)
 http://212.5.144.156:8080/jimjam/index.m3u8
 #EXTINF:-1,Zoom (Israel) (576p)
 http://stream.mcquack.net/377/index.m3u8
-#EXTINF:-1,Akili Kids!
-https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
+#EXTINF:-1,Bravo! Kids TV
+https://streaming.radiohub.hr/RadioHub_WEB_streaming/BHWUC27pGZ/3.m3u8
+#EXTINF:-1,Nick Jr. (Croatia) (540p)
+http://176.61.157.250/NickJr/index.m3u8
+#EXTINF:-1,Nickelodeon (Croatia) (1080p)
+http://176.61.157.250/Nickelodeon/index.m3u8
 #EXTINF:-1,Cufo
 https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
 #EXTINF:-1,TV Arberia 3 Femije (720p)
@@ -28,6 +26,8 @@ https://stream8.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1007/playlist.m3u8
 #EXTINF:-1,MiMi TV (720p)
 https://fl.biztv.media/MiMiTV_720/playlist.m3u8
+#EXTINF:-1,Akili Kids!
+https://m6.livecdn.io/akilikids.co.ke/akilikids.smil/playlist.m3u8
 #EXTINF:-1,Balapan (576p)
 https://fs.uplink.kz/balapan/mono.m3u8?token=onlinetv
 #EXTINF:-1,Balapan HD (1080p)
@@ -36,6 +36,10 @@ https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
 https://live-3.otcnet.ru/Balapan/index.m3u8
 #EXTINF:-1,Mult (1080p)
 http://31.148.48.15/Mult_HD/index.m3u8
+#EXTINF:-1,EBS Kids (400p) [Not 24/7]
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1,KidZone Max SD (1080p) [Geo-blocked]
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
 #EXTINF:-1,Disney Channel (Bulgaria)
 http://213.91.179.28:8000/play/a059
 #EXTINF:-1,EKids (576p)
@@ -44,22 +48,10 @@ http://78.108.244.134:8899/ekids
 http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 #EXTINF:-1,RING
 http://213.91.179.28:8000/play/a06e
-#EXTINF:-1,KidZone Max SD (1080p) [Geo-blocked]
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
-#EXTINF:-1,ON Kids (720p)
-https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1,EBS Kids (400p) [Not 24/7]
-https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1,New Channel Pop! (480p)
 https://vodcdn.bamboo-cloud.com/livehls/6ab37c6c7e057f9063071c85/master.m3u8
 #EXTINF:-1,ducktv PLUS
 https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
-#EXTINF:-1,Afarin Baxcha (1080p)
-https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1,Afarin TV (720p) [Not 24/7]
-https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1,TNT Kids TV (288p)
-https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1,iCarly (Sweden)
 https://jmp2.uk/plu-61c185049e0bde0007820039.m3u8
 #EXTINF:-1,Pluto TV Juniorklubben (720p)
@@ -74,46 +66,10 @@ https://jmp2.uk/plu-67f3fc1707d2ba4121bd34a8.m3u8
 https://jmp2.uk/plu-61c0ba0816e2fd00086cb6b1.m3u8
 #EXTINF:-1,Totally Turtles (Sweden) (720p)
 https://jmp2.uk/plu-61c185e36faf920007f04b6e.m3u8
-#EXTINF:-1,iCarly (Sweden) NO
-https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
-#EXTINF:-1,NRK Super (1080i) [Geo-blocked]
-https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
-#EXTINF:-1,Pluto TV Juniorklubben NO (720p)
-https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8
-#EXTINF:-1,Pluto TV Klassiske tegnefilmer (720p)
-https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
-#EXTINF:-1,Pluto TV Tegnefilm NO (720p)
-https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
-#EXTINF:-1,Pluto TV Ungdomsserier NO (720p)
-https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
-#EXTINF:-1,SvampeBob Firkant NO (720p)
-https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
-#EXTINF:-1,Totally Turtles (Sweden) NO (720p)
-https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
-#EXTINF:-1,Cine+ Kids (576p)
-http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
-#EXTINF:-1,KinoKazka (1080p)
-http://stream.mcquack.net/167/index.m3u8
-#EXTINF:-1,Lale
-https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
-#EXTINF:-1,Nickelodeon (Poland) (576i)
-http://92.114.85.87:8013/play/a005/index.m3u8
-#EXTINF:-1,Niki Junior (1080p)
-http://stream.mcquack.net/262/index.m3u8
-#EXTINF:-1,Niki Kids (1080p)
-http://stream.mcquack.net/271/index.m3u8
-#EXTINF:-1,Pixel TV (1080p)
-http://stream.mcquack.net/323/index.m3u8
-#EXTINF:-1,PLUSPLUS (1080p)
-http://stream.mcquack.net/339/index.m3u8
-#EXTINF:-1,Minika Cocuk (720p)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1,Minika Go (720p)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1,TRT Cocuk (1440p)
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT Diyanet Cocuk (720p)
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,ON Kids (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1,TNT Kids TV (288p)
+https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1,Disney Channel (Hungary)
 http://88.212.15.17/live/disney_channel_hun/index.m3u8
 #EXTINF:-1,JimJam
@@ -132,40 +88,42 @@ http://88.212.15.17/live/test_nicktoons/playlist.m3u8
 http://88.212.15.17/live/nicktoons_hungary/index.m3u8
 #EXTINF:-1,TV2 Kids
 http://88.212.15.17/live/tv2_kids/index.m3u8
-#EXTINF:-1,Biznet Kids (1080p)
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
-#EXTINF:-1,Groovia Kids (576p)
-https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
-#EXTINF:-1,Kids TV
-http://origin5.mediacdn.ru/live/kidstv/index.m3u8
-#EXTINF:-1,My Kidz (720p)
-https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
-#EXTINF:-1,VTV (Indonesia) (720p)
-https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1,VTV (Indonesia) HD (1080p)
-http://ikitv.sqn.at:8000/play/a023/index.m3u8
-#EXTINF:-1,DR Ramasjang (720p) [Geo-blocked]
-https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
-#EXTINF:-1,iCarly (Sweden) DK
-https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
-#EXTINF:-1,Pluto TV Juniorklubben DK (720p)
-https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
-#EXTINF:-1,Pluto TV Klassiske tegnefilm (720p)
-https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
-#EXTINF:-1,Pluto TV Tegnefilm (720p)
-https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
-#EXTINF:-1,Pluto TV Ungdomsserier DK (720p)
-https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
-#EXTINF:-1,SvampeBob Firkant (720p)
-https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
-#EXTINF:-1,Totally Turtles (Sweden) DK (720p)
-https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
-#EXTINF:-1,Kids Zone (720p)
-http://103.250.28.74:8000/play/a04m/index.m3u8
-#EXTINF:-1,Minimax (Pakistan) (360p)
-https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:-1,TV Bahoriston (1080p)
-https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1,Afarin Baxcha (1080p)
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1,Afarin TV (720p) [Not 24/7]
+https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1,iCarly (Sweden) NO
+https://jmp2.uk/plu-61c1d9b31a9c310008f8ee57.m3u8
+#EXTINF:-1,NRK Super (1080i) [Geo-blocked]
+https://nrk-live-no.akamaized.net/nrksuper/muxed.m3u8
+#EXTINF:-1,Pluto TV Juniorklubben NO (720p)
+https://jmp2.uk/plu-61c1d459fbb4b50007d24647.m3u8
+#EXTINF:-1,Pluto TV Klassiske tegnefilmer (720p)
+https://jmp2.uk/plu-67f508f68ddd60c57dc44766.m3u8
+#EXTINF:-1,Pluto TV Tegnefilm NO (720p)
+https://jmp2.uk/plu-61c1e914bf8c520007a93ff1.m3u8
+#EXTINF:-1,Pluto TV Ungdomsserier NO (720p)
+https://jmp2.uk/plu-67f3fb7d07d2ba4121bd0c8b.m3u8
+#EXTINF:-1,SvampeBob Firkant NO (720p)
+https://jmp2.uk/plu-61c1d59a244e500007581861.m3u8
+#EXTINF:-1,Totally Turtles (Sweden) NO (720p)
+https://jmp2.uk/plu-61c1da718a80a4000704013e.m3u8
+#EXTINF:-1,Disney Channel (Romania)
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+#EXTINF:-1,Nickelodeon (Romania)
+https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
+#EXTINF:-1,TraLaLa DSN
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0
+#EXTINF:-1,TraLaLa TV
+https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+#EXTINF:-1,Minika Cocuk (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1,Minika Go (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
+#EXTINF:-1,TRT Cocuk (1440p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT Diyanet Cocuk (720p)
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,GEM Junior
 https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
 #EXTINF:-1,GEM Kids
@@ -182,8 +140,40 @@ https://kphls.persiana.live/hls/stream.m3u8
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Pooya TV Plus
 https://ncdn.telewebion.ir/javaneh/live/playlist.m3u8
-#EXTINF:-1,ETV Bal Bharat (576p)
-http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+#EXTINF:-1,TV Bahoriston (1080p)
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1,DR Ramasjang (720p) [Geo-blocked]
+https://drlive03hls.akamaized.net/hls/live/2014190/drlive03/master.m3u8
+#EXTINF:-1,iCarly (Sweden) DK
+https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
+#EXTINF:-1,Pluto TV Juniorklubben DK (720p)
+https://jmp2.uk/plu-61c09a78bd194c0008decc28.m3u8
+#EXTINF:-1,Pluto TV Klassiske tegnefilm (720p)
+https://jmp2.uk/plu-67f508992ebe80e2929b5c98.m3u8
+#EXTINF:-1,Pluto TV Tegnefilm (720p)
+https://jmp2.uk/plu-61c09938e0d3a700072b68b1.m3u8
+#EXTINF:-1,Pluto TV Ungdomsserier DK (720p)
+https://jmp2.uk/plu-67f3fb1cdea1c5e0d588ac1b.m3u8
+#EXTINF:-1,SvampeBob Firkant (720p)
+https://jmp2.uk/plu-61c09ac98a80a4000703f992.m3u8
+#EXTINF:-1,Totally Turtles (Sweden) DK (720p)
+https://jmp2.uk/plu-61c0bbd95df1da0007bed5a0.m3u8
+#EXTINF:-1,Cine+ Kids (576p)
+http://dtv.vol.net.ua/Cine_plus_Kids_HD/index.m3u8
+#EXTINF:-1,KinoKazka (1080p)
+http://stream.mcquack.net/167/index.m3u8
+#EXTINF:-1,Lale
+https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
+#EXTINF:-1,Nickelodeon (Poland) (576i)
+http://92.114.85.87:8013/play/a005/index.m3u8
+#EXTINF:-1,Niki Junior (1080p)
+http://stream.mcquack.net/262/index.m3u8
+#EXTINF:-1,Niki Kids (1080p)
+http://stream.mcquack.net/271/index.m3u8
+#EXTINF:-1,Pixel TV (1080p)
+http://stream.mcquack.net/323/index.m3u8
+#EXTINF:-1,PLUSPLUS (1080p)
+http://stream.mcquack.net/339/index.m3u8
 #EXTINF:-1,4 Fun Kids (576i)
 https://stream.4fun.tv:8889/hls/4fk.m3u8
 #EXTINF:-1,CBeebies (Poland) (576p)
@@ -202,36 +192,40 @@ http://92.114.85.87:8013/play/a004/index.m3u8
 http://185.227.34.179:8080/jimjam/index.m3u8
 #EXTINF:-1,TVP ABC (576i)
 http://92.114.85.87:8002/play/a00b/index.m3u8
-#EXTINF:-1,Disney Channel (Romania)
-https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
-#EXTINF:-1,Nickelodeon (Romania)
-https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
-#EXTINF:-1,TraLaLa DSN
-http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-inedit-tv/live_hq?offsetSeconds=0
-#EXTINF:-1,TraLaLa TV
-https://hls01ns.antenaplay.ro/hls/tralala-hd/index.m3u8
+#EXTINF:-1,Kids Zone (720p)
+http://103.250.28.74:8000/play/a04m/index.m3u8
+#EXTINF:-1,Minimax (Pakistan) (360p)
+https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
+#EXTINF:-1,Duronto TV (720p)
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1,ETV Bal Bharat (576p)
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8
+#EXTINF:-1,Nickelodeon (India) (576p)
+http://103.185.24.134:3001/NICK/index.m3u8
+#EXTINF:-1,Sonic (576p)
+http://103.185.24.134:3001/SONIC/index.m3u8
+#EXTINF:-1,ZB Cartoon (1080p)
+https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1,BRTV Kaku Childrens Channel
 http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
 #EXTINF:-1,CCTV-14 HD (1080p)
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1,Shandong TV Children's Channel (406p) [Geo-blocked]
 http://livealone302.iqilu.com/iqilu/sepd.m3u8
-#EXTINF:-1,Nickelodeon (India) (576p)
-http://103.185.24.134:3001/NICK/index.m3u8
-#EXTINF:-1,Sonic (576p)
-http://103.185.24.134:3001/SONIC/index.m3u8
-#EXTINF:-1,Duronto TV (720p)
-https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-#EXTINF:-1,ZB Cartoon (1080p)
-https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1,Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1,Groovia Kids (576p)
+https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8
+#EXTINF:-1,Kids TV
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1,My Kidz (720p)
+https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
+#EXTINF:-1,VTV (Indonesia) (720p)
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1,VTV (Indonesia) HD (1080p)
+http://ikitv.sqn.at:8000/play/a023/index.m3u8
 #EXTINF:-1,Amou Yazid TV (576p)
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1,Atfal & Mawaheb TV (1080p)
-https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
-#EXTINF:-1,Nickelodeon Junior (1080p)
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
-#EXTINF:-1,Taha TV (576p)
-https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
 #EXTINF:-1,Discovery Kids (720p)
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1,Disney Channel (India) HD (1080p)
@@ -240,12 +234,16 @@ http://66.102.126.10:8000/play/a013/index.m3u8
 http://103.151.60.162:2122/play/a016/index.m3u8?hls
 #EXTINF:-1,Hungama TV (576p)
 http://103.185.24.134:3001/HUNGAMA/index.m3u8
-#EXTINF:-1,Chithiram (576p)
-https://cdn.pishow.tv/ott/live/1243/master.m3u8
+#EXTINF:-1,Atfal & Mawaheb TV (1080p)
+https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
+#EXTINF:-1,Taha TV (576p)
+https://stream.starmenajo.com/hls/app/live/ts:fhd.m3u8
+#EXTINF:-1,Nickelodeon Junior (1080p)
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1,TVCARiB Kids & Teens (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
-#EXTINF:-1,MBC 3 USA (1080p) [Geo-blocked]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+#EXTINF:-1,Chithiram (576p)
+https://cdn.pishow.tv/ott/live/1243/master.m3u8
 #EXTINF:-1,BeJoy.kids (1080p)
 https://stream.paroledivita.org/bejoy.m3u8
 #EXTINF:-1,Iunior TV (1080p)
@@ -270,6 +268,8 @@ https://cc-t8lqe1o99pszu.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://103.185.24.134:3001/NICK-JR/index.m3u8
 #EXTINF:-1,The Jungle Book (1080p)
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+#EXTINF:-1,MBC 3 USA (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 #EXTINF:-1,Nickelodeon Latin America (1080p)
 http://15.204.246.24:8080/NickHD/index.m3u8
 #EXTINF:-1,Discovery Kids Latin America Mexico (1080p)
@@ -278,6 +278,12 @@ http://38.65.175.84:8000/play/a0an/index.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
 #EXTINF:-1,Nick Jr. Latin America (1080p)
 https://streaming.onnethn.com/NICK_JR/playlist.m3u8
+#EXTINF:-1,Discovery Kids Latin America Colombia (1080p)
+http://38.134.250.110:8000/play/a003/index.m3u8
+#EXTINF:-1,Eureka (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
+#EXTINF:-1,Pakapaka (1080p)
+http://138.59.227.20:8000/play/a05t/index.m3u8
 #EXTINF:-1,Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
 #EXTINF:-1,BabyFirst Brazil
@@ -314,7 +320,7 @@ https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
 #EXTINF:-1,Pluto TV Kids
 https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
-#EXTINF:-1,Pluto TV Kids Club (United States)
+#EXTINF:-1,Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
 #EXTINF:-1,Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
@@ -322,12 +328,10 @@ https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8
 #EXTINF:-1,Turma da Monica (720p)
 https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
-#EXTINF:-1,Pakapaka (1080p)
-http://138.59.227.20:8000/play/a05t/index.m3u8
-#EXTINF:-1,Discovery Kids Latin America Colombia (1080p)
-http://38.134.250.110:8000/play/a003/index.m3u8
-#EXTINF:-1,Eureka (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/6952e02d19eabace52e2885f.m3u8
+#EXTINF:-1,Chikitoonz (1080p)
+http://45.70.201.81:8000/play/a00p/index.m3u8
+#EXTINF:-1,Peques TV (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 #EXTINF:-1,Chinola TV (480p)
 https://tv.wracanal10.com:3300/live/chinolatvlive.m3u8
 #EXTINF:-1,Tom And Jerry (720p)
@@ -352,10 +356,6 @@ https://jmp2.uk/plu-62e9566e27ce19000732ec85.m3u8
 https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 #EXTINF:-1,Transformers TV CA
 https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
-#EXTINF:-1,Chikitoonz (1080p)
-http://45.70.201.81:8000/play/a00p/index.m3u8
-#EXTINF:-1,Peques TV (720p)
-https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
 #EXTINF:-1,13 Kids (1080p)
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 #EXTINF:-1,Discovery Kids Latin America Chile (1080p)
@@ -428,8 +428,6 @@ http://99.27.51.147:8080/Gulli/index.m3u8
 http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 #EXTINF:-1,Pluto TV Kids Classics FR (720p)
 https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8
-#EXTINF:-1,Pluto TV Kids Club (Germany)
-https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
 #EXTINF:-1,Pluto TV Super Kids
 https://jmp2.uk/plu-652557d93fd33c000802f995.m3u8
 #EXTINF:-1,Pluto TV Teen FR (720p)
@@ -484,6 +482,14 @@ https://d3knqoaufvjug3.cloudfront.net/yas.m3u8
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1,KiKA HD
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1,Bob Esponja (720p)
+https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+#EXTINF:-1,Pluto TV Kids Classics (720p)
+https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
+#EXTINF:-1,Pluto TV Teen (720p)
+https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
+#EXTINF:-1,Rugrats (Germany)
+https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1,CT Decko (1080p)
 http://88.212.15.17/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1,Disney Channel (Czech Republic)
@@ -496,14 +502,6 @@ http://88.212.15.17/live/test_minimax/playlist.m3u8
 http://88.212.15.17/live/test_nick_jr/playlist.m3u8
 #EXTINF:-1,Nickelodeon (Czech Republic)
 http://88.212.15.17/live/test_nickelodeon_hevc_25p/playlist.m3u8
-#EXTINF:-1,Bob Esponja (720p)
-https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
-#EXTINF:-1,Pluto TV Kids Classics (720p)
-https://jmp2.uk/plu-609e7e423e9173000706a681.m3u8
-#EXTINF:-1,Pluto TV Teen (720p)
-https://jmp2.uk/plu-63eb944dc111bc0008fe7021.m3u8
-#EXTINF:-1,Rugrats (Germany)
-https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
 #EXTINF:-1,M-Net Kids (720p)
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1,Disney Junior (Romania)

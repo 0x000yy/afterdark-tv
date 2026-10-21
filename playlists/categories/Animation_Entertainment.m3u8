@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Animation;Entertainment
+#TOTAL: 1
+
+#EXTINF:-1,Botflix TV (1080p)
+https://hls.botflix.tv/tv/index.m3u8
