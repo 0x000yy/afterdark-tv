@@ -26,6 +26,14 @@ https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
 https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
 #EXTINF:-1,The Twilight Zone NO
 https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
+#EXTINF:-1,AXN White (Poland) (576i)
+http://92.114.85.87:8014/play/a004/index.m3u8
+#EXTINF:-1,HBO 2 (Poland) (576i)
+http://57.128.231.171:8080/246/index.m3u8
+#EXTINF:-1,HBO (Poland) (576i)
+http://57.128.231.171:8080/243/index.m3u8
+#EXTINF:-1,Paramount Network (1080p)
+http://57.128.210.196:8080/212/index.m3u8
 #EXTINF:-1,Pluto TV Action (Sweden) DK
 https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1,Pluto TV Horror (Sweden) DK
@@ -44,24 +52,16 @@ https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1,FilmUADrama (1080p)
 http://88.99.215.227/FilmUADrama/index.m3u8
-#EXTINF:-1,AXN White (Poland) (576i)
-http://92.114.85.87:8014/play/a004/index.m3u8
-#EXTINF:-1,HBO 2 (Poland) (576i)
-http://57.128.231.171:8080/246/index.m3u8
-#EXTINF:-1,HBO (Poland) (576i)
-http://57.128.231.171:8080/243/index.m3u8
-#EXTINF:-1,Paramount Network (1080p)
-http://57.128.210.196:8080/212/index.m3u8
 #EXTINF:-1,Star Trek: Voyager (Germany) IT
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1,Twentyseven HD (1080p) [Geo-blocked]
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1,Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-#EXTINF:-1,Star Channel (Colombia) (1080p)
-http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1,Pantalla Clasica EC (512p) [Not 24/7]
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1,Star Channel (Colombia) (1080p)
+http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1,Star Channel Latin America South
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/StarChannel.stream/chunks.m3u8
 #EXTINF:-1,Bonanza CA
