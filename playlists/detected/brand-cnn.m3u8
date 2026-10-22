@@ -1,16 +1,16 @@
 #EXTM3U
 #PLAYLIST: detected/brand-cnn.m3u8
-#DATE: 2026-10-21 17:30:45 UTC
-#TOTAL: 37
+#DATE: 2026-10-22 05:05:17 UTC
+#TOTAL: 38
 
 #EXTINF:-1 tvg-id="A2CNN.al@SD" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="News",A2 CNN
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Antena3CNN.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="News",Antena 3 CNN (1080p)
-https://live3vox.antenaplay.ro/a3free/a3free.m3u8
-#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png" group-title="News",AKD Calcutta News (1080p)
-https://live.legitpro.co.in/cnnnews/index.m3u8
 #EXTINF:-1 tvg-id="CNNIndonesia.id@SD" tvg-logo="https://i.imgur.com/l0JyOrm.png" group-title="News",CNN Indonesia
 https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="AKDCalcuttaNews.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Calcutta%20News.png" group-title="News",AKD Calcutta News (1080p)
+https://live.legitpro.co.in/cnnnews/index.m3u8
+#EXTINF:-1 tvg-id="Antena3CNN.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="News",Antena 3 CNN (1080p)
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-id="CNNNews18.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142747_ld_h15_aa.png?lock=720x540" group-title="News",CNN News 18 (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-id="CNNBrasil.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/960px-CNN_Brasil.svg.png" group-title="News",CNN Brasil (1080p)
@@ -45,7 +45,7 @@ https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do@SD" group-title="غير مصنف",ORBIT TV (1080p) [Not 24/7]
 https://cnn.hostlagarto.com/orbittv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="News",CNN Prima News (1080p)
+#EXTINF:-1 tvg-id="CNNPrimaNews.cz@SD" group-title="غير مصنف",CNN Prima News (1080p)
 http://88.212.15.17/live/test_cnn_pirma_news/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro@SD" group-title="غير مصنف",Antena 3 CNN (576p)
 https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
@@ -57,10 +57,10 @@ https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
 https://amg01918-cnnus-amg01918c2-vizio-us-9192.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnoriginals-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.us" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-country="US" group-title="USA",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="News18.com" tvg-logo="https://i.imgur.com/K3M8MoK.png" tvg-country="IN" group-title="India",CNN-News18
-https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNNPortugal.pt" tvg-logo="https://i.imgur.com/NYH39xs.png" tvg-country="PT" group-title="Portugal",CNN Portugal
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
+#EXTINF:-1 tvg-id="News18.com" tvg-logo="https://i.imgur.com/K3M8MoK.png" tvg-country="IN" group-title="India",CNN-News18
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us@Europe" group-title="غير مصنف",CNN International
 http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNInternational.us@Europe" group-title="غير مصنف",CNN International (1080p)
@@ -71,6 +71,8 @@ https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3
 https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
 #EXTINF:-1 tvg-id="CNN.us@SD" group-title="غير مصنف",CNN
 https://p13.usnlive.com/stream/cnn.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us@LatinAmerica" group-title="غير مصنف",CNN International Latin America (1080p)
+http://168.228.44.241:9997/play/a073/index.m3u8
 #EXTINF:-1 tvg-id="CNNPrimaNews.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" tvg-country="CZ" group-title="Czech Republic",CNN Prima News
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
 #EXTINF:-1 tvg-id="CNNIndonesia.am" tvg-logo="https://imgur.com/MpxTMiP" tvg-country="ID" group-title="Indonesia",CNN Indonesia
