@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Classic
-#TOTAL: 54
+#TOTAL: 53
 
 #EXTINF:-1,Nostalgia (Bulgaria)
 http://213.91.179.28:8000/play/a03q
@@ -16,8 +16,6 @@ https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
 #EXTINF:-1,Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
-#EXTINF:-1,Zee Classic (576p)
-http://107.167.16.138/zeeclassic/index.m3u8?token=test
 #EXTINF:-1,MacGyver (United States)
 https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 #EXTINF:-1,Pluto TV Desenhos Classicos

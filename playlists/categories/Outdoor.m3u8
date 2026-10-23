@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Outdoor
-#TOTAL: 48
+#TOTAL: 47
 
 #EXTINF:-1,Agro TV (Bulgaria) (480p)
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
@@ -52,8 +52,6 @@ https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 #EXTINF:-1,Agro TV (Peru) (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
-#EXTINF:-1,Productiva TV (1080p)
-http://190.128.214.97:64333/play/a04i/index.m3u8
 #EXTINF:-1,Agricultura TV (1080p)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1,Dikaya okhota HD (1080p)

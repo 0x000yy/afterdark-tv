@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: France
-#TOTAL: 15
+#TOTAL: 21
 
 #EXTINF:-1,LCP
 https://lcp.fr/le-live-lcp-tnt-5433
@@ -22,12 +22,24 @@ https://www.dailymotion.com/video/x2lefik
 https://www.youtube.com/c/FranceInter/live
 #EXTINF:-1,CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1,France 5
+http://145.239.5.177/305/index.m3u8
+#EXTINF:-1,TFX
+http://145.239.5.177/315/index.m3u8
 #EXTINF:-1,TV5 Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 #EXTINF:-1,TV5 Monde FBS
 https://ott.tv5monde.com/Content/HLS/Live/channel(fbs)/index.m3u8
 #EXTINF:-1,TV5 Monde Europe
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:-1,6ter
+http://145.239.5.177/314/index.m3u8
+#EXTINF:-1,LCI
+http://145.239.5.177/368/index.m3u8
+#EXTINF:-1,W9
+http://145.239.5.177/331a/index.m3u8
+#EXTINF:-1,CStar
+http://145.239.5.177/361/index.m3u8
 #EXTINF:-1,L'Équipe Ⓨ
 https://www.youtube.com/@lequipe/live
 #EXTINF:-1,RMC Life (ex-Chérie 25)

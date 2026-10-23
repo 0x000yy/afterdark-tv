@@ -1,7 +1,11 @@
 #EXTM3U
 #GROUP: Belgium
-#TOTAL: 2
+#TOTAL: 4
 
+#EXTINF:-1,La Une
+http://145.239.5.177/329/index.m3u8
+#EXTINF:-1,La Trois
+http://145.239.5.177/330/index.m3u8
 #EXTINF:-1,LN24
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
 #EXTINF:-1,EEN
