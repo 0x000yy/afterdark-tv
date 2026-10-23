@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: detected/brand-fox.m3u8
-#DATE: 2026-10-23 05:07:53 UTC
+#DATE: 2026-10-23 17:17:45 UTC
 #TOTAL: 69
 
 #EXTINF:-1 tvg-id="StarChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Movies",Star Channel (Bulgaria) (720p)
@@ -73,14 +73,6 @@ https://247wlive.foxweather.com/stream/index.m3u8
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us@SD" tvg-logo="https://i.imgur.com/YIamDGn.png" group-title="Culture",Fox Soul (1080p)
 https://foxsoul-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Deportes (720p)
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="Sports",Fox Sports 2 (United States) (720p)
-https://tvsen7.aynascope.net/foxsports2/index.m3u8
-#EXTINF:-1 tvg-id="FOXLiveNow.us" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" tvg-country="US" group-title="USA",FOX Live Now
-https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@KBSI" tvg-logo="https://static.wikia.nocookie.net/tvstations/images/8/8e/KBSIO6.png" group-title="General",Fox (United States) KBSI (720p) [Not 24/7]
 https://live.field59.com/kbsi/kbsi1/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@KCPQ" tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="General",Fox (United States) KCPQ (720p)
@@ -125,10 +117,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox.us@WXXVTV" tvg-logo="https://imgx.fubo.tv/station_logos/fox_c.png" group-title="General",Fox (United States) WXXV-TV (720p)
 https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
+#EXTINF:-1 tvg-id="FoxDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png" group-title="Sports",Fox Deportes (720p)
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="News",Fox News Channel (1080p)
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsRadio.us@SD" tvg-logo="https://radio.foxnews.com/wp-content/uploads/2017/10/default_logo-150x150.png" group-title="News",Fox News Radio (720p)
 https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Sports",Fox Sports 1 (720p)
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://imgx.fubo.tv/station_logos/fs2_c.png" group-title="Sports",Fox Sports 2 (United States) (720p)
+https://tvsen7.aynascope.net/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD" tvg-logo="https://i.imgur.com/1JnyzHv.png" group-title="News",LiveNOW from FOX (720p)
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" group-title="غير مصنف",Fox Business Network (480p)
 https://247preview.foxbusiness.com/hls/live/2020026/fbnv3preview/primary.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD" group-title="غير مصنف",Fox News Channel (720p)

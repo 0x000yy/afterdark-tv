@@ -1,19 +1,83 @@
 #EXTM3U
 #GROUP: Hungary
-#TOTAL: 10
+#TOTAL: 42
 
 #EXTINF:-1,M1 Hiradó Ⓨ
 https://www.youtube.com/@M1-Hirado/live
+#EXTINF:-1,M4 Sport Ⓖ
+http://141.94.193.53:80/M4_Sport_HD/index.m3u8
+#EXTINF:-1,M1 Ⓖ
+http://141.94.193.53:80/M1_HD/index.m3u8
+#EXTINF:-1,M2 / Petőfi TV Ⓖ
+http://141.94.193.53:80/M2_HD/index.m3u8
+#EXTINF:-1,M5 Hungary Ⓖ
+http://141.94.193.53:80/M5_HD/index.m3u8
+#EXTINF:-1,Duna TV Ⓖ
+http://141.94.193.53:80/Duna_HD/index.m3u8
+#EXTINF:-1,Hír TV
+https://video11.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
 #EXTINF:-1,ErdélyTV Ⓨ
 https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
+#EXTINF:-1,RTL Klub
+http://141.94.193.53:80/RTL_HD/index.m3u8
+#EXTINF:-1,TV2
+http://141.94.193.53:80/TV2_HD/index.m3u8
+#EXTINF:-1,ATV
+http://141.94.193.53:80/ATV_HD/index.m3u8
+#EXTINF:-1,TV4
+http://141.94.193.53:80/TV4_HD/index.m3u8
+#EXTINF:-1,Cool
+http://141.94.193.53:80/Cool_HD/index.m3u8
+#EXTINF:-1,Spektrum Ⓖ
+http://141.94.193.53:80/Spektrum_HD/index.m3u8
+#EXTINF:-1,Spektrum Home Ⓖ
+http://141.94.193.53:80/Spektrum_Home_HD/index.m3u8
+#EXTINF:-1,Galaxy4 Ⓖ
+http://141.94.193.53:80/Galaxy4_HD/index.m3u8
+#EXTINF:-1,DTV Ⓖ
+https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
+#EXTINF:-1,Sport1 Ⓖ
+http://141.94.193.53:80/Sport_1_HD/index.m3u8
+#EXTINF:-1,Sport2 Ⓖ
+http://141.94.193.53:80/Sport_2_HD/index.m3u8
 #EXTINF:-1,EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
-#EXTINF:-1,Radio 1 Ⓨ
-https://www.youtube.com/@radio1hungary/live
 #EXTINF:-1,DikhTv Ⓨ
 https://www.youtube.com/c/DikhTvGipsyTv/live
-#EXTINF:-1,Euronews Hungarian Ⓨ
-https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
+#EXTINF:-1,Kossuth Rádió
+https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8
+#EXTINF:-1,Petőfi Rádió
+https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8
+#EXTINF:-1,Bartók Rádió
+https://budapest-cache-1.antik.sk/live/bartok_radio/index.m3u8
+#EXTINF:-1,Dankó Rádió
+https://icast.connectmedia.hu/4747/mr7.aac
+#EXTINF:-1,Rádió1
+https://budapest-cache-1.antik.sk/live/radio_1/index.m3u8
+#EXTINF:-1,Retró Rádió
+https://budapest-cache-1.antik.sk/live/retro/index.m3u8
+#EXTINF:-1,90.9 Jazzy FM
+https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8
+#EXTINF:-1,Juventus Rádió
+https://budapest-cache-1.antik.sk/live/juventus/index.m3u8
+#EXTINF:-1,Hír FM
+https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8
+#EXTINF:-1,Spirit FM
+https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8
+#EXTINF:-1,Sláger FM
+https://budapest-cache-1.antik.sk/live/slager/index.m3u8
+#EXTINF:-1,Film+
+http://141.94.193.53:80/Film+_HD/index.m3u8
+#EXTINF:-1,Izaura TV Ⓖ
+http://141.94.193.53:80/Izaura_TV_HD/index.m3u8
+#EXTINF:-1,Film4 Ⓖ
+http://141.94.193.53:80/Film4_HD/index.m3u8
+#EXTINF:-1,Mozi+ Ⓖ
+http://141.94.193.53:80/Mozi+_HD/index.m3u8
+#EXTINF:-1,AMC Ⓖ
+http://141.94.193.53:80/AMC_HD/index.m3u8
+#EXTINF:-1,TV Paprika Ⓖ
+http://141.94.193.53:80/TV_Paprika_HD/index.m3u8
 #EXTINF:-1,FehérvárTV
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
 #EXTINF:-1,Kapos TV

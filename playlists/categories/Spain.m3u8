@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Spain
-#TOTAL: 39
+#TOTAL: 36
 
 #EXTINF:-1,La 2
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8
@@ -38,8 +38,6 @@ https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_1.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 #EXTINF:-1,Neox Ⓢ
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
-#EXTINF:-1,Nova Ⓢ
-http://40.160.24.55/Nova/index.m3u8
 #EXTINF:-1,Mega Ⓢ
 http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
 #EXTINF:-1,FDF
@@ -52,8 +50,6 @@ https://telemadrid-23-secure2.akamaized.net/master.m3u8
 https://laotra-1-23-secure2.akamaized.net/master.m3u8
 #EXTINF:-1,Canal Sur Andalucía
 https://d4oe4cnrgi9c9.cloudfront.net/master.m3u8
-#EXTINF:-1,La 7 CYLTV
-http://nws.nice264.com/ilive/cyl/cyl_cyltvlivem_MB_348/playlist.m3u8
 #EXTINF:-1,IB3 Global Ⓨ
 https://www.youtube.com/c/ib3/live
 #EXTINF:-1,Canal Extremadura
@@ -66,8 +62,6 @@ https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
 #EXTINF:-1,Esport3 Ⓖ
 https://directes-tv-es.3catdirectes.cat/live-origin/esport3-hls/master.m3u8
-#EXTINF:-1,Canal TE24
-https://ingest1-video.streaming-pro.com/esportsteABR/etestream/playlist.m3u8
 #EXTINF:-1,À Punt TV
 https://bcovlive-a.akamaihd.net/8499d938ef904e39b58a4adec2ddeada/eu-west-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1,7 Región de Murcia Ⓢ

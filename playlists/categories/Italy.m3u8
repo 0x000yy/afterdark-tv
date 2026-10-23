@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Italy
-#TOTAL: 296
+#TOTAL: 299
 
 #EXTINF:-1,Rai 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
@@ -590,6 +590,12 @@ https://www.youtube.com/radiocolonna/live
 https://www.youtube.com/user/trmh24/live
 #EXTINF:-1,Euronews Italian Ⓨ
 https://www.youtube.com/user/euronewsit/live
+#EXTINF:-1,K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#EXTINF:-1,Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+#EXTINF:-1,Canale 58
+https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8
 #EXTINF:-1,Teleroma 56 Ⓣ
 https://www.twitch.tv/teleroma_56
 #EXTINF:-1,TeleRadioStereo Ⓣ

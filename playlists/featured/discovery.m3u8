@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/discovery.m3u8
-#DATE: 2026-10-23 05:08:02 UTC
+#DATE: 2026-10-23 17:17:49 UTC
 #TOTAL: 51
 
 #EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD" group-title="غير مصنف",Discovery Channel
@@ -43,10 +43,10 @@ http://38.134.250.110:8000/play/a01y/index.m3u8
 http://45.171.64.30:6060/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTheaterLatinAmerica.us@SD" group-title="غير مصنف",Discovery Theater Latin America (1080p)
 http://181.224.200.5:2277/play/a0bj/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Entertainment",Discovery Channel Latin America (1080p)
-http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us@Brazil" tvg-logo="https://i.imgur.com/yNFmUkE.png" group-title="Entertainment",Discovery World Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Entertainment",Discovery Channel Latin America (1080p)
+http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Chile" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Kids",Discovery Kids Latin America Chile (1080p)
 http://38.224.231.176:8000/play/a01j/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Mexico" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Kids",Discovery Kids Latin America Mexico (1080p)
