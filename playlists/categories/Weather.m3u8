@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Weather
-#TOTAL: 16
+#TOTAL: 17
 
 #EXTINF:-1,Weathernews (720p)
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
@@ -14,6 +14,8 @@ https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
 https://jmp2.uk/plu-63da370e2e477400081cf8b6.m3u8
 #EXTINF:-1,Sky News Weather (720p)
 https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
+#EXTINF:-1,News24 Weather
+https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8
 #EXTINF:-1,WeatherSpy (Australia) (720p)
 https://jukin-weatherspy-2-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,AccuWeather NOW (1080p)
