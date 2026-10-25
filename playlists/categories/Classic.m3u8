@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Classic
-#TOTAL: 53
+#TOTAL: 52
 
 #EXTINF:-1,Nostalgia (Bulgaria)
 http://213.91.179.28:8000/play/a03q
@@ -36,8 +36,6 @@ https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
 https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1,The Andy Griffith Show CA
 https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
-#EXTINF:-1,13Rec (576p)
-http://45.4.1.201:8000/play/a11i/index.m3u8
 #EXTINF:-1,TVN3 (1080p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1,Nostalgia (Russia) (576p)

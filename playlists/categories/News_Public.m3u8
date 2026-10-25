@@ -12,7 +12,7 @@ https://directes-tv-cat.3catdirectes.cat/live-content/oca3-hls/master.m3u8
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 #EXTINF:-1,24 Horas Catalunya (720p)
 https://ztnr.rtve.es/ztnr/4952053.m3u8
-#EXTINF:-1,24 Horas (Spain) (720p)
+#EXTINF:-1,24 Horas (720p)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1,24 Horas Canarias (1080p)
 http://185.47.212.25:8080/24h_HD/index.m3u8

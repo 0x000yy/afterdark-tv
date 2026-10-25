@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Business
-#TOTAL: 58
+#TOTAL: 56
 
 #EXTINF:-1,Bloomberg TV Bulgaria
 http://213.91.179.28:8000/play/a04m
@@ -8,12 +8,12 @@ http://213.91.179.28:8000/play/a04m
 https://tv.nucast.tv/lb/ge/bmg/index.m3u8
 #EXTINF:-1,Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1,Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1,Bloomberg HT (720p)
 https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1,Bloomberg TV Mongolia (1080p)
 https://cdn4.skygo.mn/live/disk1/BloombergMon/DASH-FTA/BloombergMon.mpd
-#EXTINF:-1,Cafe Trade TV
-https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1,CNBC Indonesia
 https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8
 #EXTINF:-1,Ekhon TV (1080p)
@@ -48,12 +48,10 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 https://tv.laboralsst.com.br/hls/stream.m3u8
 #EXTINF:-1,MNTV
 https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
-#EXTINF:-1,Canal Pro
-https://www.desde-paraguay.com/pro.m3u8
-#EXTINF:-1,Zuraca TV (720p)
-https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 #EXTINF:-1,Tevex (1080p)
 https://v2.tustreaming.cl/tevex/index.m3u8
+#EXTINF:-1,Zuraca TV (720p)
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 #EXTINF:-1,Atameken Business (576p)
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
 #EXTINF:-1,Pro Business (720p)
@@ -68,10 +66,6 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 #EXTINF:-1,Champion TV
 https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
-#EXTINF:-1,Ausbiz TV (720p) [Not 24/7]
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1,Bloomberg TV Australia (270p)
-https://bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1,30A Investment Pitch (720p)
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1,Ameritrade (1080p) [Not 24/7]
@@ -98,6 +92,8 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2506
 #EXTINF:-1,ET Now (720p) [Geo-blocked]
 https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
+#EXTINF:-1,ET Now Swadesh (1080p) [Geo-blocked]
+https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etswadesh/etswadesh_master.m3u8
 #EXTINF:-1,Fox Business Network (576p)
 https://tvsen6.aynaott.com/foxbusiness/index.m3u8
 #EXTINF:-1,Le Nouveau Manager TV
