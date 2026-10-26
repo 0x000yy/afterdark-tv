@@ -43,19 +43,19 @@
     "spacetoon": 16,
     "sudan": 2,
     "supersport": 17,
-    "syria": 10,
+    "syria": 9,
     "tunisia": 5,
     "wwe": 1,
     "yemen": 1
   },
   "categories": {
-    "documentary": 296,
-    "kids": 490,
-    "movies": 898,
-    "music": 876,
-    "news": 1506,
-    "other": 11242,
-    "sports": 580
+    "documentary": 294,
+    "kids": 491,
+    "movies": 897,
+    "music": 883,
+    "news": 1495,
+    "other": 11248,
+    "sports": 578
   },
   "total_channels": 15801
 }
