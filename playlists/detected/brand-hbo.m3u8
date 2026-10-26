@@ -1,34 +1,36 @@
 #EXTM3U
 #PLAYLIST: detected/brand-hbo.m3u8
-#DATE: 2026-10-25 16:38:45 UTC
+#DATE: 2026-10-26 04:57:35 UTC
 #TOTAL: 20
 
 #EXTINF:-1 tvg-id="HBO2.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" group-title="Movies",HBO 2
-http://88.212.15.17/live/test_hbo2_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO3.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" group-title="Movies",HBO 3
-http://88.212.15.17/live/test_hbo3_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924" group-title="Movies",HBO (Czech Republic)
-http://88.212.15.17/live/test_hbo_hd_hevc/playlist.m3u8
+http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Movies",HBO Asia Taiwan (1080p)
 http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="غير مصنف",HBO Asia SD (720p) [Geo-blocked]
 https://tinyurl.com/yn3d3rmd
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1 tvg-id="HBO.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies;Series",HBO (United States) (720p)
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="Movies;Series",HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America HD (1080p)
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/960px-HBO_Xtreme.svg.png" group-title="Movies;Series",HBO Xtreme Latin America
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" group-title="غير مصنف",HBO Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
-#EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" group-title="غير مصنف",HBO 2 Latin America HD (1080p)
-http://45.171.64.30:6060/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us@SD" group-title="غير مصنف",HBO+ Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" group-title="غير مصنف",HBO 2 Latin America HD (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" group-title="غير مصنف",HBO Family Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us@East" group-title="غير مصنف",HBO Hits (720p)
-http://tvsen7.aynascope.net/hbo2/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us@East" group-title="غير مصنف",HBO (720p)
-http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" group-title="غير مصنف",HBO Latin America (1080p)
 https://streaming.onnethn.com/HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" group-title="غير مصنف",HBO 2 Latin America HD
@@ -37,8 +39,6 @@ https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/hbo2/chunks.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cinemax.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOSignatureLatinAmerica.us@SD" group-title="غير مصنف",HBO Signature Latin America
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/hbosignature.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us@SD" group-title="غير مصنف",HBO Xtreme Latin America
-https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" group-title="غير مصنف",HBO Latin America (720p)
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO/chunks.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" group-title="غير مصنف",HBO Family Latin America

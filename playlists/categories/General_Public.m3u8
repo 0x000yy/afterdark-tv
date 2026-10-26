@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: General;Public
-#TOTAL: 18
+#TOTAL: 17
 
 #EXTINF:-1,Galicia TV Europa (720p)
 https://crtvg-europa.flumotion.cloud/playlist.m3u8
@@ -20,8 +20,6 @@ https://ztnr.rtve.es/ztnr/3987218.m3u8
 https://cdnlive.codev8.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?DVR=
 #EXTINF:-1,Canal Sur 2 (720p)
 https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
-#EXTINF:-1,Canal Sur
-https://cdn.stmify.com/zapitv/stream/CANAL_SUR/canal_sur_hd.mpd
 #EXTINF:-1,Canal Sur Andalucia (1080p)
 https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
 #EXTINF:-1,CMM TV HD (1080p)

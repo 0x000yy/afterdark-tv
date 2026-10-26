@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Hungary
-#TOTAL: 42
+#TOTAL: 44
 
 #EXTINF:-1,M1 Hiradó Ⓨ
 https://www.youtube.com/@M1-Hirado/live
@@ -40,6 +40,10 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
 #EXTINF:-1,Sport2 Ⓖ
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
+#EXTINF:-1,FEM3 (TV2 Klub)
+http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1,Viasat 6
+http://88.212.15.17/live/viasat6/index.m3u8
 #EXTINF:-1,EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1,DikhTv Ⓨ
