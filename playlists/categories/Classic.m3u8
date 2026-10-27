@@ -8,12 +8,12 @@ http://213.91.179.28:8000/play/a03q
 https://clshls.wns.live/hls/stream.m3u8
 #EXTINF:-1,GEM Classic
 https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
+#EXTINF:-1,CCTV-Nostalgia Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1,Rotana Classic (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/classical_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Thikrayat TV (1080p) [Geo-blocked]
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c96275735745b89c683b27e3/index.m3u8
-#EXTINF:-1,CCTV-Nostalgia Theater (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 #EXTINF:-1,Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1,MacGyver (United States)
@@ -24,8 +24,6 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1,TeleNostalgia (1080p)
 http://38.134.250.110:8000/play/a01q/index.m3u8
-#EXTINF:-1,TVN3 (1080p) [Geo-blocked]
-https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1,Classic TV: Families CA
 https://jmp2.uk/plu-62e91af00c43540007f2bb43.m3u8
 #EXTINF:-1,Pluto TV Classic TV Variety
@@ -38,6 +36,8 @@ https://jmp2.uk/plu-630f1e6073bd1800082107f0.m3u8
 https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 #EXTINF:-1,The Andy Griffith Show CA
 https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+#EXTINF:-1,TVN3 (1080p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 #EXTINF:-1,Nostalgia (Russia) (576p)
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1,Retro (576p)

@@ -7,7 +7,7 @@
     "bbc": 123,
     "bein": 25,
     "canal": 527,
-    "cartoon": 129,
+    "cartoon": 130,
     "cnn": 37,
     "dazn": 3,
     "discovery": 34,
@@ -43,19 +43,19 @@
     "spacetoon": 16,
     "sudan": 2,
     "supersport": 17,
-    "syria": 9,
+    "syria": 10,
     "tunisia": 5,
     "wwe": 1,
     "yemen": 1
   },
   "categories": {
-    "documentary": 294,
-    "kids": 491,
-    "movies": 897,
-    "music": 883,
-    "news": 1495,
-    "other": 11248,
-    "sports": 578
+    "documentary": 295,
+    "kids": 493,
+    "movies": 899,
+    "music": 897,
+    "news": 1515,
+    "other": 11205,
+    "sports": 584
   },
-  "total_channels": 15801
+  "total_channels": 15802
 }
