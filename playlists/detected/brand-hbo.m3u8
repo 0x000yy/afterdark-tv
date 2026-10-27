@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: detected/brand-hbo.m3u8
-#DATE: 2026-10-27 05:17:41 UTC
+#DATE: 2026-10-27 18:13:56 UTC
 #TOTAL: 20
 
 #EXTINF:-1 tvg-id="HBO2.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" group-title="Movies",HBO 2
@@ -15,10 +15,6 @@ http://125.227.210.55:1003/VideoInput/play.ts
 https://tinyurl.com/yn3d3rmd
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/960px-HBO_Family.svg.png" group-title="Family",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="HBO.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/960px-HBO_logo.svg.png" group-title="Movies;Series",HBO (United States) (720p)
-http://tvsen7.aynascope.net/hbo/index.m3u8
-#EXTINF:-1 tvg-id="HBOHits.us@East" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/HBO_Hits_Logo.svg/960px-HBO_Hits_Logo.svg.png" group-title="Movies;Series",HBO Hits (720p)
-http://tvsen7.aynascope.net/hbo2/index.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" group-title="غير مصنف",HBO Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" group-title="غير مصنف",HBO 2 Latin America HD (1080p)
@@ -29,6 +25,10 @@ http://15.204.246.24:8080/HBOPlusHD/index.m3u8
 http://15.204.246.24:8080/HBO2HD/index.m3u8
 #EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us@SD" group-title="غير مصنف",HBO Family Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOFamilyHD/index.m3u8
+#EXTINF:-1 tvg-id="HBOHits.us@East" group-title="غير مصنف",HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBO.us@East" group-title="غير مصنف",HBO (720p)
+http://tvsen7.aynascope.net/hbo/index.m3u8
 #EXTINF:-1 tvg-id="HBOLatinAmerica.us@SD" group-title="غير مصنف",HBO Latin America (1080p)
 https://streaming.onnethn.com/HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" group-title="غير مصنف",HBO 2 Latin America HD

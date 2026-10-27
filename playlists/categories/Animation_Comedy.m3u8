@@ -2,24 +2,6 @@
 #GROUP: Animation;Comedy
 #TOTAL: 56
 
-#EXTINF:-1,South Park (Sweden)
-https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
-#EXTINF:-1,South Park Armageddon
-https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
-#EXTINF:-1,South Park Rockin' Out
-https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
-#EXTINF:-1,South Park: Butters Collection (Sweden)
-https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
-#EXTINF:-1,South Park: Cartman Collection (Sweden)
-https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
-#EXTINF:-1,South Park: Into the Stars
-https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
-#EXTINF:-1,South Park: Kenny Collection (Sweden)
-https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
-#EXTINF:-1,South Park: Kyle Collection (Sweden)
-https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
-#EXTINF:-1,South Park: Stan Collection (Sweden)
-https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
 #EXTINF:-1,South Park (Sweden) NO
 https://jmp2.uk/plu-61c1e88cd168ea0007068133.m3u8
 #EXTINF:-1,South Park Armageddon NO
@@ -38,6 +20,24 @@ https://jmp2.uk/plu-65d87f53ec9fda0008a5b810.m3u8
 https://jmp2.uk/plu-65d88004ec9fda0008a5b8b3.m3u8
 #EXTINF:-1,South Park: Stan Collection (Sweden) NO
 https://jmp2.uk/plu-65d87f7a28730900088e7fbf.m3u8
+#EXTINF:-1,South Park (Sweden)
+https://jmp2.uk/plu-61c0b627e3ed94000793c18a.m3u8
+#EXTINF:-1,South Park Armageddon
+https://jmp2.uk/plu-660bff7dc8311c0008b4bdb4.m3u8
+#EXTINF:-1,South Park Rockin' Out
+https://jmp2.uk/plu-664f13aff9992200084a3532.m3u8
+#EXTINF:-1,South Park: Butters Collection (Sweden)
+https://jmp2.uk/plu-65d881d566eec8000887f6bb.m3u8
+#EXTINF:-1,South Park: Cartman Collection (Sweden)
+https://jmp2.uk/plu-65d881b1332fec000833a122.m3u8
+#EXTINF:-1,South Park: Into the Stars
+https://jmp2.uk/plu-664f0eea0120f40008bf97d6.m3u8
+#EXTINF:-1,South Park: Kenny Collection (Sweden)
+https://jmp2.uk/plu-65d880cea25d5e0008315b0a.m3u8
+#EXTINF:-1,South Park: Kyle Collection (Sweden)
+https://jmp2.uk/plu-65d882394e01740008a36768.m3u8
+#EXTINF:-1,South Park: Stan Collection (Sweden)
+https://jmp2.uk/plu-65d881914e01740008a36603.m3u8
 #EXTINF:-1,South Park (Sweden) DK
 https://jmp2.uk/plu-61c098df897b9d00070375c8.m3u8
 #EXTINF:-1,South Park Armageddon DK
