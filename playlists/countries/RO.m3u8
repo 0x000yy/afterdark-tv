@@ -1,7 +1,9 @@
 #EXTM3U
 #COUNTRY: RO
-#TOTAL: 2
+#TOTAL: 3
 
+#EXTINF:-1,Pro TV
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1,România TV Ⓖ
 https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
 #EXTINF:-1,Euronews România Ⓨ
