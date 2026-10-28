@@ -1,9 +1,11 @@
 #EXTM3U
 #GROUP: Kids;Religious
-#TOTAL: 8
+#TOTAL: 9
 
 #EXTINF:-1,God Stands Kids Club TV Urdu
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsUrdu.m3u8
+#EXTINF:-1,Koogi TV (1080p)
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1,God Stands Kids Club TV Chinese
 https://online.godstands.tv:5443/WebRTCApp/streams/KidsChinese.m3u8
 #EXTINF:-1,God Stands Kids Club TV Arabic
