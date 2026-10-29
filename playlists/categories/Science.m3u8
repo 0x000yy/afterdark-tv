@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Science
-#TOTAL: 13
+#TOTAL: 14
 
 #EXTINF:-1,Eko TV (720p)
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
@@ -18,6 +18,8 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 #EXTINF:-1,Discovery Science Latin America ColombiaPeru (720p)
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
+#EXTINF:-1,Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1,.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,InWonder (1080p)

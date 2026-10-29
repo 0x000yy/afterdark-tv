@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: detected/brand-jazeera.m3u8
-#DATE: 2026-10-28 18:33:58 UTC
-#TOTAL: 30
+#DATE: 2026-10-29 06:06:50 UTC
+#TOTAL: 31
 
 #EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa@SD" tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
@@ -61,5 +61,7 @@ https://live-hls-web-ajm2-fa.thehlive.com/AJM2/index.m3u8
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (720p)
 http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (576p)
+https://fta.ektv.in/live/318/master.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraBalkans.ba" tvg-logo="https://i.imgur.com/Z1FB6wl.png" tvg-country="HR" group-title="Croatia",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: detected/brand-iraq.m3u8
-#DATE: 2026-10-28 18:33:58 UTC
-#TOTAL: 36
+#DATE: 2026-10-29 06:06:50 UTC
+#TOTAL: 37
 
 #EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="Undefined",Al Iraqia Kurdish (720p)
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
@@ -55,6 +55,8 @@ http://stream.mcquack.net/131/index.m3u8
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (720p)
 http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (576p)
+https://fta.ektv.in/live/318/master.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq@SD" group-title="غير مصنف",Al Sharqiya (1080p)
 https://indexforce.com/tvhighres/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlhurraTVIraq.iq" tvg-logo="https://i.imgur.com/mXBZEQP.png" tvg-country="IQ" group-title="Iraq",Al-Hurra Iraq

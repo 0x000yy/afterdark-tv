@@ -18,5 +18,5 @@ https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m
 http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1,Ost West (576p)
 http://hls127.freeott.top:8080/OstWest/video.m3u8
-#EXTINF:-1,DD Mizoram (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1,DD Mizoram (576p)
+https://fta.ektv.in/live/381/master.m3u8
