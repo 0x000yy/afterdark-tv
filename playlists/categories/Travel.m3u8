@@ -1,27 +1,27 @@
 #EXTM3U
 #GROUP: Travel
-#TOTAL: 46
+#TOTAL: 45
 
 #EXTINF:-1,Tanzania Safari Channel (576p)
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 #EXTINF:-1,Travel TV (576p)
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1,RTG TV (720p)
-http://31.148.48.15/RTG_HD/index.m3u8
 #EXTINF:-1,BamBarBia.TV (720p) [Not 24/7]
 http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
-#EXTINF:-1,Discover Pakistan (1080p)
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1,TV Sayohi (1080p)
 https://live.teleradiocom.tj/16/3m.m3u8
-#EXTINF:-1,Travel Mix
-https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
-#EXTINF:-1,Living Asia Channel (1080p)
-https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1,RTG TV (720p)
+http://31.148.48.15/RTG_HD/index.m3u8
 #EXTINF:-1,Travelxp 4K HDR (2160p) [Geo-blocked]
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1,Travelxp HD (1080p)
 http://103.151.60.162:2122/play/a01s/index.m3u8?hls
+#EXTINF:-1,Travel Mix
+https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
+#EXTINF:-1,Discover Pakistan (1080p)
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
+#EXTINF:-1,Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1,Jamaica Travel Channel (720p)
 https://stream-207076.castr.net/651b2d8bde8119abf5dabf19/live_2e935360c78c11eea7a2615e1a7388f3/index.m3u8
 #EXTINF:-1,Aruba.TV (1080p)
@@ -60,8 +60,6 @@ http://stream.mcquack.net/206/index.m3u8
 http://stream.mcquack.net/451/index.m3u8
 #EXTINF:-1,Vkus (576p)
 http://178.134.1.158:8081/vkus/index.m3u8
-#EXTINF:-1,Schladming-Dachstein TV (720p)
-https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1,RTG int.
 http://213.91.179.28:8000/play/a0bw
 #EXTINF:-1,Travel Channel (Poland) (576i)
