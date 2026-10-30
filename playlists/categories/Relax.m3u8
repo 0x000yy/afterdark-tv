@@ -1,11 +1,13 @@
 #EXTM3U
 #GROUP: Relax
-#TOTAL: 4
+#TOTAL: 5
 
 #EXTINF:-1,MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1,ZenLIFE by Stingray (1080p)
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1,Home 4K
+http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8
 #EXTINF:-1,Better Life Nature Channel (480p)
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1,Screen Dreams (720p)

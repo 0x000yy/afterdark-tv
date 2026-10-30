@@ -1,0 +1,6 @@
+#EXTM3U
+#COUNTRY: IS
+#TOTAL: 1
+
+#EXTINF:-1,Alþingi
+https://althingi-live.secure.footprint.net/althingi/live/index.m3u8

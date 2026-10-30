@@ -7,7 +7,7 @@
     "bbc": 123,
     "bein": 5,
     "canal": 526,
-    "cartoon": 129,
+    "cartoon": 130,
     "cnn": 37,
     "dazn": 7,
     "discovery": 37,
@@ -19,7 +19,7 @@
     "hbo": 23,
     "iraq": 37,
     "jazeera": 31,
-    "jordan": 12,
+    "jordan": 13,
     "kuwait": 20,
     "lebanon": 7,
     "libya": 2,
@@ -32,7 +32,7 @@
     "nba": 4,
     "nfl": 3,
     "nick": 65,
-    "oman": 128,
+    "oman": 129,
     "osn": 2,
     "palestine": 10,
     "qatar": 17,
@@ -50,12 +50,12 @@
   },
   "categories": {
     "documentary": 295,
-    "kids": 490,
+    "kids": 488,
     "movies": 906,
-    "music": 895,
-    "news": 1595,
-    "other": 11444,
-    "sports": 573
+    "music": 897,
+    "news": 1597,
+    "other": 11446,
+    "sports": 572
   },
-  "total_channels": 16112
+  "total_channels": 16115
 }
