@@ -1,6 +1,6 @@
 #EXTM3U
 #COUNTRY: CL
-#TOTAL: 14
+#TOTAL: 15
 
 #EXTINF:-1,UCV Televisión
 https://unlimited1-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
@@ -16,6 +16,8 @@ https://iptv2.intersurtv.cl/TVN/index.m3u8
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
 #EXTINF:-1,NTV Ⓖ
 https://cdn1tlinkgo.tlink.cl/ntvhd/mono.m3u8
+#EXTINF:-1,TV Chile Ⓖ
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1,Chilevisión Ⓖ
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
 #EXTINF:-1,Chilevisión Noticias

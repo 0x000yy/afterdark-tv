@@ -1,19 +1,19 @@
 {
   "brands": {
     "abudhabi": 4,
-    "algeria": 132,
+    "algeria": 131,
     "arabiya": 26,
     "bahrain": 5,
-    "bbc": 123,
+    "bbc": 122,
     "bein": 5,
-    "canal": 526,
-    "cartoon": 130,
-    "cnn": 37,
+    "canal": 520,
+    "cartoon": 131,
+    "cnn": 36,
     "dazn": 7,
     "discovery": 37,
     "disney": 51,
     "dubai": 12,
-    "espn": 35,
+    "espn": 34,
     "eurosport": 13,
     "fox": 67,
     "hbo": 23,
@@ -32,7 +32,7 @@
     "nba": 4,
     "nfl": 3,
     "nick": 65,
-    "oman": 129,
+    "oman": 128,
     "osn": 2,
     "palestine": 10,
     "qatar": 17,
@@ -50,12 +50,12 @@
   },
   "categories": {
     "documentary": 295,
-    "kids": 487,
-    "movies": 903,
-    "music": 896,
-    "news": 1591,
-    "other": 11458,
-    "sports": 571
+    "kids": 490,
+    "movies": 904,
+    "music": 891,
+    "news": 1588,
+    "other": 11437,
+    "sports": 574
   },
-  "total_channels": 16115
+  "total_channels": 16093
 }

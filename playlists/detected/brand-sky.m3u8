@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: detected/brand-sky.m3u8
-#DATE: 2026-10-30 18:18:31 UTC
+#DATE: 2026-10-31 05:59:06 UTC
 #TOTAL: 29
 
 #EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png" group-title="News",Sky News Urdu (720p)
@@ -29,7 +29,7 @@ https://cdn5.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 https://eu.live.skyfolk.mk/live.m3u8
 #EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" group-title="غير مصنف",Sky Folk TV (720p) [Not 24/7]
 https://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-id="HGTV.nz@SD" group-title="غير مصنف",HGTV (1080p)
+#EXTINF:-1 tvg-id="HGTV.nz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/960px-HGTV_US_Logo_2015.svg.png" group-title="Lifestyle",HGTV (New Zealand) (1080p)
 https://mediapackage-sky-hgtv-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 tvg-id="News24.au@SD" group-title="غير مصنف",News24 (1080p)
 https://skynewsau-live-premium.akamaized.net/hls/live/2105299/skynews/live.m3u8

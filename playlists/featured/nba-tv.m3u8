@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/nba-tv.m3u8
-#DATE: 2026-10-30 18:18:34 UTC
-#TOTAL: 24
+#DATE: 2026-10-31 05:59:08 UTC
+#TOTAL: 23
 
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Sports",NBA TV (720p)
 http://23.237.104.106:8080/USA_NBA/index.m3u8
@@ -31,8 +31,6 @@ https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://server.playontv.in/raatdinbangla/index.m3u8
 #EXTINF:-1 tvg-id="Nova.bg@SD" group-title="غير مصنف",Nova
 http://213.91.179.28:8000/play/a03l
-#EXTINF:-1 tvg-id="SuspilneDonbas.ua@SD" tvg-logo="https://i.imgur.com/GPXrpJC.png" group-title="General",Suspilne. Donbas (576p)
-http://hls127.freeott.top:8080/UA_DONBAS/video.m3u8
 #EXTINF:-1 tvg-id="TVRI.id@WestKalimantan" group-title="غير مصنف",TVRI Kalimantan Barat (480p)
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BL9ziSJ.png" tvg-country="CA" group-title="Canada",Noovo

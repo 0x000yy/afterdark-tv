@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/nickelodeon.m3u8
-#DATE: 2026-10-30 18:18:39 UTC
+#DATE: 2026-10-31 05:59:13 UTC
 #TOTAL: 98
 
 #EXTINF:-1 tvg-id="NickJr.cz@SD" group-title="غير مصنف",Nick Jr.
@@ -21,14 +21,14 @@ http://176.61.157.250/NickJr/index.m3u8
 http://92.114.85.87:8013/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.it@SD" group-title="غير مصنف",Nick Jr. (720p)
 http://102.129.186.182:81/nick/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us@East" group-title="غير مصنف",Nick Jr. (720p)
-http://212.5.144.156:8080/nickjr/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us@East" group-title="غير مصنف",Nick Jr. (720p)
-http://tvsen7.aynascope.net/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.ru@SD" group-title="غير مصنف",Nick Jr. (576p)
 http://stream.mcquack.net/220/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.ru@SD" group-title="غير مصنف",Nick Jr. (576p)
 https://stream8.cinerama.uz/1501/playlist.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" group-title="غير مصنف",Nick Jr. (720p)
+http://212.5.144.156:8080/nickjr/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.us@East" group-title="غير مصنف",Nick Jr. (720p)
+http://tvsen7.aynascope.net/nickjr/index.m3u8
 #EXTINF:-1 tvg-id="NickSchweiz.ch@SD" group-title="غير مصنف",Nick Schweiz
 https://hostemea1236.s.gy/hostemea/nickschweiz/28/25/65/74/gg/locos.m3u8
 #EXTINF:-1 tvg-id="NickJrPlutoTV.us@CA" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Kids",Nick Jr. Pluto TV CA
@@ -53,12 +53,12 @@ https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
 http://178.76.68.60:7442/80/mpegts
 #EXTINF:-1 tvg-id="Nickelodeon.cz@SD" group-title="غير مصنف",Nickelodeon
 http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.de@SD" group-title="غير مصنف",Nickelodeon
-https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon
 http://213.91.179.28:8000/play/a056
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon
 http://87.120.179.187:8000/play/a00x
+#EXTINF:-1 tvg-id="Nickelodeon.de@SD" group-title="غير مصنف",Nickelodeon
+https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.hu@SD" group-title="غير مصنف",Nickelodeon
 http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.it@SD" group-title="غير مصنف",Nickelodeon
@@ -89,10 +89,10 @@ http://tvsen7.aynascope.net/nicklodean/index.m3u8
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.pl@SD" group-title="غير مصنف",Nickelodeon (576i)
 http://92.114.85.87:8013/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="غير مصنف",Nickelodeon (720p)
-http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" group-title="غير مصنف",Nickelodeon (576p)
 http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" group-title="غير مصنف",Nickelodeon (720p)
+http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NikiJunior.ua@SD" tvg-logo="https://i.imgur.com/DrHsNin.png" group-title="Kids",Niki Junior (1080p)
 http://stream.mcquack.net/262/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.hr@SD" group-title="غير مصنف",Nickelodeon (1080p)
@@ -169,10 +169,10 @@ http://tvsen7.aynascope.net/teennick/index.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="MinikaGo.tr@SD" group-title="غير مصنف",Minika Go (576p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk (720p)
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="EllinikosFM.gr@SD" tvg-logo="https://i.ibb.co/y0ydCNB/unnamed-4.png" group-title="Music",Ellinikos FM (720p)
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" tvg-logo="https://i.imgur.com/VCywMTv.png" group-title="Kids",Minika Cocuk (720p)
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="MinikaCocuk.tr@SD" group-title="غير مصنف",Minika Cocuk (576p)
 http://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="TeenNick.il@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_2019_logo.svg/960px-TeenNick_2019_logo.svg.png" group-title="Kids",TeenNick (Israel) (406p)
