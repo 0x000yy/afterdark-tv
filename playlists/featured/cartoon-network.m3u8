@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/cartoon-network.m3u8
-#DATE: 2026-10-31 17:27:46 UTC
-#TOTAL: 36
+#DATE: 2026-11-01 06:23:38 UTC
+#TOTAL: 38
 
 #EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" group-title="غير مصنف",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
@@ -9,6 +9,8 @@ https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3
 http://176.65.153.40:6002/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.ru@SD" group-title="غير مصنف",Cartoon Classics
 http://88.218.242.237:8001/Cartoon_Classics
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="غير مصنف",Cartoon Network Asia
+http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in@SD" group-title="غير مصنف",Cartoon Network (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae@SD" group-title="غير مصنف",Cartoon Network Arabic
@@ -49,6 +51,8 @@ http://45.173.12.70:8000/play/a0fj
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://i.imgur.com/oK2DcDJ.png" tvg-country="IT" group-title="Italy",Cartoonito Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" group-title="غير مصنف",Cartoonito Asia
+http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it@HD" tvg-logo="https://i.imgur.com/6vYWCD0.png" group-title="Animation;Kids",Cartoonito HD (720p)
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito Asia (720p)
