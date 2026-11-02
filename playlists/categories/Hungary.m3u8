@@ -1,29 +1,29 @@
 #EXTM3U
 #GROUP: Hungary
-#TOTAL: 44
+#TOTAL: 50
 
-#EXTINF:-1,M1 Hiradó Ⓨ
-https://www.youtube.com/@M1-Hirado/live
-#EXTINF:-1,M4 Sport Ⓖ
-http://141.94.193.53:80/M4_Sport_HD/index.m3u8
 #EXTINF:-1,M1 Ⓖ
 http://141.94.193.53:80/M1_HD/index.m3u8
 #EXTINF:-1,M2 / Petőfi TV Ⓖ
 http://141.94.193.53:80/M2_HD/index.m3u8
-#EXTINF:-1,M5 Hungary Ⓖ
-http://141.94.193.53:80/M5_HD/index.m3u8
 #EXTINF:-1,Duna TV Ⓖ
 http://141.94.193.53:80/Duna_HD/index.m3u8
-#EXTINF:-1,Hír TV
-https://video11.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
-#EXTINF:-1,ErdélyTV Ⓨ
-https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
+#EXTINF:-1,M4 Sport Ⓖ
+http://141.94.193.53:80/M4_Sport_HD/index.m3u8
+#EXTINF:-1,M5 Hungary Ⓖ
+http://141.94.193.53:80/M5_HD/index.m3u8
+#EXTINF:-1,Duna World / M4+ Sport
+http://141.94.193.53:80/Duna_World_M4_Sport+_HD/index.m3u8
 #EXTINF:-1,RTL Klub
 http://141.94.193.53:80/RTL_HD/index.m3u8
 #EXTINF:-1,TV2
 http://141.94.193.53:80/TV2_HD/index.m3u8
 #EXTINF:-1,ATV
 http://141.94.193.53:80/ATV_HD/index.m3u8
+#EXTINF:-1,Hír TV
+https://video11.videa.hu/static/live/8.3754346.2530409.1.0.1.1/index.m3u8
+#EXTINF:-1,ErdélyTV Ⓨ
+https://www.youtube.com/channel/UCS5t4xWMT6lIZ9tcPROUd5A/live
 #EXTINF:-1,TV4
 http://141.94.193.53:80/TV4_HD/index.m3u8
 #EXTINF:-1,Cool
@@ -40,14 +40,44 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m
 http://141.94.193.53:80/Sport_1_HD/index.m3u8
 #EXTINF:-1,Sport2 Ⓖ
 http://141.94.193.53:80/Sport_2_HD/index.m3u8
-#EXTINF:-1,FEM3 (TV2 Klub)
-http://88.212.15.17/live/test_fem3_atktv/playlist.m3u8
-#EXTINF:-1,Viasat 6
-http://88.212.15.17/live/viasat6/index.m3u8
+#EXTINF:-1,Viasat3.
+http://141.94.193.53:80/VIASAT3_HD/index.m3u8
+#EXTINF:-1,Story4.
+http://141.94.193.53:80/Story4_HD/index.m3u8
+#EXTINF:-1,Minimax.
+http://141.94.193.53:80/Minimax/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://141.94.193.53:80/Viasat_Explore_HD/index.m3u8
+#EXTINF:-1,Viasat History
+http://141.94.193.53:80/Viasat_History_HD/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://141.94.193.53:80/Viasat_Nature_HD/index.m3u8
+#EXTINF:-1,EuroSport1
+http://141.94.193.53:80/Eurosport_1_HD/index.m3u8
+#EXTINF:-1,Nat Geo
+http://141.94.193.53:80/Nat_Geo_HD/index.m3u8
+#EXTINF:-1,Film+
+http://141.94.193.53:80/Film+_HD/index.m3u8
+#EXTINF:-1,Izaura TV Ⓖ
+http://141.94.193.53:80/Izaura_TV_HD/index.m3u8
+#EXTINF:-1,Film4 Ⓖ
+http://141.94.193.53:80/Film4_HD/index.m3u8
+#EXTINF:-1,Mozi+ Ⓖ
+http://141.94.193.53:80/Mozi+_HD/index.m3u8
+#EXTINF:-1,AMC Ⓖ
+http://141.94.193.53:80/AMC_HD/index.m3u8
+#EXTINF:-1,TV Paprika Ⓖ
+http://141.94.193.53:80/TV_Paprika_HD/index.m3u8
 #EXTINF:-1,EWTN TV
 https://hls.iptvservice.eu/hls/ewtn-hd.m3u8
 #EXTINF:-1,DikhTv Ⓨ
-https://www.youtube.com/c/DikhTvGipsyTv/live
+http://88.212.7.14/live/dikh/playlist.m3u8
+#EXTINF:-1,FehérvárTV
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
+#EXTINF:-1,Kapos TV
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
+#EXTINF:-1,Hegyvidék TV (Buda TV)
+http://budatv.streaming.aiproduction.hu/playlist.m3u
 #EXTINF:-1,Kossuth Rádió
 https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8
 #EXTINF:-1,Petőfi Rádió
@@ -70,23 +100,5 @@ https://budapest-cache-1.antik.sk/live/hir_rm/index.m3u8
 https://budapest-cache-1.antik.sk/live/spirit_fm/index.m3u8
 #EXTINF:-1,Sláger FM
 https://budapest-cache-1.antik.sk/live/slager/index.m3u8
-#EXTINF:-1,Film+
-http://141.94.193.53:80/Film+_HD/index.m3u8
-#EXTINF:-1,Izaura TV Ⓖ
-http://141.94.193.53:80/Izaura_TV_HD/index.m3u8
-#EXTINF:-1,Film4 Ⓖ
-http://141.94.193.53:80/Film4_HD/index.m3u8
-#EXTINF:-1,Mozi+ Ⓖ
-http://141.94.193.53:80/Mozi+_HD/index.m3u8
-#EXTINF:-1,AMC Ⓖ
-http://141.94.193.53:80/AMC_HD/index.m3u8
-#EXTINF:-1,TV Paprika Ⓖ
-http://141.94.193.53:80/TV_Paprika_HD/index.m3u8
-#EXTINF:-1,FehérvárTV
-https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE046.sdp/playlist.m3u8
-#EXTINF:-1,Kapos TV
-https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
-#EXTINF:-1,Hegyvidék TV (Buda TV)
-http://budatv.streaming.aiproduction.hu/playlist.m3u
 #EXTINF:-1,Putnok Városi TV
 http://91.147.248.75:5080/LiveApp/streams/nvUds5LHykQyOVXZ1706907141950.m3u8
