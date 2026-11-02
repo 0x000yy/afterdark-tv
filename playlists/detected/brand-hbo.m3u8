@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: detected/brand-hbo.m3u8
-#DATE: 2026-11-01 18:05:27 UTC
+#DATE: 2026-11-02 06:22:53 UTC
 #TOTAL: 27
 
 #EXTINF:-1 tvg-id="HBO2.pl@SD" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies;Series",HBO 2 (Poland) (1080p)
@@ -13,7 +13,7 @@ http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
 http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924" group-title="Movies",HBO (Czech Republic)
 http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/HBO_Asia.png/960px-HBO_Asia.png" group-title="Movies",HBO Asia Taiwan (1080p)
+#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" tvg-logo="https://i.imgur.com/cE2gBt6.png" group-title="Movies",HBO Asia Taiwan (1080p)
 http://125.227.210.55:1003/VideoInput/play.ts
 #EXTINF:-1 tvg-id="HBOAsia.sg@SD" group-title="غير مصنف",HBO Asia SD (720p) [Geo-blocked]
 https://tinyurl.com/yn3d3rmd
