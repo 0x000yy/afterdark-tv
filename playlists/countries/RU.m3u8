@@ -1,13 +1,17 @@
 #EXTM3U
 #COUNTRY: RU
-#TOTAL: 41
+#TOTAL: 46
 
+#EXTINF:-1,Россия 1
+https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1,Матч ТВ Ⓢ
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
 #EXTINF:-1,НТВ Ⓢ
 http://ott-cdn.ucom.am/s17/index.m3u8
 #EXTINF:-1,Пятый канал Ⓢ
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1,Россия-Культура Ⓢ
+https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1,Россия-24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1,Россия-24 (720p)
@@ -30,10 +34,14 @@ http://ott-cdn.ucom.am/s88/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/18.m3u8
 #EXTINF:-1,Пятница! Ⓢ
 https://streaming.televizor-24-tochka.ru/live/19.m3u8
+#EXTINF:-1,Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1,ТНТ Ⓢ
 http://ott-cdn.ucom.am/s19/index.m3u8
 #EXTINF:-1,Муз-ТВ Ⓢ
 https://streaming102.interskytech.com/live/618.m3u8
+#EXTINF:-1,РБК
+http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1,RT Д Русский Ⓖ
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1,CGTN Pусский
@@ -60,6 +68,8 @@ https://ok.ru/video/4157442498242
 https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:-1,Москва 24
 https://stream.smotrim.ru/hls/moscow_24/playlist.m3u8?entity=channel&id=76&sign=e8e1bc15ce94ee7718ef8948500e5d21
+#EXTINF:-1,Нижний Новгород 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 #EXTINF:-1,Саратов 24
 https://saratov24.tv/online/playlist.php
 #EXTINF:-1,Сибирь 24
