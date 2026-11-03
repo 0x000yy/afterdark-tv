@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Culture;News
-#TOTAL: 9
+#TOTAL: 8
 
 #EXTINF:-1,NHK World-Japan (1080p)
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
@@ -16,7 +16,5 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 #EXTINF:-1,Ost West 24 (1080p)
 http://stream.mcquack.net/455/index.m3u8
-#EXTINF:-1,Ost West (576p)
-http://hls127.freeott.top:8080/OstWest/video.m3u8
 #EXTINF:-1,DD Mizoram (576p)
 https://fta.ektv.in/live/381/master.m3u8
