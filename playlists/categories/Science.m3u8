@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Science
-#TOTAL: 14
+#TOTAL: 15
 
 #EXTINF:-1,Ozone TV
 http://88.212.7.14/live/ozone/index.m3u8
@@ -18,6 +18,8 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_science_abr/index.m3u8
 https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8
 #EXTINF:-1,Discovery Science Latin America ColombiaPeru (720p)
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
+#EXTINF:-1,Cosmos TV (720p)
+https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8
 #EXTINF:-1,.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,InWonder (1080p)
