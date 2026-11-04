@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/disney.m3u8
-#DATE: 2026-11-04 06:41:10 UTC
+#DATE: 2026-11-04 20:03:06 UTC
 #TOTAL: 53
 
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" group-title="غير مصنف",Disney Jr. (576p)
@@ -27,12 +27,12 @@ http://213.91.179.28:8000/play/a059
 http://86.87.15.10:8004/play/a02g/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.nl@SD" group-title="غير مصنف",Disney Channel
 http://185.77.12.179:9981/stream/channelid/2102298310?profile=pass
+#EXTINF:-1 tvg-id="DisneyChannel.ro@SD" group-title="غير مصنف",Disney Channel
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.hu@SD" group-title="غير مصنف",Disney Channel
 http://88.212.7.14/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.hu@SD" group-title="غير مصنف",Disney Channel
 http://193.33.39.108:9019/play/a00n
-#EXTINF:-1 tvg-id="DisneyChannel.ro@SD" group-title="غير مصنف",Disney Channel
-https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de@HD" group-title="غير مصنف",Disney Channel HD
 http://109.85.181.77:9981/stream/channelid/652495718?profile=pass
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" group-title="غير مصنف",Disney Junior (576p)
