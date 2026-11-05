@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/cartoon-network.m3u8
-#DATE: 2026-11-04 20:03:05 UTC
+#DATE: 2026-11-05 07:05:28 UTC
 #TOTAL: 40
 
 #EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" group-title="غير مصنف",Cartoon Network
@@ -46,9 +46,9 @@ http://38.252.238.18:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlantic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network Latin America South Atlantic (1080p)
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@NorthAtlantic" group-title="غير مصنف",Cartoon Network Latin America North Atlantic (1080p)
-http://170.244.209.30:8000/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@NorthAtlantic" group-title="غير مصنف",Cartoon Network Latin America North Atlantic (1080p)
 http://45.173.12.70:8000/play/a0fj
+#EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@NorthAtlantic" group-title="غير مصنف",Cartoon Network Latin America North Atlantic (1080p)
+http://170.244.209.30:8000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Brazil" group-title="غير مصنف",Cartoon Network Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://i.imgur.com/oK2DcDJ.png" tvg-country="IT" group-title="Italy",Cartoonito Ⓖ

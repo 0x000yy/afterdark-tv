@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/disney.m3u8
-#DATE: 2026-11-04 20:03:06 UTC
+#DATE: 2026-11-05 07:05:28 UTC
 #TOTAL: 53
 
 #EXTINF:-1 tvg-id="DisneyJr.fr@SD" group-title="غير مصنف",Disney Jr. (576p)
@@ -44,7 +44,7 @@ http://tvsen7.aynascope.net/disney/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="غير مصنف",Disney Junior (480p)
 http://tvsen7.aynascope.net/disneyjr/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.us@East" group-title="غير مصنف",Disney Junior (480p)
-https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F212.5.144.156%3A8080%2Fdisneyjr%2Ftracks-v1a1%2Fmono.m3u8
+https://directv-iptv-player.vercel.app/api/stream?url=http://212.5.144.156:8080/disneyjr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.de@SD" group-title="غير مصنف",Disney Channel (576p)
 https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.bg@SD" group-title="غير مصنف",Disney Channel (576i)
@@ -82,11 +82,11 @@ http://190.14.10.19:16000/play/a06z/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" group-title="غير مصنف",Disney Channel Latin America (1080p)
+http://45.70.201.81:8000/play/a00i/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" group-title="غير مصنف",Disney Channel Latin America (1080p)
 http://45.171.108.253:8888/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" group-title="غير مصنف",Disney Channel Latin America (1080p)
 http://45.185.163.75:8000/play/a02j/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" group-title="غير مصنف",Disney Channel Latin America (1080p)
-http://45.70.201.81:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" group-title="غير مصنف",Disney Channel Latin America (1080p)
 https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 #EXTINF:-1 tvg-id="DisneyJrLatinAmerica.ar@NorthHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Animation;Kids",Disney Jr. Latin America North HD (1080p)
@@ -104,8 +104,8 @@ http://181.78.8.199:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" group-title="غير مصنف",Disney Channel Latin America Panregional HD (1080p)
-http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" group-title="غير مصنف",Disney Channel Latin America Panregional HD (1080p)
 http://138.59.227.20:8000/play/a06w/index.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" group-title="غير مصنف",Disney Channel Latin America Panregional HD (1080p)
+http://190.11.225.124:5000/live/disney_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="VeronicaDisneyJr.nl@SD" tvg-logo="https://i.imgur.com/5L5TcYz.png" group-title="Entertainment;Kids",Veronica / Disney Jr. (360p)
 https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8

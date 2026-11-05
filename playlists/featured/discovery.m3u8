@@ -1,16 +1,16 @@
 #EXTM3U
 #PLAYLIST: featured/discovery.m3u8
-#DATE: 2026-11-04 20:03:07 UTC
+#DATE: 2026-11-05 07:05:29 UTC
 #TOTAL: 63
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk@SD" group-title="غير مصنف",Discovery Turbo
 http://37.49.224.5/stream/13/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHistory.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2407.png" group-title="Documentary",Discovery History
 http://37.49.224.5/stream/12/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.uk@UK" group-title="غير مصنف",Discovery Channel
-http://37.49.224.5/stream/11/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD" group-title="غير مصنف",Discovery Channel
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk@UK" group-title="غير مصنف",Discovery Channel
+http://37.49.224.5/stream/11/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu@SD" group-title="غير مصنف",Discovery Channel
 http://88.212.7.14/live/discovery_hungary/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-country="IT" group-title="Italy",Discovery Channel
@@ -23,10 +23,10 @@ https://drk6xq0vhn.gpcdn.net/live/discovery_turbo_abr/index.m3u8
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it@SD" group-title="غير مصنف",Discovery Turbo (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica" group-title="غير مصنف",Discovery World (1080p)
-http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryFamily.us@East" group-title="غير مصنف",Discovery Family (720p)
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica" group-title="غير مصنف",Discovery World (1080p)
+http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica" group-title="غير مصنف",Discovery World (1080p)
 http://209.61.12.77:9000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in@SD" group-title="غير مصنف",Discovery Channel (720p)
@@ -110,9 +110,9 @@ http://15.204.146.163:8002/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@HD" group-title="غير مصنف",DD Sports (720p)
 https://mumbai-edge.smartplaytv.in/DDSportsHD/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" group-title="غير مصنف",DD Sports (576p)
-https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" group-title="غير مصنف",DD Sports (576p)
 https://fta.ektv.in/live/64/64_0.m3u8
+#EXTINF:-1 tvg-id="DDSports.in@SD" group-title="غير مصنف",DD Sports (576p)
+https://mumt07.tangotv.in/zHjX9OFlDDSPORTS/index.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DSports (1080p)
 http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports (1080p)
