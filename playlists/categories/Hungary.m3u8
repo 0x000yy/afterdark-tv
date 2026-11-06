@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Hungary
-#TOTAL: 50
+#TOTAL: 51
 
 #EXTINF:-1,M1 Ⓖ
 http://141.94.193.53:80/M1_HD/index.m3u8
@@ -54,6 +54,8 @@ http://141.94.193.53:80/Viasat_History_HD/index.m3u8
 http://141.94.193.53:80/Viasat_Nature_HD/index.m3u8
 #EXTINF:-1,EuroSport1
 http://141.94.193.53:80/Eurosport_1_HD/index.m3u8
+#EXTINF:-1,Max4.
+http://141.94.193.53:80/MAX4_HD/index.m3u8
 #EXTINF:-1,Nat Geo
 http://141.94.193.53:80/Nat_Geo_HD/index.m3u8
 #EXTINF:-1,Film+

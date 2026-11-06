@@ -2,10 +2,10 @@
 #GROUP: Documentary
 #TOTAL: 215
 
-#EXTINF:-1,O'zbekiston Tarixi (1080p)
-https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,National Geographic (Croatia) (1080p)
 http://176.61.157.250/NationalGeographic/index.m3u8
+#EXTINF:-1,O'zbekiston Tarixi (1080p)
+https://stream8.cinerama.uz/1209/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,National Geographic (Finland) (720p) [Geo-blocked]
 https://live-fi.tvkaista.net/national-geographic/live.m3u8?hd=true
 #EXTINF:-1,H2 HD
@@ -54,38 +54,6 @@ http://88.212.7.14/live/spektrum_hun/index.m3u8
 http://193.33.39.108:9007/play/a00p
 #EXTINF:-1,Viasat Nature (Hungary)
 http://193.33.39.108:9000/play/a05r
-#EXTINF:-1,EPlanet TV
-https://eplhls.wns.live/hls/stream.m3u8
-#EXTINF:-1,GEM Nature
-https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
-#EXTINF:-1,Persiana Docs
-https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Persiana Travel
-https://ptravelhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,National Geographic (Turkiye)
-https://nord.ayakkabiparti.lol/natgeo/index.m3u8
-#EXTINF:-1,National Geographic Wild (Turkiye)
-https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
-#EXTINF:-1,TRT Belgesel (720p)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,Viasat History (Turkiye) (720p)
-https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
-#EXTINF:-1,National Geographic (Romania)
-https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
-#EXTINF:-1,National Geographic Wild (Romania)
-https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
-#EXTINF:-1,Viasat Explore (Romania)
-https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
-#EXTINF:-1,Viasat History (Romania)
-https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
-#EXTINF:-1,Viasat Nature (Romania)
-https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
-#EXTINF:-1,Pluto TV Dokumentar
-https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
-#EXTINF:-1,Pluto TV Varldskrigen
-https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
-#EXTINF:-1,Smithsonian Channel Selects (Sweden)
-https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
 #EXTINF:-1,Discovery History
 http://37.49.224.5/stream/12/index.m3u8
 #EXTINF:-1,National Geographic Wild (Poland) (576i)
@@ -96,6 +64,24 @@ http://92.114.85.87:8014/play/a00g/index.m3u8
 http://185.227.34.179:8080/polsat-viasat-history-hd/index.m3u8
 #EXTINF:-1,Polsat Viasat Nature
 http://92.114.85.87:8016/play/a004/index.m3u8
+#EXTINF:-1,Pluto TV Dokumentar
+https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
+#EXTINF:-1,Pluto TV Varldskrigen
+https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
+#EXTINF:-1,Smithsonian Channel Selects (Sweden)
+https://jmp2.uk/plu-61fb9907b1b78d000717ed9f.m3u8
+#EXTINF:-1,MWD Documentary [Geo-blocked]
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1,Pluto TV Verdenskrigene NO
+https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
+#EXTINF:-1,History2 Ukraine (360p)
+http://dtv.vol.net.ua/H2-HD/index.m3u8
+#EXTINF:-1,History Ukraine
+http://dtv.vol.net.ua/History_HD/index.m3u8
+#EXTINF:-1,National Geographic Wild (Ukraine) (1080p)
+http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8
+#EXTINF:-1,Viasat History (Ukraine)
+http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==
 #EXTINF:-1,Pluto TV Alien Invasion (Sweden)
 https://jmp2.uk/plu-650999b86a841400083bd1ab.m3u8
 #EXTINF:-1,Pluto TV Dokumentar DK
@@ -106,24 +92,32 @@ https://jmp2.uk/plu-61b86c6ef30f5d0007e4c6d1.m3u8
 https://jmp2.uk/plu-677d397b60fbeb00084b0bff.m3u8
 #EXTINF:-1,Smithsonian Channel Selects (Sweden) DK
 https://jmp2.uk/plu-61fb988e032c0100077d5252.m3u8
-#EXTINF:-1,Pluto TV Verdenskrigene NO
-https://jmp2.uk/plu-677d3a424bd63600082f7baf.m3u8
-#EXTINF:-1,MWD Documentary [Geo-blocked]
-http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1,CCTV-9 (576i)
-https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1,CCTV-Weapon & Technology (1080p)
-http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-#EXTINF:-1,CND Film Discovery Channel (576p)
-http://125.210.152.18:9090/live/FXZL_750.m3u8
-#EXTINF:-1,History2 Ukraine (360p)
-http://dtv.vol.net.ua/H2-HD/index.m3u8
-#EXTINF:-1,History Ukraine
-http://dtv.vol.net.ua/History_HD/index.m3u8
-#EXTINF:-1,National Geographic Wild (Ukraine) (1080p)
-http://dtv.vol.net.ua:80/Nat-Geo-Wild_HD/index.m3u8
-#EXTINF:-1,Viasat History (Ukraine)
-http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
+#EXTINF:-1,National Geographic (Turkiye)
+https://nord.ayakkabiparti.lol/natgeo/index.m3u8
+#EXTINF:-1,National Geographic Wild (Turkiye)
+https://nord.ayakkabiparti.lol/natgeowild/index.m3u8
+#EXTINF:-1,TRT Belgesel (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Viasat History (Turkiye) (720p)
+https://nord.ayakkabiparti.lol/viasathistory/index.m3u8
+#EXTINF:-1,EPlanet TV
+https://eplhls.wns.live/hls/stream.m3u8
+#EXTINF:-1,GEM Nature
+https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+#EXTINF:-1,Persiana Docs
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Persiana Travel
+https://ptravelhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,National Geographic (Romania)
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+#EXTINF:-1,National Geographic Wild (Romania)
+https://flash1.bogulus1.cfd/wild/usergenr9qsi5gt.m3u8
+#EXTINF:-1,Viasat Explore (Romania)
+https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+#EXTINF:-1,Viasat History (Romania)
+https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+#EXTINF:-1,Viasat Nature (Romania)
+https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
 #EXTINF:-1,Al Jazeera Documentary (1080p) [Geo-blocked]
 https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
 #EXTINF:-1,Asharq Documentary (1080p)
@@ -132,14 +126,16 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
 #EXTINF:-1,Sony BBC Earth HD (1080p)
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
+#EXTINF:-1,CCTV-9 (576i)
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1,CCTV-Weapon & Technology (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1,CND Film Discovery Channel (576p)
+http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1,Animal Planet (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_sd_abr/index.m3u8
 #EXTINF:-1,Animal Planet (India) HD (720p)
 https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd_abr/index.m3u8
-#EXTINF:-1,Epic Crimes (1080p)
-https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
-#EXTINF:-1,Investigation Discovery (India) (720p)
-https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1,Italiana (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 #EXTINF:-1,Love The Planet IT (1080p) [Geo-blocked]
@@ -152,12 +148,12 @@ https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
 https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
 #EXTINF:-1,Storie Criminali
 https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8
+#EXTINF:-1,Epic Crimes (1080p)
+https://cc-wsuyg2uxeak04.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wsuyg2uxeak04/master.m3u8
+#EXTINF:-1,Investigation Discovery (India) (720p)
+https://drk6xq0vhn.gpcdn.net/live/id_hd_abr/index.m3u8
 #EXTINF:-1,National Geographic (Mexico) (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
-#EXTINF:-1,History Latin America South
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
-#EXTINF:-1,Investigation Discovery Latin America South (1080p)
-http://38.65.175.84:8000/play/a0ch/index.m3u8
 #EXTINF:-1,History Latin America (1080p)
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1,Detetives Medicos
@@ -176,8 +172,10 @@ https://jmp2.uk/plu-64ad7394798def00087b2bfe.m3u8
 https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
 #EXTINF:-1,Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
-#EXTINF:-1,Ecovision (720p)
-https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
+#EXTINF:-1,History Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/37.m3u8
+#EXTINF:-1,Investigation Discovery Latin America South (1080p)
+http://38.65.175.84:8000/play/a0ch/index.m3u8
 #EXTINF:-1,Autentic History (1080p)
 https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 #EXTINF:-1,Ink Master CA
@@ -188,6 +186,8 @@ https://amg00861-terninternation-inwild-samsunguk-w5wic.amagi.tv/playlist/amg008
 https://jmp2.uk/plu-62e92a58f3e4290007290c96.m3u8
 #EXTINF:-1,Total Crime (1080p)
 https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1,Ecovision (720p)
+https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
 #EXTINF:-1,365 days TV (576p)
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1,Animal Planet (Russia) (1080p)
@@ -219,11 +219,11 @@ https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1,TERRA (720p)
 http://31.148.48.15/Terra_HD/index.m3u8
 #EXTINF:-1,viju Explore (576p)
-http://stream.mcquack.net/239/index.m3u8
+http://46.53.200.153:7777/play/a01i/index.m3u8
 #EXTINF:-1,viju History (576p)
-http://178.124.179.122:8080/HistoryHD/index.m3u8
+http://46.53.200.153:7777/play/a01j/index.m3u8
 #EXTINF:-1,viju Nature (576p)
-https://fs.uplink.kz/viju_nature/mono.m3u8?token=onlinetv
+http://46.53.200.153:7777/play/a01k/index.m3u8
 #EXTINF:-1,viju+ Planet HD (1080p)
 http://stream.mcquack.net/240/index.m3u8
 #EXTINF:-1,History (Netherlands) (360p)
@@ -298,10 +298,6 @@ https://jmp2.uk/plu-62cd971cec90c20007081050.m3u8
 https://jmp2.uk/plu-5e9ed47c26ebb000074af566.m3u8
 #EXTINF:-1,Terra Mater WILD English (1080p)
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
-#EXTINF:-1,CT2
-http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
-#EXTINF:-1,History (Czech Republic)
-http://88.212.15.50/live/test_history/playlist.m3u8
 #EXTINF:-1,National Geographic (Czech Republic)
 http://88.212.15.50/live/test_ngc/playlist.m3u8
 #EXTINF:-1,National Geographic Wild (Czech Republic)
@@ -312,6 +308,10 @@ http://88.212.15.50/live/test_viasat_explore_atk_tv/playlist.m3u8
 http://88.212.15.50/live/test_viasat_history_atk_tv/playlist.m3u8
 #EXTINF:-1,Viasat Nature (Czech Republic)
 http://88.212.15.50/live/test_viasat_nature_atk_tv/playlist.m3u8
+#EXTINF:-1,CT2
+http://88.212.15.50/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1,History (Czech Republic)
+http://88.212.15.50/live/test_history/playlist.m3u8
 #EXTINF:-1,Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
 #EXTINF:-1,Cazador de Homicidas
@@ -343,7 +343,7 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 #EXTINF:-1,American Heroes Channel (720p)
 http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
 #EXTINF:-1,Animal Planet (United States) (720p)
-http://23.239.31.26:8989/animalplanet/index.m3u8
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
 #EXTINF:-1,Animal Planet Latin America (1080p)
 http://190.128.214.97:64333/play/a01n/index.m3u8
 #EXTINF:-1,Animal Planet Latin America HD (720p) [Geo-blocked]
@@ -423,7 +423,7 @@ http://23.237.104.106:8080/USA_REELZ/index.m3u8
 #EXTINF:-1,RT Documentary (1080p) [Geo-blocked]
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1,Safari TV (576p)
-https://mumt04.tangotv.in/m18aqlK4SAFARITV/index.m3u8
+https://fta.ektv.in/live/410/master.m3u8
 #EXTINF:-1,Smithsonian Channel Pluto TV LatAm
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1,Spike Pluto TV
