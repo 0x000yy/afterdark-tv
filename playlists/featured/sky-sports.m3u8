@@ -1,23 +1,23 @@
 #EXTM3U
 #PLAYLIST: featured/sky-sports.m3u8
-#DATE: 2026-11-06 07:05:10 UTC
+#DATE: 2026-11-06 19:34:07 UTC
 #TOTAL: 11
 
-#EXTINF:-1 tvg-id="SkySport1.nz@SD" tvg-logo="https://i.imgur.com/ThJHEuN.png" group-title="Sports",Sky Sport 1
+#EXTINF:-1 tvg-id="SkySport1.nz@SD" group-title="غير مصنف",Sky Sport 1
 http://37.49.224.5/stream/44/index.m3u8
-#EXTINF:-1 tvg-id="SkySport2.nz@SD" tvg-logo="https://i.imgur.com/cu8yB69.png" group-title="Sports",Sky Sport 2
+#EXTINF:-1 tvg-id="SkySport2.nz@SD" group-title="غير مصنف",Sky Sport 2
 http://37.49.224.5/stream/45/index.m3u8
-#EXTINF:-1 tvg-id="SkySport3.nz@SD" tvg-logo="https://i.imgur.com/XYp3Ua3.png" group-title="Sports",Sky Sport 3
+#EXTINF:-1 tvg-id="SkySport3.nz@SD" group-title="غير مصنف",Sky Sport 3
 http://37.49.224.5/stream/46/index.m3u8
-#EXTINF:-1 tvg-id="SkySport4.nz@SD" tvg-logo="https://i.imgur.com/KUXs7SQ.png" group-title="Sports",Sky Sport 4
+#EXTINF:-1 tvg-id="SkySport4.nz@SD" group-title="غير مصنف",Sky Sport 4
 http://37.49.224.5/stream/51/index.m3u8
-#EXTINF:-1 tvg-id="SkySport7.nz@SD" tvg-logo="https://i.imgur.com/iuTNWh4.png" group-title="Sports",Sky Sport 7
+#EXTINF:-1 tvg-id="SkySport7.nz@SD" group-title="غير مصنف",Sky Sport 7
 http://37.49.224.5/stream/50/index.m3u8
-#EXTINF:-1 tvg-id="SkySport8.nz@SD" tvg-logo="https://i.imgur.com/8YjqlRv.png" group-title="Sports",Sky Sport 8
+#EXTINF:-1 tvg-id="SkySport8.nz@SD" group-title="غير مصنف",Sky Sport 8
 http://37.49.224.5/stream/70/index.m3u8
-#EXTINF:-1 tvg-id="SkySport9.nz@SD" tvg-logo="https://i.imgur.com/9fLRHSg.png" group-title="Sports",Sky Sport 9
+#EXTINF:-1 tvg-id="SkySport9.nz@SD" group-title="غير مصنف",Sky Sport 9
 http://37.49.224.5/stream/52/index.m3u8
-#EXTINF:-1 tvg-id="SkySportSelect.nz@SD" tvg-logo="https://i.imgur.com/6x2anTA.png" group-title="Sports",Sky Sport Select
+#EXTINF:-1 tvg-id="SkySportSelect.nz@SD" group-title="غير مصنف",Sky Sport Select
 http://37.49.224.5/stream/53/index.m3u8
 #EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Sports",Sky Sports 1 (1080p)
 http://45.228.234.9:8000/play/a06b/index.m3u8

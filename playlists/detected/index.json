@@ -1,7 +1,7 @@
 {
   "brands": {
     "abudhabi": 4,
-    "algeria": 131,
+    "algeria": 130,
     "arabiya": 26,
     "bahrain": 5,
     "bbc": 122,
@@ -49,13 +49,13 @@
     "yemen": 1
   },
   "categories": {
-    "documentary": 305,
-    "kids": 499,
-    "movies": 902,
-    "music": 898,
-    "news": 1591,
-    "other": 11472,
-    "sports": 592
+    "documentary": 306,
+    "kids": 496,
+    "movies": 903,
+    "music": 891,
+    "news": 1586,
+    "other": 11491,
+    "sports": 587
   },
   "total_channels": 16174
 }
