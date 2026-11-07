@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Travel
-#TOTAL: 48
+#TOTAL: 47
 
 #EXTINF:-1,Tanzania Safari Channel (576p)
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
@@ -8,8 +8,6 @@ https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1,RTG TV (720p)
 http://31.148.48.15/RTG_HD/index.m3u8
-#EXTINF:-1,BamBarBia.TV (720p) [Not 24/7]
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1,TV Sayohi (1080p)
 https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1,Discover Pakistan (1080p)
@@ -20,6 +18,8 @@ https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 http://103.151.60.162:2122/play/a01s/index.m3u8?hls
 #EXTINF:-1,Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
+#EXTINF:-1,BamBarBia.TV (720p) [Not 24/7]
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1,Living Asia Channel (1080p)
 https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1,Yichang Sanxia Travel & Life Channel
@@ -36,8 +36,6 @@ https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
 #EXTINF:-1,TV Parana Turismo (720p) [Not 24/7]
 http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1,Turismo Travel TV
-https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
 #EXTINF:-1,OEPM TV (720p)
 https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Teletur (720p) [Not 24/7]

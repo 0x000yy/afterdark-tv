@@ -1,7 +1,7 @@
 {
   "brands": {
     "abudhabi": 4,
-    "algeria": 131,
+    "algeria": 132,
     "arabiya": 26,
     "bahrain": 5,
     "bbc": 118,
@@ -31,7 +31,7 @@
     "natgeo": 39,
     "nba": 4,
     "nfl": 4,
-    "nick": 62,
+    "nick": 63,
     "oman": 129,
     "osn": 2,
     "palestine": 10,
@@ -49,13 +49,13 @@
     "yemen": 1
   },
   "categories": {
-    "documentary": 310,
-    "kids": 501,
-    "movies": 930,
-    "music": 899,
-    "news": 1615,
-    "other": 11562,
-    "sports": 593
+    "documentary": 309,
+    "kids": 502,
+    "movies": 929,
+    "music": 883,
+    "news": 1600,
+    "other": 11605,
+    "sports": 591
   },
-  "total_channels": 16324
+  "total_channels": 16333
 }

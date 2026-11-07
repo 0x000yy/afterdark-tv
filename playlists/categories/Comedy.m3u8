@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Comedy
-#TOTAL: 136
+#TOTAL: 135
 
 #EXTINF:-1,bTV Comedy
 http://213.91.179.28:8000/play/a04k
@@ -36,6 +36,12 @@ https://jmp2.uk/plu-65e9781a2873090008b48d8a.m3u8
 https://jmp2.uk/plu-6512d72b473a540008592be5.m3u8
 #EXTINF:-1,Tosh.0 (Sweden)
 https://jmp2.uk/plu-65e97856ec9fda0008cb453c.m3u8
+#EXTINF:-1,GEM Comedy
+https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
+#EXTINF:-1,Persiana Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,TV2 Comedy
+http://88.212.7.14/live/tv2_comedy/index.m3u8
 #EXTINF:-1,Beavis and Butt-Head NO
 https://jmp2.uk/plu-6486e8328e3c0a0008e5686c.m3u8
 #EXTINF:-1,Broad City NO
@@ -62,20 +68,6 @@ https://jmp2.uk/plu-65e977874e01740008c9fb4c.m3u8
 https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
 #EXTINF:-1,Tosh.0 (Sweden) NO
 https://jmp2.uk/plu-65e977c48b24c8000805b9ef.m3u8
-#EXTINF:-1,TV2 Comedy
-http://88.212.7.14/live/tv2_comedy/index.m3u8
-#EXTINF:-1,GEM Comedy
-https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
-#EXTINF:-1,Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Comedy Play (576i)
-https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
-#EXTINF:-1,In Puii Mei (576p)
-https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
-#EXTINF:-1,iRoast (576p)
-https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
-#EXTINF:-1,iUmor (576p)
-https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 #EXTINF:-1,Awkward (Sweden)
 https://jmp2.uk/plu-61c0925c738ecd000882450a.m3u8
 #EXTINF:-1,Beavis and Butt-Head DK
@@ -106,12 +98,20 @@ https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
 https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
 #EXTINF:-1,Tosh.0 (Sweden) DK
 https://jmp2.uk/plu-65e977042873090008b48be9.m3u8
+#EXTINF:-1,Comedy Play (576i)
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+#EXTINF:-1,In Puii Mei (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
+#EXTINF:-1,iRoast (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
+#EXTINF:-1,iUmor (576p)
+https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
 #EXTINF:-1,Pitaara Comedy (1080p)
 https://vglivessai.akamaized.net/ptnr-lgtv/title-Pitaara_Comedy_LG/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/5a5410c0-1b79-4adc-9243-0139b249798b/playlist.m3u8
-#EXTINF:-1,Jordan Comedy (1080p)
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1,ETV Comedy (1080p)
 https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+#EXTINF:-1,Jordan Comedy (1080p)
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1,Rotana Comedy (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
 #EXTINF:-1,Sirippoli TV (576p)
@@ -138,8 +138,6 @@ https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 http://znty.dyndns.org:5010/hls/foxcomedy.m3u8
 #EXTINF:-1,TVMatic Comedy (720p)
 http://cdn.tvmatic.net/comedy.m3u8
-#EXTINF:-1,13 Humor (1080p)
-https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8
 #EXTINF:-1,British Comedy
 https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1,Comedy Central (United States) CA
