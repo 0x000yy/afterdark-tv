@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/sky-sports.m3u8
-#DATE: 2026-11-06 19:34:07 UTC
-#TOTAL: 11
+#DATE: 2026-11-07 06:14:54 UTC
+#TOTAL: 12
 
 #EXTINF:-1 tvg-id="SkySport1.nz@SD" group-title="غير مصنف",Sky Sport 1
 http://37.49.224.5/stream/44/index.m3u8
@@ -25,3 +25,5 @@ http://45.228.234.9:8000/play/a06b/index.m3u8
 https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsNFL.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports",Sky Sports NFL (720p)
 https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="SkySportsNews.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="Sports",Sky Sports News (576p)
+https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8

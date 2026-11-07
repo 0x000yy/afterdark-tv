@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: detected/brand-nfl.m3u8
-#DATE: 2026-11-06 19:34:06 UTC
-#TOTAL: 3
+#DATE: 2026-11-07 06:14:53 UTC
+#TOTAL: 4
 
 #EXTINF:-1 tvg-id="SkySportsNFL.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports",Sky Sports NFL (720p)
 https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
@@ -9,3 +9,5 @@ https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Sports",NFL Network (720p)
 http://198.58.104.90:8989/nfl/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us@SD" group-title="غير مصنف",NFL Network (576p)
+https://tvsen6.aynaott.com/nfl/index.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/cnn.m3u8
-#DATE: 2026-11-06 19:34:08 UTC
-#TOTAL: 37
+#DATE: 2026-11-07 06:14:57 UTC
+#TOTAL: 38
 
 #EXTINF:-1 tvg-id="CNN.us@SD" group-title="غير مصنف",CNN
 https://p13.usnlive.com/stream/cnn.m3u8
@@ -47,6 +47,8 @@ http://168.228.44.241:9997/play/a073/index.m3u8
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" tvg-country="RO" group-title="Romania",Antena 3 CNN
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-id="Antena3CNN.ro@HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" group-title="News",Antena 3 CNN HD (1080i)
+https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
 #EXTINF:-1 tvg-id="ACNN.ng@SD" tvg-logo="https://i.imgur.com/91JLpxr.png" group-title="Religious",ACNN (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_014/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" group-title="غير مصنف",RCN Novelas (720p)
@@ -57,12 +59,12 @@ http://181.78.8.199:8000/play/a0a7/index.m3u8
 http://45.171.64.30:8800/play/a01z
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" group-title="غير مصنف",RCN Novelas (480p)
 http://181.65.191.173:8069/play/a061
+#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entertainment",RCN Novelas (1080p)
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" group-title="غير مصنف",RCN Novelas (1080p)
 https://stream1.bitred.cl/rcn-novelas/index.m3u8
 #EXTINF:-1 tvg-id="RCNNovelas.co@SD" group-title="غير مصنف",RCN Novelas (1080p)
 https://streaming.onnethn.com/RCN_NOVELAS/playlist.m3u8
-#EXTINF:-1 tvg-id="RCNNovelas.co@SD" tvg-logo="https://i.imgur.com/9wxdWNQ.png" group-title="Entertainment",RCN Novelas (1080p)
-https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CNA.al" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-country="AL" group-title="Albania",CNA
 https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-id="CNA.al@SD" group-title="غير مصنف",CNA

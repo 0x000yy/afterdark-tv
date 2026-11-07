@@ -1,8 +1,10 @@
 #EXTM3U
 #PLAYLIST: featured/cartoon-network.m3u8
-#DATE: 2026-11-06 19:34:10 UTC
-#TOTAL: 40
+#DATE: 2026-11-07 06:15:00 UTC
+#TOTAL: 44
 
+#EXTINF:-1 tvg-id="CartoonNetwork.it@SD" group-title="غير مصنف",Cartoon Network
+http://185.227.34.104/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" group-title="غير مصنف",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" group-title="غير مصنف",Cartoon Network
@@ -21,12 +23,16 @@ http://149.100.11.252:8000/play/a056/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_Arabic_logo.png" tvg-country="AE" group-title="United Arab Emirates",Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Animation;Kids",Cartoon Network HD+ (1080p)
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/3227c06e-333b-4b1b-b657-3e3ab99ebd06-width200-quality90.jpeg" group-title="Animation;Kids",Cartoon Classics (Poland)
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network CEE Poland
 http://92.114.85.87:8007/play/a009
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="غير مصنف",Cartoon Network Asia (720p)
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network CEE Bulgary
+http://213.91.179.28:8000/play/a08g
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlanticHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network Latin America
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network CEE Ukraine (576p)
@@ -61,6 +67,8 @@ http://202.150.165.66:8088/play/201-Cartoonito/index.m3u8
 https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
 #EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" group-title="Animation;Kids",Cartoonito Asia (720p)
 http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="CartoonitoCEE.uk@Bulgary" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Kids",Cartoonito CEE Bulgary
+http://213.91.179.28:8000/play/a0c7
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Czechia" tvg-logo="https://i.imgur.com/9MrzLb1.png" group-title="Kids",Cartoonito CEE Czechia
 http://88.212.7.14/live/test_boomerang_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonitoCEE.uk@Poland" group-title="غير مصنف",Cartoonito CEE Poland (1080p)
