@@ -12,9 +12,9 @@ https://pemirateshls.persiana.live/hls/stream.m3u8
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 #EXTINF:-1,STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1,Ost West 24 (1080p)
-http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1,Catamarca TV (720p)
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
+#EXTINF:-1,Ost West 24 (1080p)
+http://stream.mcquack.net/455/index.m3u8
 #EXTINF:-1,DD Mizoram (576p)
 https://fta.ektv.in/live/381/master.m3u8
