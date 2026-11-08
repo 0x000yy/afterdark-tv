@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/al-jazeera.m3u8
-#DATE: 2026-11-07 18:01:37 UTC
-#TOTAL: 31
+#DATE: 2026-11-08 06:14:42 UTC
+#TOTAL: 30
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
@@ -23,8 +23,6 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraChannel.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News (AR)",Al Jazeera العربية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (720p)
-http://103.151.60.162:2122/play/a0ff/index.m3u8?hls
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (720p)
 http://170.83.16.50/ALJAZEERA/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (576p)

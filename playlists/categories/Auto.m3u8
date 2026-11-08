@@ -20,8 +20,6 @@ https://jmp2.uk/plu-68ac51dede4a734954b5a67a.m3u8
 http://stream.mcquack.net/404/index.m3u8
 #EXTINF:-1,Discovery Turbo (Italy) (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
-#EXTINF:-1,Pluto TV Cars CA
-https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
 #EXTINF:-1,Auto Plus (576p)
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1,Avto24 (576p)
@@ -30,6 +28,8 @@ http://stream.mcquack.net/78/index.m3u8
 https://cityeden.catcast.tv/content/47515/index.m3u8
 #EXTINF:-1,Drive (576i)
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Pluto TV Cars CA
+https://jmp2.uk/plu-69c592dff0f1a7d732dc6e36.m3u8
 #EXTINF:-1,Discovery Turbo (United Kingdom)
 http://37.49.224.5/stream/13/index.m3u8
 #EXTINF:-1,Pluto TV Motor (Germany)
