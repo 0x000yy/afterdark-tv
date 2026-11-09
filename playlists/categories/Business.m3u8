@@ -1,15 +1,15 @@
 #EXTM3U
 #GROUP: Business
-#TOTAL: 59
+#TOTAL: 58
 
 #EXTINF:-1,Bloomberg TV Bulgaria
 http://213.91.179.28:8000/play/a04m
 #EXTINF:-1,BMG TV
 https://tv.nucast.tv/lb/ge/bmg/index.m3u8
-#EXTINF:-1,Cafe Trade TV
-https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1,Telewizja Biznesowa (1080p)
 https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8
+#EXTINF:-1,Cafe Trade TV
+https://cafetradehls.wns.live/hls/stream.m3u8
 #EXTINF:-1,Bloomberg HT (720p)
 https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8
 #EXTINF:-1,CNBC Indonesia
@@ -52,12 +52,12 @@ https://tv.laboralsst.com.br/hls/stream.m3u8
 https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
 #EXTINF:-1,Tevex (1080p)
 https://v2.tustreaming.cl/tevex/index.m3u8
-#EXTINF:-1,Zuraca TV (720p)
-https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 #EXTINF:-1,5Dias TV
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8
 #EXTINF:-1,Canal Pro
 https://www.desde-paraguay.com/pro.m3u8
+#EXTINF:-1,Zuraca TV (720p)
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 #EXTINF:-1,Atameken Business (576p)
 https://fs.uplink.kz/atameken/mono.m3u8?token=onlinetv
 #EXTINF:-1,Pro Business (720p)
@@ -70,8 +70,6 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZNL-LIVE/index.m3u8
 #EXTINF:-1,Negocios TV (1080p)
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
-#EXTINF:-1,Champion TV
-https://stream.berosat.live/hls/champion-tv/champion-tv.m3u8
 #EXTINF:-1,30A Investment Pitch (720p)
 https://30a-tv.com/feeds/xodglobal/30atv.m3u8
 #EXTINF:-1,Ameritrade (1080p) [Not 24/7]
