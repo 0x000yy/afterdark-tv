@@ -1,15 +1,15 @@
 #EXTM3U
 #PLAYLIST: featured/dazn.m3u8
-#DATE: 2026-11-09 06:41:51 UTC
+#DATE: 2026-11-09 22:32:48 UTC
 #TOTAL: 9
 
 #EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN 4 (540p)
 http://23.237.104.106:8080/DAZN_4/index.m3u8
 #EXTINF:-1 tvg-id="DAZN5.uk@Portugal" tvg-logo="https://i.imgur.com/HD2XaeS.png" group-title="Sports",DAZN 5 (720p)
 http://23.237.104.106:8080/DAZN_5/index.m3u8
-#EXTINF:-1 tvg-id="DAZN1.uk@Germany" group-title="غير مصنف",DAZN 1 Germany
+#EXTINF:-1 tvg-id="DAZN1.uk@Germany" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN 1 Germany
 http://45.142.104.86/stream/25/index.m3u8
-#EXTINF:-1 tvg-id="DAZN2.uk@Germany" group-title="غير مصنف",DAZN 2 Germany
+#EXTINF:-1 tvg-id="DAZN2.uk@Germany" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN 2 Germany
 http://45.142.104.86/stream/15/index.m3u8
 #EXTINF:-1 tvg-id="DAZN1.uk@Portugal" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN 1 Portugal
 http://50.7.120.34:8080/DAZN1/index.m3u8

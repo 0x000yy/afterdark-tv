@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: detected/brand-dazn.m3u8
-#DATE: 2026-11-09 06:41:51 UTC
+#DATE: 2026-11-09 22:32:48 UTC
 #TOTAL: 9
 
 #EXTINF:-1 tvg-id="DAZN1.uk@Portugal" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN 1 Portugal
@@ -17,7 +17,7 @@ https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 #EXTINF:-1 tvg-id="DAZNCombat.uk@SD" tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" group-title="Sports",DAZN Combat (684p)
 https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
-#EXTINF:-1 tvg-id="DAZN1.uk@Germany" group-title="غير مصنف",DAZN 1 Germany
+#EXTINF:-1 tvg-id="DAZN1.uk@Germany" tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="Sports",DAZN 1 Germany
 http://45.142.104.86/stream/25/index.m3u8
-#EXTINF:-1 tvg-id="DAZN2.uk@Germany" group-title="غير مصنف",DAZN 2 Germany
+#EXTINF:-1 tvg-id="DAZN2.uk@Germany" tvg-logo="https://i.imgur.com/OGj3qf5.png" group-title="Sports",DAZN 2 Germany
 http://45.142.104.86/stream/15/index.m3u8
