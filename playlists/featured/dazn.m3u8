@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST: featured/dazn.m3u8
-#DATE: 2026-11-10 07:36:43 UTC
+#DATE: 2026-11-10 20:01:19 UTC
 #TOTAL: 10
 
-#EXTINF:-1 tvg-id="DAZNF1.uk@Spain" tvg-logo="https://i.imgur.com/yFCr5XX.png" group-title="Sports",DAZN F1
+#EXTINF:-1 tvg-id="DAZNF1.uk@Spain" group-title="غير مصنف",DAZN F1
 https://tvorb.net/ZTV/6918-live.m3u8
 #EXTINF:-1 tvg-id="DAZN4.uk@Portugal" tvg-logo="https://i.imgur.com/m7ga8bU.png" group-title="Sports",DAZN 4 (540p)
 http://23.237.104.106:8080/DAZN_4/index.m3u8
