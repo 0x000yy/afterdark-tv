@@ -1,6 +1,6 @@
 #EXTM3U
 #COUNTRY: AU
-#TOTAL: 19
+#TOTAL: 18
 
 #EXTINF:-1,10 HD
 https://i.mjh.nz/.r/10-nsw.m3u8
@@ -12,8 +12,6 @@ https://i.mjh.nz/.r/seven-syd.m3u8
 https://i.mjh.nz/.r/channel-9-nsw.m3u8
 #EXTINF:-1,10 Peach
 https://i.mjh.nz/.r/10peach-nsw.m3u8
-#EXTINF:-1,10 Shake
-https://i.mjh.nz/.r/10shake-nsw.m3u8
 #EXTINF:-1,M4TV
 https://5a32c05065c79.streamlock.net/live/stream/playlist.m3u8
 #EXTINF:-1,SBS Viceland Ⓖ

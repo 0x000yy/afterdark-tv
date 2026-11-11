@@ -1,14 +1,12 @@
 #EXTM3U
 #PLAYLIST: detected/brand-bein.m3u8
-#DATE: 2026-11-10 20:01:18 UTC
-#TOTAL: 15
+#DATE: 2026-11-11 06:39:04 UTC
+#TOTAL: 14
 
 #EXTINF:-1 tvg-id="K100.is@SD" tvg-logo="https://i.imgur.com/tv60ogG.png" group-title="Music",K100 (1080p)
 https://k100streymi.mbl.is/beint/k100/index.m3u8
 #EXTINF:-1 tvg-id="beINSports9.qa@MENA" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="Undefined",beIN Sports 9
 http://86.192.195.47:9034/stream/10/index.m3u8
-#EXTINF:-1 tvg-id="beINSports1.qa@MENA" group-title="غير مصنف",beIN Sports 1
-http://86.192.195.47:9034/stream/1/index.m3u8
 #EXTINF:-1 tvg-id="beINSports2.qa@MENA" group-title="غير مصنف",beIN Sports 2
 http://86.192.195.47:9034/stream/2/index.m3u8
 #EXTINF:-1 tvg-id="beINSports3.qa@MENA" group-title="غير مصنف",beIN Sports 3

@@ -18,6 +18,10 @@ https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
 #EXTINF:-1,HTVC Movies (720p)
 https://dethich.pw/htvcphim/index.m3u8
+#EXTINF:-1,Bolt (1080p)
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1,FilmUADrama (1080p)
+http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1,Pluto TV Action (Sweden) NO
 https://jmp2.uk/plu-61c1e270489a9c000874d209.m3u8
 #EXTINF:-1,Pluto TV Horror (Sweden) NO
@@ -48,10 +52,6 @@ https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1,The Twilight Zone DK
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
-#EXTINF:-1,Bolt (1080p)
-http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1,FilmUADrama (1080p)
-http://88.99.215.227/FilmUADrama/index.m3u8
 #EXTINF:-1,AXN Asia Indonesia
 http://202.150.165.66:8088/play/301-AXN/index.m3u8
 #EXTINF:-1,Star Trek: Voyager (Germany) IT
@@ -60,12 +60,12 @@ https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1,Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1,Pantalla Clasica EC (512p) [Not 24/7]
+https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1,Star Channel (Colombia) (1080p)
 http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1,Star Channel Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
-#EXTINF:-1,Pantalla Clasica EC (512p) [Not 24/7]
-https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1,Star Channel (Chile) (720p)
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1,Bonanza CA
@@ -90,6 +90,8 @@ http://stream.mcquack.net/217/index.m3u8
 http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
 #EXTINF:-1,Pluto TV 90's Classics
 https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1,More TV Sci-fi
+https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1,Pluto TV Haialarm
 https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
 #EXTINF:-1,Pluto TV Star Trek (Germany)
@@ -98,8 +100,6 @@ https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1,Star Trek: The Original Series (Germany)
 https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
-#EXTINF:-1,More TV Sci-fi
-https://jmp2.uk/plu-645e00d5d3fdde000829463a.m3u8
 #EXTINF:-1,Medium (Germany)
 https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1,Pluto TV Zombies
