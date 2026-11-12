@@ -1,6 +1,6 @@
 #EXTM3U
 #COUNTRY: IN
-#TOTAL: 29
+#TOTAL: 31
 
 #EXTINF:-1,NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
@@ -28,6 +28,10 @@ https://www.youtube.com/watch?v=e1FIApIafWE
 https://www.youtube.com/watch?v=nSpwwcHVp80
 #EXTINF:-1,TV9 Kannada
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/playlist.m3u8
+#EXTINF:-1,TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1,TV9 Marathi
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9marlygv8h/liveabr/playlist.m3u8
 #EXTINF:-1,Republic Bharat Ⓨ
 https://www.youtube.com/@RepublicBharat/live
 #EXTINF:-1,NDTV Profit

@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/sky-sports.m3u8
-#DATE: 2026-11-11 19:50:19 UTC
+#DATE: 2026-11-12 07:29:04 UTC
 #TOTAL: 19
 
 #EXTINF:-1 tvg-id="SkySport1.nz@SD" group-title="غير مصنف",Sky Sport 1
@@ -18,15 +18,15 @@ http://37.49.224.5/stream/70/index.m3u8
 #EXTINF:-1 tvg-id="SkySport9.nz@SD" group-title="غير مصنف",Sky Sport 9
 http://37.49.224.5/stream/52/index.m3u8
 #EXTINF:-1 tvg-id="SkySportF1.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",Sky Sport F1
-http://45.142.104.86/stream/49/index.m3u8
+http://94.130.48.67:8042/stream/51/index.m3u8
 #EXTINF:-1 tvg-id="SkySportMix.de@SD" tvg-logo="https://i.imgur.com/erx02nr.png" group-title="Sports",Sky Sport Mix
-http://45.142.104.86/stream/51/index.m3u8
+http://94.130.48.67:8042/stream/53/index.m3u8
 #EXTINF:-1 tvg-id="SkySportGolf.de@SD" tvg-logo="https://i.imgur.com/nhhbHvs.png" group-title="Sports",Sky Sport Golf
-http://45.142.104.86/stream/54/index.m3u8
+http://94.130.48.67:8042/stream/56/index.m3u8
 #EXTINF:-1 tvg-id="SkySportNews.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/960px-Sky_Sport_News_2020.svg.png" group-title="Sports",Sky Sport News
-http://45.142.104.86/stream/47/index.m3u8
+http://94.130.48.67:8042/stream/49/index.m3u8
 #EXTINF:-1 tvg-id="SkySportTennis.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Sky_Sport_Tennis.svg/960px-Sky_Sport_Tennis.svg.png" group-title="Sports",Sky Sport Tennis
-http://45.142.104.86/stream/53/index.m3u8
+http://94.130.48.67:8042/stream/55/index.m3u8
 #EXTINF:-1 tvg-id="SkySportSelect.nz@SD" group-title="غير مصنف",Sky Sport Select
 http://37.49.224.5/stream/53/index.m3u8
 #EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Sports",Sky Sports 1 (1080p)
@@ -38,6 +38,6 @@ https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsNFL.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png" group-title="Sports",Sky Sports NFL (720p)
 https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
 #EXTINF:-1 tvg-id="SkySportTopEvent.de@SD" tvg-logo="https://i.imgur.com/kQ6cVNx.png" group-title="Sports",Sky Sport Top Event
-http://45.142.104.86/stream/48/index.m3u8
+http://94.130.48.67:8042/stream/50/index.m3u8
 #EXTINF:-1 tvg-id="SkySportsNews.uk@SD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png" group-title="Sports",Sky Sports News (576p)
 https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8

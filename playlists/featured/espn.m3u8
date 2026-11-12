@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/espn.m3u8
-#DATE: 2026-11-11 19:50:19 UTC
-#TOTAL: 37
+#DATE: 2026-11-12 07:29:04 UTC
+#TOTAL: 38
 
 #EXTINF:-1 tvg-id="ESPN3.nl@HD" group-title="غير مصنف",ESPN 3
 https://lb.iptvnetwork.net/ls28/10043/playlist.m3u8
@@ -25,6 +25,8 @@ http://190.83.2.182:8090/ESPN3/index.m3u8
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.us@HD" group-title="غير مصنف",ESPN HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:-1 tvg-id="ESPNPremium.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="Sports",ESPN Premium
+http://45.134.141.161:2200/ARG/ESPN_Premium_Argentina_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us@HD" group-title="غير مصنف",ESPN 2 HD (720p)
 http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar@HD" group-title="غير مصنف",ESPN Premium HD

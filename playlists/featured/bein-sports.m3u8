@@ -1,24 +1,8 @@
 #EXTM3U
 #PLAYLIST: featured/bein-sports.m3u8
-#DATE: 2026-11-11 19:50:18 UTC
-#TOTAL: 11
+#DATE: 2026-11-12 07:29:03 UTC
+#TOTAL: 3
 
-#EXTINF:-1 tvg-id="beINSports9.qa@MENA" tvg-logo="https://assets.bein.com/mena/sites/3/2023/09/logos-_beINSPORTS9.png" group-title="Undefined",beIN Sports 9
-http://86.192.195.47:9034/stream/10/index.m3u8
-#EXTINF:-1 tvg-id="beINSports2.qa@MENA" group-title="غير مصنف",beIN Sports 2
-http://86.192.195.47:9034/stream/2/index.m3u8
-#EXTINF:-1 tvg-id="beINSports3.qa@MENA" group-title="غير مصنف",beIN Sports 3
-http://86.192.195.47:9034/stream/4/index.m3u8
-#EXTINF:-1 tvg-id="beINSports4.qa@MENA" group-title="غير مصنف",beIN Sports 4
-http://86.192.195.47:9034/stream/5/index.m3u8
-#EXTINF:-1 tvg-id="beINSports5.qa@MENA" group-title="غير مصنف",beIN Sports 5
-http://86.192.195.47:9034/stream/6/index.m3u8
-#EXTINF:-1 tvg-id="beINSports6.qa@MENA" group-title="غير مصنف",beIN Sports 6
-http://86.192.195.47:9034/stream/7/index.m3u8
-#EXTINF:-1 tvg-id="beINSports7.qa@MENA" group-title="غير مصنف",beIN Sports 7
-http://86.192.195.47:9034/stream/8/index.m3u8
-#EXTINF:-1 tvg-id="beINSports8.qa@MENA" group-title="غير مصنف",beIN Sports 8
-http://86.192.195.47:9034/stream/9/index.m3u8
 #EXTINF:-1 tvg-id="beINSportsUSA.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BeIN_Sports_logo_%28vertical_version%29.svg/500px-BeIN_Sports_logo_%28vertical_version%29.svg.png" group-title="Sports",beIN Sports USA (576p)
 https://tvsen6.aynaott.com/beinsports/index.m3u8
 #EXTINF:-1 tvg-id="beINSPORTSXTRA.us@SD" tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" group-title="Sports",beIN SPORTS XTRA (1080p)

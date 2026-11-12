@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Italy
-#TOTAL: 299
+#TOTAL: 300
 
 #EXTINF:-1,Rai 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
@@ -74,6 +74,8 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1,Donna TV Ⓢ
 https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
+#EXTINF:-1,SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1,Alma TV
 https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8
 #EXTINF:-1,Radio 105 TV Ⓖ
