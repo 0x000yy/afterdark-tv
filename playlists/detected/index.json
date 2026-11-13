@@ -5,16 +5,16 @@
     "arabiya": 26,
     "bahrain": 5,
     "bbc": 114,
-    "bein": 6,
-    "canal": 516,
-    "cartoon": 140,
+    "bein": 7,
+    "canal": 514,
+    "cartoon": 141,
     "cnn": 38,
     "dazn": 10,
     "discovery": 41,
     "disney": 48,
     "dubai": 12,
     "espn": 36,
-    "eurosport": 27,
+    "eurosport": 28,
     "fox": 71,
     "hbo": 29,
     "iraq": 36,
@@ -48,13 +48,13 @@
     "yemen": 1
   },
   "categories": {
-    "documentary": 298,
-    "kids": 496,
-    "movies": 918,
-    "music": 888,
-    "news": 1643,
-    "other": 11566,
-    "sports": 612
+    "documentary": 297,
+    "kids": 500,
+    "movies": 917,
+    "music": 877,
+    "news": 1641,
+    "other": 11585,
+    "sports": 621
   },
-  "total_channels": 16337
+  "total_channels": 16355
 }
