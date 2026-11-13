@@ -17,7 +17,7 @@
     "eurosport": 28,
     "fox": 71,
     "hbo": 29,
-    "iraq": 36,
+    "iraq": 34,
     "jazeera": 30,
     "jordan": 13,
     "kuwait": 21,
@@ -48,13 +48,13 @@
     "yemen": 1
   },
   "categories": {
-    "documentary": 297,
-    "kids": 500,
-    "movies": 917,
-    "music": 877,
-    "news": 1641,
-    "other": 11585,
-    "sports": 621
+    "documentary": 295,
+    "kids": 492,
+    "movies": 913,
+    "music": 876,
+    "news": 1629,
+    "other": 11616,
+    "sports": 614
   },
   "total_channels": 16355
 }
