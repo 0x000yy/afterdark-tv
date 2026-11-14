@@ -1,10 +1,12 @@
 #EXTM3U
 #PLAYLIST: detected/brand-bein.m3u8
-#DATE: 2026-11-13 19:55:28 UTC
-#TOTAL: 7
+#DATE: 2026-11-14 06:33:50 UTC
+#TOTAL: 8
 
 #EXTINF:-1 tvg-id="K100.is@SD" tvg-logo="https://i.imgur.com/tv60ogG.png" group-title="Music",K100 (1080p)
 https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="Sports",beIN Sports 1 Turk
+http://57.129.0.61:1990/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="beINSports1.qa@MENA" group-title="غير مصنف",beIN Sports 1
 https://vg162.adcdsd123321.shop/7.m3u8
 #EXTINF:-1 tvg-id="Telecaribe.co@SD" tvg-logo="https://i.imgur.com/E35cXHt.png" group-title="General",Telecaribe (1080p)

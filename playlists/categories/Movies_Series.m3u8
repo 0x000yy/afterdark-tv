@@ -1,7 +1,9 @@
 #EXTM3U
 #GROUP: Movies;Series
-#TOTAL: 72
+#TOTAL: 74
 
+#EXTINF:-1,AXN Asia Thailand
+http://103.253.74.210:7070/stream/89/index.m3u8
 #EXTINF:-1,Pluto TV Action (Sweden)
 https://jmp2.uk/plu-61c0b0688a80a4000703fbcb.m3u8
 #EXTINF:-1,Pluto TV Horror (Sweden)
@@ -16,8 +18,10 @@ https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
 #EXTINF:-1,HTVC Movies (720p)
 https://dethich.pw/htvcphim/index.m3u8
-#EXTINF:-1,AXN Asia Thailand
-http://103.253.74.210:7070/stream/89/index.m3u8
+#EXTINF:-1,Bolt (1080p)
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1,FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF:-1,AXN White (Poland) (576i)
 http://92.114.85.87:8014/play/a004/index.m3u8
 #EXTINF:-1,HBO 2 (Poland) (1080p)
@@ -34,10 +38,8 @@ https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
 https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
 #EXTINF:-1,The Twilight Zone NO
 https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
-#EXTINF:-1,Bolt (1080p)
-http://stream.mcquack.net/73/index.m3u8
-#EXTINF:-1,FilmUADrama (1080p)
-http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF:-1,AXN Asia Indonesia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
 #EXTINF:-1,Pluto TV Action (Sweden) DK
 https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
 #EXTINF:-1,Pluto TV Horror (Sweden) DK
@@ -52,8 +54,6 @@ https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1,The Twilight Zone DK
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
-#EXTINF:-1,AXN Asia Indonesia
-http://202.150.165.66:8088/play/301-AXN/index.m3u8
 #EXTINF:-1,Star Trek: Voyager (Germany) IT
 https://jmp2.uk/plu-65cb73d33ba51e00084cabad.m3u8
 #EXTINF:-1,Twentyseven HD (1080p) [Geo-blocked]
@@ -144,5 +144,9 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1,The Wild Wild West (United States)
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+#EXTINF:-1,HBO 2 Latin America HD (1080p)
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1,HBO Xtreme Latin America
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/HBO_Xtreme/chunks.m3u8
 #EXTINF:-1,Pluto TV Sci-Fi (United States) LatAm
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8

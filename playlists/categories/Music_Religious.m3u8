@@ -1,9 +1,7 @@
 #EXTM3U
 #GROUP: Music;Religious
-#TOTAL: 8
+#TOTAL: 7
 
-#EXTINF:-1,Nueva Vida FM (720p)
-https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
 #EXTINF:-1,Muz Soyuz (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1,Trace Gospel (1080p)
