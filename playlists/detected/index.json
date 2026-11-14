@@ -6,7 +6,7 @@
     "bahrain": 5,
     "bbc": 114,
     "bein": 8,
-    "canal": 515,
+    "canal": 514,
     "cartoon": 141,
     "cnn": 38,
     "dazn": 10,
@@ -48,13 +48,13 @@
     "yemen": 1
   },
   "categories": {
-    "documentary": 295,
-    "kids": 496,
-    "movies": 914,
-    "music": 860,
-    "news": 1632,
-    "other": 11629,
-    "sports": 620
+    "documentary": 293,
+    "kids": 495,
+    "movies": 910,
+    "music": 891,
+    "news": 1649,
+    "other": 11590,
+    "sports": 619
   },
   "total_channels": 16363
 }
