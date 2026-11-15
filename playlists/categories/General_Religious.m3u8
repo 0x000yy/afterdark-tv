@@ -1,9 +1,11 @@
 #EXTM3U
 #GROUP: General;Religious
-#TOTAL: 5
+#TOTAL: 6
 
 #EXTINF:-1,Holy Quran Radio (1080p)
 https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+#EXTINF:-1,Caritas TV (1080p)
+https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1,City Eden TV [Not 24/7]
 https://cityeden.catcast.tv/content/34246/index.m3u8
 #EXTINF:-1,Approval TV (720p)
