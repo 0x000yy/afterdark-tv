@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Italy
-#TOTAL: 300
+#TOTAL: 299
 
 #EXTINF:-1,Rai 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
@@ -124,8 +124,6 @@ https://stream9.xdevel.com/video0s976364-1176/stream/playlist.m3u8
 https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 #EXTINF:-1,Antenna 3 Veneto Nord Est
 https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
-#EXTINF:-1,Antenna Sicilia
-https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
 #EXTINF:-1,Antenna Sud
 https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 #EXTINF:-1,Antenna Sud Extra

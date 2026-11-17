@@ -1,9 +1,9 @@
 #EXTM3U
 #PLAYLIST: featured/bein-sports.m3u8
-#DATE: 2026-11-16 22:20:07 UTC
+#DATE: 2026-11-17 08:12:08 UTC
 #TOTAL: 5
 
-#EXTINF:-1 tvg-id="beINSports1.qa@MENA" tvg-logo="https://i.imgur.com/Vtk2cGI.png" group-title="Sports",beIN Sports 1
+#EXTINF:-1 tvg-id="beINSports1.qa@MENA" group-title="غير مصنف",beIN Sports 1
 https://vg162.adcdsd123321.shop/7.m3u8
 #EXTINF:-1 tvg-id="beINSports1Turk.tr@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/BeinSports1.svg/revision/latest?cb=20230910184457" group-title="Sports",beIN Sports 1 Turk
 http://57.129.0.61:1990/stream/117/index.m3u8

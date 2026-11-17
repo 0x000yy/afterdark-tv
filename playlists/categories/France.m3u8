@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: France
-#TOTAL: 25
+#TOTAL: 26
 
 #EXTINF:-1,LCP
 https://lcp.fr/le-live-lcp-tnt-5433
@@ -26,6 +26,8 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 https://tv.airconnectradio.com/live.m3u8
 #EXTINF:-1,TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
+#EXTINF:-1,France 3
+http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1,France 4
 http://176.65.146.100:8047/play/a074/index.m3u8
 #EXTINF:-1,France 5
