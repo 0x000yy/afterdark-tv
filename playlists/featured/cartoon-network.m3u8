@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/cartoon-network.m3u8
-#DATE: 2026-11-17 21:08:14 UTC
+#DATE: 2026-11-18 07:46:10 UTC
 #TOTAL: 42
 
 #EXTINF:-1 tvg-id="CartoonNetwork.it@SD" group-title="غير مصنف",Cartoon Network
@@ -14,7 +14,7 @@ http://88.218.242.237:8001/Cartoon_Classics
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network CEE
 http://193.33.39.108:9007/play/a00l
 #EXTINF:-1 tvg-id="CartoonNetwork.jp@HD" group-title="غير مصنف",Cartoon Network HD
-http://103.255.250.188:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+http://103.255.250.188:5002/cs25.m3u8?channel=zhongying&gid=cs25&token=guoziyun
 #EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" group-title="غير مصنف",Cartoon Network Asia
 http://202.150.165.66:8088/play/200-CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkArabic.ae@SD" group-title="غير مصنف",Cartoon Network Arabic

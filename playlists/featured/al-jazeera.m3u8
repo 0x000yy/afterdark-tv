@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/al-jazeera.m3u8
-#DATE: 2026-11-17 21:08:12 UTC
+#DATE: 2026-11-18 07:46:06 UTC
 #TOTAL: 33
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera
@@ -27,12 +27,12 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (720p)
 http://170.83.16.50/ALJAZEERA/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (720p)
+https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/al_jazeera_english/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (576p)
 https://fta.ektv.in/live/318/master.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (576p)
 https://streams.tangotv.in/ALJAZEERAHD/ORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (720p)
-https://n-5-1.eu.cdn-redge.media/livehls/oeu/mt/live/al_jazeera_english/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="غير مصنف",Al Jazeera Arabic (1080p)
 https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="غير مصنف",Al Jazeera English (1080p)

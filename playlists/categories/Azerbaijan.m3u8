@@ -1,7 +1,15 @@
 #EXTM3U
 #GROUP: Azerbaijan
-#TOTAL: 3
+#TOTAL: 7
 
+#EXTINF:-1,AZTV Ⓢ
+https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1,CBC Sport Ⓖ
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:-1,Mədəniyyət TV Ⓢ
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1,Xəzər Xəbər
+https://www.xezerxeber.az/stream/index.m3u8
 #EXTINF:-1,Muz TV Ⓨ
 https://www.youtube.com/channel/UCgHYcHd2SuX0ees5q0OWicQ/live
 #EXTINF:-1,Real TV Ⓨ

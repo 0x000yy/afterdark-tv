@@ -48,13 +48,13 @@
     "yemen": 1
   },
   "categories": {
-    "documentary": 300,
+    "documentary": 296,
     "kids": 511,
-    "movies": 917,
-    "music": 900,
-    "news": 1656,
-    "other": 11651,
-    "sports": 639
+    "movies": 916,
+    "music": 884,
+    "news": 1653,
+    "other": 11668,
+    "sports": 650
   },
-  "total_channels": 16490
+  "total_channels": 16494
 }
