@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/nickelodeon.m3u8
-#DATE: 2026-11-19 07:44:02 UTC
+#DATE: 2026-11-19 20:50:54 UTC
 #TOTAL: 110
 
 #EXTINF:-1 tvg-id="NickJr.cz@SD" group-title="غير مصنف",Nick Jr.
@@ -61,16 +61,16 @@ http://88.212.7.14/live/nicktoons_hungary/index.m3u8
 http://178.76.68.60:7442/80/mpegts
 #EXTINF:-1 tvg-id="Nickelodeon.uk@SD" group-title="غير مصنف",Nickelodeon
 http://93.186.201.93/stream/397/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon
-http://87.120.179.187:8000/play/a00x
-#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon
-http://213.91.179.28:8000/play/a056
 #EXTINF:-1 tvg-id="Nickelodeon.cz@SD" group-title="غير مصنف",Nickelodeon
 http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.cz@SD" group-title="غير مصنف",Nickelodeon
 http://193.33.39.108:9011/play/a018
 #EXTINF:-1 tvg-id="Nickelodeon.de@SD" group-title="غير مصنف",Nickelodeon
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon
+http://87.120.179.187:8000/play/a00x
+#EXTINF:-1 tvg-id="Nickelodeon.bg@SD" group-title="غير مصنف",Nickelodeon
+http://213.91.179.28:8000/play/a056
 #EXTINF:-1 tvg-id="Nickelodeon.nl@SD" group-title="غير مصنف",Nickelodeon
 http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
 #EXTINF:-1 tvg-id="Nickelodeon.hu@SD" group-title="غير مصنف",Nickelodeon
@@ -129,10 +129,10 @@ https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon CIS (1080p)
 https://stream8.cinerama.uz/1500/playlist.m3u8
+#EXTINF:-1 tvg-id="NickToons90s.au@AU" tvg-logo="https://images.pluto.tv/channels/64805525536e0c0008a19ca8/colorLogoPNG.png" group-title="Kids",NickToons 90s [Geo-blocked]
+https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.au@SD" group-title="غير مصنف",Nickelodeon [Geo-blocked]
 https://i.mjh.nz/.r/10shake-nsw.m3u8
-#EXTINF:-1 tvg-id="NickToons90s.au@AU" group-title="غير مصنف",NickToons 90s [Geo-blocked]
-https://i.mjh.nz/.r/10-nicktoons-90s.m3u8
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us@SD" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Kids",Nickelodeon en espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Kids",Nickelodeon Junior (720p)
@@ -141,10 +141,10 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/pl
 http://92.114.85.87:8013/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonArabia.ae@SD" group-title="غير مصنف",Nickelodeon Arabia (1080i)
 http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8
-#EXTINF:-1 tvg-id="NickelodeonClasico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" group-title="Kids",Nickelodeon Clasico (720p)
-https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us@SD" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Animation;Kids",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 tvg-id="NickelodeonClasico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" group-title="Kids",Nickelodeon Clasico (720p)
+https://jmp2.uk/plu-6824cda00101510f9eeaa011.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.us@CA" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png" group-title="Kids",Nicktoons (United States) CA
 https://jmp2.uk/plu-654ca7f92c1d3300086b608c.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClassics.de@DACH" tvg-logo="https://images.pluto.tv/channels/67f3eb800a1beb98767ca748/colorLogoPNG_1749200817646.png" group-title="Kids",Nickelodeon Classics (720p)
