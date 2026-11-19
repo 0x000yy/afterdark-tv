@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/eurosport.m3u8
-#DATE: 2026-11-18 20:48:56 UTC
+#DATE: 2026-11-19 07:43:56 UTC
 #TOTAL: 36
 
 #EXTINF:-1 tvg-id="Eurosport.fr@Asia" group-title="غير مصنف",Eurosport
@@ -17,32 +17,32 @@ https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playli
 http://87.238.211.217:2209/stream/99/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.in@HD" group-title="غير مصنف",Eurosport HD (1080p)
 https://livetv.shamon-cable.net:8443/Eurosport-HD/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@UK" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 UK (720p)
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport3Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_3_2022.svg/revision/latest?cb=20220418054130" group-title="Sports",Eurosport 3 Polska
 http://sultanios.alwaysdata.net/vavo.php?ID=512159637
 #EXTINF:-1 tvg-id="Eurosport4Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/Eurosport_4_2022.svg/revision/latest?cb=20220418053934" group-title="Sports",Eurosport 4 Polska
 http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
+#EXTINF:-1 tvg-id="Eurosport1.fr@UK" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 UK (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Germany" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Germany
 http://90.183.52.46:4000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Germany" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Germany
 http://46.244.99.71:8181/stream/74/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Turkiye" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Turkiye
-https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Turkiye" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Turkiye
-https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Czechia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Czechia
-http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Czechia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Czechia
-http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Romania" group-title="غير مصنف",Eurosport 1 Romania
-http://89.44.231.73:7000/eurosport
-#EXTINF:-1 tvg-id="Eurosport2.fr@Romania" group-title="غير مصنف",Eurosport 2 Romania
-http://89.44.231.73:7000/eurosport2
 #EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Hungary
 http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Hungary" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Hungary
 http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Czechia" group-title="غير مصنف",Eurosport 1 Czechia
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Romania" group-title="غير مصنف",Eurosport 1 Romania
+http://89.44.231.73:7000/eurosport
+#EXTINF:-1 tvg-id="Eurosport2.fr@Czechia" group-title="غير مصنف",Eurosport 2 Czechia
+http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Romania" group-title="غير مصنف",Eurosport 2 Romania
+http://89.44.231.73:7000/eurosport2
+#EXTINF:-1 tvg-id="Eurosport1.fr@Turkiye" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Turkiye
+https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Turkiye" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Turkiye
+https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Bulgaria" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Bulgaria
 http://213.91.179.28:8000/play/a05y
 #EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Bulgaria
@@ -53,11 +53,11 @@ http://88.212.15.50/live/esp_4k_atk/playlist.m3u8
 http://185.228.163.146:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Portugal" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Portugal
 http://185.228.163.146:8000/play/a048/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Spain" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Spain (576p)
+#EXTINF:-1 tvg-id="Eurosport1.fr@Spain" group-title="غير مصنف",Eurosport 1 Spain (576p)
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Italy" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Italy (540p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Spain" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Spain (1080p)
+#EXTINF:-1 tvg-id="Eurosport2.fr@Spain" group-title="غير مصنف",Eurosport 2 Spain (1080p)
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1Polska.pl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Eurosport_1_2022.svg/revision/latest?cb=20220806090310" group-title="Sports",Eurosport 1 Polska (1080p)
 http://57.128.210.196:8080/264/index.m3u8

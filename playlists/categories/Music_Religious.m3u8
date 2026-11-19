@@ -1,9 +1,11 @@
 #EXTM3U
 #GROUP: Music;Religious
-#TOTAL: 8
+#TOTAL: 9
 
 #EXTINF:-1,Nueva Vida FM (720p)
 https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+#EXTINF:-1,Hare Krsna Music (1080p)
+https://d1y1fq5zo7b6pt.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/hkmusic/HKTV/HKMusic/playlist.m3u8
 #EXTINF:-1,Muz Soyuz (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1,Trace Gospel (1080p)
