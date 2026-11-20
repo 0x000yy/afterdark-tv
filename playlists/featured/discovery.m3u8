@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/discovery.m3u8
-#DATE: 2026-11-20 07:30:11 UTC
+#DATE: 2026-11-20 20:39:01 UTC
 #TOTAL: 68
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk@SD" group-title="غير مصنف",Discovery Turbo
@@ -9,12 +9,12 @@ http://37.49.224.5/stream/13/index.m3u8
 http://37.49.224.5/stream/12/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk@UK" group-title="غير مصنف",Discovery Channel
 http://37.49.224.5/stream/11/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.bg@SD" group-title="غير مصنف",Discovery Channel
-http://213.91.179.28:8000/play/a044
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" group-title="غير مصنف",Discovery Channel
-http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD" group-title="غير مصنف",Discovery Channel
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" group-title="غير مصنف",Discovery Channel
+http://192.99.186.30/stream/68/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg@SD" group-title="غير مصنف",Discovery Channel
+http://213.91.179.28:8000/play/a044
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu@SD" group-title="غير مصنف",Discovery Channel
 http://88.212.7.14/live/discovery_hungary/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro@SD" group-title="غير مصنف",Discovery Channel
@@ -45,7 +45,7 @@ http://102.129.186.182:81/discovery/index.m3u8
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" group-title="غير مصنف",Discovery Channel HD (1080p)
 http://116.90.120.149:8000/play/a11a/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk@UK" group-title="غير مصنف",Discovery Science Europe UK
+#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png" group-title="Science",Discovery Science Europe UK
 http://37.49.224.5/stream/9/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="Entertainment",Discovery Asia Taiwan (1080p)
 http://125.227.210.55:1004/VideoInput/play.ts

@@ -19,7 +19,7 @@
     "hbo": 30,
     "iraq": 39,
     "jazeera": 33,
-    "jordan": 12,
+    "jordan": 13,
     "kuwait": 21,
     "lebanon": 7,
     "libya": 2,
@@ -48,13 +48,13 @@
     "yemen": 1
   },
   "categories": {
-    "documentary": 307,
-    "kids": 518,
-    "movies": 914,
-    "music": 891,
-    "news": 1652,
-    "other": 11858,
-    "sports": 652
+    "documentary": 310,
+    "kids": 519,
+    "movies": 937,
+    "music": 904,
+    "news": 1665,
+    "other": 11819,
+    "sports": 650
   },
-  "total_channels": 16710
+  "total_channels": 16717
 }

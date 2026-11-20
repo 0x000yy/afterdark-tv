@@ -1,13 +1,13 @@
 #EXTM3U
 #GROUP: Sports
-#TOTAL: 469
+#TOTAL: 472
 
-#EXTINF:-1,CBC Sport [Geo-blocked]
-https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1,Eurosport 1 Serbia
 http://87.238.211.217:2209/stream/99/index.m3u8
 #EXTINF:-1,SOS Kanal Plus (720p)
 https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
+#EXTINF:-1,CBC Sport [Geo-blocked]
+https://cbcsports-live.lg.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1,5Gold
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
 #EXTINF:-1,5Live
@@ -24,20 +24,14 @@ https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
 #EXTINF:-1,One 2
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
-#EXTINF:-1,Futbol TV (1080p)
-http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sport (Uzbekistan)
-https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1,QazSport (1080p)
 http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1,Sport+ Qazaqstan (1080p)
 https://fs.uplink.kz/sport+/mono.m3u8?token=onlinetv
-#EXTINF:-1,RTSH Sport (1080p)
-http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-#EXTINF:-1,Arena Sport 1 Premium
-http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
-#EXTINF:-1,Go3 Sport 1 (1080p)
-http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1,Futbol TV (1080p)
+http://stream3.cinerama.uz/1010/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sport (Uzbekistan)
+https://stream8.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Eurosport 1 Bulgaria
 http://213.91.179.28:8000/play/a05y
 #EXTINF:-1,Eurosport 2 Bulgaria
@@ -50,24 +44,26 @@ http://213.91.179.28:8000/play/a0at
 http://213.91.179.28:8000/play/a0ar
 #EXTINF:-1,Max Sport 4
 http://213.91.179.28:8000/play/a05n
+#EXTINF:-1,RTSH Sport (1080p)
+http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+#EXTINF:-1,Arena Sport 1 Premium
+http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vhWLdkJ_3C0RZgs4W19uhl8S3kU0l__4SxERjFMDgcT6
+#EXTINF:-1,Go3 Sport 1 (1080p)
+http://stream.mcquack.net/416/index.m3u8
 #EXTINF:-1,Sports Television (720p) [Not 24/7]
 https://live.koryocdn.org/sports/index.m3u8
-#EXTINF:-1,ATG Live (720p)
-https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
-#EXTINF:-1,Pluto TV Handboll Highlights
-https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
-#EXTINF:-1,Pluto TV Handboll Live
-https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
-#EXTINF:-1,Pluto TV Snooker 900 (Sweden) (720p)
-https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
-#EXTINF:-1,Pluto TV Sport (Sweden)
-https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 #EXTINF:-1,Adjarasport 1
 https://live20.bozztv.com/dvrfl05/gin-adjara/index.m3u8
 #EXTINF:-1,Setanta Sports 3 (1080p)
 http://85.117.61.84/setanta3/index.m3u8
 #EXTINF:-1,Setanta Sports+ Georgia (1080p)
 http://85.117.61.84/setanta2/index.m3u8
+#EXTINF:-1,T Sports 7 (240p)
+https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
+#EXTINF:-1,HTV Sports (1080p)
+https://dethich.pw/htvthethao/index.m3u8
+#EXTINF:-1,VTV6 (720p)
+https://dethich.pw/vtv6/index.m3u8
 #EXTINF:-1,Arena Sport 1
 http://88.212.15.50/live/test_arenasport/playlist.m3u8
 #EXTINF:-1,Arena Sport 2
@@ -102,54 +98,16 @@ http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
 #EXTINF:-1,Sport (Slovakia) (1080p)
 http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
-#EXTINF:-1,T Sports 7 (240p)
-https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
-#EXTINF:-1,Pluto TV Snooker 900 (Sweden) NO (720p)
-https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
-#EXTINF:-1,Pluto TV Sport (Sweden) NO
-https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
-#EXTINF:-1,HTV Sports (1080p)
-https://dethich.pw/htvthethao/index.m3u8
-#EXTINF:-1,VTV6 (720p)
-https://dethich.pw/vtv6/index.m3u8
-#EXTINF:-1,Canal+ Sport 2
-http://57.129.96.133:888/stream/94/index.m3u8
-#EXTINF:-1,Canal+ Sport 3
-http://57.129.96.133:888/stream/93/index.m3u8
-#EXTINF:-1,Canal+ Sport 4
-http://57.129.96.133:888/stream/95/index.m3u8
-#EXTINF:-1,Canal+ Sport (Poland)
-http://57.129.96.133:888/stream/92/index.m3u8
-#EXTINF:-1,Eurosport 1 Polska (1080p)
-http://57.128.210.196:8080/264/index.m3u8
-#EXTINF:-1,Eurosport 2 Polska (1080p)
-http://57.128.210.196:8080/263/index.m3u8
-#EXTINF:-1,Eurosport 3 Polska
-http://sultanios.alwaysdata.net/vavo.php?ID=512159637
-#EXTINF:-1,Eurosport 4 Polska
-http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
-#EXTINF:-1,FightBox Poland (576i)
-http://92.114.85.87:8003/play/a00b/index.m3u8
-#EXTINF:-1,Polsat Sport Fight
-http://92.114.85.87:8016/play/a00b/index.m3u8
-#EXTINF:-1,TVP Sport (1080p) [Not 24/7]
-rtsp://213.189.46.75/wmt-14963-1.sdp
-#EXTINF:-1,Sport (Kyrgyzstan) (480p) [Not 24/7]
-https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
-#EXTINF:-1,TVRI Sport (1080p)
-http://202.150.172.59/TVRISport/index.m3u8
-#EXTINF:-1,M Sports (1080p)
-https://cdn.rabta.stream/M-Sports/index.m3u8
-#EXTINF:-1,PK Sports (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
-#EXTINF:-1,PTV Sports (1080p)
-http://103.250.28.74:8000/play/a019/index.m3u8
-#EXTINF:-1,Barca TV
-https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
-#EXTINF:-1,Futbol (1080p)
-http://185.121.1.163:8083/FootballHD/index.m3u8
-#EXTINF:-1,Turkmenistan Sport (406p) [Not 24/7]
-https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1,ATG Live (720p)
+https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
+#EXTINF:-1,Pluto TV Handboll Highlights
+https://jmp2.uk/plu-68dfa3e2cc3c6cd904052c41.m3u8
+#EXTINF:-1,Pluto TV Handboll Live
+https://jmp2.uk/plu-686faf533ffa5e0c912688e7.m3u8
+#EXTINF:-1,Pluto TV Snooker 900 (Sweden) (720p)
+https://jmp2.uk/plu-68ac56363efb41cd979a8005.m3u8
+#EXTINF:-1,Pluto TV Sport (Sweden)
+https://jmp2.uk/plu-62cd74e38f6f0d000798cd93.m3u8
 #EXTINF:-1,DiviSport (1080p)
 http://stream.mcquack.net/457/index.m3u8
 #EXTINF:-1,Dynamo Kyiv TV (1080p)
@@ -180,6 +138,44 @@ http://stream.mcquack.net/394/index.m3u8
 http://stream.mcquack.net/444/index.m3u8
 #EXTINF:-1,UPL.TV
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
+#EXTINF:-1,Sport (Kyrgyzstan) (480p) [Not 24/7]
+https://st2.mediabay.tv/KG_KTRK-Sport/index.m3u8
+#EXTINF:-1,GEM Fit
+https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
+#EXTINF:-1,GEM Sport
+https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
+#EXTINF:-1,IRIB 3
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+#EXTINF:-1,Persiana Fight
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,Varzesh TV
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+#EXTINF:-1,MRTV Sports [Not 24/7]
+https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1,Turkmenistan Sport (406p) [Not 24/7]
+https://alpha.tv.online.tm/hls/ch004.m3u8
+#EXTINF:-1,Canal+ Sport 2
+http://57.129.96.133:888/stream/94/index.m3u8
+#EXTINF:-1,Canal+ Sport 3
+http://57.129.96.133:888/stream/93/index.m3u8
+#EXTINF:-1,Canal+ Sport 4
+http://57.129.96.133:888/stream/95/index.m3u8
+#EXTINF:-1,Canal+ Sport (Poland)
+http://57.129.96.133:888/stream/92/index.m3u8
+#EXTINF:-1,Eurosport 1 Polska (1080p)
+http://57.128.210.196:8080/264/index.m3u8
+#EXTINF:-1,Eurosport 2 Polska (1080p)
+http://57.128.210.196:8080/263/index.m3u8
+#EXTINF:-1,Eurosport 3 Polska
+http://sultanios.alwaysdata.net/vavo.php?ID=512159637
+#EXTINF:-1,Eurosport 4 Polska
+http://sultanios.alwaysdata.net/vavo.php?ID=2896573317
+#EXTINF:-1,FightBox Poland (576i)
+http://92.114.85.87:8003/play/a00b/index.m3u8
+#EXTINF:-1,Polsat Sport Fight
+http://92.114.85.87:8016/play/a00b/index.m3u8
+#EXTINF:-1,TVP Sport (1080p) [Not 24/7]
+rtsp://213.189.46.75/wmt-14963-1.sdp
 #EXTINF:-1,A Spor SD (1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1,beIN Sports 1 Turk
@@ -202,20 +198,30 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 https://corestream.siteyaptim.live/trt-spor/index.m3u8
 #EXTINF:-1,TRT Spor Yildiz (1440p) [Geo-blocked]
 https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&platform=trtspor
-#EXTINF:-1,GEM Fit
-https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
-#EXTINF:-1,GEM Sport
-https://steep-wildflower-284d.nhhwkiszzzvcuojxdo.workers.dev/?url=https://gg.hls2.xyz/live/IR+-+GEM+Sport/chunks.m3u8
-#EXTINF:-1,IRIB 3
-https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
-#EXTINF:-1,Persiana Fight
-https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Varzesh TV
-https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+#EXTINF:-1,Brondby TV
+https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
+#EXTINF:-1,FCK Lovinderne
+https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
+#EXTINF:-1,Pluto TV Handbold Highlights
+https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
+#EXTINF:-1,Pluto TV Handbold Live
+https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
+#EXTINF:-1,Pluto TV Snooker 900 (Sweden) DK (720p)
+https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
+#EXTINF:-1,Pluto TV Sport (Sweden) DK
+https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
+#EXTINF:-1,Futbol (1080p)
+http://185.121.1.163:8083/FootballHD/index.m3u8
+#EXTINF:-1,TVRI Sport (1080p)
+http://202.150.172.59/TVRISport/index.m3u8
 #EXTINF:-1,MNB Sport (1080p)
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1,MRTV Sports [Not 24/7]
-https://mrtvott.com/cache/MRTV-SPORT/master.m3u8
+#EXTINF:-1,Barca TV
+https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
+#EXTINF:-1,DD Sports HD (1080p)
+https://cdn.pishow.tv/ott/live/1161/master.m3u8
+#EXTINF:-1,T Sports (1080p)
+https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1,Arena4
 http://88.212.7.14/live/arena4/index.m3u8
 #EXTINF:-1,Eurosport 1 Hungary
@@ -236,6 +242,12 @@ http://88.212.7.14/live/spiler2/index.m3u8
 http://88.212.7.14/live/sport1_hun/index.m3u8
 #EXTINF:-1,Sport 2 (Hungary)
 http://88.212.7.14/live/sport2_hun/index.m3u8
+#EXTINF:-1,M Sports (1080p)
+https://cdn.rabta.stream/M-Sports/index.m3u8
+#EXTINF:-1,PK Sports (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+#EXTINF:-1,PTV Sports (1080p)
+http://103.250.28.74:8000/play/a019/index.m3u8
 #EXTINF:-1,AntenaPlay Events (576p) [Not 24/7]
 https://live77cdn2.antenaplay.ro/live2_sdi03/live2_sdi03_3000k.m3u8
 #EXTINF:-1,AntenaSport
@@ -276,30 +288,22 @@ https://livesptfm.com/SPTFM/Live/playlist.m3u8
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv-plus5/live_fullhd?offsetSeconds=0
 #EXTINF:-1,Voyo Sport 1 (1080i)
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/16677.m3u8
-#EXTINF:-1,DD Sports HD (1080p)
-https://cdn.pishow.tv/ott/live/1161/master.m3u8
-#EXTINF:-1,T Sports (1080p)
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1,Pluto TV Snooker 900 (Sweden) NO (720p)
+https://jmp2.uk/plu-68ac55fe3efb41cd979a6877.m3u8
+#EXTINF:-1,Pluto TV Sport (Sweden) NO
+https://jmp2.uk/plu-6357f33cb51d2d00077927c6.m3u8
 #EXTINF:-1,KTV Sport (1080p)
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 #EXTINF:-1,KTV Sport Plus (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
-#EXTINF:-1,Brondby TV
-https://jmp2.uk/plu-685029cda1e091e16ff57fc8.m3u8
-#EXTINF:-1,FCK Lovinderne
-https://jmp2.uk/plu-68ac5403de4a734954b5ab75.m3u8
-#EXTINF:-1,Pluto TV Handbold Highlights
-https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
-#EXTINF:-1,Pluto TV Handbold Live
-https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
-#EXTINF:-1,Pluto TV Snooker 900 (Sweden) DK (720p)
-https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
-#EXTINF:-1,Pluto TV Sport (Sweden) DK
-https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
-#EXTINF:-1,Sharjah Sports (1080p) [Geo-blocked]
-https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
+#EXTINF:-1,Bahrain Sports 1 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1,Bahrain Sports 2 (720p) [Not 24/7]
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1,Oman Sports TV (1080p) [Not 24/7]
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1,Sharjah Sports (1080p) [Geo-blocked]
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/playlist.m3u8
 #EXTINF:-1,CCTV-5+ (1080p)
 https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p
 #EXTINF:-1,CCTV-16 HD (1080p)
@@ -316,12 +320,14 @@ http://183.207.248.71/gitv/live1/G_JSTY/G_JSTY
 http://livealone302.iqilu.com/iqilu/typd.m3u8
 #EXTINF:-1,TDM Sports (720p)
 https://live3.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1,Al Iraqia Sport (720p)
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+#EXTINF:-1,Jordan Sport (1080p) [Geo-blocked]
+https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 #EXTINF:-1,Arryadia (720p)
 http://149.100.11.252:8000/play/a065/index.m3u8
 #EXTINF:-1,El-Heddaf TV (1080p)
 https://live.elheddaftv.com:8081/elheddaftv/index.m3u8
+#EXTINF:-1,Al Iraqia Sport (720p)
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1,TyC Sports USA
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1,WAPA-TV 4.2 (720p) [Not 24/7]
@@ -370,6 +376,40 @@ https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3
 http://57.128.225.206/stream/7/index.m3u8
 #EXTINF:-1,TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1,AS3 Sport TV (1080p)
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1,ESPN 3 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
+#EXTINF:-1,ESPN 4 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
+#EXTINF:-1,ESPN 5 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
+#EXTINF:-1,ESPN 6 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
+#EXTINF:-1,ESPN 7 Latin America (1080p)
+https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
+#EXTINF:-1,ESPN Latin America Colombia (1080p)
+http://181.78.211.244:8005/play/a08q/index.m3u8
+#EXTINF:-1,Meridiano TV (576p)
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1,SportsMax News (1080p)
+http://181.79.86.130:8000/play/a081/index.m3u8
+#EXTINF:-1,TNT Sports (Argentina)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
+#EXTINF:-1,TNT Sports (Argentina) SD (576p)
+http://181.78.79.131:8000/play/a0mo
+#EXTINF:-1,AyM Sports (1080p)
+http://168.196.127.137:6001/play/a06v/index.m3u8
+#EXTINF:-1,Azteca Deportes Network (1080p)
+http://209.14.115.253:8081/azteca-deportes/index.m3u8
+#EXTINF:-1,ESPN Latin America Mexico (1080p)
+http://168.228.44.241:9997/play/a06p/index.m3u8
+#EXTINF:-1,Sky Sports 1 (1080p)
+http://45.228.234.9:8000/play/a06b/index.m3u8
+#EXTINF:-1,Sky Sports 2 (1080p)
+http://200.115.120.1:8000/play/ca82266/index.m3u8
+#EXTINF:-1,TV Cuatro 4.3 (1080p)
+https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
 #EXTINF:-1,Band Sports (1080p)
 https://cdn-5.nxplay.com.br/BAND_SPORTS/index.m3u8
 #EXTINF:-1,Canal do Inter (720p) [Not 24/7]
@@ -418,72 +458,20 @@ http://195.178.110.110/sportv2/index.m3u8
 http://195.178.110.110/sportv3/index.m3u8
 #EXTINF:-1,TVMatic Fight (720p)
 http://cdn.tvmatic.net/fight.m3u8
-#EXTINF:-1,AS3 Sport TV (1080p)
-https://streamtv.as3sport.online:3394/hybrid/play.m3u8
-#EXTINF:-1,ESPN 3 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_3/ESPN_3.isml/ESPN_3.m3u8
-#EXTINF:-1,ESPN 4 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_4/ESPN_4.isml/ESPN_4.m3u8
-#EXTINF:-1,ESPN 5 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_5/ESPN_5.isml/ESPN_5.m3u8
-#EXTINF:-1,ESPN 6 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_6/ESPN_6.isml/ESPN_6.m3u8
-#EXTINF:-1,ESPN 7 Latin America (1080p)
-https://barinaslive1.boldmss.com/ESPN_7/ESPN_7.isml/ESPN_7.m3u8
-#EXTINF:-1,ESPN Latin America Colombia (1080p)
-http://181.78.211.244:8005/play/a08q/index.m3u8
-#EXTINF:-1,Meridiano TV (576p)
-http://181.78.8.199:8000/play/a0fr/index.m3u8
-#EXTINF:-1,SportsMax News (1080p)
-http://181.79.86.130:8000/play/a081/index.m3u8
-#EXTINF:-1,TNT Sports (Argentina)
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/86.m3u8
-#EXTINF:-1,TNT Sports (Argentina) SD (576p)
-http://181.78.79.131:8000/play/a0mo
-#EXTINF:-1,AyM Sports (1080p)
-http://168.196.127.137:6001/play/a06v/index.m3u8
-#EXTINF:-1,Azteca Deportes Network (1080p)
-http://209.14.115.253:8081/azteca-deportes/index.m3u8
-#EXTINF:-1,ESPN Latin America Mexico (1080p)
-http://168.228.44.241:9997/play/a06p/index.m3u8
-#EXTINF:-1,Sky Sports 1 (1080p)
-http://45.228.234.9:8000/play/a06b/index.m3u8
-#EXTINF:-1,Sky Sports 2 (1080p)
-http://200.115.120.1:8000/play/ca82266/index.m3u8
-#EXTINF:-1,TV Cuatro 4.3 (1080p)
-https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
 #EXTINF:-1,DSports (1080p)
 http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1,ESPN 2 Latin America Colombia (1080p)
-http://190.61.47.54:8000/play/a005/index.m3u8
-#EXTINF:-1,Win Sports (1080p)
-http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1,Win+ Futbol (1080p)
-http://181.78.12.119:16123/play/ch19/index.m3u8
-#EXTINF:-1,CDN Deportes (720p) [Not 24/7]
-https://hls.tvabierta.net/hls/036.m3u8
-#EXTINF:-1,Colimdo TV (720p)
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1,Tour Spot TV (1280p) [Not 24/7]
-https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1,ESPN 2 Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 #EXTINF:-1,ESPN Latin America (1080p)
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1,Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1,FIFA+ United States (720p)
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1,Game+ (720p)
-https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:-1,Golf Channel (United States) (576p)
-https://tvsen6.aynaott.com/golfchannel/index.m3u8
-#EXTINF:-1,Hard Knocks (1080p)
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
-#EXTINF:-1,Pluto TV Snooker 900 (United States)
-https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
-#EXTINF:-1,Willow Sports (1080p)
-https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:-1,ESPN 2 Latin America Colombia (1080p)
+http://190.61.47.54:8000/play/a005/index.m3u8
+#EXTINF:-1,Win Sports (1080p)
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1,Win+ Futbol (1080p)
+http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1,CRTV (Chile) (720p)
 https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 #EXTINF:-1,TNT Sports (Chile) (480p)
@@ -518,8 +506,6 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/1552.m3u8
 http://181.78.79.131:8000/play/a0q9
 #EXTINF:-1,TyC Sports (1080p)
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-#EXTINF:-1,Tigo Sports+ (1280p)
-https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 #EXTINF:-1,Bicolor+ (720p)
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/playlist.m3u8
 #EXTINF:-1,Bicolor+ Premium 2 (720p)
@@ -538,6 +524,26 @@ https://h.jcp.live.opencaster.com/play_src/index.m3u8
 http://195.178.110.110/movistar/index.m3u8
 #EXTINF:-1,Sqala TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
+#EXTINF:-1,FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1,Game+ (720p)
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+#EXTINF:-1,Golf Channel (United States) (576p)
+https://tvsen6.aynaott.com/golfchannel/index.m3u8
+#EXTINF:-1,Hard Knocks (1080p)
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ads.vf=6pOF6kgy418
+#EXTINF:-1,Pluto TV Snooker 900 (United States)
+https://jmp2.uk/plu-639b4f75d3d35c0007d37b30.m3u8
+#EXTINF:-1,Willow Sports (1080p)
+https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+#EXTINF:-1,CDN Deportes (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/036.m3u8
+#EXTINF:-1,Colimdo TV (720p)
+https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+#EXTINF:-1,Tour Spot TV (1280p) [Not 24/7]
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
+#EXTINF:-1,Tigo Sports+ (1280p)
+https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8
 #EXTINF:-1,FTV (Bolivia) (720p)
 https://master.tucableip.com/ftvhd/index.m3u8
 #EXTINF:-1,Tigo Sports (Bolivia) (720p) [Geo-blocked]
@@ -640,6 +646,38 @@ https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1,The Cycling Channel
 https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+#EXTINF:-1,DAZN Combat (684p)
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+#EXTINF:-1,Eurosport 1 UK (720p)
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
+#EXTINF:-1,Eurosport 2 UK
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
+#EXTINF:-1,FIFA+ (1080p)
+https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
+#EXTINF:-1,FIFA+ Women (720p)
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1,MUTV (720p)
+https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
+#EXTINF:-1,Sky Sports F1 (720p)
+https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
+#EXTINF:-1,Sky Sports News (576p)
+https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
+#EXTINF:-1,Sky Sports NFL (720p)
+https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
+#EXTINF:-1,Strongman UK (720p)
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,talkSPORT (1080p)
+https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8
+#EXTINF:-1,TNT Sports 1
+http://37.49.224.5/stream/1/index.m3u8
+#EXTINF:-1,TNT Sports 2
+http://37.49.224.5/stream/2/index.m3u8
+#EXTINF:-1,TNT Sports 3
+http://37.49.224.5/stream/3/index.m3u8
+#EXTINF:-1,TNT Sports 4
+http://37.49.224.5/stream/4/index.m3u8
+#EXTINF:-1,World Poker Tour UK (1080p)
+https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
 #EXTINF:-1,DAZN 1 Germany
 http://45.142.104.86/stream/25/index.m3u8
 #EXTINF:-1,DAZN 2 Germany
@@ -668,24 +706,6 @@ https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,World Poker Tour Germany
 https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
-#EXTINF:-1,Sky Sports F1 (720p)
-https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8
-#EXTINF:-1,Sky Sports News (576p)
-https://cdn.stmify.com/out/v1/SKY_SPORTS_PREMIER_LEAGUE/index.m3u8
-#EXTINF:-1,Sky Sports NFL (720p)
-https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8
-#EXTINF:-1,DAZN Combat (684p)
-https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
-#EXTINF:-1,Eurosport 1 UK (720p)
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_en/live.livx/playlist.m3u8
-#EXTINF:-1,Eurosport 2 UK
-https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8
-#EXTINF:-1,FIFA+ (1080p)
-https://95cedebd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRklGQVBsdXNFbmdsaXNoX0hMUw/playlist.m3u8
-#EXTINF:-1,Strongman UK (720p)
-https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1,World Poker Tour UK (1080p)
-https://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
 #EXTINF:-1,CT Sport (720p)
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1,Eurosport 1 Czechia
@@ -718,8 +738,6 @@ http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqR25
 http://telekomsrbije.com:2095/play/lhpjmkfVyhON1JAiZCx7vgvje3t-Jiqa5d94ZBmKAqSVr5S9_a_TNo_sg7gE1yvH
 #EXTINF:-1,M-Net Sport (720p)
 http://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1,Sport TV (1080p)
-http://178.124.179.122:8080/SportTV/mpegts
 #EXTINF:-1,Eleven Sports 1
 http://92.114.85.87:8002/play/a00e/index.m3u8
 #EXTINF:-1,Eleven Sports 2 (1080p)
@@ -738,6 +756,8 @@ https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist
 https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1,World Poker Tour Poland (1080p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
+#EXTINF:-1,Sport TV (1080p)
+http://178.124.179.122:8080/SportTV/mpegts
 #EXTINF:-1,Alfa Sport (1080p) [Not 24/7]
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1,Talent TV (720p)
@@ -746,26 +766,12 @@ http://live.talenttv.lk:8080/hls/x8kd5n3tm8e8lsv/index.m3u8
 https://stream1.antenaplay.ro/promo/formula-1-las-vegas-20-2211/chunklist.m3u8
 #EXTINF:-1,NHL AntenaPlay (576i) [Not 24/7]
 https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8
-#EXTINF:-1,Sport 5 (1080p)
-http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1,One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1,Ten Sports Pakistan
 http://121.91.61.106:8000/play/a04h/index.m3u8
-#EXTINF:-1,Premier Sports 2 (1080p)
-https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
-#EXTINF:-1,Premier Sports (1080p)
-https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
-#EXTINF:-1,TAP Sports (1080p) [Geo-blocked]
-https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
-#EXTINF:-1,Cricket Gold (1080p)
-https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
-#EXTINF:-1,Racing.com (720p)
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1,Sky Racing 1 (720p)
-https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
-#EXTINF:-1,Sky Racing 2 (720p) [Geo-blocked]
-https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8
+#EXTINF:-1,Sport 5 (1080p)
+http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1,FUEL TV AU (1080p)
 https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
 #EXTINF:-1,Racer Network (1080p)
