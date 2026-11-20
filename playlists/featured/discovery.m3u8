@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/discovery.m3u8
-#DATE: 2026-11-19 20:50:54 UTC
-#TOTAL: 62
+#DATE: 2026-11-20 07:30:11 UTC
+#TOTAL: 68
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk@SD" group-title="غير مصنف",Discovery Turbo
 http://37.49.224.5/stream/13/index.m3u8
@@ -9,18 +9,20 @@ http://37.49.224.5/stream/13/index.m3u8
 http://37.49.224.5/stream/12/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.uk@UK" group-title="غير مصنف",Discovery Channel
 http://37.49.224.5/stream/11/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD" group-title="غير مصنف",Discovery Channel
-http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" group-title="غير مصنف",Discovery Channel
-http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.bg@SD" group-title="غير مصنف",Discovery Channel
 http://213.91.179.28:8000/play/a044
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" group-title="غير مصنف",Discovery Channel
+http://192.99.186.30/stream/68/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD" group-title="غير مصنف",Discovery Channel
+http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu@SD" group-title="غير مصنف",Discovery Channel
 http://88.212.7.14/live/discovery_hungary/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro@SD" group-title="غير مصنف",Discovery Channel
 http://92.180.26.103/stream/28/index.m3u8
 #EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-country="IT" group-title="Italy",Discovery Channel
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" group-title="غير مصنف",Discovery Turbo (576p)
+http://116.90.120.149:8000/play/a11d/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.us@SD" group-title="غير مصنف",Discovery Turbo (720p)
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurbo.it@SD" group-title="غير مصنف",Discovery Turbo (1080p)
@@ -31,6 +33,8 @@ https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryWorld.us@LatinAmerica" group-title="غير مصنف",Discovery World (1080p)
 http://209.61.12.77:9000/play/a08v/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="Science",Discovery Science (576p)
+http://116.90.120.149:8000/play/a11b/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.nl@SD" group-title="غير مصنف",Discovery Channel (360p)
 https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.ru@SD" group-title="غير مصنف",Discovery Channel (1080p)
@@ -39,7 +43,9 @@ http://stream.mcquack.net/177/index.m3u8
 http://102.129.186.182:81/discovery/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" group-title="غير مصنف",Discovery Channel HD (1080p)
 http://103.135.253.32:8080/DISCOVERY/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk@UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/960px-Discovery_Science_2017_Logo.svg.png" group-title="Science",Discovery Science Europe UK
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" group-title="غير مصنف",Discovery Channel HD (1080p)
+http://116.90.120.149:8000/play/a11a/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScienceEurope.uk@UK" group-title="غير مصنف",Discovery Science Europe UK
 http://37.49.224.5/stream/9/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-logo="https://i.imgur.com/foLICwL.png" group-title="Entertainment",Discovery Asia Taiwan (1080p)
 http://125.227.210.55:1004/VideoInput/play.ts
@@ -79,6 +85,8 @@ https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 http://192.99.186.30/stream/81/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery (Hungary)
 http://88.212.7.14/live/id_hun/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png" group-title="Documentary",Investigation Discovery (India) (576p)
+http://116.90.120.149:8000/play/a119/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.ru@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentary",Investigation Discovery (Russia) (1080p)
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/ID_%28Print%29.svg/revision/latest?cb=20210101125600" group-title="Undefined",Investigation Discovery (Czech Republic)
@@ -91,15 +99,19 @@ http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/41.m3u8
 http://103.86.135.164:9981/stream/channelid/2073419458?profile=pass&ticket=461AC76A96B0E3DC1FCFBFCF318709B61B2D3F5B
 #EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" group-title="غير مصنف",Discover Pakistan
 http://103.86.135.164:9981/stream/channelid/2089283490?profile=pass&ticket=BB7D99860884A453E7DEA789EDFB5114621FEDED
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel",Discover Pakistan (1080p)
+http://116.90.120.149:8000/play/a0s8/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveringChina.cn@SD" tvg-logo="https://i.imgur.com/wr2bLaA.png" group-title="Culture;Documentary",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" tvg-logo="https://i.imgur.com/IJH47fJ.png" group-title="Travel",Discover Pakistan (1080p)
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" group-title="غير مصنف",Discover Pakistan (1080p)
+http://116.90.120.149:8000/play/a01t/index.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" group-title="غير مصنف",Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-id="DiasporaTV.pe@SD" tvg-logo="https://i.imgur.com/lppmyxD.png" group-title="Culture",Diaspora TV
 https://s1.tvdatta.com:3978/live/diasporatvlive.m3u8
 #EXTINF:-1 tvg-id="DSports.us@Panregional" group-title="غير مصنف",DSports
 http://45.186.254.75:8000/play/a0en/index.m3u8
-#EXTINF:-1 tvg-id="Diaspora24.sn@SD" group-title="غير مصنف",Diaspora 24 [Geo-blocked]
+#EXTINF:-1 tvg-id="Diaspora24.sn@SD" tvg-logo="https://i.imgur.com/4devfx1.png" group-title="Undefined",Diaspora 24 [Geo-blocked]
 https://vdo3.pro-fhi.net:3218/stream/play.m3u8
 #EXTINF:-1 tvg-id="DSports2.us@Panregional" group-title="غير مصنف",DSports 2
 http://45.134.141.161:2200/ARG/DTV_SP2/tracks-v1a1/mono.m3u8
