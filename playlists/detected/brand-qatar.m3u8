@@ -1,10 +1,8 @@
 #EXTM3U
 #PLAYLIST: detected/brand-qatar.m3u8
-#DATE: 2026-11-21 07:24:30 UTC
+#DATE: 2026-11-21 19:29:07 UTC
 #TOTAL: 18
 
-#EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Sports",Formula 2 AntenaPlay (576i) [Not 24/7]
-https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlRayyanOldTV.qa@SD" tvg-logo="https://i.imgur.com/4qB5iN0.png" group-title="General",Al Rayyan Old TV (1080p)
 https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="AlRayyanTV.qa@SD" tvg-logo="https://i.imgur.com/Ts3RjTV.png" group-title="General",Al Rayyan TV (1080p)
@@ -15,6 +13,8 @@ https://live.kwikmotion.com/qtv2live/qtv2.smil/playlist.m3u8
 https://live.kwikmotion.com/qtv1live/qtv1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="QatarTVTheHolyQuran.qa@HD" tvg-logo="https://www.qmc.qa/img/LiveChannels/1ca67a44-9290-4b2a-8a16-d8c6e2260816.jpg" group-title="Religious",Qatar TV The Holy Quran (1080p)
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master.m3u8
+#EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Sports",Formula 2 AntenaPlay (576i) [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
 #EXTINF:-1 tvg-id="AlRayyanOldTV.qa@SD" group-title="غير مصنف",Al Rayyan Old TV (720p)
 https://streamer7.qna.org.qa/148136781_live/148136781_63.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AlRayyanTV.qa@SD" group-title="غير مصنف",Al Rayyan TV (720p)
