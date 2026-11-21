@@ -6,20 +6,20 @@
 https://stream-134630.castr.net/5fe35eae8c53540cab83659a/live_31dabe40323511f08b8efff0016f3b67/index.m3u8
 #EXTINF:-1,Travel TV (576p)
 https://streamer103.neterra.tv/travel/live.m3u8
-#EXTINF:-1,BamBarBia.TV (720p) [Not 24/7]
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1,RTG TV (720p)
 http://31.148.48.15/RTG_HD/index.m3u8
 #EXTINF:-1,TV Sayohi (1080p)
 https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1,Discover Pakistan (1080p)
+http://116.90.120.149:8000/play/a0s8/index.m3u8
+#EXTINF:-1,Living Asia Channel (1080p)
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
 #EXTINF:-1,Travelxp 4K HDR (2160p) [Geo-blocked]
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 #EXTINF:-1,Travelxp HD (1080p) [Geo-blocked]
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
-#EXTINF:-1,Living Asia Channel (1080p)
-https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
-#EXTINF:-1,Discover Pakistan (1080p)
-http://116.90.120.149:8000/play/a0s8/index.m3u8
+#EXTINF:-1,BamBarBia.TV (720p) [Not 24/7]
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1,Travel Mix
 https://hls02ns.antenaplay.ro/hls/travel-mix-hd/index.m3u8
 #EXTINF:-1,Yichang Sanxia Travel & Life Channel

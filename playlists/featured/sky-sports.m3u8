@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: featured/sky-sports.m3u8
-#DATE: 2026-11-20 20:38:54 UTC
-#TOTAL: 19
+#DATE: 2026-11-21 07:24:31 UTC
+#TOTAL: 20
 
 #EXTINF:-1 tvg-id="SkySport1.nz@SD" group-title="غير مصنف",Sky Sport 1
 http://37.49.224.5/stream/44/index.m3u8
@@ -17,8 +17,10 @@ http://37.49.224.5/stream/50/index.m3u8
 http://37.49.224.5/stream/70/index.m3u8
 #EXTINF:-1 tvg-id="SkySport9.nz@SD" group-title="غير مصنف",Sky Sport 9
 http://37.49.224.5/stream/52/index.m3u8
-#EXTINF:-1 tvg-id="SkySportF1.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/960px-Sky_Sport_F1_-_Logo_2020.svg.png" group-title="Sports",Sky Sport F1
+#EXTINF:-1 tvg-id="SkySportF1.de@SD" group-title="غير مصنف",Sky Sport F1
 http://94.130.48.67:8042/stream/51/index.m3u8
+#EXTINF:-1 tvg-id="SkySportF1.it@SD" group-title="غير مصنف",Sky Sport F1
+https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F22890389722acc4573933d
 #EXTINF:-1 tvg-id="SkySportMix.de@SD" tvg-logo="https://i.imgur.com/erx02nr.png" group-title="Sports",Sky Sport Mix
 http://94.130.48.67:8042/stream/53/index.m3u8
 #EXTINF:-1 tvg-id="SkySportGolf.de@SD" tvg-logo="https://i.imgur.com/nhhbHvs.png" group-title="Sports",Sky Sport Golf
