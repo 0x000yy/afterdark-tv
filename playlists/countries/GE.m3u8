@@ -1,8 +1,12 @@
 #EXTM3U
 #COUNTRY: GE
-#TOTAL: 2
+#TOTAL: 4
 
 #EXTINF:-1,Mtavari Arkhi
 https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8
+#EXTINF:-1,GDS
+http://31.146.5.178:8087/play/a00a/index.m3u8
 #EXTINF:-1,Pos TV
 https://live.postv.media/stream/index.m3u8
+#EXTINF:-1,Obieqtivi
+https://live20.bozztv.com/dvrfl05/gin-obieqtivitv/index.m3u8

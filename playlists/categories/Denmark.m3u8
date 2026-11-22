@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Denmark
-#TOTAL: 9
+#TOTAL: 8
 
 #EXTINF:-1,DR1 Ⓖ
 https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
@@ -10,8 +10,6 @@ https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
 https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
 #EXTINF:-1,TV Syd+
 https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8
-#EXTINF:-1,TV 2/Fyn
-https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd
 #EXTINF:-1,TV 2/Øst
 http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8
 #EXTINF:-1,TV 2/Nord
