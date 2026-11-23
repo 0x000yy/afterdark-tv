@@ -1,9 +1,7 @@
 #EXTM3U
 #GROUP: Iran
-#TOTAL: 4
+#TOTAL: 3
 
-#EXTINF:-1,IRIB Pooya & Nahal
-https://ncdn.telewebion.ir/pooya/live/playlist.m3u8
 #EXTINF:-1,Al-Alam News Network Ⓢ
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1,Press TV

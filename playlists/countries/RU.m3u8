@@ -1,6 +1,6 @@
 #EXTM3U
 #COUNTRY: RU
-#TOTAL: 40
+#TOTAL: 42
 
 #EXTINF:-1,Матч ТВ Ⓢ
 https://streaming.televizor-24-tochka.ru/live/6.m3u8
@@ -36,6 +36,8 @@ http://ott-cdn.ucom.am/s19/index.m3u8
 https://streaming102.interskytech.com/live/618.m3u8
 #EXTINF:-1,RT Д Русский Ⓖ
 https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1,CGTN Pусский
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1,Euronews по-русски Ⓨ
 https://www.youtube.com/euronewsru/live
 #EXTINF:-1,РТР-Планета Ⓢ
@@ -66,6 +68,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/russia1-hd/index.m3u8
 https://tvtogliatti24.ru/hls/live1080/index.m3u8
 #EXTINF:-1,Якутия 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
+#EXTINF:-1,360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1,Вести ФМ
 https://stream.smotrim.ru/hls/vesti_fm/playlist.m3u8?entity=channel&id=199&sign=7a04ce47ac48dd9b7ee0a99025656417
 #EXTINF:-1,Небеса ТВ7 Ⓢ

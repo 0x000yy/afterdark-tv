@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/al-arabiya.m3u8
-#DATE: 2026-11-22 19:57:53 UTC
+#DATE: 2026-11-23 07:56:42 UTC
 #TOTAL: 12
 
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="غير مصنف",Al Arabiya (1080p)
@@ -23,7 +23,7 @@ http://185.9.2.18/chid_146/index.m3u8
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiapublish/alarabiya_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="Alarabiya.ae@SD" group-title="غير مصنف",Alarabiya (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-alarabiya/7f90de73d777d04f3dada92f90d35c44/index.m3u8
-#EXTINF:-1 tvg-id="ARB24.az@SD" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="News",ARB 24
-https://operativmm.az/tvs/arb24/stream/index.m3u8
 #EXTINF:-1 tvg-id="ARB24.az@SD" group-title="غير مصنف",ARB 24
 https://az.tvstream.az/hls/stream5/stream.m3u8
+#EXTINF:-1 tvg-id="ARB24.az@SD" tvg-logo="https://i.imgur.com/mtvIFyq.png" group-title="News",ARB 24 (720p)
+https://operativmm.az/tvs/arb24/stream/index.m3u8
