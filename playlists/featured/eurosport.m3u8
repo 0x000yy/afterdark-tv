@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/eurosport.m3u8
-#DATE: 2026-11-23 07:56:39 UTC
+#DATE: 2026-11-24 00:06:29 UTC
 #TOTAL: 36
 
 #EXTINF:-1 tvg-id="Eurosport.fr@Asia" group-title="غير مصنف",Eurosport
@@ -27,14 +27,14 @@ http://88.212.7.14/live/esp2_hun/index.m3u8
 http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Czechia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Czechia
 http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Turkiye" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Turkiye
+https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Romania" group-title="غير مصنف",Eurosport 1 Romania
 http://89.44.231.73:7000/eurosport
 #EXTINF:-1 tvg-id="Eurosport1.fr@Turkiye" group-title="غير مصنف",Eurosport 1 Turkiye
 https://andro.mangeinde4.lat/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Romania" group-title="غير مصنف",Eurosport 2 Romania
 http://89.44.231.73:7000/eurosport2
-#EXTINF:-1 tvg-id="Eurosport2.fr@Turkiye" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Turkiye
-https://andro.mangeinde4.lat/checklist/androstreamlivees2.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Bulgaria" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Bulgaria
 http://213.91.179.28:8000/play/a05y
 #EXTINF:-1 tvg-id="Eurosport2.fr@Bulgaria" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Bulgaria
