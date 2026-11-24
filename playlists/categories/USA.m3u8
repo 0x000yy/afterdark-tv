@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: USA
-#TOTAL: 26
+#TOTAL: 27
 
 #EXTINF:-1,Buzzr Ⓖ
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
@@ -50,6 +50,8 @@ https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8
 #EXTINF:-1,Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,America TeVe
+https://live.gideo.video/americateve2/master.m3u8
 #EXTINF:-1,Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
 #EXTINF:-1,Botflix Radioo

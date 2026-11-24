@@ -1,6 +1,8 @@
 #EXTM3U
 #GROUP: Kids;Music
-#TOTAL: 1
+#TOTAL: 2
 
 #EXTINF:-1,Baby Time (576p)
 http://178.134.1.158:8081/babytime/index.m3u8
+#EXTINF:-1,Mini Disco (720p) [Geo-blocked]
+https://bridgemedia-hls.cdnvideo.ru/hls/live/6aff1c3190affe00013a80ac/720p.m3u8

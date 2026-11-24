@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLIST: detected/brand-qatar.m3u8
-#DATE: 2026-11-24 00:06:27 UTC
-#TOTAL: 18
+#DATE: 2026-11-24 10:06:17 UTC
+#TOTAL: 19
 
 #EXTINF:-1 tvg-id="Formula2AntenaPlay.ro@SD" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Sports",Formula 2 AntenaPlay (576i) [Not 24/7]
 https://stream1.antenaplay.ro/promo/formula-2-qatar/chunklist.m3u8
@@ -29,6 +29,8 @@ https://qatartv.akamaized.net/hls/live/20000611/qtv2/master.m3u8
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:-1 tvg-id="QatarTelevision2.qa@SD" group-title="غير مصنف",Qatar Television 2 (720p)
 https://streamer1.qna.org.qa/148133344_live/148133344_63.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Formula1AntenaPlay.ro@SD" tvg-logo="https://assets.antenaplay.ro/2024/02/23/XUKfJwir4MxNeP4nHtG7.png" group-title="Sports",Formula 1 AntenaPlay (576p) [Not 24/7]
+https://stream1.antenaplay.ro/promo/formula-1-qatar-27-2911/chunklist.m3u8
 #EXTINF:-1 tvg-id="QatarTelevisionTheHolyQuran.qa" tvg-logo="https://i.imgur.com/N5RB4sp.png" tvg-country="QA" group-title="Qatar",Qatar Television The Holy Quran
 https://qatartv.akamaized.net/hls/live/20000612/qtvquran/master1080p.m3u8
 #EXTINF:-1 tvg-id="AlkassOne.qa" tvg-logo="https://i.imgur.com/10mmlha.png" tvg-country="QA" group-title="Qatar",Alkass One
