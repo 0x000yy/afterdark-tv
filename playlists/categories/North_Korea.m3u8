@@ -1,8 +1,10 @@
 #EXTM3U
 #GROUP: North Korea
-#TOTAL: 2
+#TOTAL: 3
 
 #EXTINF:-1,KCTV
 https://kctv.koryofront.org/stream/index.m3u8
 #EXTINF:-1,Ryongnamsan TV
 https://kctv.koryofront.org/stream/ryongnamsan/index.m3u8
+#EXTINF:-1,Sat/Sun 18:00-22:00 KST)
+https://live.koryocdn.org/sports/index.m3u8

@@ -1,7 +1,9 @@
 #EXTM3U
 #GROUP: China
-#TOTAL: 2
+#TOTAL: 3
 
+#EXTINF:-1,CCTV-4 中文国际（欧）
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1,CCTV-4 中文国际（美） Ⓢ
 https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1,CCTV-9 纪录
