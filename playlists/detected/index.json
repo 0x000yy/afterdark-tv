@@ -1,7 +1,7 @@
 {
   "brands": {
     "abudhabi": 4,
-    "algeria": 128,
+    "algeria": 132,
     "arabiya": 29,
     "bahrain": 5,
     "bbc": 117,
@@ -19,7 +19,7 @@
     "hbo": 30,
     "iraq": 39,
     "jazeera": 34,
-    "jordan": 13,
+    "jordan": 12,
     "kuwait": 22,
     "lebanon": 8,
     "libya": 2,
@@ -43,18 +43,18 @@
     "spacetoon": 18,
     "sudan": 2,
     "supersport": 17,
-    "syria": 9,
+    "syria": 10,
     "tunisia": 5,
     "yemen": 1
   },
   "categories": {
-    "documentary": 291,
-    "kids": 512,
-    "movies": 916,
-    "music": 874,
-    "news": 1649,
-    "other": 11774,
-    "sports": 640
+    "documentary": 292,
+    "kids": 514,
+    "movies": 897,
+    "music": 889,
+    "news": 1652,
+    "other": 11767,
+    "sports": 646
   },
   "total_channels": 16570
 }

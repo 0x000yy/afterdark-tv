@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST: featured/discovery.m3u8
-#DATE: 2026-11-26 08:35:22 UTC
+#DATE: 2026-11-26 21:49:29 UTC
 #TOTAL: 60
 
 #EXTINF:-1 tvg-id="DiscoveryTurbo.uk@SD" group-title="غير مصنف",Discovery Turbo
@@ -11,10 +11,10 @@ http://37.49.224.5/stream/12/index.m3u8
 http://37.49.224.5/stream/11/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD" group-title="غير مصنف",Discovery Channel
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" group-title="غير مصنف",Discovery Channel
-http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.bg@SD" group-title="غير مصنف",Discovery Channel
 http://213.91.179.28:8000/play/a044
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr@SD" group-title="غير مصنف",Discovery Channel
+http://192.99.186.30/stream/68/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu@SD" group-title="غير مصنف",Discovery Channel
 http://88.212.7.14/live/discovery_hungary/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.ro@SD" group-title="غير مصنف",Discovery Channel

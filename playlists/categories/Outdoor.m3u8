@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Outdoor
-#TOTAL: 51
+#TOTAL: 55
 
 #EXTINF:-1,Agro TV (Bulgaria) (480p)
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
@@ -20,12 +20,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=216
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
 #EXTINF:-1,Trofei (1080p)
 http://stream.mcquack.net/357/index.m3u8
+#EXTINF:-1,ARDB TV (1080p) [Not 24/7]
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 #EXTINF:-1,Agro TV (Romania) (360p) [Not 24/7]
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 #EXTINF:-1,Love Nature 4K (2160p) [Geo-blocked]
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
-#EXTINF:-1,ARDB TV (1080p) [Not 24/7]
-https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 #EXTINF:-1,Caccia e Pesca (720p)
 http://102.129.186.182:81/cacciapesca/index.m3u8
 #EXTINF:-1,Italian Fishing TV (1080p)
@@ -52,14 +52,16 @@ https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
 https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 #EXTINF:-1,Outdoor Channel HD (720p)
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
-#EXTINF:-1,Agro TV (Peru) (720p)
-https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 #EXTINF:-1,Agricultura TV (1080p)
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1,Chacra TV (1080p)
 https://media.cdnvid.com/public/1tgsjc7hs1kv.m3u8
 #EXTINF:-1,Ciudad Magica (720p)
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1,Agro TV (Peru) (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
+#EXTINF:-1,Productiva TV (1080p)
+http://190.128.214.97:64333/play/a04i/index.m3u8
 #EXTINF:-1,Dikaya okhota HD (1080p)
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1,Dikaya rybalka HD (1080p)
@@ -78,6 +80,12 @@ https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 #EXTINF:-1,Rybolov (576p)
 http://stream.mcquack.net/264/index.m3u8
+#EXTINF:-1,Swamiji TV American (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1,Swamiji TV Australian (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1,Swamiji TV European (1080p) [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1,Horse & Country TV (1080p)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1,ANIMAL KINGDOM (720p)
