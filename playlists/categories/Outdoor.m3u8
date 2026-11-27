@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Outdoor
-#TOTAL: 55
+#TOTAL: 52
 
 #EXTINF:-1,Agro TV (Bulgaria) (480p)
 https://restr2.bgtv.bg/agro/hls/agro.m3u8
@@ -80,12 +80,6 @@ https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 https://fs.uplink.kz/ohota_i_ribalka/index.m3u8?token=onlinetv2
 #EXTINF:-1,Rybolov (576p)
 http://stream.mcquack.net/264/index.m3u8
-#EXTINF:-1,Swamiji TV American (1080p) [Not 24/7]
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
-#EXTINF:-1,Swamiji TV Australian (1080p) [Not 24/7]
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
-#EXTINF:-1,Swamiji TV European (1080p) [Not 24/7]
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1,Horse & Country TV (1080p)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1,ANIMAL KINGDOM (720p)
