@@ -2,12 +2,12 @@
 #COUNTRY: RS
 #TOTAL: 5
 
-#EXTINF:-1,RTS 3
-https://webtvstream.bhtelecom.ba/rts_sat.m3u8
 #EXTINF:-1,Red TV
 https://edge8.pink.rs/redtv/index.m3u8
-#EXTINF:-1,Informer TV
-https://edge-rs-03.maksnet.tv/informertv-secure/web/playlist.m3u8
+#EXTINF:-1,Blic TV
+https://edge-rs-06.maksnet.tv/blictv-secure/smil:blictv-secure.smil/playlist.m3u8
+#EXTINF:-1,IDJ TV
+https://best-str.umn.cdn.united.cloud/stream?stream=hp1400&sp=idjtv&u=idjtv&p=In$trum300na765ta&channel=idjhd&player=m3u8
 #EXTINF:-1,RTV 1
 rtmp://212.200.230.50:1935/RTV/rtv1
 #EXTINF:-1,RTV 2
