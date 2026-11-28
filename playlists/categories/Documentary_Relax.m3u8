@@ -1,0 +1,6 @@
+#EXTM3U
+#GROUP: Documentary;Relax
+#TOTAL: 1
+
+#EXTINF:-1,M3U World 4K (1080p)
+https://m3uworld4k.paid4k.workers.dev/index.m3u8

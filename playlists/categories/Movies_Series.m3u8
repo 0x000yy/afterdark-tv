@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Movies;Series
-#TOTAL: 65
+#TOTAL: 67
 
 #EXTINF:-1,Pluto TV Wild West
 https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
@@ -8,22 +8,16 @@ https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
 https://jmp2.uk/plu-693ade4d569386f93f235bb6.m3u8
 #EXTINF:-1,The Twilight Zone
 https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
-#EXTINF:-1,AXN Asia Vietnam (720p)
-http://antm.dynu.net:14285/rtp/232.84.1.14:8058
-#EXTINF:-1,HTVC Movies (720p)
-https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1,Pluto TV Wild West NO
 https://jmp2.uk/plu-68c01785b3900870ec7480e4.m3u8
 #EXTINF:-1,Star Trek: The Original Series (Sweden) NO
 https://jmp2.uk/plu-693addd62bf6cf7414c4b2fc.m3u8
 #EXTINF:-1,The Twilight Zone NO
 https://jmp2.uk/plu-6512d3a0bdcb19000799cc82.m3u8
-#EXTINF:-1,AXN White (Poland) (576i)
-http://92.114.85.87:8014/play/a004/index.m3u8
-#EXTINF:-1,HBO 2 (Poland) (1080p)
-http://185.227.34.179:8080/hbo-2-hd/index.m3u8
-#EXTINF:-1,Paramount Network (Poland) (1080p)
-https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693
+#EXTINF:-1,AXN Asia Vietnam (720p)
+http://antm.dynu.net:14285/rtp/232.84.1.14:8058
+#EXTINF:-1,HTVC Movies (720p)
+https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1,Pluto TV Star Trek (Sweden)
 https://jmp2.uk/plu-61c1979dfa307000070bbe4d.m3u8
 #EXTINF:-1,Pluto TV Wild West DK
@@ -32,12 +26,18 @@ https://jmp2.uk/plu-68c01732b3900870ec74766f.m3u8
 https://jmp2.uk/plu-693add137e308621c051e733.m3u8
 #EXTINF:-1,The Twilight Zone DK
 https://jmp2.uk/plu-6512ec9f3a0d700008db4f0c.m3u8
-#EXTINF:-1,AXN Asia Indonesia (720p)
-http://103.165.207.108:8000/play/a00n/index.m3u8
+#EXTINF:-1,AXN White (Poland) (576i)
+http://92.114.85.87:8014/play/a004/index.m3u8
+#EXTINF:-1,HBO 2 (Poland) (1080p)
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+#EXTINF:-1,Paramount Network (Poland) (1080p)
+https://guard.sekobes.workers.dev/?url=https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Flive%2Fplay%2F3390498693
 #EXTINF:-1,Bolt (1080p)
 http://stream.mcquack.net/73/index.m3u8
 #EXTINF:-1,FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
+#EXTINF:-1,AXN Asia Indonesia (720p)
+http://103.165.207.108:8000/play/a00n/index.m3u8
 #EXTINF:-1,HBO 2 (Romania) (576i)
 https://rundle.tv/proxy5.php?src=https://onyx1.mofta001.cfd/h2/usergendxn430rnd.m3u8
 #EXTINF:-1,HBO (Romania) (576i)
@@ -46,12 +46,12 @@ https://rundle.tv/proxy5.php?src=https://thor1.syndula001.cfd/h1/usergendx172s9r
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1,Star Channel Latin America (1080p)
 http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+#EXTINF:-1,Star Channel Latin America South
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 #EXTINF:-1,Star Channel (Colombia) (1080p)
 http://190.61.47.54:8000/play/a035/index.m3u8
 #EXTINF:-1,Pantalla Clasica EC (512p) [Not 24/7]
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-#EXTINF:-1,Star Channel Latin America South
-http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/51.m3u8
 #EXTINF:-1,Bonanza CA
 https://jmp2.uk/plu-696e647b07ea70192d49f6a5.m3u8
 #EXTINF:-1,Paramount Network (United States) (1080p)
@@ -130,5 +130,9 @@ https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 #EXTINF:-1,The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
+#EXTINF:-1,HBO 2 Latin America HD (1080p)
+http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1,HBO Xtreme Latin America
+http://181.78.61.202:8000/play/a02a
 #EXTINF:-1,Pluto TV Sci-Fi LatAm
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8

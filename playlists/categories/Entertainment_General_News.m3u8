@@ -2,7 +2,7 @@
 #GROUP: Entertainment;General;News
 #TOTAL: 2
 
-#EXTINF:-1,TV Natal (1080p)
-http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1,Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
+#EXTINF:-1,TV Natal (1080p)
+http://185.228.163.146:8000/play/a01y/index.m3u8

@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Entertainment;General
-#TOTAL: 7
+#TOTAL: 8
 
 #EXTINF:-1,HTV2 (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=191
@@ -16,3 +16,5 @@ http://dtv.vol.net.ua/super_plus/index.m3u8
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1,MCN6 Main Channel (1080p) [Not 24/7]
 https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8
+#EXTINF:-1,Television Caribe (1080p)
+https://televisioncaribe.com/index.m3u8

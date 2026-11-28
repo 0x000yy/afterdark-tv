@@ -1,6 +1,6 @@
 #EXTM3U
 #GROUP: Comedy
-#TOTAL: 132
+#TOTAL: 130
 
 #EXTINF:-1,bTV Comedy
 http://213.91.179.28:8000/play/a04k
@@ -76,20 +76,20 @@ https://jmp2.uk/plu-678f88bb272ded16b1558c5e.m3u8
 https://jmp2.uk/plu-65e9766eec9fda0008cb418a.m3u8
 #EXTINF:-1,Sabrina the Teenage Witch DK
 https://jmp2.uk/plu-6512ecf63a0d700008db506a.m3u8
-#EXTINF:-1,TV2 Comedy
-http://88.212.7.14/live/tv2_comedy/index.m3u8
 #EXTINF:-1,GEM Comedy
 https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
 #EXTINF:-1,Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,TV2 Comedy
+http://88.212.7.14/live/tv2_comedy/index.m3u8
 #EXTINF:-1,Pitaara Comedy (1080p)
 https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8
 #EXTINF:-1,ETV Comedy (1080p)
 https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
-#EXTINF:-1,Jordan Comedy (1080p)
-https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Comedy/playlist.m3u8
 #EXTINF:-1,Rotana Comedy (1080p) [Geo-blocked]
 https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
+#EXTINF:-1,Sirippoli TV (576p)
+https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1,Comedy Play (576i)
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 #EXTINF:-1,In Puii Mei (576p)
@@ -98,8 +98,6 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch7/stream.m3u8
 https://live77cdn2.antenaplay.ro/live2_fast/ch3/stream.m3u8
 #EXTINF:-1,iUmor (576p)
 https://live77cdn2.antenaplay.ro/live2_fast/ch2/stream.m3u8
-#EXTINF:-1,Sirippoli TV (576p)
-https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1,Comedy Central (Italy) (720p)
 http://team-tv.co:81/comedy/index.m3u8
 #EXTINF:-1,FailArmy Italy (720p)
@@ -180,10 +178,6 @@ https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
 #EXTINF:-1,Sabrina The Teenage Witch
 https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
-#EXTINF:-1,FailArmy UK (720p)
-https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1,Planet Fun (1080p)
-http://66.102.126.10:8000/play/a02k/index.m3u8
 #EXTINF:-1,Comedia a lo bestia de Pluto TV
 https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
 #EXTINF:-1,Comedy Central (Spain) (1080p)
@@ -192,6 +186,8 @@ http://90.170.214.40:9700/stream/avatel/comedycentral/master.m3u8
 https://jmp2.uk/plu-5f1abce155a03d0007718834.m3u8
 #EXTINF:-1,Vaya semanita
 https://jmp2.uk/plu-5f28009b150b2500077766b8.m3u8
+#EXTINF:-1,FailArmy UK (720p)
+https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,FailArmy Poland (720p)
 https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8
 #EXTINF:-1,Comedy Central (Romania) (576i)
@@ -233,7 +229,7 @@ https://jmp2.uk/plu-580e87ff497c73ba2f321dd3.m3u8
 #EXTINF:-1,HBO Pop Latin America (1080p) [Geo-blocked]
 http://15.204.246.24:8080/HBOPOPHD/index.m3u8
 #EXTINF:-1,Humor Mill (1080p)
-https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK
+https://du1gyxfing4ke.cloudfront.net/scheduler/scheduleMaster/152.m3u8
 #EXTINF:-1,Just for Laughs Gags (1080p)
 https://streams2.sofast.tv/ptnr-yupptv/title-JUST_FOR_LAUGHS_GAGS_YUPPTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2790d143-5874-4146-bf91-9063c52b2f15/manifest.m3u8
 #EXTINF:-1,Kevin Hart's LOL! Network (720p)
